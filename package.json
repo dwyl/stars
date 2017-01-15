@@ -14,14 +14,21 @@
   "scripts": {
     "test": "tape test/index.js test/**/*.test.js",
     "coverage": "istanbul cover tape test/index.js test/**/*.test.js",
-    "lint": "bin/cmd.js .",
-    "lint:fix": "bin/cmd.js . --fix"
+    "lint": "node_modules/.bin/goodparts ./",
+    "lint:fix": "bin/cmd.js . --fix",
+    "dev": "PORT=8000 node_modules/.bin/nodemon server.js"
   },
   "devDependencies": {
+    "goodparts": "^1.2.1",
     "istanbul": "^0.4.5",
+    "nock": "^9.0.2",
+    "nodemon": "^1.11.0",
     "tape": "^4.6.0"
   },
   "dependencies": {
-    "hapi": "^16.1.0"
+    "env2": "^2.1.1",
+    "hapi": "^16.1.0",
+    "hapi-auth-github": "^2.0.0",
+    "hapi-postgres-connection": "^6.1.0"
   }
 }
