@@ -31,6 +31,7 @@
     "hapi": "^16.1.0",
     "hapi-auth-github": "^2.0.0",
     "hapi-postgres-connection": "^6.1.0",
+    "inert": "^4.1.0",
     "jsonwebtoken": "^7.2.1",
     "wreck": "^10.0.0"
   }
