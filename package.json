@@ -12,8 +12,8 @@
   },
   "homepage": "https://github.com/dwyl/goodparts#readme",
   "scripts": {
-    "test": "tape test/index.js test/**/*.test.js",
-    "coverage": "istanbul cover tape test/index.js test/**/*.test.js",
+    "fast": "tape test/index.js test/**/*.test.js",
+    "test": "istanbul cover tape test/index.js test/**/*.test.js",
     "lint": "node_modules/.bin/goodparts ./",
     "lint:fix": "bin/cmd.js . --fix",
     "dev": "PORT=8000 node_modules/.bin/nodemon server.js"
@@ -29,6 +29,7 @@
     "env2": "^2.1.1",
     "hapi": "^16.1.0",
     "hapi-auth-github": "^2.0.0",
-    "hapi-postgres-connection": "^6.1.0"
+    "hapi-postgres-connection": "^6.1.0",
+    "wreck": "^10.0.0"
   }
 }

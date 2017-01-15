@@ -9,3 +9,11 @@ before_install:
   - pip install --user codecov
 after_success:
   - codecov --file coverage/lcov.info --disable search
+sudo: false
+env:
+  global:
+    - DATABASE_URL=postgres://postgres:@localhost/test
+services:
+  - postgresql
+before_script:
+  - psql -c 'create database test;' -U postgres

@@ -25,10 +25,12 @@ from our data.
 GitHub :star: are one of the _main_ (***quantitative***) measures we have
 for discovering interesting Open Source projects on GitHub.
 
-It also lets us know if the learning materials we are producing are _useful_
-to other people.
+Counting :star: helps us _know_ if the
+[learning materials](https://github.com/dwyl/the-book)
+we are producing are _useful_ to other people. <br />
 _Encouraging_ people :star: our projects is _important_,
-because the more people :star: the more it will help
+and you can help us with if you aren't already... <br />
+because the more people :star: things the more it will help
 their friends/followers to _discover_ our _useful_ projects/content.
 
 ### _Discover_ Interesting _People_
@@ -83,8 +85,8 @@ https://github.com/feross?tab=stars&q=summer
 
 ### _So What...?_
 
-We think it would be _interesting_ to _test_ the ***hypothesis*** that:
-the more _active_ a person is in the **Open Source _Community_**
+We think it would be _interesting_ to _test_ the ***hypothesis***: <br />
+The more _active_ a person is in the **Open Source _Community_**
 the more projects they will :star: on GitHub.
 
 For _example_ [Eddie](https://github.com/eddiejaoude) :heart: who is a
@@ -101,19 +103,47 @@ their :star: activity?
 
 How would _you_ go about tackling this challenge...?
 
+
+### GitHub API
+
+We're going to use a couple of endpoints in the GitHub REST API
+to retrieve our data.
+
+#### Users
+
+https://developer.github.com/v3/users/#get-a-single-user
+
+#### Repositories
+
++ Your: https://developer.github.com/v3/repos/#list-your-repositories
++ Specific User: https://developer.github.com/v3/repos/#list-user-repositories
++ Organisation: https://developer.github.com/v3/repos/#list-organization-repositories
+
+
+
+
 ### (SQL) Tables
 
 We will require the following (SQL) tables to be defined to store the data:
 
-#### People
+#### People (GitHub Users)
 
 
 
-#### Projects
+#### Repos
 
 
 
 #### Stars
+
+This is a "lookup" table that references two rows in other tables
+and has a timestamp.
+
+
+## Deployment
+
+### Heroku
+
 
 
 
