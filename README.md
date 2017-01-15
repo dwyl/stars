@@ -6,6 +6,10 @@
 This mini-project helps us **track** :star: for **projects** on **GitHub**
 and ***_answer_ interesting questions*** about the data.
 
+[![Build Status](https://travis-ci.org/dwyl/stars.svg?branch=master)](https://travis-ci.org/dwyl/stars)
+[![codecov](https://codecov.io/gh/dwyl/stars/branch/master/graph/badge.svg)](https://codecov.io/gh/dwyl/stars)
+
+
 > _**Note**: we **prefer** counting the
 [**other** type stars](https://github.com/dwyl/stars/issues/2),
 but for now this is a **great start**_. :wink:
