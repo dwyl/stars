@@ -16,7 +16,8 @@
     "test": "PORT=8000 istanbul cover tape test/index.js test/**/*.test.js",
     "lint": "node_modules/.bin/goodparts ./",
     "lint:fix": "bin/cmd.js . --fix",
-    "dev": "PORT=8000 node_modules/.bin/nodemon server.js"
+    "dev": "PORT=8000 node_modules/.bin/nodemon server.js",
+    "start": "node server.js"
   },
   "devDependencies": {
     "goodparts": "^1.2.1",
