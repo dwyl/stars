@@ -142,9 +142,23 @@ and has a timestamp.
 
 ## Deployment
 
+### Run it Locally
+
+
+
 ### Heroku
 
+This is a pretty standard heroku app.
+All that's required is Heroku PostgreSQL (Free)
+and a handful of
+[**environment variables**](https://github.com/dwyl/learn-environment-variables):
 
+![heroku-environment-variables](https://cloud.githubusercontent.com/assets/194400/21965926/43e90e2c-db61-11e6-98b2-ac906dea17cb.png)
+
+> Don't worry, these aren't the "_real_" Environment variables.
+([_duh!_](https://github.com/dwyl/learn-security)) <br />
+To set up your app Environment Variables follow the instructions:
+https://github.com/dwyl/stars/issues/4
 
 
 
