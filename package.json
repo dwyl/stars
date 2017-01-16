@@ -1,0 +1,38 @@
+{
+  "name": "github-stars",
+  "version": "1.0.0",
+  "description": "No more counting dollars, we'll be counting stars > https://youtu.be/hT_nvWreIhg?t=15s",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwyl/goodparts.git"
+  },
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dwyl/stars/issues"
+  },
+  "homepage": "https://github.com/dwyl/goodparts#readme",
+  "scripts": {
+    "fast": "PORT=8000 tape test/index.js test/**/*.test.js",
+    "test": "PORT=8000 istanbul cover tape test/index.js test/**/*.test.js",
+    "lint": "node_modules/.bin/goodparts ./",
+    "lint:fix": "bin/cmd.js . --fix",
+    "dev": "PORT=8000 node_modules/.bin/nodemon server.js",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "goodparts": "^1.2.1",
+    "istanbul": "^0.4.5",
+    "nock": "^9.0.2",
+    "nodemon": "^1.11.0",
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "env2": "^2.1.1",
+    "hapi": "^16.1.0",
+    "hapi-auth-github": "^2.0.0",
+    "hapi-postgres-connection": "^6.1.0",
+    "inert": "^4.1.0",
+    "jsonwebtoken": "^7.2.1",
+    "wreck": "^10.0.0"
+  }
+}
