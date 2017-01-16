@@ -8,6 +8,9 @@ and ***_answer_ interesting questions*** about the data.
 
 [![Build Status](https://travis-ci.org/dwyl/stars.svg?branch=master)](https://travis-ci.org/dwyl/stars)
 [![codecov](https://codecov.io/gh/dwyl/stars/branch/master/graph/badge.svg)](https://codecov.io/gh/dwyl/stars)
+[![Code Climate](https://codeclimate.com/github/dwyl/stars/badges/gpa.svg)](https://codeclimate.com/github/dwyl/stars)
+[![Dedpendencies](https://img.shields.io/david/dwyl/stars.svg)](https://david-dm.org/dwyl/stars)
+[![DevDependencies](https://img.shields.io/david/dev/dwyl/stars.svg)](https://david-dm.org/dwyl/stars?type=dev)
 
 
 > _**Note**: we **prefer** counting the
@@ -103,6 +106,17 @@ of [**_future_ success**](https://youtu.be/zHlpWokiduk?t=48s) ? <br />
 i.e. _could_ we _discover_ a "_talented_" ***new*** person by charting
 their :star: activity?
 
+
+### (_Immediate_) "Research Question"
+
+The immediate question we are _going_ to answer with this project is:
+
+```SQL
+how many destinct people have found our code useful
+```
+
+
+
 ## _How?_
 
 How would _you_ go about tackling this challenge...?
@@ -164,7 +178,7 @@ and a handful of
 To set up your app Environment Variables follow the instructions:
 https://github.com/dwyl/stars/issues/4
 
-Go to: 
+Go to:
 
 
 ## Further reading
