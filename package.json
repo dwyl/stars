@@ -26,6 +26,7 @@
     "istanbul": "^0.4.5",
     "nock": "^9.0.2",
     "nodemon": "^1.11.0",
+    "tap-spec": "^4.1.1",
     "tape": "^4.6.0"
   },
   "dependencies": {
@@ -35,6 +36,7 @@
     "hapi-postgres-connection": "^6.1.0",
     "inert": "^4.1.0",
     "jsonwebtoken": "^7.2.1",
+    "pg": "^6.1.2",
     "wreck": "^10.0.0"
   }
 }
