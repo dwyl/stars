@@ -1,3 +1,6 @@
+// note: we know this code isn't great.
+// if you can simplify this please help:
+// https://github.com/dwyl/learn-postgresql/issues/26
 require('env2')('.env'); // see: https://github.com/dwyl/env2
 var assert = require('assert');
 var pg = require('pg');
