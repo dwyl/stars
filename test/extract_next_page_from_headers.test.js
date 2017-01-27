@@ -2,24 +2,26 @@ var fs = require('fs');
 var path = require('path');
 var CWD = process.cwd();
 
-function extract (rawheaders) {
-  var next;
-  var re = /<(.*?)>/g;
-  var headers = rawheaders.split('\n');
+var test = require('tape');
+var dir  = __dirname.split('/')[__dirname.split('/').length-1];
+var file = dir + __filename.replace(__dirname, '') + " > ";
 
-  var found = headers.filter(function (line) {
-    return line.indexOf('api.github') > -1;
-  })
-  if(found.length > 0) {
-    next = found[0].match(re)[0].replace('<', '').replace('>', '');
-  }
-  return next;
-}
+var extract = require('../lib/extract_next_page_from_headers.js');
 
-var file = 'test/fixtures/dwyl_repos_rawheaders.txt';
-var rawheaders = fs.readFileSync(path.resolve(CWD, file), 'utf8');
-console.log(extract(rawheaders))
+test(file + 'extract "next" page from API Response Headers', function (t) {
+  var expected = 'https://api.github.com/organizations/11708465/repos?page=2';
+  var file = 'test/fixtures/dwyl_repos_rawheaders.txt';
+  var rawheaders = fs.readFileSync(path.resolve(CWD, file), 'utf8');
+  var actual = extract(rawheaders);
+  t.equal(expected, actual, "Next page is: " + actual);
+  t.end()
+});
 
-var file2 = 'test/fixtures/namegen_repos_rawheaders_no_next.txt';
-var rawheaders2 = fs.readFileSync(path.resolve(CWD, file2), 'utf8');
-console.log(extract(rawheaders2))
+test(file + 'no next page in response headers', function (t) {
+  var expected = undefined;
+  var file = 'test/fixtures/namegen_repos_rawheaders_no_next.txt';
+  var rawheaders = fs.readFileSync(path.resolve(CWD, file), 'utf8');
+  var actual = extract(rawheaders);
+  t.equal(expected, actual, 'Next page is: ' + actual + ' (as expected)');
+  t.end()
+});
