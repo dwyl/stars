@@ -31,11 +31,13 @@
   },
   "dependencies": {
     "env2": "^2.2.1",
+    "github-scraper": "^4.0.1",
     "hapi": "^16.4.3",
     "hapi-auth-github": "^2.0.0",
     "hapi-postgres-connection": "^6.1.0",
     "inert": "^4.2.0",
     "jsonwebtoken": "^7.4.1",
+    "mkdirp": "^0.5.1",
     "pg": "^6.1.2",
     "wreck": "^12.2.2"
   }
