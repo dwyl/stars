@@ -13,10 +13,6 @@ and ***_answer_ interesting questions*** about the data.
 [![DevDependencies](https://img.shields.io/david/dev/dwyl/stars.svg)](https://david-dm.org/dwyl/stars?type=dev)
 
 
-> _**Note**: we **prefer** counting the
-[**other** type stars](https://github.com/dwyl/stars/issues/2),
-but for now this is a **great start**_. :wink:
-
 
 ## _Why_?
 
@@ -178,7 +174,7 @@ and a handful of
 To set up your app Environment Variables follow the instructions:
 https://github.com/dwyl/stars/issues/4
 
-Go to:
+Go to: 
 
 
 ## Further reading
@@ -186,3 +182,8 @@ Go to:
 + "***One Metric that Matters***": http://leananalyticsbook.com/one-metric-that-matters/
 discuss at: https://github.com/dwyl/hq/issues/149
 + Actionable Insights: http://online-metrics.com/actionable-insights/
+
+
+> _**P.S**: we **prefer** counting the
+[**other** type stars](https://github.com/dwyl/stars/issues/2),
+but for now this is a **great start**_. :wink:
