@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/hayneshimself",
+  "img": "https://avatars0.githubusercontent.com/u/18432781?v=3&s=460",
+  "uid": 18432781,
+  "repos": 5,
+  "stars": 110,
+  "followers": 0,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/hayneshimself/data-selfie"
+    },
+    {
+      "url": "/hayneshimself/vue-av-seed"
+    },
+    {
+      "url": "/hayneshimself/node-microservice-demo"
+    },
+    {
+      "url": "/hayneshimself/hapi-typescript-example"
+    },
+    {
+      "url": "/hayneshimself/vuex-sample"
+    }
+  ],
+  "worksfor": "Arsdna",
+  "location": "Virginia",
+  "fullname": "Arsdna",
+  "website": "http://arsdna.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/18432781?v=3&s=460",
+  "contribs": 7,
+  "orgs": []
+}

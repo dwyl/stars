@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mamantoha",
+  "img": "https://avatars0.githubusercontent.com/u/61285?v=3&s=460",
+  "uid": 61285,
+  "repos": 54,
+  "stars": 787,
+  "followers": 29,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/mamantoha/omniauth-vkontakte"
+    },
+    {
+      "url": "/mamantoha/mpd_client"
+    },
+    {
+      "url": "/crowdin/crowdin-cli"
+    },
+    {
+      "url": "/crowdin/crowdin-api"
+    },
+    {
+      "url": "/mamantoha/vkontakte"
+    },
+    {
+      "url": "/mamantoha/arc_rackspace"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ukraine",
+  "fullname": "Anton Maminov",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/61285?v=3&s=460",
+  "contribs": 2203,
+  "orgs": []
+}

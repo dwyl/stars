@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/ryanedwardrush",
+  "img": "https://avatars2.githubusercontent.com/u/17864343?v=3&s=460",
+  "uid": 17864343,
+  "repos": 4,
+  "stars": 5,
+  "followers": 0,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/ryanedwardrush/screencasts"
+    },
+    {
+      "url": "/ryanedwardrush/afd_site-jsp"
+    },
+    {
+      "url": "/ryanedwardrush/afd_site-express-eb"
+    },
+    {
+      "url": "/ryanedwardrush/afd_2015_php-retired"
+    }
+  ],
+  "worksfor": "AT&T",
+  "location": "Seattle, WA",
+  "fullname": "Ryan Rush",
+  "website": "http://www.att.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/17864343?v=3&s=460",
+  "contribs": 61,
+  "orgs": []
+}

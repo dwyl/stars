@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/vaiRk",
+  "img": "https://avatars0.githubusercontent.com/u/1123924?v=3&s=460",
+  "uid": 1123924,
+  "repos": 10,
+  "stars": 270,
+  "followers": 11,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/vaiRk/responsive-fixed-data-table"
+    },
+    {
+      "url": "/vaiRk/react-redux-base"
+    },
+    {
+      "url": "/vaiRk/blurb"
+    },
+    {
+      "url": "/vaiRk/ctb-api"
+    },
+    {
+      "url": "/vaiRk/superagent-service"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "Viky Guerra",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1123924?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

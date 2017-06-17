@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bashu",
+  "img": "https://avatars2.githubusercontent.com/u/144783?v=3&s=460",
+  "uid": 144783,
+  "repos": 59,
+  "stars": 172,
+  "followers": 26,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/bashu/django-airports"
+    },
+    {
+      "url": "/bashu/wagtail-metadata-mixin"
+    },
+    {
+      "url": "/shanx/django-maintenancemode"
+    },
+    {
+      "url": "/adamcharnock/django-tz-detect"
+    },
+    {
+      "url": "/bashu/fluentcms-suit"
+    },
+    {
+      "url": "/bashu/django-taggit-anywhere"
+    }
+  ],
+  "worksfor": "",
+  "location": "Tomsk, Russia",
+  "fullname": "Basil Shubin",
+  "website": "https://upwork.com/freelancers/~01dfd63f31c5228d16?viewMode=1",
+  "avatar": "https://avatars2.githubusercontent.com/u/144783?v=3&s=460",
+  "contribs": 601,
+  "orgs": []
+}

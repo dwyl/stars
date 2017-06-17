@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/ajalger",
+  "img": "https://avatars0.githubusercontent.com/u/6264696?v=3&s=460",
+  "uid": 6264696,
+  "repos": 45,
+  "stars": 882,
+  "followers": 57,
+  "following": 147,
+  "pinned": [
+    {
+      "url": "/ajalger/javascript-resources"
+    },
+    {
+      "url": "/ajalger/angular-shooters"
+    },
+    {
+      "url": "/ajalger/Angular-Evernote"
+    },
+    {
+      "url": "/ajalger/rubyplex"
+    },
+    {
+      "url": "/ajalger/js-interview-problems"
+    },
+    {
+      "url": "/ajalger/angular-task-list"
+    }
+  ],
+  "worksfor": "@compose",
+  "location": "Los Angeles, CA",
+  "fullname": "Abdullah Alger",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/6264696?v=3&s=460",
+  "contribs": 57,
+  "orgs": [
+    {
+      "MongoHQ": "https://avatars0.githubusercontent.com/u/881933?v=3&s=70"
+    },
+    {
+      "compose": "https://avatars3.githubusercontent.com/u/9220126?v=3&s=70"
+    }
+  ]
+}

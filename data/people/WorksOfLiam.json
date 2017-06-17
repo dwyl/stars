@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/WorksOfLiam",
+  "img": "https://avatars3.githubusercontent.com/u/3708366?v=3&s=460",
+  "uid": 3708366,
+  "repos": 8,
+  "stars": 99,
+  "followers": 56,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/OSSILE/RelicPackageManager"
+    },
+    {
+      "url": "/WorksOfBarry/IBMiCmd"
+    },
+    {
+      "url": "/OSSILE/luaILE"
+    },
+    {
+      "url": "/OSSILE/OSSILE"
+    },
+    {
+      "url": "/WorksOfLiam/Notepad-RPG"
+    },
+    {
+      "url": "/WorksOfBarry/IBMiCmdVS"
+    }
+  ],
+  "worksfor": "",
+  "location": "England",
+  "fullname": "Liam Allan",
+  "website": "http://worksofbarry.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/3708366?v=3&s=460",
+  "contribs": 1168,
+  "orgs": [
+    {
+      "ProfoundLogic": "https://avatars0.githubusercontent.com/u/3137762?v=3&s=70"
+    },
+    {
+      "Club-Seiden": "https://avatars2.githubusercontent.com/u/10746460?v=3&s=70"
+    },
+    {
+      "OSSILE": "https://avatars2.githubusercontent.com/u/21313234?v=3&s=70"
+    },
+    {
+      "WorksOfBarry": "https://avatars0.githubusercontent.com/u/29238297?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/lourenzo",
+  "img": "https://avatars1.githubusercontent.com/u/81989?v=3&s=460",
+  "uid": 81989,
+  "repos": 39,
+  "stars": 574,
+  "followers": 30,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/lourenzo/gulp-jshint-xml-file-reporter"
+    },
+    {
+      "url": "/lourenzo/gulp-jscs-custom"
+    },
+    {
+      "url": "/lourenzo/postgres-bluebird"
+    },
+    {
+      "url": "/lourenzo/card-number-generator"
+    },
+    {
+      "url": "/lourenzo/mac-dotfiles"
+    },
+    {
+      "url": "/lourenzo/node-timed-log"
+    }
+  ],
+  "worksfor": "",
+  "location": "São Paulo, SP, Brazil",
+  "fullname": "Lourenzo Ferreira",
+  "website": "http://lourenzo.blog.br",
+  "avatar": "https://avatars1.githubusercontent.com/u/81989?v=3&s=460",
+  "contribs": 615,
+  "orgs": [
+    {
+      "reddrummer": "https://avatars1.githubusercontent.com/u/1868610?v=3&s=70"
+    },
+    {
+      "moebiolabs": "https://avatars2.githubusercontent.com/u/12595013?v=3&s=70"
+    }
+  ]
+}

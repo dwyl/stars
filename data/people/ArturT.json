@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/ArturT",
+  "img": "https://avatars1.githubusercontent.com/u/662545?v=3&s=460",
+  "uid": 662545,
+  "repos": 73,
+  "stars": 1500,
+  "followers": 60,
+  "following": 93,
+  "pinned": [
+    {
+      "url": "/ArturT/knapsack"
+    },
+    {
+      "url": "/KnapsackPro/knapsack_pro-ruby"
+    },
+    {
+      "url": "/BeyondScheme/elixir-game_of_life"
+    },
+    {
+      "url": "/ArturT/rubygems-tracker"
+    },
+    {
+      "url": "/ArturT/GildedRose-Refactoring-Kata"
+    },
+    {
+      "url": "/ArturT/Railstom"
+    }
+  ],
+  "worksfor": "LunarLogic.io",
+  "location": "Kraków, Poland",
+  "fullname": "Artur Trzop",
+  "website": "https://twitter.com/ArturTrzop",
+  "avatar": "https://avatars1.githubusercontent.com/u/662545?v=3&s=460",
+  "contribs": 2298,
+  "orgs": [
+    {
+      "LunarLogic": "https://avatars3.githubusercontent.com/u/32623?v=3&s=70"
+    },
+    {
+      "HackerspaceKRK": "https://avatars1.githubusercontent.com/u/1721897?v=3&s=70"
+    },
+    {
+      "KnapsackPro": "https://avatars1.githubusercontent.com/u/11784872?v=3&s=70"
+    },
+    {
+      "BeyondScheme": "https://avatars0.githubusercontent.com/u/16987400?v=3&s=70"
+    }
+  ]
+}

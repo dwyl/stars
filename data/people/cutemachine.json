@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/cutemachine",
+  "img": "https://avatars0.githubusercontent.com/u/1244535?v=3&s=460",
+  "uid": 1244535,
+  "repos": 17,
+  "stars": 362,
+  "followers": 8,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/cutemachine/dotfiles"
+    },
+    {
+      "url": "/cutemachine/nesta-app-template"
+    },
+    {
+      "url": "/cutemachine/scanty-redis"
+    },
+    {
+      "url": "/cutemachine/dotfiles-1"
+    },
+    {
+      "url": "/cutemachine/middleman-foundation"
+    },
+    {
+      "url": "/cutemachine/middleman-foundation-1"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Jo Meenen",
+  "website": "http://cutemachine.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1244535?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kwcto",
+  "img": "https://avatars2.githubusercontent.com/u/7588299?v=3&s=460",
+  "uid": 7588299,
+  "repos": 20,
+  "stars": 8200,
+  "followers": 29,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/kwcto/awesome-mad-science"
+    },
+    {
+      "url": "/kwcto/atom-script"
+    },
+    {
+      "url": "/kwcto/dokku-bower-gulp-build-plugin"
+    },
+    {
+      "url": "/kwcto/resurrectio"
+    },
+    {
+      "url": "/kwcto/docker-stackbrew-node"
+    },
+    {
+      "url": "/kwcto/semantics3-node"
+    }
+  ],
+  "worksfor": "Taxfyle, Kindwave",
+  "location": "Miami, FL",
+  "fullname": "Will Sahatdjian",
+  "website": "https://twitter.com/kwcto",
+  "avatar": "https://avatars2.githubusercontent.com/u/7588299?v=3&s=460",
+  "contribs": 8,
+  "orgs": []
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/tobkle",
+  "img": "https://avatars2.githubusercontent.com/u/2720700?v=3&s=460",
+  "uid": 2720700,
+  "repos": 3,
+  "stars": 125,
+  "followers": 0,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/tobkle/create-graphql-server"
+    },
+    {
+      "url": "/tobkle/create-graphql-server-authorization"
+    },
+    {
+      "url": "/tobkle/next.js"
+    }
+  ],
+  "worksfor": "Würth IT GmbH",
+  "location": "Germany",
+  "fullname": "tobkle",
+  "website": "https://www.klemmer.info",
+  "avatar": "https://avatars2.githubusercontent.com/u/2720700?v=3&s=460",
+  "contribs": 79,
+  "orgs": []
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/hazolsky",
+  "img": "https://avatars2.githubusercontent.com/u/1270790?v=3&s=460",
+  "uid": 1270790,
+  "repos": 4,
+  "stars": 103,
+  "followers": 9,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/hazolsky/hazolsky.github.io"
+    },
+    {
+      "url": "/hazolsky/misha-im"
+    },
+    {
+      "url": "/hazolsky/rocket-api"
+    },
+    {
+      "url": "/hazolsky/graphql-faker"
+    }
+  ],
+  "worksfor": "@LiveTyping",
+  "location": "St. Petersburg",
+  "fullname": "Misha Khokhlov",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1270790?v=3&s=460",
+  "contribs": 1122,
+  "orgs": [
+    {
+      "LiveTyping": "https://avatars1.githubusercontent.com/u/6375524?v=3&s=70"
+    },
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

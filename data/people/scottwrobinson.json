@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/scottwrobinson",
+  "img": "https://avatars3.githubusercontent.com/u/2948719?v=3&s=460",
+  "uid": 2948719,
+  "repos": 12,
+  "stars": 26,
+  "followers": 55,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/scottwrobinson/camo"
+    },
+    {
+      "url": "/scottwrobinson/twentyjs"
+    },
+    {
+      "url": "/scottwrobinson/babel-preset-camo"
+    },
+    {
+      "url": "/scottwrobinson/django-hitcount"
+    },
+    {
+      "url": "/scottwrobinson/nola"
+    },
+    {
+      "url": "/scottwrobinson/django-voting"
+    }
+  ],
+  "worksfor": "",
+  "location": "Omaha, NE",
+  "fullname": "Scott Robinson",
+  "website": "http://stackabuse.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/2948719?v=3&s=460",
+  "contribs": 24,
+  "orgs": []
+}

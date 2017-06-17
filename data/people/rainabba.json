@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/rainabba",
+  "img": "https://avatars3.githubusercontent.com/u/553630?v=3&s=460",
+  "uid": 553630,
+  "repos": 50,
+  "stars": 53,
+  "followers": 14,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/rainabba/jquery-table2excel"
+    },
+    {
+      "url": "/rainabba/nwk-socket.io"
+    },
+    {
+      "url": "/rainabba/chromeHAR"
+    },
+    {
+      "url": "/rainabba/wkhtmltopdf"
+    },
+    {
+      "url": "/rainabba/node-wkhtmltopdf"
+    },
+    {
+      "url": "/rainabba/posh-git"
+    }
+  ],
+  "worksfor": "",
+  "location": "Chandler, AZ heading towards Auckland, NZ",
+  "fullname": "Michael Richardson",
+  "website": "http://stackoverflow.com/story/rainabba",
+  "avatar": "https://avatars3.githubusercontent.com/u/553630?v=3&s=460",
+  "contribs": 368,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/rifler",
+  "img": "https://avatars3.githubusercontent.com/u/871583?v=3&s=460",
+  "uid": 871583,
+  "repos": 27,
+  "stars": 66,
+  "followers": 6,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/rifler/ya-project"
+    },
+    {
+      "url": "/rifler/yandex-exam"
+    },
+    {
+      "url": "/rifler/ls-notifier"
+    },
+    {
+      "url": "/rifler/lfc-pages"
+    },
+    {
+      "url": "/rifler/vima"
+    },
+    {
+      "url": "/rifler/onepage-scroll"
+    }
+  ],
+  "worksfor": "Yandex LLC",
+  "location": "Moscow",
+  "fullname": "Dmitrii Kanatnikov",
+  "website": "http://kanatnikov.ru",
+  "avatar": "https://avatars3.githubusercontent.com/u/871583?v=3&s=460",
+  "contribs": 44,
+  "orgs": [
+    {
+      "yandex-shri": "https://avatars2.githubusercontent.com/u/2256729?v=3&s=70"
+    }
+  ]
+}

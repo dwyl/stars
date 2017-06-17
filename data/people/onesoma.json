@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/onesoma",
+  "img": "https://avatars2.githubusercontent.com/u/7753660?v=3&s=460",
+  "uid": 7753660,
+  "repos": 18,
+  "stars": 4,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/onesoma/railstutorial_sample_app"
+    },
+    {
+      "url": "/onesoma/ruby_koans"
+    },
+    {
+      "url": "/onesoma/toy_robot"
+    },
+    {
+      "url": "/onesoma/zendesk-catgifs-app"
+    },
+    {
+      "url": "/onesoma/zd-slack"
+    },
+    {
+      "url": "/onesoma/zendesk-incremental-reports"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ireland",
+  "fullname": "John Clifford",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/7753660?v=3&s=460",
+  "contribs": 97,
+  "orgs": []
+}

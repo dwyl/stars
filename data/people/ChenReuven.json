@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ChenReuven",
+  "img": "https://avatars2.githubusercontent.com/u/3003077?v=3&s=460",
+  "uid": 3003077,
+  "repos": 13,
+  "stars": 40,
+  "followers": 3,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/ChenReuven/BackboneBoilerplate-requireJS-bootstrap"
+    },
+    {
+      "url": "/ChenReuven/sublimetext-css-snippet"
+    },
+    {
+      "url": "/ChenReuven/myApp"
+    },
+    {
+      "url": "/ChenReuven/bower-angular-sanitize"
+    },
+    {
+      "url": "/ChenReuven/form-builder"
+    },
+    {
+      "url": "/ChenReuven/todo-app-ng2"
+    }
+  ],
+  "worksfor": "Chen Reuven",
+  "location": "BS",
+  "fullname": "Chen Reuven",
+  "website": "http://chenreuven.wordpress.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/3003077?v=3&s=460",
+  "contribs": 13,
+  "orgs": []
+}

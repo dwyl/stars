@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/lsimkins",
+  "img": "https://avatars1.githubusercontent.com/u/1006600?v=3&s=460",
+  "uid": 1006600,
+  "repos": 22,
+  "stars": 192,
+  "followers": 16,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/lsimkins/laravel-zend-bundle"
+    },
+    {
+      "url": "/lsimkins/larvelessboot-kickstart"
+    },
+    {
+      "url": "/lsimkins/impactjs-start"
+    },
+    {
+      "url": "/lsimkins/simple-livestream-chatstyle-bookmarklet"
+    },
+    {
+      "url": "/lsimkins/multiplayer-quantum-tictactoe"
+    },
+    {
+      "url": "/lsimkins/sjl_game"
+    }
+  ],
+  "worksfor": "Oseberg, LLC",
+  "location": "Oklahoma City, OK",
+  "fullname": "Luke",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1006600?v=3&s=460",
+  "contribs": 3,
+  "orgs": [
+    {
+      "oseberg": "https://avatars1.githubusercontent.com/u/12873440?v=3&s=70"
+    }
+  ]
+}

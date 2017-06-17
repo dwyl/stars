@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/padurean",
+  "img": "https://avatars2.githubusercontent.com/u/912518?v=3&s=460",
+  "uid": 912518,
+  "repos": 23,
+  "stars": 525,
+  "followers": 8,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/padurean/scalatic"
+    },
+    {
+      "url": "/padurean/square-composer"
+    },
+    {
+      "url": "/padurean/aws-lambda-scala-demo"
+    },
+    {
+      "url": "/padurean/elm-a-book"
+    },
+    {
+      "url": "/padurean/going-serverless-spectacle"
+    },
+    {
+      "url": "/padurean/going-serverless-spectacle-aws-lambda"
+    }
+  ],
+  "worksfor": "PureCore.ro",
+  "location": "Brasov, Romania",
+  "fullname": "Valentin Padurean (Ogg)",
+  "website": "http://purecore.ro",
+  "avatar": "https://avatars2.githubusercontent.com/u/912518?v=3&s=460",
+  "contribs": 1602,
+  "orgs": []
+}

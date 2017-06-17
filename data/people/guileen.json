@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/guileen",
+  "img": "https://avatars0.githubusercontent.com/u/249313?v=3&s=460",
+  "uid": 249313,
+  "repos": 115,
+  "stars": 559,
+  "followers": 234,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/guileen/node-sendmail"
+    },
+    {
+      "url": "/guileen/terminal-status"
+    },
+    {
+      "url": "/guileen/vim-node-dict"
+    },
+    {
+      "url": "/guileen/node-mongoskin"
+    },
+    {
+      "url": "/guileen/stormjs"
+    },
+    {
+      "url": "/guileen/node-mongodb-provider"
+    }
+  ],
+  "worksfor": "",
+  "location": "Shanghai, China",
+  "fullname": "Leen Gui",
+  "website": "http://weibo.com/guileen",
+  "avatar": "https://avatars0.githubusercontent.com/u/249313?v=3&s=460",
+  "contribs": 127,
+  "orgs": [
+    {
+      "kissjs": "https://avatars2.githubusercontent.com/u/1704864?v=3&s=70"
+    }
+  ]
+}

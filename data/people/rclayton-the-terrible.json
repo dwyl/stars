@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/rclayton-the-terrible",
+  "img": "https://avatars0.githubusercontent.com/u/1059830?v=3&s=460",
+  "uid": 1059830,
+  "repos": 49,
+  "stars": 878,
+  "followers": 54,
+  "following": 27,
+  "pinned": [
+    {
+      "url": "/rclayton-the-terrible/Ansible-OpenSSL"
+    },
+    {
+      "url": "/rclayton-the-terrible/certificate-automation"
+    },
+    {
+      "url": "/rclayton-the-terrible/NW-Timer"
+    },
+    {
+      "url": "/rclayton-the-terrible/Node-Webkit-AMQP-Example"
+    },
+    {
+      "url": "/rclayton-the-terrible/berico-ruby-common"
+    },
+    {
+      "url": "/rclayton-the-terrible/Vaadin-Spring-Maven-Starter"
+    }
+  ],
+  "worksfor": "Userzoom/Intellizoom",
+  "location": "California",
+  "fullname": "Richard Clayton",
+  "website": "http://rclayton.silvrback.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1059830?v=3&s=460",
+  "contribs": 436,
+  "orgs": []
+}

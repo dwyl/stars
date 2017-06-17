@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/klikstermkd",
+  "img": "https://avatars2.githubusercontent.com/u/520213?v=3&s=460",
+  "uid": 520213,
+  "repos": 24,
+  "stars": 542,
+  "followers": 21,
+  "following": 60,
+  "pinned": [
+    {
+      "url": "/klikstermkd/squigle"
+    },
+    {
+      "url": "/klikstermkd/trippy"
+    },
+    {
+      "url": "/klikstermkd/bouncy-bit"
+    },
+    {
+      "url": "/klikstermkd/todomvc-es6"
+    },
+    {
+      "url": "/klikstermkd/design-quotes"
+    },
+    {
+      "url": "/klikstermkd/kliksy"
+    }
+  ],
+  "worksfor": "@keitaroinc",
+  "location": "Bitola, Macedonia",
+  "fullname": "Aleksandar Jovanov",
+  "website": "https://klikster.info",
+  "avatar": "https://avatars2.githubusercontent.com/u/520213?v=3&s=460",
+  "contribs": 1059,
+  "orgs": [
+    {
+      "keitaroinc": "https://avatars3.githubusercontent.com/u/15183303?v=3&s=70"
+    }
+  ]
+}

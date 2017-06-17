@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/marius92mc",
+  "img": "https://avatars1.githubusercontent.com/u/6862658?v=3&s=460",
+  "uid": 6862658,
+  "repos": 118,
+  "stars": 544,
+  "followers": 38,
+  "following": 309,
+  "pinned": [
+    {
+      "url": "/marius92mc/software-project-management"
+    },
+    {
+      "url": "/marius92mc/sieve-of-eratosthenes-with-MPI"
+    },
+    {
+      "url": "/marius92mc/mobile-apps-ontology"
+    },
+    {
+      "url": "/marius92mc/news-engine-website"
+    },
+    {
+      "url": "/marius92mc/sound-equalizer"
+    },
+    {
+      "url": "/marius92mc/FirstRepo"
+    }
+  ],
+  "worksfor": "@Shopify",
+  "location": "Ottawa, ON",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/6862658?v=3&s=460",
+  "contribs": 183,
+  "orgs": [
+    {
+      "Shopify": "https://avatars0.githubusercontent.com/u/8085?v=3&s=70"
+    },
+    {
+      "RoR-FMI": "https://avatars3.githubusercontent.com/u/2032809?v=3&s=70"
+    },
+    {
+      "Quora-Users": "https://avatars1.githubusercontent.com/u/6815105?v=3&s=70"
+    },
+    {
+      "coala": "https://avatars0.githubusercontent.com/u/10620750?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

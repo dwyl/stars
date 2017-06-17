@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ahsankamal",
+  "img": "https://avatars2.githubusercontent.com/u/11738686?v=3&s=460",
+  "uid": 11738686,
+  "repos": 16,
+  "stars": 234,
+  "followers": 20,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/ahsankamal/Algorithms-And-DataStructures"
+    },
+    {
+      "url": "/ahsankamal/Python-and-Data-Science-notebooks"
+    },
+    {
+      "url": "/ahsankamal/SudokuImageSolver"
+    },
+    {
+      "url": "/ahsankamal/Virtual-Walkthrough-of-JMI-"
+    },
+    {
+      "url": "/ahsankamal/Image-classification-using-ConvNet"
+    },
+    {
+      "url": "/ahsankamal/Basic-RESTful-API-using-Flask-and-Python"
+    }
+  ],
+  "worksfor": "PayU Payments",
+  "location": "New Delhi",
+  "fullname": "Ahsan Kamal",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/11738686?v=3&s=460",
+  "contribs": 75,
+  "orgs": []
+}

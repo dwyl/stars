@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/blacktea",
+  "img": "https://avatars2.githubusercontent.com/u/188666?v=3&s=460",
+  "uid": 188666,
+  "repos": 4,
+  "stars": 79,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/blacktea/populate-db-now"
+    },
+    {
+      "url": "/blacktea/i-like-vim-with-rails"
+    },
+    {
+      "url": "/blacktea/active_scaffold_lithuanian"
+    },
+    {
+      "url": "/blacktea/carousel-backbone-example"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "blacktea",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/188666?v=3&s=460",
+  "contribs": 14,
+  "orgs": []
+}

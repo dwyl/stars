@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/gbuesing",
+  "img": "https://avatars3.githubusercontent.com/u/6653?v=3&s=460",
+  "uid": 6653,
+  "repos": 49,
+  "stars": 776,
+  "followers": 35,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/gbuesing/neural-net-ruby"
+    },
+    {
+      "url": "/gbuesing/rack-host-redirect"
+    },
+    {
+      "url": "/gbuesing/mustache.couch.js"
+    },
+    {
+      "url": "/gbuesing/kmeans-clusterer"
+    },
+    {
+      "url": "/gbuesing/hookforward"
+    },
+    {
+      "url": "/gbuesing/pca"
+    }
+  ],
+  "worksfor": "",
+  "location": "Chicago, IL",
+  "fullname": "Geoff Buesing",
+  "website": "http://www.geoffbuesing.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/6653?v=3&s=460",
+  "contribs": 58,
+  "orgs": []
+}

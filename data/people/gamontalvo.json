@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/gamontalvo",
+  "img": "https://avatars3.githubusercontent.com/u/12213463?v=3&s=460",
+  "uid": 12213463,
+  "repos": 124,
+  "stars": 4700,
+  "followers": 47,
+  "following": 551,
+  "pinned": [
+    {
+      "url": "/gamontalvo/awesome-katas"
+    },
+    {
+      "url": "/gamontalvo/mongolab-data-api"
+    },
+    {
+      "url": "/gamontalvo/keybase-user"
+    },
+    {
+      "url": "/gamontalvo/soundcloud-search"
+    },
+    {
+      "url": "/gamontalvo/rokujs"
+    },
+    {
+      "url": "/gamontalvo/lichess-api"
+    }
+  ],
+  "worksfor": "Microsoft",
+  "location": "Arecibo, PR",
+  "fullname": "Gabriel Montalvo",
+  "website": "https://gmontalvo.me",
+  "avatar": "https://avatars3.githubusercontent.com/u/12213463?v=3&s=460",
+  "contribs": 417,
+  "orgs": [],
+  "developerprogram": true
+}

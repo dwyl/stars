@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/benmcp",
+  "img": "https://avatars3.githubusercontent.com/u/14996594?v=3&s=460",
+  "uid": 14996594,
+  "repos": 18,
+  "stars": 259,
+  "followers": 2,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/benmcp/magicCube"
+    },
+    {
+      "url": "/benmcp/Swiper"
+    },
+    {
+      "url": "/benmcp/TIL"
+    },
+    {
+      "url": "/benmcp/backbone-simple-todo-app"
+    },
+    {
+      "url": "/benmcp/sleeping-owl.github.io"
+    },
+    {
+      "url": "/benmcp/sample-flux"
+    }
+  ],
+  "worksfor": "Present Company",
+  "location": "Sydney",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/14996594?v=3&s=460",
+  "contribs": 3934,
+  "orgs": [
+    {
+      "presentcompany": "https://avatars0.githubusercontent.com/u/1531608?v=3&s=70"
+    }
+  ]
+}

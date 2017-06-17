@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/japboy",
+  "img": "https://avatars1.githubusercontent.com/u/84360?v=3&s=460",
+  "uid": 84360,
+  "repos": 56,
+  "stars": 1300,
+  "followers": 44,
+  "following": 56,
+  "pinned": [
+    {
+      "url": "/japboy/grunt-jade-sample"
+    },
+    {
+      "url": "/japboy/vagrant-skel-rpi"
+    },
+    {
+      "url": "/japboy/imakita"
+    },
+    {
+      "url": "/japboy/ppcon_02_challenge"
+    },
+    {
+      "url": "/japboy/sidetalk"
+    },
+    {
+      "url": "/japboy/japboy.github.io"
+    }
+  ],
+  "worksfor": "@ikyucom",
+  "location": "Tokyo, JAPAN",
+  "fullname": "Yu Inao",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/84360?v=3&s=460",
+  "contribs": 391,
+  "orgs": [
+    {
+      "ikyucom": "https://avatars0.githubusercontent.com/u/20181374?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/gsantiago",
+  "img": "https://avatars2.githubusercontent.com/u/4365542?v=3&s=460",
+  "uid": 4365542,
+  "repos": 50,
+  "stars": 219,
+  "followers": 26,
+  "following": 70,
+  "pinned": [
+    {
+      "url": "/gsantiago/subtitle.js"
+    },
+    {
+      "url": "/polvo-labs/card-type"
+    },
+    {
+      "url": "/gsantiago/jquery-clickout"
+    },
+    {
+      "url": "/gsantiago/small-supplant"
+    },
+    {
+      "url": "/gsantiago/postcss-easy-media-query"
+    },
+    {
+      "url": "/gsantiago/jquery-view"
+    }
+  ],
+  "worksfor": "Polvo",
+  "location": "Curitiba",
+  "fullname": "Guilherme Santiago",
+  "website": "https://gsantiago.github.io/",
+  "avatar": "https://avatars2.githubusercontent.com/u/4365542?v=3&s=460",
+  "contribs": 313,
+  "orgs": [
+    {
+      "polvo-labs": "https://avatars1.githubusercontent.com/u/17828150?v=3&s=70"
+    },
+    {
+      "styleguide-plus": "https://avatars1.githubusercontent.com/u/22753628?v=3&s=70"
+    }
+  ]
+}

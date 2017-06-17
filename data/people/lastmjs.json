@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/lastmjs",
+  "img": "https://avatars0.githubusercontent.com/u/7000719?v=3&s=460",
+  "uid": 7000719,
+  "repos": 48,
+  "stars": 319,
+  "followers": 25,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/scramjs/scram-engine"
+    },
+    {
+      "url": "/scramjs/express-web-components"
+    },
+    {
+      "url": "/scramjs/jfive-web-components"
+    },
+    {
+      "url": "/lastmjs/redux-store-element"
+    },
+    {
+      "url": "/lastmjs/zwitterion"
+    },
+    {
+      "url": "/lastmjs/browser-based-super-grid"
+    }
+  ],
+  "worksfor": "Prendus Learning",
+  "location": "Provo, UT",
+  "fullname": "Jordan Last",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/7000719?v=3&s=460",
+  "contribs": 5067,
+  "orgs": [
+    {
+      "scramjs": "https://avatars1.githubusercontent.com/u/18711580?v=3&s=70"
+    }
+  ]
+}

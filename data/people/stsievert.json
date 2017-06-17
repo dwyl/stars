@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/stsievert",
+  "img": "https://avatars2.githubusercontent.com/u/1320475?v=3&s=460",
+  "uid": 1320475,
+  "repos": 89,
+  "stars": 130,
+  "followers": 56,
+  "following": 28,
+  "pinned": [
+    {
+      "url": "/stsievert/swix"
+    },
+    {
+      "url": "/stsievert/xkcd-688"
+    },
+    {
+      "url": "/stsievert/python-drawnow"
+    },
+    {
+      "url": "/stsievert/stsievert.github.io-source"
+    },
+    {
+      "url": "/altair-viz/altair_widgets"
+    },
+    {
+      "url": "/nextml/caption-contest-data"
+    }
+  ],
+  "worksfor": "University of Wisconsin",
+  "location": "Madison, WI",
+  "fullname": "Scott Sievert",
+  "website": "http://stsievert.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1320475?v=3&s=460",
+  "contribs": 575,
+  "orgs": [
+    {
+      "nextml": "https://avatars3.githubusercontent.com/u/14896673?v=3&s=70"
+    },
+    {
+      "UW-LUCID": "https://avatars3.githubusercontent.com/u/17505265?v=3&s=70"
+    },
+    {
+      "altair-viz": "https://avatars2.githubusercontent.com/u/22396732?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ramnathv",
+  "img": "https://avatars3.githubusercontent.com/u/346288?v=3&s=460",
+  "uid": 346288,
+  "repos": 306,
+  "stars": 816,
+  "followers": 1500,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/ramnathv/rCharts"
+    },
+    {
+      "url": "/ramnathv/slidify"
+    },
+    {
+      "url": "/ramnathv/htmlwidgets"
+    },
+    {
+      "url": "/ramnathv/rMaps"
+    },
+    {
+      "url": "/ramnathv/rNotebook"
+    },
+    {
+      "url": "/ramnathv/slidifyExamples"
+    }
+  ],
+  "worksfor": "Alteryx",
+  "location": "San Francisco",
+  "fullname": "Ramnath Vaidyanathan",
+  "website": "http://slidify.org",
+  "avatar": "https://avatars3.githubusercontent.com/u/346288?v=3&s=460",
+  "contribs": 1329,
+  "orgs": []
+}

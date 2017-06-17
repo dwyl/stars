@@ -1,0 +1,68 @@
+{
+  "url": "https://github.com/krosti",
+  "img": "https://avatars1.githubusercontent.com/u/336152?v=3&s=460",
+  "uid": 336152,
+  "repos": 58,
+  "stars": 663,
+  "followers": 59,
+  "following": 158,
+  "pinned": [
+    {
+      "url": "/krosti/angularjs-q-a"
+    },
+    {
+      "url": "/krosti/world-flag-polymer"
+    },
+    {
+      "url": "/krosti/BubbleIsland"
+    },
+    {
+      "url": "/krosti/zonaurbana"
+    },
+    {
+      "url": "/krosti/jQuery-Twitter-Plugin"
+    },
+    {
+      "url": "/krosti/jQuery-gitLive"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "Fernando Cea",
+  "website": "http://about.me/fernando.cea",
+  "avatar": "https://avatars1.githubusercontent.com/u/336152?v=3&s=460",
+  "contribs": 177,
+  "orgs": [
+    {
+      "BorealDev": "https://avatars1.githubusercontent.com/u/1760018?v=3&s=70"
+    },
+    {
+      "globant-ui": "https://avatars1.githubusercontent.com/u/3800403?v=3&s=70"
+    },
+    {
+      "GlobantHackathons": "https://avatars3.githubusercontent.com/u/5004159?v=3&s=70"
+    },
+    {
+      "double-helix": "https://avatars3.githubusercontent.com/u/6639469?v=3&s=70"
+    },
+    {
+      "ThomasCookOnline": "https://avatars1.githubusercontent.com/u/6939976?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "docdis": "https://avatars2.githubusercontent.com/u/10836426?v=3&s=70"
+    },
+    {
+      "node-es": "https://avatars2.githubusercontent.com/u/10998348?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/markoch",
+  "img": "https://avatars3.githubusercontent.com/u/7326644?v=3&s=460",
+  "uid": 7326644,
+  "repos": 17,
+  "stars": 79,
+  "followers": 5,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/markoch/code-review"
+    },
+    {
+      "url": "/markoch/dev-news-app"
+    },
+    {
+      "url": "/markoch/dev-news-os"
+    },
+    {
+      "url": "/markoch/url-shortener"
+    },
+    {
+      "url": "/markoch/fullstack-dev-env"
+    },
+    {
+      "url": "/markoch/chrome-commands"
+    }
+  ],
+  "worksfor": "@SAP",
+  "location": "Hamburg, Germany",
+  "fullname": "Marco Koch",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/7326644?v=3&s=460",
+  "contribs": 207,
+  "orgs": []
+}

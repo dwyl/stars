@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/simple10",
+  "img": "https://avatars3.githubusercontent.com/u/104495?v=3&s=460",
+  "uid": 104495,
+  "repos": 60,
+  "stars": 2100,
+  "followers": 49,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/simple10/resque-heroku"
+    },
+    {
+      "url": "/simple10/flat-ui-sass"
+    },
+    {
+      "url": "/simple10/guides"
+    },
+    {
+      "url": "/simple10/selinux-nginx"
+    },
+    {
+      "url": "/simple10/baby-sleep"
+    },
+    {
+      "url": "/simple10/bootstrap-wysihtml5-sass"
+    }
+  ],
+  "worksfor": "@crowdlift",
+  "location": "San Francisco, CA",
+  "fullname": "Joe Johnston",
+  "website": "http://www.simple10.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/104495?v=3&s=460",
+  "contribs": 109,
+  "orgs": [
+    {
+      "starterkits": "https://avatars2.githubusercontent.com/u/6620894?v=3&s=70"
+    },
+    {
+      "airstack": "https://avatars3.githubusercontent.com/u/7854033?v=3&s=70"
+    },
+    {
+      "Gratzi": "https://avatars3.githubusercontent.com/u/8920058?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Eytyy",
+  "img": "https://avatars0.githubusercontent.com/u/1340164?v=3&s=460",
+  "uid": 1340164,
+  "repos": 12,
+  "stars": 8,
+  "followers": 1,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/Eytyy/backbone_rails_auth"
+    },
+    {
+      "url": "/Eytyy/frontend-workflow-setup"
+    },
+    {
+      "url": "/Eytyy/frontend-sass-boilerplate"
+    },
+    {
+      "url": "/Eytyy/turbo"
+    },
+    {
+      "url": "/Eytyy/frontend-workflow-setup--keystone"
+    },
+    {
+      "url": "/Eytyy/keystone"
+    }
+  ],
+  "worksfor": "",
+  "location": "Amman, Jordan",
+  "fullname": "Eyas Tayyem",
+  "website": "http://www.eytyy.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1340164?v=3&s=460",
+  "contribs": 604,
+  "orgs": [
+    {
+      "SYNTAXDESIGN": "https://avatars1.githubusercontent.com/u/10253579?v=3&s=70"
+    }
+  ]
+}

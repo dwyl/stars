@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/roll",
+  "img": "https://avatars0.githubusercontent.com/u/557395?v=3&s=460",
+  "uid": 557395,
+  "repos": 18,
+  "stars": 2100,
+  "followers": 26,
+  "following": 63,
+  "pinned": [
+    {
+      "url": "/frictionlessdata/tabulator-py"
+    },
+    {
+      "url": "/frictionlessdata/goodtables-py"
+    },
+    {
+      "url": "/frictionlessdata/tableschema-py"
+    },
+    {
+      "url": "/frictionlessdata/datapackage-py"
+    }
+  ],
+  "worksfor": "Open Knowledge International",
+  "location": "Moscow, Russia",
+  "fullname": "roll",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/557395?v=3&s=460",
+  "contribs": 1710,
+  "orgs": [
+    {
+      "okfn": "https://avatars3.githubusercontent.com/u/304263?v=3&s=70"
+    },
+    {
+      "openspending": "https://avatars1.githubusercontent.com/u/1392301?v=3&s=70"
+    },
+    {
+      "frictionlessdata": "https://avatars2.githubusercontent.com/u/5912125?v=3&s=70"
+    },
+    {
+      "inventive-ninja": "https://avatars0.githubusercontent.com/u/10913433?v=3&s=70"
+    },
+    {
+      "opentrials": "https://avatars3.githubusercontent.com/u/13900836?v=3&s=70"
+    },
+    {
+      "packspec": "https://avatars3.githubusercontent.com/u/28611334?v=3&s=70"
+    }
+  ]
+}

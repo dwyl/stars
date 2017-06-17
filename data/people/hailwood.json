@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/hailwood",
+  "img": "https://avatars3.githubusercontent.com/u/709773?v=3&s=460",
+  "uid": 709773,
+  "repos": 71,
+  "stars": 77,
+  "followers": 18,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/hailwood/jQuery-Tagit"
+    },
+    {
+      "url": "/hailwood/jQuery-Color-Picker"
+    },
+    {
+      "url": "/hailwood/laravel-elixir-handlebars"
+    },
+    {
+      "url": "/hailwood/setup"
+    },
+    {
+      "url": "/hailwood/silverstripe-fontawesome"
+    },
+    {
+      "url": "/hailwood/laravel"
+    }
+  ],
+  "worksfor": "@webfox",
+  "location": "Napier, New Zealand",
+  "fullname": "Matthew Hailwood",
+  "website": "http://hailwood.nz",
+  "avatar": "https://avatars3.githubusercontent.com/u/709773?v=3&s=460",
+  "contribs": 564,
+  "orgs": []
+}

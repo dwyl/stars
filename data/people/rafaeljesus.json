@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/rafaeljesus",
+  "img": "https://avatars0.githubusercontent.com/u/1216425?v=3&s=460",
+  "uid": 1216425,
+  "repos": 85,
+  "stars": 3400,
+  "followers": 111,
+  "following": 488,
+  "pinned": [
+    {
+      "url": "/nodejs/node"
+    },
+    {
+      "url": "/rafaeljesus/pagarme-node"
+    },
+    {
+      "url": "/rafaeljesus/nsq-event-bus"
+    },
+    {
+      "url": "/rafaeljesus/rabbus"
+    },
+    {
+      "url": "/rafaeljesus/retry-go"
+    },
+    {
+      "url": "/rafaeljesus/safe"
+    }
+  ],
+  "worksfor": "@hellofresh",
+  "location": "Berlin, Germany",
+  "fullname": "Rafael Jesus",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1216425?v=3&s=460",
+  "contribs": 2858,
+  "orgs": [
+    {
+      "EmpregoLigado": "https://avatars3.githubusercontent.com/u/1824180?v=3&s=70"
+    },
+    {
+      "hellofresh": "https://avatars3.githubusercontent.com/u/4430027?v=3&s=70"
+    },
+    {
+      "asyncstack": "https://avatars0.githubusercontent.com/u/20326287?v=3&s=70"
+    },
+    {
+      "ClarkBank": "https://avatars3.githubusercontent.com/u/20879350?v=3&s=70"
+    }
+  ]
+}

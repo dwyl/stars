@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/BetaRabbit",
+  "img": "https://avatars2.githubusercontent.com/u/1359340?v=3&s=460",
+  "uid": 1359340,
+  "repos": 22,
+  "stars": 301,
+  "followers": 16,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/BetaRabbit/react-redux-antd-starter"
+    },
+    {
+      "url": "/BetaRabbit/bookit"
+    },
+    {
+      "url": "/BetaRabbit/bookit-client"
+    },
+    {
+      "url": "/BetaRabbit/dwb"
+    },
+    {
+      "url": "/BetaRabbit/podio-collector"
+    },
+    {
+      "url": "/BetaRabbit/docker-elk"
+    }
+  ],
+  "worksfor": "",
+  "location": "Nanjing, China",
+  "fullname": "Ma Tianxiao",
+  "website": "http://segmentfault.com/blog/betarabbit",
+  "avatar": "https://avatars2.githubusercontent.com/u/1359340?v=3&s=460",
+  "contribs": 59,
+  "orgs": []
+}

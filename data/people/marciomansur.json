@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/marciomansur",
+  "img": "https://avatars0.githubusercontent.com/u/1084590?v=3&s=460",
+  "uid": 1084590,
+  "repos": 24,
+  "stars": 647,
+  "followers": 58,
+  "following": 79,
+  "pinned": [
+    {
+      "url": "/marciomansur/anp-data-crawler"
+    },
+    {
+      "url": "/marciomansur/fs-loremipsum"
+    },
+    {
+      "url": "/marciomansur/simple-dapp-demo"
+    },
+    {
+      "url": "/marciomansur/anp-data-app"
+    },
+    {
+      "url": "/marciomansur/docker-smart-contract-tests"
+    },
+    {
+      "url": "/marciomansur/debian-server-script"
+    }
+  ],
+  "worksfor": "@ConsenSys",
+  "location": "Belo Horizonte - MG",
+  "fullname": "Marcio Mansur",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1084590?v=3&s=460",
+  "contribs": 410,
+  "orgs": [
+    {
+      "Mobiwhale": "https://avatars3.githubusercontent.com/u/9843313?v=3&s=70"
+    },
+    {
+      "ConsenSys": "https://avatars2.githubusercontent.com/u/10818037?v=3&s=70"
+    },
+    {
+      "gas-tracker": "https://avatars3.githubusercontent.com/u/22920373?v=3&s=70"
+    },
+    {
+      "Balanc3-Consensys": "https://avatars3.githubusercontent.com/u/28113050?v=3&s=70"
+    }
+  ]
+}

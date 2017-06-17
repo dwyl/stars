@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/brunoksato",
+  "img": "https://avatars1.githubusercontent.com/u/2257501?v=3&s=460",
+  "uid": 2257501,
+  "repos": 101,
+  "stars": 1000,
+  "followers": 25,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/thewei/react-native-store"
+    },
+    {
+      "url": "/gocraft/web"
+    },
+    {
+      "url": "/jinzhu/gorm"
+    },
+    {
+      "url": "/Qwikly/react-native-router-redux"
+    },
+    {
+      "url": "/brunoksato/Auth-Go"
+    },
+    {
+      "url": "/mattn/gom"
+    }
+  ],
+  "worksfor": "@Quidd",
+  "location": "Brazil",
+  "fullname": "Bruno Sato",
+  "website": "http://brunosato.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/2257501?v=3&s=460",
+  "contribs": 1305,
+  "orgs": [],
+  "developerprogram": true
+}

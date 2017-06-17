@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/joshrtay",
+  "img": "https://avatars1.githubusercontent.com/u/132602?v=3&s=460",
+  "uid": 132602,
+  "repos": 78,
+  "stars": 680,
+  "followers": 17,
+  "following": 34,
+  "pinned": [
+    {
+      "url": "/joshrtay/key-diff"
+    },
+    {
+      "url": "/joshrtay/node-git-http"
+    },
+    {
+      "url": "/joshrtay/source-map-stack"
+    },
+    {
+      "url": "/joshrtay/tornado_redis"
+    },
+    {
+      "url": "/joshrtay/zeromq.node"
+    },
+    {
+      "url": "/joshrtay/routeMatcher"
+    }
+  ],
+  "worksfor": "",
+  "location": "Los Angeles, CA",
+  "fullname": "Josh Taylor",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/132602?v=3&s=460",
+  "contribs": 315,
+  "orgs": []
+}

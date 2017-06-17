@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mrkidsan",
+  "img": "https://avatars1.githubusercontent.com/u/4047727?v=3&s=460",
+  "uid": 4047727,
+  "repos": 6,
+  "stars": 25,
+  "followers": 3,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/mrkidsan/visual-studio-code-config"
+    },
+    {
+      "url": "/mrkidsan/vscode-import-sort"
+    },
+    {
+      "url": "/mrkidsan/eslint-config"
+    },
+    {
+      "url": "/mrkidsan/reddit-live-client"
+    },
+    {
+      "url": "/mrkidsan/redux-sink"
+    },
+    {
+      "url": "/mrkidsan/react-route-auth"
+    }
+  ],
+  "worksfor": "",
+  "location": "London, United Kingdom",
+  "fullname": "Kieran Allen",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/4047727?v=3&s=460",
+  "contribs": 40,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/predbrad",
+  "img": "https://avatars1.githubusercontent.com/u/16511019?v=3&s=460",
+  "uid": 16511019,
+  "repos": 6,
+  "stars": 60,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/predbrad/fabbit-iot"
+    },
+    {
+      "url": "/predbrad/ios-space-shooter"
+    },
+    {
+      "url": "/predbrad/python-sudoku-solver"
+    },
+    {
+      "url": "/predbrad/python-scraper-simple"
+    },
+    {
+      "url": "/predbrad/python-hello-world"
+    },
+    {
+      "url": "/predbrad/raspberry-pi-hello-world"
+    }
+  ],
+  "worksfor": "@AuDigent",
+  "location": "Philadelphia",
+  "fullname": "Brad Flaugher",
+  "website": "http://www.breadfactorystudios.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/16511019?v=3&s=460",
+  "contribs": 147,
+  "orgs": [
+    {
+      "AuDigent": "https://avatars0.githubusercontent.com/u/16336664?v=3&s=70"
+    }
+  ]
+}

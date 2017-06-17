@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/akiarostami",
+  "img": "https://avatars2.githubusercontent.com/u/1235113?v=3&s=460",
+  "uid": 1235113,
+  "repos": 7,
+  "stars": 176,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/akiarostami/bootstrap-notify"
+    },
+    {
+      "url": "/akiarostami/magic"
+    },
+    {
+      "url": "/akiarostami/meteor-blog"
+    },
+    {
+      "url": "/akiarostami/meteor-autoform-tags"
+    },
+    {
+      "url": "/akiarostami/meteor-autoform-summernote"
+    },
+    {
+      "url": "/akiarostami/meteor-image-resize-client"
+    }
+  ],
+  "worksfor": "",
+  "location": "San Francisco, CA",
+  "fullname": "Ahmad Kiarostami",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1235113?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

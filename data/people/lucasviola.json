@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/lucasviola",
+  "img": "https://avatars3.githubusercontent.com/u/3988101?v=3&s=460",
+  "uid": 3988101,
+  "repos": 79,
+  "stars": 490,
+  "followers": 55,
+  "following": 85,
+  "pinned": [
+    {
+      "url": "/lucasviola/awesome-tech-videos"
+    },
+    {
+      "url": "/lucasviola/awesome-functional-programming"
+    },
+    {
+      "url": "/lucasviola/easyshell"
+    },
+    {
+      "url": "/sindresorhus/awesome"
+    },
+    {
+      "url": "/t413/SinglePaged"
+    },
+    {
+      "url": "/bayandin/awesome-awesomeness"
+    }
+  ],
+  "worksfor": "ThoughtWorks",
+  "location": "Brazil",
+  "fullname": "Lucas",
+  "website": "http://lucasviola.github.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/3988101?v=3&s=460",
+  "contribs": 161,
+  "orgs": [
+    {
+      "codefellas": "https://avatars2.githubusercontent.com/u/5796727?v=3&s=70"
+    },
+    {
+      "aceleradora6-tw": "https://avatars1.githubusercontent.com/u/9272496?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "hackinpoa-amigos-punks": "https://avatars2.githubusercontent.com/u/11900269?v=3&s=70"
+    },
+    {
+      "aceleradora8": "https://avatars1.githubusercontent.com/u/15145145?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/indatawetrust",
+  "img": "https://avatars3.githubusercontent.com/u/6845298?v=3&s=460",
+  "uid": 6845298,
+  "repos": 52,
+  "stars": 717,
+  "followers": 15,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/aksonov/react-native-router-flux"
+    },
+    {
+      "url": "/indatawetrust/phoenix-docker"
+    },
+    {
+      "url": "/indatawetrust/realtimepingpong"
+    },
+    {
+      "url": "/indatawetrust/pixel-animator"
+    },
+    {
+      "url": "/rubenjgarcia/elastic-import"
+    },
+    {
+      "url": "/indatawetrust/mongo-to-elastic"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Ahmet Simsek",
+  "website": "https://ahmetsimsek.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/6845298?v=3&s=460",
+  "contribs": 234,
+  "orgs": []
+}

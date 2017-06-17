@@ -1,0 +1,101 @@
+{
+  "url": "https://github.com/yoshuawuyts",
+  "img": "https://avatars1.githubusercontent.com/u/2467194?v=3&s=460",
+  "uid": 2467194,
+  "repos": 600,
+  "stars": 8600,
+  "followers": 1200,
+  "following": 384,
+  "pinned": [
+    {
+      "url": "/yoshuawuyts/choo"
+    },
+    {
+      "url": "/stackcss/sheetify"
+    },
+    {
+      "url": "/yoshuawuyts/bankai"
+    },
+    {
+      "url": "/yoshuawuyts/vmd"
+    },
+    {
+      "url": "/yoshuawuyts/knowledge"
+    },
+    {
+      "url": "/yoshuawuyts/tiny-guide-to-non-fancy-node"
+    }
+  ],
+  "worksfor": "@datproject",
+  "location": "Berlin, Germany",
+  "fullname": "Yoshua Wuyts",
+  "website": "https://yoshuawuyts.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/2467194?v=3&s=460",
+  "contribs": 3924,
+  "orgs": [
+    {
+      "beerjs": "https://avatars0.githubusercontent.com/u/4584318?v=3&s=70"
+    },
+    {
+      "koajs": "https://avatars3.githubusercontent.com/u/5055057?v=3&s=70"
+    },
+    {
+      "nodeschool": "https://avatars2.githubusercontent.com/u/5437587?v=3&s=70"
+    },
+    {
+      "stackgl": "https://avatars3.githubusercontent.com/u/6663448?v=3&s=70"
+    },
+    {
+      "datproject": "https://avatars3.githubusercontent.com/u/7143718?v=3&s=70"
+    },
+    {
+      "sitepoint-editors": "https://avatars0.githubusercontent.com/u/7145512?v=3&s=70"
+    },
+    {
+      "npm-dom": "https://avatars0.githubusercontent.com/u/7551498?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "township": "https://avatars0.githubusercontent.com/u/7789870?v=3&s=70"
+    },
+    {
+      "node-forward": "https://avatars2.githubusercontent.com/u/8192112?v=3&s=70"
+    },
+    {
+      "scijs": "https://avatars2.githubusercontent.com/u/8939992?v=3&s=70"
+    },
+    {
+      "stackcss": "https://avatars1.githubusercontent.com/u/8941200?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "man-n": "https://avatars1.githubusercontent.com/u/13177283?v=3&s=70"
+    },
+    {
+      "lazurite-app": "https://avatars3.githubusercontent.com/u/13627682?v=3&s=70"
+    },
+    {
+      "threads-js": "https://avatars0.githubusercontent.com/u/16852856?v=3&s=70"
+    },
+    {
+      "pull-stream": "https://avatars0.githubusercontent.com/u/19355812?v=3&s=70"
+    },
+    {
+      "trainyard": "https://avatars2.githubusercontent.com/u/20522910?v=3&s=70"
+    },
+    {
+      "datprotocol": "https://avatars3.githubusercontent.com/u/25209479?v=3&s=70"
+    },
+    {
+      "maintainers": "https://avatars1.githubusercontent.com/u/25333538?v=3&s=70"
+    },
+    {
+      "shipharbor": "https://avatars2.githubusercontent.com/u/25965781?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

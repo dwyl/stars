@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/lucastschmidt",
+  "img": "https://avatars2.githubusercontent.com/u/849274?v=3&s=460",
+  "uid": 849274,
+  "repos": 25,
+  "stars": 112,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/lucastschmidt/knockout-validations-extender"
+    },
+    {
+      "url": "/lucastschmidt/grunt-i18n-finder"
+    },
+    {
+      "url": "/lucastschmidt/cartero-builtin-express-middleware"
+    },
+    {
+      "url": "/lucastschmidt/cartero-express-hook"
+    },
+    {
+      "url": "/lucastschmidt/cartero"
+    },
+    {
+      "url": "/lucastschmidt/express-base"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Lucas Schmidt",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/849274?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

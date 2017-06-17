@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/fleg",
+  "img": "https://avatars0.githubusercontent.com/u/875000?v=3&s=460",
+  "uid": 875000,
+  "repos": 49,
+  "stars": 221,
+  "followers": 3,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/fleg/mongo-each"
+    },
+    {
+      "url": "/node-ci/nci"
+    }
+  ],
+  "worksfor": "@dvpnt",
+  "location": "Russia",
+  "fullname": "Aleksey Timchenko",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/875000?v=3&s=460",
+  "contribs": 1440,
+  "orgs": [
+    {
+      "node-ci": "https://avatars1.githubusercontent.com/u/13189529?v=3&s=70"
+    },
+    {
+      "dvpnt": "https://avatars3.githubusercontent.com/u/15436577?v=3&s=70"
+    }
+  ]
+}

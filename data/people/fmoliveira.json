@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/fmoliveira",
+  "img": "https://avatars2.githubusercontent.com/u/3985462?v=3&s=460",
+  "uid": 3985462,
+  "repos": 342,
+  "stars": 2500,
+  "followers": 97,
+  "following": 510,
+  "pinned": [
+    {
+      "url": "/fmoliveira/tantalus"
+    },
+    {
+      "url": "/fmoliveira/scalable-stack"
+    },
+    {
+      "url": "/nodeschool/campinas"
+    },
+    {
+      "url": "/fmoliveira/talks"
+    },
+    {
+      "url": "/fmoliveira/dotfiles"
+    },
+    {
+      "url": "/fmoliveira/mailerlite-sdk-nodejs"
+    }
+  ],
+  "worksfor": "HBSIS",
+  "location": "Campinas, SP",
+  "fullname": "Filipe Oliveira",
+  "website": "https://fmoliveira.com.br",
+  "avatar": "https://avatars2.githubusercontent.com/u/3985462?v=3&s=460",
+  "contribs": 3636,
+  "orgs": [
+    {
+      "nodeschool": "https://avatars2.githubusercontent.com/u/5437587?v=3&s=70"
+    },
+    {
+      "HBMDM": "https://avatars2.githubusercontent.com/u/10562892?v=3&s=70"
+    },
+    {
+      "docdis": "https://avatars2.githubusercontent.com/u/10836426?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/maumercado",
+  "img": "https://avatars3.githubusercontent.com/u/282004?v=3&s=460",
+  "uid": 282004,
+  "repos": 17,
+  "stars": 71,
+  "followers": 12,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/maumercado/pagosonline"
+    },
+    {
+      "url": "/maumercado/Django-Base-Project"
+    },
+    {
+      "url": "/maumercado/chef-django-rinconcolombia"
+    },
+    {
+      "url": "/maumercado/sample_app"
+    },
+    {
+      "url": "/maumercado/coordinator"
+    },
+    {
+      "url": "/maumercado/minibookstore"
+    }
+  ],
+  "worksfor": "",
+  "location": "Barranquilla, Colombia",
+  "fullname": "Mauricio Mercado",
+  "website": "http://www.maumercado.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/282004?v=3&s=460",
+  "contribs": 8,
+  "orgs": []
+}

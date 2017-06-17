@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/tribou",
+  "img": "https://avatars0.githubusercontent.com/u/1641390?v=3&s=460",
+  "uid": 1641390,
+  "repos": 80,
+  "stars": 706,
+  "followers": 19,
+  "following": 45,
+  "pinned": [
+    {
+      "url": "/tribou/react-todo"
+    },
+    {
+      "url": "/triconn/jumpline"
+    },
+    {
+      "url": "/tribou/whatlyric"
+    },
+    {
+      "url": "/tribou/reddit-reader"
+    },
+    {
+      "url": "/tribou/ansible-swap"
+    },
+    {
+      "url": "/tribou/eslint-plugin-tribou"
+    }
+  ],
+  "worksfor": "Rocksauce Studios",
+  "location": "Nashville, TN",
+  "fullname": "Aaron Tribou",
+  "website": "http://tribou.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/1641390?v=3&s=460",
+  "contribs": 1212,
+  "orgs": []
+}

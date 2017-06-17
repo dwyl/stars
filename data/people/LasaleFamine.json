@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/LasaleFamine",
+  "img": "https://avatars1.githubusercontent.com/u/13070349?v=3&s=460",
+  "uid": 13070349,
+  "repos": 56,
+  "stars": 515,
+  "followers": 16,
+  "following": 69,
+  "pinned": [
+    {
+      "url": "/contactlab/contactlab-ui-components"
+    },
+    {
+      "url": "/contactlab/kubozer"
+    },
+    {
+      "url": "/LasaleFamine/ragusabot"
+    },
+    {
+      "url": "/LasaleFamine/now-dashboard"
+    },
+    {
+      "url": "/avajs/ava"
+    },
+    {
+      "url": "/LasaleFamine/polymer-lib-loader"
+    }
+  ],
+  "worksfor": "@contactlab",
+  "location": "Italy",
+  "fullname": "Alessio Occhipinti",
+  "website": "https://godev.space",
+  "avatar": "https://avatars1.githubusercontent.com/u/13070349?v=3&s=460",
+  "contribs": 1644,
+  "orgs": [
+    {
+      "contactlab": "https://avatars2.githubusercontent.com/u/10923213?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "PolymerX": "https://avatars3.githubusercontent.com/u/26086230?v=3&s=70"
+    }
+  ]
+}

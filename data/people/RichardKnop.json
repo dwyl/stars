@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/RichardKnop",
+  "img": "https://avatars2.githubusercontent.com/u/2325888?v=3&s=460",
+  "uid": 2325888,
+  "repos": 157,
+  "stars": 459,
+  "followers": 111,
+  "following": 59,
+  "pinned": [
+    {
+      "url": "/RichardKnop/machinery"
+    },
+    {
+      "url": "/RichardKnop/go-oauth2-server"
+    },
+    {
+      "url": "/RichardKnop/django-oauth2-server"
+    },
+    {
+      "url": "/RichardKnop/ansi-c-perceptron"
+    },
+    {
+      "url": "/RichardKnop/example-api"
+    },
+    {
+      "url": "/RichardKnop/coreos-cluster"
+    }
+  ],
+  "worksfor": "Cancer Research UK",
+  "location": "London",
+  "fullname": "Richard Knop",
+  "website": "http://richardknop.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/2325888?v=3&s=460",
+  "contribs": 2613,
+  "orgs": []
+}

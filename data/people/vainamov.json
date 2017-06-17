@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/vainamov",
+  "img": "https://avatars0.githubusercontent.com/u/11841072?v=3&s=460",
+  "uid": 11841072,
+  "repos": 17,
+  "stars": 67,
+  "followers": 14,
+  "following": 59,
+  "pinned": [
+    {
+      "url": "/defectively/defectively"
+    },
+    {
+      "url": "/defectively/defectively-client"
+    },
+    {
+      "url": "/defectively/defectively-server"
+    },
+    {
+      "url": "/vainamov/.net.matrix"
+    },
+    {
+      "url": "/vainamov/Suoja"
+    },
+    {
+      "url": "/festivaldev/dfs-rb-mga"
+    }
+  ],
+  "worksfor": "@festivaldev",
+  "location": "Hannover, Germany",
+  "fullname": "Väinämö Łūmikērø",
+  "website": "https://festival.ml/",
+  "avatar": "https://avatars0.githubusercontent.com/u/11841072?v=3&s=460",
+  "contribs": 233,
+  "orgs": [
+    {
+      "RewisServer": "https://avatars0.githubusercontent.com/u/16904042?v=3&s=70"
+    },
+    {
+      "festivaldev": "https://avatars2.githubusercontent.com/u/21039501?v=3&s=70"
+    },
+    {
+      "defectively": "https://avatars1.githubusercontent.com/u/26007497?v=3&s=70"
+    }
+  ]
+}

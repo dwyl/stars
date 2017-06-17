@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/fnky",
+  "img": "https://avatars0.githubusercontent.com/u/995050?v=3&s=460",
+  "uid": 995050,
+  "repos": 95,
+  "stars": 1800,
+  "followers": 50,
+  "following": 71,
+  "pinned": [
+    {
+      "url": "/fnky/sketch-dockpreview"
+    },
+    {
+      "url": "/fnky/css3-uiswitch"
+    },
+    {
+      "url": "/fnky/behave-theme"
+    },
+    {
+      "url": "/fnky/SublimeIt"
+    },
+    {
+      "url": "/fnky/uiswitch2"
+    },
+    {
+      "url": "/fnky/dotfiles"
+    }
+  ],
+  "worksfor": "Duuoo",
+  "location": "Copenhagen",
+  "fullname": "Christian Petersen",
+  "website": "http://cbp.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/995050?v=3&s=460",
+  "contribs": 173,
+  "orgs": [
+    {
+      "Duuoo": "https://avatars0.githubusercontent.com/u/22478084?v=3&s=70"
+    }
+  ]
+}

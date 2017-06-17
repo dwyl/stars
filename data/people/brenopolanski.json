@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/brenopolanski",
+  "img": "https://avatars1.githubusercontent.com/u/1894191?v=3&s=460",
+  "uid": 1894191,
+  "repos": 231,
+  "stars": 2100,
+  "followers": 114,
+  "following": 516,
+  "pinned": [
+    {
+      "url": "/OSBI/saiku"
+    },
+    {
+      "url": "/brenopolanski/css-comments-sublime-snippets"
+    },
+    {
+      "url": "/brenopolanski/notifier-for-udacity-reviewer"
+    },
+    {
+      "url": "/brenopolanski/saiku-rest-api"
+    },
+    {
+      "url": "/coffee-club/coffee-club"
+    },
+    {
+      "url": "/react-beer/the-beer-store-react-es6-firebase"
+    }
+  ],
+  "worksfor": "Meteorite BI",
+  "location": "-7° 13' 16\", -35° 52' 46\"",
+  "fullname": "Breno Polanski",
+  "website": "http://brenopolanski.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1894191?v=3&s=460",
+  "contribs": 1249,
+  "orgs": [
+    {
+      "OSBI": "https://avatars0.githubusercontent.com/u/1043666?v=3&s=70"
+    },
+    {
+      "cghackspace": "https://avatars3.githubusercontent.com/u/1242901?v=3&s=70"
+    },
+    {
+      "CactusJS": "https://avatars2.githubusercontent.com/u/5711796?v=3&s=70"
+    },
+    {
+      "react-beer": "https://avatars0.githubusercontent.com/u/18094606?v=3&s=70"
+    },
+    {
+      "coffee-club": "https://avatars2.githubusercontent.com/u/18660972?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

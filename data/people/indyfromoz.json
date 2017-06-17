@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/indyfromoz",
+  "img": "https://avatars3.githubusercontent.com/u/315443?v=3&s=460",
+  "uid": 315443,
+  "repos": 11,
+  "stars": 6400,
+  "followers": 41,
+  "following": 72,
+  "pinned": [
+    {
+      "url": "/indyfromoz/AgFx"
+    },
+    {
+      "url": "/indyfromoz/Arduino-Homebot"
+    },
+    {
+      "url": "/indyfromoz/Azure-WebAPI-ContactsDB-Sample"
+    },
+    {
+      "url": "/indyfromoz/indyfromoz.github.com"
+    },
+    {
+      "url": "/indyfromoz/rtlizer"
+    },
+    {
+      "url": "/indyfromoz/hacking-with-swift-exercises"
+    }
+  ],
+  "worksfor": "Liana Solutions Pty Ltd",
+  "location": "Sydney, Australia",
+  "fullname": "Indrajit Chakrabarty",
+  "website": "http://indyfromoz.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/315443?v=3&s=460",
+  "contribs": 899,
+  "orgs": []
+}

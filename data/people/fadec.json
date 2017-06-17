@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/fadec",
+  "img": "https://avatars2.githubusercontent.com/u/11445?v=3&s=460",
+  "uid": 11445,
+  "repos": 3,
+  "stars": 24,
+  "followers": 2,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/fadec/sqlpilot"
+    },
+    {
+      "url": "/fadec/booly"
+    },
+    {
+      "url": "/fadec/virtual-dom"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Sam Danielson",
+  "website": "http://samdanielson.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/11445?v=3&s=460",
+  "contribs": 9,
+  "orgs": []
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://github.com/dandv",
+  "img": "https://avatars3.githubusercontent.com/u/33569?v=3&s=460",
+  "uid": 33569,
+  "repos": 553,
+  "stars": 431,
+  "followers": 320,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/dandv/comparisons"
+    },
+    {
+      "url": "/component/textarea-caret-position"
+    },
+    {
+      "url": "/dandv/rate-limit"
+    },
+    {
+      "url": "/dandv/discourse-post-process"
+    },
+    {
+      "url": "/dandv/instagram-clone"
+    },
+    {
+      "url": "/dandv/meteor-webix"
+    }
+  ],
+  "worksfor": "Google. Formerly: Blueseed, Yahoo!",
+  "location": "Silicon Valley",
+  "fullname": "Dan Dascalescu",
+  "website": "http://dandascalescu.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/33569?v=3&s=460",
+  "contribs": 1089,
+  "orgs": [
+    {
+      "google": "https://avatars2.githubusercontent.com/u/1342004?v=3&s=70"
+    },
+    {
+      "component": "https://avatars0.githubusercontent.com/u/1687071?v=3&s=70"
+    },
+    {
+      "oortcloud": "https://avatars0.githubusercontent.com/u/2210468?v=3&s=70"
+    },
+    {
+      "mojomojo": "https://avatars2.githubusercontent.com/u/2297403?v=3&s=70"
+    },
+    {
+      "meteorhacks": "https://avatars0.githubusercontent.com/u/4592287?v=3&s=70"
+    },
+    {
+      "ephemerisle": "https://avatars3.githubusercontent.com/u/7885687?v=3&s=70"
+    },
+    {
+      "Wylio": "https://avatars2.githubusercontent.com/u/8850962?v=3&s=70"
+    },
+    {
+      "MeteorCommunity": "https://avatars0.githubusercontent.com/u/9997944?v=3&s=70"
+    },
+    {
+      "MeteorPackaging": "https://avatars2.githubusercontent.com/u/10003264?v=3&s=70"
+    },
+    {
+      "typhonjs-node-tjsdoc": "https://avatars3.githubusercontent.com/u/24959627?v=3&s=70"
+    }
+  ]
+}

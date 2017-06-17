@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/valentinvichnal",
+  "img": "https://avatars0.githubusercontent.com/u/8232674?v=3&s=460",
+  "uid": 8232674,
+  "repos": 9,
+  "stars": 6200,
+  "followers": 44,
+  "following": 41,
+  "pinned": [
+    {
+      "url": "/valentinvichnal/gravity.js"
+    },
+    {
+      "url": "/valentinvichnal/vsecurity"
+    },
+    {
+      "url": "/valentinvichnal/lightquery"
+    },
+    {
+      "url": "/valentinvichnal/random.js"
+    },
+    {
+      "url": "/ant-design/ant-design"
+    },
+    {
+      "url": "/valentinvichnal/cloudstore"
+    }
+  ],
+  "worksfor": "",
+  "location": "Budapest, Hungary, EU",
+  "fullname": "Valentin Vichnal",
+  "website": "http://valentinvichnal.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/8232674?v=3&s=460",
+  "contribs": 2724,
+  "orgs": [
+    {
+      "ELTE-IK": "https://avatars3.githubusercontent.com/u/19963549?v=3&s=70"
+    }
+  ]
+}

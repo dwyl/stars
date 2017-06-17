@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/tpai",
+  "img": "https://avatars0.githubusercontent.com/u/579145?v=3&s=460",
+  "uid": 579145,
+  "repos": 84,
+  "stars": 303,
+  "followers": 26,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/tpai/r2-starter-kit"
+    },
+    {
+      "url": "/tpai/chatroom"
+    },
+    {
+      "url": "/tpai/reactjs-saga-starter"
+    },
+    {
+      "url": "/tpai/reactjs-saga-starter-api"
+    },
+    {
+      "url": "/tpai/decode-zhuyin"
+    },
+    {
+      "url": "/tpai/nextjs-starter"
+    }
+  ],
+  "worksfor": "Fever38",
+  "location": "Taiwan",
+  "fullname": "tonypai",
+  "website": "https://medium.com/@tonypai",
+  "avatar": "https://avatars0.githubusercontent.com/u/579145?v=3&s=460",
+  "contribs": 355,
+  "orgs": []
+}

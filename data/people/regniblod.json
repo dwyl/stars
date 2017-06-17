@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/regniblod",
+  "img": "https://avatars1.githubusercontent.com/u/3084323?v=3&s=460",
+  "uid": 3084323,
+  "repos": 6,
+  "stars": 99,
+  "followers": 14,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/regniblod/symfony-ddd-edition"
+    },
+    {
+      "url": "/regniblod/dotfiles"
+    },
+    {
+      "url": "/regniblod/bitbucket-themes"
+    },
+    {
+      "url": "/regniblod/symfony-installer"
+    },
+    {
+      "url": "/regniblod/inkuinen"
+    },
+    {
+      "url": "/regniblod/symfony-ddd-generator-bundle"
+    }
+  ],
+  "worksfor": "trivago",
+  "location": "Mallorca",
+  "fullname": "Albert Munoz",
+  "website": "https://github.com/regniblod",
+  "avatar": "https://avatars1.githubusercontent.com/u/3084323?v=3&s=460",
+  "contribs": 43,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/BiteBit",
+  "img": "https://avatars2.githubusercontent.com/u/4494325?v=3&s=460",
+  "uid": 4494325,
+  "repos": 47,
+  "stars": 504,
+  "followers": 35,
+  "following": 45,
+  "pinned": [
+    {
+      "url": "/BiteBit/koa-oai-router"
+    },
+    {
+      "url": "/BiteBit/koa-oai-mongoose"
+    },
+    {
+      "url": "/BiteBit/koa-oai-cache"
+    },
+    {
+      "url": "/BiteBit/dama2"
+    },
+    {
+      "url": "/BiteBit/node-feedparser"
+    },
+    {
+      "url": "/BiteBit/health-guard"
+    }
+  ],
+  "worksfor": "GFS",
+  "location": "ShangHai, China",
+  "fullname": "bitebit",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/4494325?v=3&s=460",
+  "contribs": 208,
+  "orgs": []
+}

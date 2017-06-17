@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/davidchin",
+  "img": "https://avatars2.githubusercontent.com/u/667603?v=3&s=460",
+  "uid": 667603,
+  "repos": 20,
+  "stars": 421,
+  "followers": 24,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/davidchin/inversionist"
+    },
+    {
+      "url": "/davidchin/switchhub"
+    },
+    {
+      "url": "/davidchin/react-input-range"
+    },
+    {
+      "url": "/bigcommerce/stencil-lang-validator"
+    },
+    {
+      "url": "/bigcommerce/cornerstone"
+    },
+    {
+      "url": "/davidchin/angular-endless-scroll"
+    }
+  ],
+  "worksfor": "@bigcommerce",
+  "location": "Sydney",
+  "fullname": "David Chin",
+  "website": "http://davidchin.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/667603?v=3&s=460",
+  "contribs": 2015,
+  "orgs": []
+}

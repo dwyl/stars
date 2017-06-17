@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/carloscarcamo",
+  "img": "https://avatars2.githubusercontent.com/u/2413746?v=3&s=460",
+  "uid": 2413746,
+  "repos": 65,
+  "stars": 3600,
+  "followers": 39,
+  "following": 27,
+  "pinned": [
+    {
+      "url": "/carloscarcamo/docker-netdot"
+    },
+    {
+      "url": "/carloscarcamo/docker-example-node-app-nginx"
+    },
+    {
+      "url": "/carloscarcamo/docker-skype-pulseaudio"
+    },
+    {
+      "url": "/carloscarcamo/OpenTokWebRTC"
+    },
+    {
+      "url": "/carloscarcamo/aws-lambda-unzip-js"
+    },
+    {
+      "url": "/carloscarcamo/aws-lambda-unzip-py"
+    }
+  ],
+  "worksfor": "",
+  "location": "El Salvador",
+  "fullname": "Carlos Cárcamo",
+  "website": "http://carloscarcamo.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/2413746?v=3&s=460",
+  "contribs": 441,
+  "orgs": [
+    {
+      "csluesocc": "https://avatars3.githubusercontent.com/u/6117561?v=3&s=70"
+    },
+    {
+      "webslinder": "https://avatars1.githubusercontent.com/u/10136248?v=3&s=70"
+    },
+    {
+      "mozillaSv": "https://avatars1.githubusercontent.com/u/10903269?v=3&s=70"
+    },
+    {
+      "ionicSV": "https://avatars3.githubusercontent.com/u/11275887?v=3&s=70"
+    },
+    {
+      "nodebots-sv": "https://avatars1.githubusercontent.com/u/13224835?v=3&s=70"
+    }
+  ]
+}

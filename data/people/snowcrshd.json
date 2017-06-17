@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/snowcrshd",
+  "img": "https://avatars0.githubusercontent.com/u/831084?v=3&s=460",
+  "uid": 831084,
+  "repos": 32,
+  "stars": 80,
+  "followers": 18,
+  "following": 63,
+  "pinned": [
+    {
+      "url": "/snowcrshd/cyberpunk.vim"
+    },
+    {
+      "url": "/snowcrshd/Design-and-Analysis-of-Experiments"
+    },
+    {
+      "url": "/snowcrshd/ExperimentDesignLectureNotes"
+    },
+    {
+      "url": "/snowcrshd/scoop-php"
+    },
+    {
+      "url": "/snowcrshd/rainbow"
+    },
+    {
+      "url": "/snowcrshd/kawa"
+    }
+  ],
+  "worksfor": "@open-craft",
+  "location": "Brazil",
+  "fullname": "Lucas Tadeu Teixeira",
+  "website": "https://lucas.is",
+  "avatar": "https://avatars0.githubusercontent.com/u/831084?v=3&s=460",
+  "contribs": 235,
+  "orgs": [
+    {
+      "GPSL-Unicamp": "https://avatars3.githubusercontent.com/u/5673625?v=3&s=70"
+    },
+    {
+      "open-craft": "https://avatars3.githubusercontent.com/u/7414786?v=3&s=70"
+    }
+  ]
+}

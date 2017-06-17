@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/sbuys",
+  "img": "https://avatars2.githubusercontent.com/u/340324?v=3&s=460",
+  "uid": 340324,
+  "repos": 18,
+  "stars": 428,
+  "followers": 6,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/sbuys/ShapeUpOrDie"
+    },
+    {
+      "url": "/sbuys/GLKStarterProject"
+    },
+    {
+      "url": "/sbuys/three-68-tmp"
+    },
+    {
+      "url": "/sbuys/google-io-2014-experiment"
+    },
+    {
+      "url": "/sbuys/dotfiles"
+    },
+    {
+      "url": "/sbuys/gulp-starter"
+    }
+  ],
+  "worksfor": "linebreak",
+  "location": "New York, NY",
+  "fullname": "Sebastian Buys",
+  "website": "http://www.linebreakdesign.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/340324?v=3&s=460",
+  "contribs": 637,
+  "orgs": [
+    {
+      "squeakybone": "https://avatars1.githubusercontent.com/u/3720877?v=3&s=70"
+    },
+    {
+      "pentagram-design": "https://avatars2.githubusercontent.com/u/4459497?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/colthreepv",
+  "img": "https://avatars2.githubusercontent.com/u/2657230?v=3&s=460",
+  "uid": 2657230,
+  "repos": 42,
+  "stars": 733,
+  "followers": 58,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/colthreepv/angular-login-example"
+    },
+    {
+      "url": "/colthreepv/angular-media-player"
+    },
+    {
+      "url": "/colthreepv/express-raml-store"
+    },
+    {
+      "url": "/colthreepv/golang-torrent-recap"
+    },
+    {
+      "url": "/colthreepv/alldebrid"
+    },
+    {
+      "url": "/colthreepv/express-building-blocks"
+    }
+  ],
+  "worksfor": "",
+  "location": "Rome",
+  "fullname": "Valerio Coltrè",
+  "website": "https://colthreepv.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/2657230?v=3&s=460",
+  "contribs": 203,
+  "orgs": [
+    {
+      "tutored": "https://avatars1.githubusercontent.com/u/13658776?v=3&s=70"
+    }
+  ]
+}

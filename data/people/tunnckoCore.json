@@ -1,0 +1,82 @@
+{
+  "url": "https://github.com/tunnckoCore",
+  "img": "https://avatars2.githubusercontent.com/u/5038030?v=3&s=460",
+  "uid": 5038030,
+  "repos": 337,
+  "stars": 5700,
+  "followers": 157,
+  "following": 285,
+  "pinned": [
+    {
+      "url": "/tunnckoCore/koa-better-body"
+    },
+    {
+      "url": "/tunnckoCore/koa-better-router"
+    },
+    {
+      "url": "/tunnckoCore/gibon"
+    },
+    {
+      "url": "/tunnckoCore/dush"
+    },
+    {
+      "url": "/developit/mitt"
+    },
+    {
+      "url": "/rolldown/rolldown"
+    }
+  ],
+  "worksfor": "Overcoming Burnout",
+  "location": "Sofia, Bulgaria / GMT+2",
+  "fullname": "Charlike Mike Reagent",
+  "website": "https://i.am.charlike.online",
+  "avatar": "https://avatars2.githubusercontent.com/u/5038030?v=3&s=460",
+  "contribs": 2961,
+  "orgs": [
+    {
+      "microjs": "https://avatars0.githubusercontent.com/u/2738466?v=3&s=70"
+    },
+    {
+      "datetime": "https://avatars0.githubusercontent.com/u/9695787?v=3&s=70"
+    },
+    {
+      "regexhq": "https://avatars1.githubusercontent.com/u/9793710?v=3&s=70"
+    },
+    {
+      "jstransformers": "https://avatars3.githubusercontent.com/u/9823543?v=3&s=70"
+    },
+    {
+      "hybridables": "https://avatars3.githubusercontent.com/u/10666022?v=3&s=70"
+    },
+    {
+      "docdis": "https://avatars2.githubusercontent.com/u/10836426?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "npm1k": "https://avatars2.githubusercontent.com/u/12247317?v=3&s=70"
+    },
+    {
+      "standards": "https://avatars0.githubusercontent.com/u/12538644?v=3&s=70"
+    },
+    {
+      "date-fns": "https://avatars0.githubusercontent.com/u/14921202?v=3&s=70"
+    },
+    {
+      "limonjs": "https://avatars1.githubusercontent.com/u/18726117?v=3&s=70"
+    },
+    {
+      "postcore": "https://avatars3.githubusercontent.com/u/20998869?v=3&s=70"
+    },
+    {
+      "docksjs": "https://avatars0.githubusercontent.com/u/21057519?v=3&s=70"
+    },
+    {
+      "node-minibase": "https://avatars2.githubusercontent.com/u/23032863?v=3&s=70"
+    },
+    {
+      "rolldown": "https://avatars0.githubusercontent.com/u/24867666?v=3&s=70"
+    }
+  ]
+}

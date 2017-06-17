@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/StefanScherer",
+  "img": "https://avatars2.githubusercontent.com/u/207759?v=3&s=460",
+  "uid": 207759,
+  "repos": 176,
+  "stars": 904,
+  "followers": 182,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/StefanScherer/dockerfiles-windows"
+    },
+    {
+      "url": "/StefanScherer/docker-windows-box"
+    },
+    {
+      "url": "/StefanScherer/packer-windows"
+    },
+    {
+      "url": "/StefanScherer/docker-at-home"
+    },
+    {
+      "url": "/StefanScherer/windows-docker-machine"
+    },
+    {
+      "url": "/StefanScherer/winspector"
+    }
+  ],
+  "worksfor": "",
+  "location": "Erlangen, Germany",
+  "fullname": "Stefan Scherer",
+  "website": "https://stefanscherer.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/207759?v=3&s=460",
+  "contribs": 2092,
+  "orgs": [
+    {
+      "sealsystems": "https://avatars2.githubusercontent.com/u/6114550?v=3&s=70"
+    },
+    {
+      "hypriot": "https://avatars3.githubusercontent.com/u/10440767?v=3&s=70"
+    },
+    {
+      "docker-captains": "https://avatars3.githubusercontent.com/u/18412632?v=3&s=70"
+    }
+  ]
+}

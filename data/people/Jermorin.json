@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/Jermorin",
+  "img": "https://avatars1.githubusercontent.com/u/5834959?v=3&s=460",
+  "uid": 5834959,
+  "repos": 66,
+  "stars": 262,
+  "followers": 23,
+  "following": 68,
+  "pinned": [
+    {
+      "url": "/Jermorin/adstop"
+    },
+    {
+      "url": "/Jermorin/opencv-react-electron"
+    },
+    {
+      "url": "/Jermorin/opencv-server-socket"
+    },
+    {
+      "url": "/Jermorin/ourCoffee"
+    },
+    {
+      "url": "/Jermorin/projects-dashboard-v2"
+    },
+    {
+      "url": "/Jermorin/docker-nginx-nodejs-lets-encrypt"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bordeaux",
+  "fullname": "Jérémy",
+  "website": "https://jermor.in",
+  "avatar": "https://avatars1.githubusercontent.com/u/5834959?v=3&s=460",
+  "contribs": 91,
+  "orgs": [
+    {
+      "miagebdx": "https://avatars2.githubusercontent.com/u/7389242?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "retournelamphi": "https://avatars1.githubusercontent.com/u/17175674?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/peeyush-tm",
+  "img": "https://avatars1.githubusercontent.com/u/5212023?v=3&s=460",
+  "uid": 5212023,
+  "repos": 21,
+  "stars": 701,
+  "followers": 29,
+  "following": 204,
+  "pinned": [
+    {
+      "url": "/TeraMatrix/nocout_gis_open"
+    },
+    {
+      "url": "/TeraMatrix/check_mk_plugins"
+    },
+    {
+      "url": "/peeyush-tm/awesome-bigdata"
+    },
+    {
+      "url": "/TeraMatrix/nocout_ops"
+    },
+    {
+      "url": "/peeyush-tm/awesome-data-engineering"
+    },
+    {
+      "url": "/TeraMatrix/nocout_gis_device_app"
+    }
+  ],
+  "worksfor": "Teramatrix Technologies P.L",
+  "location": "Gurgaon, India",
+  "fullname": "Peeyush",
+  "website": "http://teramatrix.in/",
+  "avatar": "https://avatars1.githubusercontent.com/u/5212023?v=3&s=460",
+  "contribs": 26,
+  "orgs": [
+    {
+      "TeraMatrix": "https://avatars0.githubusercontent.com/u/5212026?v=3&s=70"
+    }
+  ]
+}

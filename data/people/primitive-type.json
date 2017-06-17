@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/primitive-type",
+  "img": "https://avatars1.githubusercontent.com/u/1878644?v=3&s=460",
+  "uid": 1878644,
+  "repos": 15,
+  "stars": 27,
+  "followers": 32,
+  "following": 41,
+  "pinned": [
+    {
+      "url": "/primitive-type/twitter"
+    },
+    {
+      "url": "/primitive-type/update-packages"
+    },
+    {
+      "url": "/primitive-type/php-the-right-way"
+    },
+    {
+      "url": "/primitive-type/Faker"
+    },
+    {
+      "url": "/primitive-type/github_textmate_theme"
+    },
+    {
+      "url": "/primitive-type/zf2"
+    }
+  ],
+  "worksfor": "Albert.io",
+  "location": "Chicago, IL",
+  "fullname": "Percy Hatcherson",
+  "website": "https://twitter.com/primitive_type",
+  "avatar": "https://avatars1.githubusercontent.com/u/1878644?v=3&s=460",
+  "contribs": 1232,
+  "orgs": [
+    {
+      "albert-io": "https://avatars2.githubusercontent.com/u/11808568?v=3&s=70"
+    }
+  ]
+}

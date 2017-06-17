@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/morkot",
+  "img": "https://avatars0.githubusercontent.com/u/2598572?v=3&s=460",
+  "uid": 2598572,
+  "repos": 41,
+  "stars": 279,
+  "followers": 10,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/morkot/windows-terminal-mutant"
+    },
+    {
+      "url": "/morkot/job-dsl-promotions-plugin"
+    },
+    {
+      "url": "/morkot/win10-theme"
+    },
+    {
+      "url": "/morkot/cookbooks"
+    },
+    {
+      "url": "/morkot/wp-aws-chef-solo"
+    },
+    {
+      "url": "/morkot/cloud-formation-sublime-snippets"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "Andrii Melekhovskiy",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/2598572?v=3&s=460",
+  "contribs": 33,
+  "orgs": []
+}

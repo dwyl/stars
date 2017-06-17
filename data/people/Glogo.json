@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Glogo",
+  "img": "https://avatars3.githubusercontent.com/u/1913799?v=3&s=460",
+  "uid": 1913799,
+  "repos": 17,
+  "stars": 913,
+  "followers": 15,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/Glogo/node-red-contrib-sphero"
+    },
+    {
+      "url": "/Glogo/node-red-contrib-keypress"
+    },
+    {
+      "url": "/Glogo/alexa-skill-sample-nodejs-express"
+    },
+    {
+      "url": "/Glogo/wikipedia-redirects"
+    },
+    {
+      "url": "/Glogo/3dsoftviz"
+    },
+    {
+      "url": "/Glogo/spherojs"
+    }
+  ],
+  "worksfor": "@Accenture",
+  "location": "",
+  "fullname": "Michael Gloger",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1913799?v=3&s=460",
+  "contribs": 155,
+  "orgs": []
+}

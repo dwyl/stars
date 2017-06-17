@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/EnriqueCanals",
+  "img": "https://avatars2.githubusercontent.com/u/84596?v=3&s=460",
+  "uid": 84596,
+  "repos": 20,
+  "stars": 192,
+  "followers": 20,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/motdotla/node-lambda"
+    },
+    {
+      "url": "/MarioRicalde/SCSS.tmbundle"
+    },
+    {
+      "url": "/orbotix/DeveloperDocumentation"
+    },
+    {
+      "url": "/vishnuravi/stablematch"
+    },
+    {
+      "url": "/EnriqueCanals/MarkovTweets"
+    },
+    {
+      "url": "/orbotix/sphero.js"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Enrique Canals",
+  "website": "http://enriquecanals.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/84596?v=3&s=460",
+  "contribs": 1063,
+  "orgs": [
+    {
+      "orbotix": "https://avatars0.githubusercontent.com/u/773466?v=3&s=70"
+    },
+    {
+      "checkup-health": "https://avatars0.githubusercontent.com/u/13855277?v=3&s=70"
+    },
+    {
+      "onwardmethod": "https://avatars3.githubusercontent.com/u/16171406?v=3&s=70"
+    }
+  ]
+}

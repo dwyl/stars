@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/tezlopchan",
+  "img": "https://avatars2.githubusercontent.com/u/5461675?v=3&s=460",
+  "uid": 5461675,
+  "repos": 4,
+  "stars": 28,
+  "followers": 5,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/tezlopchan/local-dev"
+    },
+    {
+      "url": "/tezlopchan/rabithq"
+    },
+    {
+      "url": "/tezlopchan/react-todo"
+    },
+    {
+      "url": "/tezlopchan/tezlopchan.me"
+    }
+  ],
+  "worksfor": "@AlphaFounders",
+  "location": "Bangkok, Thailand",
+  "fullname": "Tez Lopchan",
+  "website": "https://tezlopchan.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/5461675?v=3&s=460",
+  "contribs": 517,
+  "orgs": []
+}

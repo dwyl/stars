@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/mugli",
+  "img": "https://avatars2.githubusercontent.com/u/2240000?v=3&s=460",
+  "uid": 2240000,
+  "repos": 28,
+  "stars": 861,
+  "followers": 233,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/mugli/learning-graphql"
+    },
+    {
+      "url": "/mugli/Avro-Keyboard"
+    },
+    {
+      "url": "/mugli/unstupify"
+    },
+    {
+      "url": "/mugli/hapi-shared-auth-cookie"
+    },
+    {
+      "url": "/mugli/ibus-avro"
+    },
+    {
+      "url": "/mugli/babel-preset-node6-es6"
+    }
+  ],
+  "worksfor": "Backpack-Technologies",
+  "location": "Dhaka, Bangladesh",
+  "fullname": "Mehdi Hasan Khan",
+  "website": "http://about.me/mehdi.hasan.khan",
+  "avatar": "https://avatars2.githubusercontent.com/u/2240000?v=3&s=460",
+  "contribs": 625,
+  "orgs": [
+    {
+      "omicronlab": "https://avatars0.githubusercontent.com/u/423287?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ashish-sjc",
+  "img": "https://avatars2.githubusercontent.com/u/12704422?v=3&s=460",
+  "uid": 12704422,
+  "repos": 23,
+  "stars": 14,
+  "followers": 3,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/ashish-sjc/awesome-ruby"
+    },
+    {
+      "url": "/ashish-sjc/engineering-blogs"
+    },
+    {
+      "url": "/ashish-sjc/test"
+    },
+    {
+      "url": "/ashish-sjc/hubot-renovate"
+    },
+    {
+      "url": "/ashish-sjc/knowyourgems"
+    },
+    {
+      "url": "/ashish-sjc/todo_tracker"
+    }
+  ],
+  "worksfor": "@devforce",
+  "location": "San Jose",
+  "fullname": "Ashish",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/12704422?v=3&s=460",
+  "contribs": 1887,
+  "orgs": []
+}

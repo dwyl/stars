@@ -1,0 +1,70 @@
+{
+  "url": "https://github.com/Charlotteis",
+  "img": "https://avatars2.githubusercontent.com/u/542140?v=3&s=460",
+  "uid": 542140,
+  "repos": 154,
+  "stars": 168,
+  "followers": 220,
+  "following": 94,
+  "pinned": [
+    {
+      "url": "/Charlotteis/notes"
+    },
+    {
+      "url": "/Charlotteis/tomaquet"
+    },
+    {
+      "url": "/hoodiehq/hoodie"
+    },
+    {
+      "url": "/zkat/pacote"
+    },
+    {
+      "url": "/uswitch/ustyle"
+    },
+    {
+      "url": "/WeAllJS/wealljs.github.io"
+    }
+  ],
+  "worksfor": "@uswitch",
+  "location": "London",
+  "fullname": "Charlotte Spencer",
+  "website": "https://twitter.com/charlotteis",
+  "avatar": "https://avatars2.githubusercontent.com/u/542140?v=3&s=460",
+  "contribs": 1391,
+  "orgs": [
+    {
+      "hoodiehq": "https://avatars1.githubusercontent.com/u/1888826?v=3&s=70"
+    },
+    {
+      "pouchdb": "https://avatars2.githubusercontent.com/u/3406112?v=3&s=70"
+    },
+    {
+      "uswitch": "https://avatars3.githubusercontent.com/u/4021549?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "yourfirstpr": "https://avatars0.githubusercontent.com/u/14150470?v=3&s=70"
+    },
+    {
+      "NodeTogether": "https://avatars1.githubusercontent.com/u/17297391?v=3&s=70"
+    },
+    {
+      "WeAllJS": "https://avatars1.githubusercontent.com/u/20780132?v=3&s=70"
+    },
+    {
+      "enbytech": "https://avatars1.githubusercontent.com/u/24628443?v=3&s=70"
+    },
+    {
+      "ossfriday": "https://avatars3.githubusercontent.com/u/24840298?v=3&s=70"
+    },
+    {
+      "fruitfuljs": "https://avatars0.githubusercontent.com/u/28605544?v=3&s=70"
+    }
+  ]
+}

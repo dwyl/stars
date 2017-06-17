@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mkaag",
+  "img": "https://avatars0.githubusercontent.com/u/629676?v=3&s=460",
+  "uid": 629676,
+  "repos": 39,
+  "stars": 296,
+  "followers": 3,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/mkaag/docker-haproxy-confd"
+    },
+    {
+      "url": "/mkaag/docker-yacy"
+    },
+    {
+      "url": "/mkaag/ansible-coreos-cloudinit"
+    },
+    {
+      "url": "/mkaag/docker-nginx_lb"
+    },
+    {
+      "url": "/mkaag/docker-phpfpm"
+    },
+    {
+      "url": "/mkaag/docker-gcr-mono"
+    }
+  ],
+  "worksfor": "",
+  "location": "Switzerland",
+  "fullname": "Maurice Kaag",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/629676?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

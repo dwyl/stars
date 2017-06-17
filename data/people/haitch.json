@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/haitch",
+  "img": "https://avatars2.githubusercontent.com/u/1167635?v=3&s=460",
+  "uid": 1167635,
+  "repos": 9,
+  "stars": 175,
+  "followers": 5,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/haitch/python-opencv"
+    },
+    {
+      "url": "/haitch/myCordovaApp"
+    },
+    {
+      "url": "/haitch/Remove-BuiltInWindowsStoreApps"
+    },
+    {
+      "url": "/haitch/myReactNativeProj"
+    },
+    {
+      "url": "/haitch/quickstart-js"
+    },
+    {
+      "url": "/haitch/azure-powershell"
+    }
+  ],
+  "worksfor": "Microsoft",
+  "location": "Redmond",
+  "fullname": "Haitao Chen",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1167635?v=3&s=460",
+  "contribs": 82,
+  "orgs": [
+    {
+      "Azure": "https://avatars0.githubusercontent.com/u/6844498?v=3&s=70"
+    }
+  ]
+}

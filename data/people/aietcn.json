@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/aietcn",
+  "img": "https://avatars3.githubusercontent.com/u/2031637?v=3&s=460",
+  "uid": 2031637,
+  "repos": 29,
+  "stars": 965,
+  "followers": 11,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/serenity-bdd/serenity-core"
+    },
+    {
+      "url": "/aietcn/vim-go-ide"
+    },
+    {
+      "url": "/hyperledger/fabric-ca"
+    },
+    {
+      "url": "/aietcn/tutorials"
+    },
+    {
+      "url": "/aietcn/grpc-example"
+    },
+    {
+      "url": "/aietcn/crypto"
+    }
+  ],
+  "worksfor": "@zkjs",
+  "location": "Shenzhen, Guangdong, China",
+  "fullname": "Tian Baoqiang",
+  "website": "http://aiet.cn",
+  "avatar": "https://avatars3.githubusercontent.com/u/2031637?v=3&s=460",
+  "contribs": 481,
+  "orgs": [
+    {
+      "zkjs": "https://avatars1.githubusercontent.com/u/13834405?v=3&s=70"
+    }
+  ]
+}

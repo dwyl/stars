@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/KlausTrainer",
+  "img": "https://avatars2.githubusercontent.com/u/230061?v=3&s=460",
+  "uid": 230061,
+  "repos": 66,
+  "stars": 387,
+  "followers": 60,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/KlausTrainer/erl_xslt"
+    },
+    {
+      "url": "/KlausTrainer/sandbox.js"
+    },
+    {
+      "url": "/KlausTrainer/mytrie"
+    },
+    {
+      "url": "/KlausTrainer/snappy-msgpack-stream"
+    },
+    {
+      "url": "/KlausTrainer/dynamodbdown"
+    },
+    {
+      "url": "/KlausTrainer/snappy-msgpack-channels"
+    }
+  ],
+  "worksfor": "@Jimdo",
+  "location": "Hamburg",
+  "fullname": "Klaus Trainer",
+  "website": "https://blag.site",
+  "avatar": "https://avatars2.githubusercontent.com/u/230061?v=3&s=460",
+  "contribs": 103,
+  "orgs": [
+    {
+      "apache": "https://avatars2.githubusercontent.com/u/47359?v=3&s=70"
+    },
+    {
+      "Jimdo": "https://avatars2.githubusercontent.com/u/318890?v=3&s=70"
+    },
+    {
+      "pouchdb": "https://avatars2.githubusercontent.com/u/3406112?v=3&s=70"
+    },
+    {
+      "CSSclasses": "https://avatars3.githubusercontent.com/u/15832794?v=3&s=70"
+    },
+    {
+      "hh-ex": "https://avatars3.githubusercontent.com/u/16940937?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/notrab",
+  "img": "https://avatars2.githubusercontent.com/u/950181?v=3&s=460",
+  "uid": 950181,
+  "repos": 52,
+  "stars": 763,
+  "followers": 41,
+  "following": 191,
+  "pinned": [
+    {
+      "url": "/notrab/create-react-app-apollo-redux"
+    },
+    {
+      "url": "/notrab/create-react-app-apollo"
+    },
+    {
+      "url": "/notrab/create-react-app-redux"
+    },
+    {
+      "url": "/notrab/express-babel-starter"
+    },
+    {
+      "url": "/notrab/express-tutorial"
+    },
+    {
+      "url": "/notrab/dotfiles"
+    }
+  ],
+  "worksfor": "Frontend Developer",
+  "location": "North East, England",
+  "fullname": "Jamie Barton",
+  "website": "http://launchmade.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/950181?v=3&s=460",
+  "contribs": 1173,
+  "orgs": [
+    {
+      "rubynortheast": "https://avatars2.githubusercontent.com/u/1036046?v=3&s=70"
+    },
+    {
+      "tickts": "https://avatars2.githubusercontent.com/u/10078695?v=3&s=70"
+    }
+  ]
+}

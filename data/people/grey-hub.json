@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/grey-hub",
+  "img": "https://avatars3.githubusercontent.com/u/22622535?v=3&s=460",
+  "uid": 22622535,
+  "repos": 9,
+  "stars": 5,
+  "followers": 5,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/grey-hub/ionic-conference-app"
+    },
+    {
+      "url": "/grey-hub/Litter-collecting-robot"
+    },
+    {
+      "url": "/grey-hub/angular-calendar"
+    },
+    {
+      "url": "/grey-hub/Ambrosia"
+    },
+    {
+      "url": "/grey-hub/react-native-calendar"
+    },
+    {
+      "url": "/grey-hub/react-native-calendar-responsive"
+    }
+  ],
+  "worksfor": "@jeasolutions",
+  "location": "Mexico",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/22622535?v=3&s=460",
+  "contribs": 11,
+  "orgs": []
+}

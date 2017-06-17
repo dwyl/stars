@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/wesleytodd",
+  "img": "https://avatars3.githubusercontent.com/u/1027776?v=3&s=460",
+  "uid": 1027776,
+  "repos": 125,
+  "stars": 302,
+  "followers": 95,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/wesleytodd/nighthawk"
+    },
+    {
+      "url": "/wesleytodd/rabinjs"
+    },
+    {
+      "url": "/pillarjs/router"
+    },
+    {
+      "url": "/wesleytodd/YeoPress"
+    },
+    {
+      "url": "/wesleytodd/react-express-middleware"
+    },
+    {
+      "url": "/Node-Ops/node-apt-get"
+    }
+  ],
+  "worksfor": "@StreamMeDev",
+  "location": "Austin, TX",
+  "fullname": "Wes Todd",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1027776?v=3&s=460",
+  "contribs": 420,
+  "orgs": [
+    {
+      "Node-Ops": "https://avatars2.githubusercontent.com/u/7305101?v=3&s=70"
+    },
+    {
+      "pillarjs": "https://avatars3.githubusercontent.com/u/8441312?v=3&s=70"
+    },
+    {
+      "MusicMapIo": "https://avatars0.githubusercontent.com/u/11539797?v=3&s=70"
+    },
+    {
+      "StreamMeBots": "https://avatars3.githubusercontent.com/u/12395687?v=3&s=70"
+    },
+    {
+      "StreamMeDev": "https://avatars2.githubusercontent.com/u/17912029?v=3&s=70"
+    },
+    {
+      "happinessjs": "https://avatars0.githubusercontent.com/u/19911129?v=3&s=70"
+    }
+  ]
+}

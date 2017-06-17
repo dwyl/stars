@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/DavidBM",
+  "img": "https://avatars1.githubusercontent.com/u/5861250?v=3&s=460",
+  "uid": 5861250,
+  "repos": 17,
+  "stars": 47,
+  "followers": 19,
+  "following": 43,
+  "pinned": [
+    {
+      "url": "/DavidBM/rust-webserver-example-with-iron-diesel-r2d2-serde"
+    },
+    {
+      "url": "/DavidBM/pixi-nativeGLline"
+    },
+    {
+      "url": "/DavidBM/HexPixiJs"
+    },
+    {
+      "url": "/DavidBM/dom-wrapper"
+    },
+    {
+      "url": "/DavidBM/Hexagon.js"
+    },
+    {
+      "url": "/DavidBM/promises-pubsub"
+    }
+  ],
+  "worksfor": "@omnea",
+  "location": "Berlin",
+  "fullname": "David Bonet",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/5861250?v=3&s=460",
+  "contribs": 1702,
+  "orgs": [
+    {
+      "Valencia-JS": "https://avatars3.githubusercontent.com/u/8921237?v=3&s=70"
+    }
+  ]
+}

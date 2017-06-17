@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/AustinGreen",
+  "img": "https://avatars3.githubusercontent.com/u/5200555?v=3&s=460",
+  "uid": 5200555,
+  "repos": 27,
+  "stars": 65,
+  "followers": 5,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/AustinGreen/hackernews-client"
+    },
+    {
+      "url": "/AustinGreen/tic-tac-react"
+    },
+    {
+      "url": "/AustinGreen/weather-forecast"
+    },
+    {
+      "url": "/AustinGreen/middleman-bootstrap-heroku-boilerplate"
+    },
+    {
+      "url": "/AustinGreen/how-old-am-i"
+    },
+    {
+      "url": "/AustinGreen/react-scoreboard"
+    }
+  ],
+  "worksfor": "",
+  "location": "NY",
+  "fullname": "Austin Green",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/5200555?v=3&s=460",
+  "contribs": 808,
+  "orgs": []
+}

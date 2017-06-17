@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/szabacsik",
+  "img": "https://avatars2.githubusercontent.com/u/1412263?v=3&s=460",
+  "uid": 1412263,
+  "repos": 17,
+  "stars": 47,
+  "followers": 1,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/szabacsik/summoner"
+    },
+    {
+      "url": "/szabacsik/temphplate"
+    },
+    {
+      "url": "/szabacsik/dockerfiles"
+    },
+    {
+      "url": "/szabacsik/perl-AnyEvent_HTTP_Memory_Usage"
+    },
+    {
+      "url": "/szabacsik/perl-LWP_UserAgent_Memory_Usage"
+    },
+    {
+      "url": "/szabacsik/backup_with_rsync"
+    }
+  ],
+  "worksfor": "improwerk.com",
+  "location": "Hungary, Budapest",
+  "fullname": "András Szabácsik",
+  "website": "https://ello.co/szabacsik",
+  "avatar": "https://avatars2.githubusercontent.com/u/1412263?v=3&s=460",
+  "contribs": 78,
+  "orgs": []
+}

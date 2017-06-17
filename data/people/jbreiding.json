@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jbreiding",
+  "img": "https://avatars2.githubusercontent.com/u/6350301?v=3&s=460",
+  "uid": 6350301,
+  "repos": 35,
+  "stars": 951,
+  "followers": 5,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/jbreiding/rsync-go"
+    },
+    {
+      "url": "/jbreiding/hyde-x"
+    },
+    {
+      "url": "/jbreiding/spf13.com"
+    },
+    {
+      "url": "/jbreiding/JungleDiskSourceExample"
+    },
+    {
+      "url": "/jbreiding/JungleDiskSourceExample2"
+    },
+    {
+      "url": "/jbreiding/go-sync"
+    }
+  ],
+  "worksfor": "",
+  "location": "Redmond, WA",
+  "fullname": "Jeremy Breiding",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/6350301?v=3&s=460",
+  "contribs": 80,
+  "orgs": [
+    {
+      "eucalyptus": "https://avatars2.githubusercontent.com/u/808244?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bradstewart",
+  "img": "https://avatars2.githubusercontent.com/u/3613191?v=3&s=460",
+  "uid": 3613191,
+  "repos": 18,
+  "stars": 622,
+  "followers": 11,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/bradstewart/electron-boilerplate-vue"
+    },
+    {
+      "url": "/bradstewart/vuex-persist"
+    },
+    {
+      "url": "/bradstewart/bradstewart.github.io"
+    },
+    {
+      "url": "/bradstewart/treypierce.rocks"
+    },
+    {
+      "url": "/bradstewart/axlsx"
+    },
+    {
+      "url": "/bradstewart/awesome-vue"
+    }
+  ],
+  "worksfor": "",
+  "location": "Austin, TX",
+  "fullname": "Brad Stewart",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/3613191?v=3&s=460",
+  "contribs": 22,
+  "orgs": []
+}

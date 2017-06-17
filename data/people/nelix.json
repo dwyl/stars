@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/nelix",
+  "img": "https://avatars2.githubusercontent.com/u/33324?v=3&s=460",
+  "uid": 33324,
+  "repos": 46,
+  "stars": 1200,
+  "followers": 55,
+  "following": 322,
+  "pinned": [
+    {
+      "url": "/nelix/fluxxor-react-chrome-boilerplate"
+    },
+    {
+      "url": "/nelix/react-resize-detection"
+    },
+    {
+      "url": "/nelix/cowsay-loader"
+    },
+    {
+      "url": "/nelix/BrowserUpload"
+    },
+    {
+      "url": "/nelix/firebase-schema"
+    },
+    {
+      "url": "/nelix/axolotl"
+    }
+  ],
+  "worksfor": "",
+  "location": "melbourne, australia",
+  "fullname": "Nathan Hutchision",
+  "website": "https://nathanhutchison.ninja",
+  "avatar": "https://avatars2.githubusercontent.com/u/33324?v=3&s=460",
+  "contribs": 46,
+  "orgs": []
+}

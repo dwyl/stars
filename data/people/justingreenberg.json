@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/justingreenberg",
+  "img": "https://avatars2.githubusercontent.com/u/1539088?v=3&s=460",
+  "uid": 1539088,
+  "repos": 2,
+  "stars": 1500,
+  "followers": 103,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/react-boilerplate/react-boilerplate"
+    },
+    {
+      "url": "/jaredpalmer/razzle"
+    },
+    {
+      "url": "/facebook/react"
+    },
+    {
+      "url": "/webpack/webpack"
+    },
+    {
+      "url": "/mbasso/refraction"
+    },
+    {
+      "url": "/justingreenberg/styled-jsx"
+    }
+  ],
+  "worksfor": "",
+  "location": "New York City",
+  "fullname": "Justin Greenberg",
+  "website": "https://justingreenberg.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1539088?v=3&s=460",
+  "contribs": 958,
+  "orgs": [
+    {
+      "react-boilerplate": "https://avatars1.githubusercontent.com/u/25323389?v=3&s=70"
+    }
+  ]
+}

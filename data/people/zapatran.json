@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/zapatran",
+  "img": "https://avatars2.githubusercontent.com/u/13393006?v=3&s=460",
+  "uid": 13393006,
+  "repos": 15,
+  "stars": 69,
+  "followers": 18,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/zapatran/template-express"
+    },
+    {
+      "url": "/zapatran/Conway-s-game-of-life"
+    },
+    {
+      "url": "/zapatran/spotApp"
+    },
+    {
+      "url": "/zapatran/quiz_game"
+    },
+    {
+      "url": "/zapatran/WeatherWebApp"
+    },
+    {
+      "url": "/zapatran/templateWebpackReact"
+    }
+  ],
+  "worksfor": "",
+  "location": "Barcelona, Spain",
+  "fullname": "Thor Jubera Albo",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/13393006?v=3&s=460",
+  "contribs": 86,
+  "orgs": []
+}

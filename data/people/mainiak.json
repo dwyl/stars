@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/mainiak",
+  "img": "https://avatars1.githubusercontent.com/u/691076?v=3&s=460",
+  "uid": 691076,
+  "repos": 29,
+  "stars": 1400,
+  "followers": 18,
+  "following": 64,
+  "pinned": [
+    {
+      "url": "/mainiak/packer"
+    },
+    {
+      "url": "/mainiak/ipcalc"
+    },
+    {
+      "url": "/mainiak/pack"
+    },
+    {
+      "url": "/initcz/shogi"
+    },
+    {
+      "url": "/petrvolny/cz-hackathon-portal"
+    },
+    {
+      "url": "/mainiak/node-rtp"
+    }
+  ],
+  "worksfor": "",
+  "location": "Vancouver, Canada",
+  "fullname": "Jakub Viták",
+  "website": "http://www.vitak.biz/",
+  "avatar": "https://avatars1.githubusercontent.com/u/691076?v=3&s=460",
+  "contribs": 513,
+  "orgs": [
+    {
+      "CzechHackathon2013": "https://avatars1.githubusercontent.com/u/5663870?v=3&s=70"
+    },
+    {
+      "initcz": "https://avatars3.githubusercontent.com/u/5954829?v=3&s=70"
+    }
+  ]
+}

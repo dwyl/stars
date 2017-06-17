@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/philbooth",
+  "img": "https://avatars3.githubusercontent.com/u/64367?v=3&s=460",
+  "uid": 64367,
+  "repos": 55,
+  "stars": 375,
+  "followers": 89,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/philbooth/surch"
+    },
+    {
+      "url": "/philbooth/scrumpy"
+    },
+    {
+      "url": "/philbooth/hoopy"
+    },
+    {
+      "url": "/philbooth/bfj"
+    },
+    {
+      "url": "/philbooth/check-types.js"
+    },
+    {
+      "url": "/philbooth/vagueTime.js"
+    }
+  ],
+  "worksfor": "@mozilla",
+  "location": "Bournemouth, UK",
+  "fullname": "Phil Booth",
+  "website": "https://philbooth.me/",
+  "avatar": "https://avatars3.githubusercontent.com/u/64367?v=3&s=460",
+  "contribs": 1328,
+  "orgs": [
+    {
+      "mozilla": "https://avatars2.githubusercontent.com/u/131524?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

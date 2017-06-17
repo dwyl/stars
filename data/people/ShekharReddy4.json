@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/ShekharReddy4",
+  "img": "https://avatars1.githubusercontent.com/u/12573225?v=3&s=460",
+  "uid": 12573225,
+  "repos": 92,
+  "stars": 1200,
+  "followers": 24,
+  "following": 246,
+  "pinned": [
+    {
+      "url": "/ShekharReddy4/openmrs-contrib-atlas-node"
+    },
+    {
+      "url": "/ShekharReddy4/atlas-node-multipass"
+    },
+    {
+      "url": "/ShekharReddy4/atlas-mockid-node"
+    },
+    {
+      "url": "/ShekharReddy4/atlas-mock-id"
+    },
+    {
+      "url": "/ShekharReddy4/sso-demo"
+    },
+    {
+      "url": "/ShekharReddy4/openmrs-module-atlas"
+    }
+  ],
+  "worksfor": "OpenMRS, KMITFOSS",
+  "location": "Hyderabad",
+  "fullname": "Shekhar Reddy",
+  "website": "https://shekharreddy4.github.io/",
+  "avatar": "https://avatars1.githubusercontent.com/u/12573225?v=3&s=460",
+  "contribs": 597,
+  "orgs": [
+    {
+      "openmrs": "https://avatars1.githubusercontent.com/u/860776?v=3&s=70"
+    },
+    {
+      "KMITFOSS": "https://avatars0.githubusercontent.com/u/21003701?v=3&s=70"
+    }
+  ]
+}

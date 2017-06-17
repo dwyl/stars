@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/jkuri",
+  "img": "https://avatars0.githubusercontent.com/u/1796022?v=3&s=460",
+  "uid": 1796022,
+  "repos": 45,
+  "stars": 505,
+  "followers": 147,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/bleenco/abstruse"
+    },
+    {
+      "url": "/bleenco/morose"
+    },
+    {
+      "url": "/bleenco/bterm"
+    },
+    {
+      "url": "/bleenco/angular-webpack-seed"
+    },
+    {
+      "url": "/bleenco/angular-closure-compiler"
+    },
+    {
+      "url": "/jkuri/ngx-uploader"
+    }
+  ],
+  "worksfor": "@bleenco",
+  "location": "Slovenia",
+  "fullname": "Jan Kuri",
+  "website": "https://jankuri.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1796022?v=3&s=460",
+  "contribs": 1278,
+  "orgs": [
+    {
+      "angular": "https://avatars1.githubusercontent.com/u/139426?v=3&s=70"
+    },
+    {
+      "bleenco": "https://avatars0.githubusercontent.com/u/26046537?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/ngub",
+  "img": "https://avatars2.githubusercontent.com/u/11064453?v=3&s=460",
+  "uid": 11064453,
+  "repos": 5,
+  "stars": 124,
+  "followers": 6,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/ngub/BP-351"
+    },
+    {
+      "url": "/ngub/gagarin_bot"
+    },
+    {
+      "url": "/ngub/react-css-modules"
+    },
+    {
+      "url": "/ngub/dotfiles"
+    },
+    {
+      "url": "/ngub/recompose"
+    }
+  ],
+  "worksfor": "@c7s",
+  "location": "Moscow, Russia",
+  "fullname": "Nikita Gubchenko",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/11064453?v=3&s=460",
+  "contribs": 138,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/kfei",
+  "img": "https://avatars2.githubusercontent.com/u/1492892?v=3&s=460",
+  "uid": 1492892,
+  "repos": 54,
+  "stars": 180,
+  "followers": 29,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/kfei/docktorrent"
+    },
+    {
+      "url": "/kfei/slack-cleaner"
+    },
+    {
+      "url": "/kfei/vue-s3-dropzone"
+    },
+    {
+      "url": "/kfei/sshcam"
+    },
+    {
+      "url": "/kfei/img2xterm"
+    },
+    {
+      "url": "/kfei/ptt-watcher"
+    }
+  ],
+  "worksfor": "",
+  "location": "Taiwan",
+  "fullname": "LIN, KE-FEI",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1492892?v=3&s=460",
+  "contribs": 85,
+  "orgs": [
+    {
+      "hacking-thursday": "https://avatars1.githubusercontent.com/u/516188?v=3&s=70"
+    }
+  ]
+}

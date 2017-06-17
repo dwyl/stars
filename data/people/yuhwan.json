@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/yuhwan",
+  "img": "https://avatars2.githubusercontent.com/u/19233714?v=3&s=460",
+  "uid": 19233714,
+  "repos": 5,
+  "stars": 77,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/yuhwan/node-logstash"
+    },
+    {
+      "url": "/yuhwan/serverless-run-function-plugin"
+    },
+    {
+      "url": "/yuhwan/element"
+    },
+    {
+      "url": "/yuhwan/crawler-user-agents"
+    },
+    {
+      "url": "/yuhwan/serverless"
+    }
+  ],
+  "worksfor": "Delight Room",
+  "location": "South Korea",
+  "fullname": "yuhwan",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/19233714?v=3&s=460",
+  "contribs": 776,
+  "orgs": []
+}

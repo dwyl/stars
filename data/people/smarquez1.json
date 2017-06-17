@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/smarquez1",
+  "img": "https://avatars1.githubusercontent.com/u/4602587?v=3&s=460",
+  "uid": 4602587,
+  "repos": 6,
+  "stars": 100,
+  "followers": 15,
+  "following": 37,
+  "pinned": [
+    {
+      "url": "/smarquez1/.dotfiles"
+    },
+    {
+      "url": "/smarquez1/active_model_serializers"
+    },
+    {
+      "url": "/smarquez1/react-actioncable-provider"
+    },
+    {
+      "url": "/smarquez1/pry-rails"
+    },
+    {
+      "url": "/smarquez1/vim-test"
+    },
+    {
+      "url": "/smarquez1/active-elastic-job"
+    }
+  ],
+  "worksfor": "",
+  "location": "Wellington, New Zealand",
+  "fullname": "Sergio Márquez",
+  "website": "http://smarquez1.github.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/4602587?v=3&s=460",
+  "contribs": 776,
+  "orgs": []
+}

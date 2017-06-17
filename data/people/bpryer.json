@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bpryer",
+  "img": "https://avatars2.githubusercontent.com/u/6243027?v=3&s=460",
+  "uid": 6243027,
+  "repos": 10,
+  "stars": 118,
+  "followers": 0,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/bpryer/data-acquisition"
+    },
+    {
+      "url": "/bpryer/react-redux-typescript"
+    },
+    {
+      "url": "/bpryer/express-jwt-example"
+    },
+    {
+      "url": "/bpryer/upm"
+    },
+    {
+      "url": "/bpryer/DroneProjects"
+    },
+    {
+      "url": "/bpryer/nosql-ts"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/6243027?v=3&s=460",
+  "contribs": 14,
+  "orgs": []
+}

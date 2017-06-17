@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mooreniemi",
+  "img": "https://avatars1.githubusercontent.com/u/1695630?v=3&s=460",
+  "uid": 1695630,
+  "repos": 58,
+  "stars": 1300,
+  "followers": 22,
+  "following": 83,
+  "pinned": [
+    {
+      "url": "/mooreniemi/graph-function"
+    },
+    {
+      "url": "/mooreniemi/array_collapse"
+    },
+    {
+      "url": "/mooreniemi/figtree"
+    },
+    {
+      "url": "/mooreniemi/proc_compose"
+    },
+    {
+      "url": "/mooreniemi/pubsub-test-bridge"
+    },
+    {
+      "url": "/mooreniemi/hypermedia-presentation"
+    }
+  ],
+  "worksfor": "Raizlabs",
+  "location": "Boston, MA",
+  "fullname": "Alex Moore-Niemi",
+  "website": "http://mooreniemi.github.io/",
+  "avatar": "https://avatars1.githubusercontent.com/u/1695630?v=3&s=460",
+  "contribs": 1300,
+  "orgs": []
+}

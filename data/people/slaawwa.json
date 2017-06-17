@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/slaawwa",
+  "img": "https://avatars2.githubusercontent.com/u/7081457?v=3&s=460",
+  "uid": 7081457,
+  "repos": 14,
+  "stars": 10,
+  "followers": 4,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/slaawwa/simple-module"
+    },
+    {
+      "url": "/slaawwa/hapi-auth-jwt2-payload"
+    },
+    {
+      "url": "/slaawwa/gulp-git-sftp"
+    },
+    {
+      "url": "/slaawwa/jquery.time"
+    }
+  ],
+  "worksfor": "@progforce",
+  "location": "UA, Kyiv",
+  "fullname": "Viacheslav Kushnir",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/7081457?v=3&s=460",
+  "contribs": 86,
+  "orgs": []
+}

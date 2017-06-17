@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/valentjedi",
+  "img": "https://avatars3.githubusercontent.com/u/7038954?v=3&s=460",
+  "uid": 7038954,
+  "repos": 9,
+  "stars": 113,
+  "followers": 1,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/valentjedi/ddd-dynamic"
+    },
+    {
+      "url": "/valentjedi/django-bot"
+    },
+    {
+      "url": "/valentjedi/fogstream_task"
+    },
+    {
+      "url": "/valentjedi/dotfiles"
+    },
+    {
+      "url": "/valentjedi/django-debug-toolbar"
+    },
+    {
+      "url": "/valentjedi/spacemacs"
+    }
+  ],
+  "worksfor": "",
+  "location": "Khabarovsk, Russia",
+  "fullname": "Valentin Ignatyev",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/7038954?v=3&s=460",
+  "contribs": 466,
+  "orgs": []
+}

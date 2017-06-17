@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/kinlane",
+  "img": "https://avatars3.githubusercontent.com/u/56100?v=3&s=460",
+  "uid": 56100,
+  "repos": 210,
+  "stars": 188,
+  "followers": 322,
+  "following": 515,
+  "pinned": [
+    {
+      "url": "/kinlane/api-evangelist"
+    },
+    {
+      "url": "/kinlane/csv-converter"
+    },
+    {
+      "url": "/kinlane/hack-weekends-guide"
+    },
+    {
+      "url": "/kinlane/InstapaperXAuth"
+    },
+    {
+      "url": "/kinlane/openapi-toolbox"
+    },
+    {
+      "url": "/kinlane/github-micro-tool"
+    }
+  ],
+  "worksfor": "Kin Lane",
+  "location": "United States",
+  "fullname": "Kin Lane",
+  "website": "http://apievangelist.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/56100?v=3&s=460",
+  "contribs": 54788,
+  "orgs": [
+    {
+      "simple-api": "https://avatars3.githubusercontent.com/u/5497601?v=3&s=70"
+    }
+  ]
+}

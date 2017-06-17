@@ -1,0 +1,28 @@
+{
+  "url": "https://github.com/aledbf",
+  "img": "https://avatars1.githubusercontent.com/u/161571?v=3&s=460",
+  "uid": 161571,
+  "repos": 165,
+  "stars": 624,
+  "followers": 48,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/kubernetes/ingress"
+    }
+  ],
+  "worksfor": "",
+  "location": "Santiago de Chile",
+  "fullname": "Manuel Alejandro de Brito Fontes",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/161571?v=3&s=460",
+  "contribs": 1425,
+  "orgs": [
+    {
+      "node-forward": "https://avatars2.githubusercontent.com/u/8192112?v=3&s=70"
+    },
+    {
+      "kubernetes": "https://avatars0.githubusercontent.com/u/13629408?v=3&s=70"
+    }
+  ]
+}

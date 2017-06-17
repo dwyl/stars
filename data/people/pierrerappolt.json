@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/pierrerappolt",
+  "img": "https://avatars0.githubusercontent.com/u/17114120?v=3&s=460",
+  "uid": 17114120,
+  "repos": 10,
+  "stars": 10,
+  "followers": 2,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/pierrerappolt/titanic-nltk"
+    },
+    {
+      "url": "/pierrerappolt/card-trick-21"
+    },
+    {
+      "url": "/pierrerappolt/Bayesian-Modelling-in-Python"
+    },
+    {
+      "url": "/pierrerappolt/reinforcement-learning"
+    },
+    {
+      "url": "/pierrerappolt/learn-tdd"
+    },
+    {
+      "url": "/pierrerappolt/aws-lambda-test-utils"
+    }
+  ],
+  "worksfor": "@Woebot",
+  "location": "SF, CA",
+  "fullname": "Pierre Rappolt",
+  "website": "http://m.me/drwoebot",
+  "avatar": "https://avatars0.githubusercontent.com/u/17114120?v=3&s=460",
+  "contribs": 274,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/vomchik",
+  "img": "https://avatars1.githubusercontent.com/u/732085?v=3&s=460",
+  "uid": 732085,
+  "repos": 10,
+  "stars": 504,
+  "followers": 16,
+  "following": 52,
+  "pinned": [
+    {
+      "url": "/vomchik/traffic-light-for-jenkins"
+    },
+    {
+      "url": "/vomchik/presentation-chrome-extension-intro"
+    },
+    {
+      "url": "/vomchik/matsola.name"
+    },
+    {
+      "url": "/vomchik/jscs-fixer"
+    },
+    {
+      "url": "/vomchik/react-select"
+    },
+    {
+      "url": "/vomchik/intellij-emberjs"
+    }
+  ],
+  "worksfor": "@litslink",
+  "location": "Kiev, Ukraine",
+  "fullname": "Vladimir Matsola",
+  "website": "http://matsola.name",
+  "avatar": "https://avatars1.githubusercontent.com/u/732085?v=3&s=460",
+  "contribs": 1384,
+  "orgs": []
+}

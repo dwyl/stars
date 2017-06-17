@@ -1,0 +1,71 @@
+{
+  "url": "https://github.com/CuriousLearner",
+  "img": "https://avatars2.githubusercontent.com/u/8039608?v=3&s=460",
+  "uid": 8039608,
+  "repos": 65,
+  "stars": 617,
+  "followers": 155,
+  "following": 114,
+  "pinned": [
+    {
+      "url": "/python/cpython"
+    },
+    {
+      "url": "/python/devguide"
+    },
+    {
+      "url": "/mozilla/gecko-dev"
+    },
+    {
+      "url": "/oppia/oppia"
+    },
+    {
+      "url": "/CuriousLearner/GeeksForGeeksScrapper"
+    },
+    {
+      "url": "/pythonindia/inpycon2016"
+    }
+  ],
+  "worksfor": "@Mozpacers",
+  "location": "New Delhi, India",
+  "fullname": "Sanyam Khurana",
+  "website": "http://www.TheGeekyWay.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/8039608?v=3&s=460",
+  "contribs": 1638,
+  "orgs": [
+    {
+      "duckduckgo": "https://avatars1.githubusercontent.com/u/342708?v=3&s=70"
+    },
+    {
+      "pythonindia": "https://avatars0.githubusercontent.com/u/1763047?v=3&s=70"
+    },
+    {
+      "dgplug": "https://avatars3.githubusercontent.com/u/5239052?v=3&s=70"
+    },
+    {
+      "pydelhi": "https://avatars2.githubusercontent.com/u/7951742?v=3&s=70"
+    },
+    {
+      "Mozpacers": "https://avatars3.githubusercontent.com/u/12863258?v=3&s=70"
+    },
+    {
+      "pydsa": "https://avatars0.githubusercontent.com/u/17147213?v=3&s=70"
+    },
+    {
+      "MozillaWebKeepers": "https://avatars1.githubusercontent.com/u/19254100?v=3&s=70"
+    },
+    {
+      "MozillaNIEC": "https://avatars0.githubusercontent.com/u/19254153?v=3&s=70"
+    },
+    {
+      "ILUGD": "https://avatars0.githubusercontent.com/u/23295609?v=3&s=70"
+    },
+    {
+      "LinuxChixIndia": "https://avatars1.githubusercontent.com/u/24838409?v=3&s=70"
+    },
+    {
+      "TheGeekyWay": "https://avatars1.githubusercontent.com/u/28338068?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

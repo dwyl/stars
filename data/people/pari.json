@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/pari",
+  "img": "https://avatars2.githubusercontent.com/u/226929?v=3&s=460",
+  "uid": 226929,
+  "repos": 11,
+  "stars": 462,
+  "followers": 4,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/pari/googlevoiceapi"
+    },
+    {
+      "url": "/pari/grocery-crud"
+    },
+    {
+      "url": "/pari/lgh"
+    },
+    {
+      "url": "/pari/PHPVerbalExpressions"
+    },
+    {
+      "url": "/pari/batlog"
+    },
+    {
+      "url": "/pari/et"
+    }
+  ],
+  "worksfor": "CenterLimit",
+  "location": "Hyderabad,AP",
+  "fullname": "Pari Nannapaneni",
+  "website": "http://centerlimit.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/226929?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

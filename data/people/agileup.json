@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/agileup",
+  "img": "https://avatars0.githubusercontent.com/u/3746482?v=3&s=460",
+  "uid": 3746482,
+  "repos": 26,
+  "stars": 201,
+  "followers": 15,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/agileup/tosslab.github.io"
+    },
+    {
+      "url": "/agileup/agileup.github.com"
+    },
+    {
+      "url": "/agileup/bookstore"
+    },
+    {
+      "url": "/agileup/codingeverybody"
+    },
+    {
+      "url": "/agileup/scala-for-the-impatient"
+    },
+    {
+      "url": "/agileup/DesignPatternsPHP"
+    }
+  ],
+  "worksfor": "Toss Lab, Inc.",
+  "location": "Seoul",
+  "fullname": "MK CHOI",
+  "website": "http://agileup.postach.io/",
+  "avatar": "https://avatars0.githubusercontent.com/u/3746482?v=3&s=460",
+  "contribs": 777,
+  "orgs": [
+    {
+      "tosslab": "https://avatars2.githubusercontent.com/u/7029931?v=3&s=70"
+    }
+  ]
+}

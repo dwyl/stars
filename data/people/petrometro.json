@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/petrometro",
+  "img": "https://avatars2.githubusercontent.com/u/1747194?v=3&s=460",
+  "uid": 1747194,
+  "repos": 13,
+  "stars": 89,
+  "followers": 2,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/petrometro/jQuery-File-Upload"
+    },
+    {
+      "url": "/petrometro/grunt-bbb"
+    },
+    {
+      "url": "/petrometro/meteor-handlebars-server"
+    },
+    {
+      "url": "/petrometro/meteor-autocomplete"
+    },
+    {
+      "url": "/petrometro/meteor-collection2"
+    },
+    {
+      "url": "/petrometro/meteor-tabular"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1747194?v=3&s=460",
+  "contribs": 5,
+  "orgs": []
+}

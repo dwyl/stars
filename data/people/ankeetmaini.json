@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ankeetmaini",
+  "img": "https://avatars0.githubusercontent.com/u/6652823?v=3&s=460",
+  "uid": 6652823,
+  "repos": 61,
+  "stars": 211,
+  "followers": 13,
+  "following": 105,
+  "pinned": [
+    {
+      "url": "/ankeetmaini/react-infinite-scroll-component"
+    },
+    {
+      "url": "/ankeetmaini/computer-science-in-javascript"
+    },
+    {
+      "url": "/facebook/react"
+    },
+    {
+      "url": "/apache/lens"
+    },
+    {
+      "url": "/mathanpec/simple-react-forms"
+    },
+    {
+      "url": "/Flipkart/fk-prof"
+    }
+  ],
+  "worksfor": "Flipkart",
+  "location": "Bangalore",
+  "fullname": "Ankeet Maini",
+  "website": "http://ankeetmaini.github.io/",
+  "avatar": "https://avatars0.githubusercontent.com/u/6652823?v=3&s=460",
+  "contribs": 994,
+  "orgs": []
+}

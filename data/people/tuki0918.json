@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/tuki0918",
+  "img": "https://avatars1.githubusercontent.com/u/886088?v=3&s=460",
+  "uid": 886088,
+  "repos": 78,
+  "stars": 675,
+  "followers": 10,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/tuki0918/Pac-Man"
+    },
+    {
+      "url": "/tuki0918/Rakuten-API-ItemSearch-API2-API-"
+    },
+    {
+      "url": "/tuki0918/Rakuten-API-ItemSearch"
+    },
+    {
+      "url": "/tuki0918/travis-ci-sample"
+    },
+    {
+      "url": "/tuki0918/jenkins-with-docker-demo"
+    },
+    {
+      "url": "/tuki0918/jenkins_phpunit"
+    }
+  ],
+  "worksfor": "japan",
+  "location": "Osaka",
+  "fullname": "tuki0918",
+  "website": "http://tuki0918.github.io/",
+  "avatar": "https://avatars1.githubusercontent.com/u/886088?v=3&s=460",
+  "contribs": 730,
+  "orgs": [
+    {
+      "tuki0918-dev": "https://avatars0.githubusercontent.com/u/25114344?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

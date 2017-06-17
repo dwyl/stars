@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/styler",
+  "img": "https://avatars0.githubusercontent.com/u/10061593?v=3&s=460",
+  "uid": 10061593,
+  "repos": 17,
+  "stars": 37,
+  "followers": 13,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/StreamElements/api-docs"
+    },
+    {
+      "url": "/styler/letsencrypt"
+    }
+  ],
+  "worksfor": "@StreamElements",
+  "location": "Denmark",
+  "fullname": "Styler",
+  "website": "https://streamelements.com/",
+  "avatar": "https://avatars0.githubusercontent.com/u/10061593?v=3&s=460",
+  "contribs": 3996,
+  "orgs": [
+    {
+      "StreamElements": "https://avatars0.githubusercontent.com/u/16977512?v=3&s=70"
+    },
+    {
+      "chatterino": "https://avatars3.githubusercontent.com/u/24636696?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

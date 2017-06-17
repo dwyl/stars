@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/qeesung",
+  "img": "https://avatars2.githubusercontent.com/u/5669272?v=3&s=460",
+  "uid": 5669272,
+  "repos": 31,
+  "stars": 209,
+  "followers": 8,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/qeesung/rocketchat-node"
+    },
+    {
+      "url": "/qeesung/my-angular"
+    },
+    {
+      "url": "/qeesung/mq-pipeline-notifier-plugin"
+    },
+    {
+      "url": "/qeesung/algorithm"
+    },
+    {
+      "url": "/qeesung/dm"
+    },
+    {
+      "url": "/qeesung/p-cost"
+    }
+  ],
+  "worksfor": "Huawei",
+  "location": "广东 广州",
+  "fullname": "秦世成",
+  "website": "http://qeesung.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/5669272?v=3&s=460",
+  "contribs": 480,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/eteamin",
+  "img": "https://avatars2.githubusercontent.com/u/17616422?v=3&s=460",
+  "uid": 17616422,
+  "repos": 34,
+  "stars": 64,
+  "followers": 7,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/eteamin/async_faspell"
+    },
+    {
+      "url": "/eteamin/RFID230-2-python-driver"
+    },
+    {
+      "url": "/eteamin/async_bruteforce"
+    },
+    {
+      "url": "/eteamin/humanize"
+    },
+    {
+      "url": "/eteamin/blog"
+    },
+    {
+      "url": "/eteamin/pynotif"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Amin Etesamian",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/17616422?v=3&s=460",
+  "contribs": 772,
+  "orgs": []
+}

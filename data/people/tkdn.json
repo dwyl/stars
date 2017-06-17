@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/tkdn",
+  "img": "https://avatars2.githubusercontent.com/u/797187?v=3&s=460",
+  "uid": 797187,
+  "repos": 8,
+  "stars": 361,
+  "followers": 3,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/tkdn/browserify-demo"
+    },
+    {
+      "url": "/tkdn/postjQueryAnimate"
+    },
+    {
+      "url": "/tkdn/middleman-boilerplate"
+    },
+    {
+      "url": "/tkdn/setup-brewfile"
+    },
+    {
+      "url": "/tkdn/fish-shell-setup-osx"
+    },
+    {
+      "url": "/tkdn/front-boilerplate"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Satoshi Takeda",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/797187?v=3&s=460",
+  "contribs": 41,
+  "orgs": []
+}

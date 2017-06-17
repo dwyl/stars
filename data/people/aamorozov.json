@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/aamorozov",
+  "img": "https://avatars1.githubusercontent.com/u/10227658?v=3&s=460",
+  "uid": 10227658,
+  "repos": 5,
+  "stars": 31,
+  "followers": 2,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/aamorozov/WebdriverTestSuite"
+    },
+    {
+      "url": "/aamorozov/mocha"
+    },
+    {
+      "url": "/aamorozov/nightwatch"
+    },
+    {
+      "url": "/aamorozov/appium"
+    },
+    {
+      "url": "/aamorozov/testCI"
+    }
+  ],
+  "worksfor": "HZDG",
+  "location": "",
+  "fullname": "Andrey Morozov",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/10227658?v=3&s=460",
+  "contribs": 1199,
+  "orgs": []
+}

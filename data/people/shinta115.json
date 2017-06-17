@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/shinta115",
+  "img": "https://avatars3.githubusercontent.com/u/13404162?v=3&s=460",
+  "uid": 13404162,
+  "repos": 3,
+  "stars": 1,
+  "followers": 1,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/shinta115/TypeScriptSamples"
+    },
+    {
+      "url": "/shinta115/bot-fmk-dashboard"
+    },
+    {
+      "url": "/shinta115/tape-nock-with-supertest-example"
+    }
+  ],
+  "worksfor": "Sage",
+  "location": "Barcelona",
+  "fullname": "Manuel Pérez Noguera",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/13404162?v=3&s=460",
+  "contribs": 8,
+  "orgs": []
+}

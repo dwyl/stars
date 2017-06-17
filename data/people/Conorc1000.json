@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/Conorc1000",
+  "img": "https://avatars0.githubusercontent.com/u/12072531?v=3&s=460",
+  "uid": 12072531,
+  "repos": 24,
+  "stars": 29,
+  "followers": 28,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/Conorc1000/ServerSideReact"
+    },
+    {
+      "url": "/Conorc1000/Word-Soup"
+    },
+    {
+      "url": "/Conorc1000/Oauth2Tutorial"
+    },
+    {
+      "url": "/Conorc1000/FAC9-nightwatch"
+    },
+    {
+      "url": "/Conorc1000/hello-world"
+    },
+    {
+      "url": "/Conorc1000/boggle-solver"
+    }
+  ],
+  "worksfor": "@dwyl",
+  "location": "London",
+  "fullname": "Conor Campbell",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/12072531?v=3&s=460",
+  "contribs": 2178,
+  "orgs": [
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "FAC6": "https://avatars3.githubusercontent.com/u/13964431?v=3&s=70"
+    }
+  ]
+}

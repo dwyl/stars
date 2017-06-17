@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Cleop",
+  "img": "https://avatars2.githubusercontent.com/u/16775804?v=3&s=460",
+  "uid": 16775804,
+  "repos": 15,
+  "stars": 12,
+  "followers": 23,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/Cleop/triumph-website"
+    },
+    {
+      "url": "/Cleop/database-project"
+    },
+    {
+      "url": "/Cleop/dish-board"
+    },
+    {
+      "url": "/Cleop/donation-api"
+    },
+    {
+      "url": "/Cleop/payments-db"
+    },
+    {
+      "url": "/Cleop/react-cv"
+    }
+  ],
+  "worksfor": "@dwyl",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/16775804?v=3&s=460",
+  "contribs": 1876,
+  "orgs": [
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ]
+}

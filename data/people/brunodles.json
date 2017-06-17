@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/brunodles",
+  "img": "https://avatars0.githubusercontent.com/u/4053904?v=3&s=460",
+  "uid": 4053904,
+  "repos": 93,
+  "stars": 179,
+  "followers": 62,
+  "following": 73,
+  "pinned": [
+    {
+      "url": "/brunodles/PicPicker"
+    },
+    {
+      "url": "/brunodles/AndroidSimplePreferences"
+    },
+    {
+      "url": "/brunodles/SlackUpload"
+    },
+    {
+      "url": "/brunodles/GradleHelpers"
+    },
+    {
+      "url": "/brunodles/java-validation"
+    },
+    {
+      "url": "/brunodles/IpGetter"
+    }
+  ],
+  "worksfor": "@concretesolutions",
+  "location": "São Paulo, São Paulo - Brasil",
+  "fullname": "Bruno de Lima e Silva",
+  "website": "http://brunodles.github.io/",
+  "avatar": "https://avatars0.githubusercontent.com/u/4053904?v=3&s=460",
+  "contribs": 615,
+  "orgs": [
+    {
+      "gdgmaceio": "https://avatars2.githubusercontent.com/u/8227136?v=3&s=70"
+    },
+    {
+      "maceiocodingdojo": "https://avatars1.githubusercontent.com/u/11705792?v=3&s=70"
+    },
+    {
+      "Padawan-org": "https://avatars0.githubusercontent.com/u/13651274?v=3&s=70"
+    }
+  ]
+}

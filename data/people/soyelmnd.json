@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/soyelmnd",
+  "img": "https://avatars3.githubusercontent.com/u/2678063?v=3&s=460",
+  "uid": 2678063,
+  "repos": 14,
+  "stars": 1200,
+  "followers": 412,
+  "following": 4600,
+  "pinned": [
+    {
+      "url": "/soyelmnd/.swissknife"
+    },
+    {
+      "url": "/soyelmnd/seminar.javascript"
+    },
+    {
+      "url": "/soyelmnd/seminar.regexp"
+    },
+    {
+      "url": "/soyelmnd/synging"
+    },
+    {
+      "url": "/soyelmnd/http-api-design"
+    },
+    {
+      "url": "/soyelmnd/sfl"
+    }
+  ],
+  "worksfor": "@trilogy-group",
+  "location": "Hanoi, Vietnam",
+  "fullname": "Minh Nguyen",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/2678063?v=3&s=460",
+  "contribs": 1291,
+  "orgs": [
+    {
+      "fingeekz": "https://avatars0.githubusercontent.com/u/12009530?v=3&s=70"
+    },
+    {
+      "trilogy-group": "https://avatars3.githubusercontent.com/u/22237814?v=3&s=70"
+    }
+  ]
+}

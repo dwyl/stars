@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/faberyx",
+  "img": "https://avatars2.githubusercontent.com/u/1783925?v=3&s=460",
+  "uid": 1783925,
+  "repos": 12,
+  "stars": 6,
+  "followers": 2,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/faberyx/aspnet.core.notes"
+    },
+    {
+      "url": "/faberyx/nodeserver"
+    },
+    {
+      "url": "/faberyx/formstrap"
+    },
+    {
+      "url": "/faberyx/Home"
+    },
+    {
+      "url": "/faberyx/telegram.WebHook"
+    },
+    {
+      "url": "/faberyx/Karma-Jasmine"
+    }
+  ],
+  "worksfor": "Parallels",
+  "location": "Malta",
+  "fullname": "Fabrizio Catitti",
+  "website": "http://www.catitti.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1783925?v=3&s=460",
+  "contribs": 22,
+  "orgs": []
+}

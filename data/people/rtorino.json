@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/rtorino",
+  "img": "https://avatars1.githubusercontent.com/u/1680608?v=3&s=460",
+  "uid": 1680608,
+  "repos": 56,
+  "stars": 246,
+  "followers": 18,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/rtorino/angular-webpack"
+    },
+    {
+      "url": "/rtorino/shiny-octo-ironman"
+    },
+    {
+      "url": "/rtorino/platform-api-gateway"
+    },
+    {
+      "url": "/rtorino/node-payment-gateways"
+    },
+    {
+      "url": "/rtorino/troll-football"
+    },
+    {
+      "url": "/rtorino/dealercentral"
+    }
+  ],
+  "worksfor": "Growth Solutions, Inc.",
+  "location": "Cebu City, Philippines",
+  "fullname": "Raymond Torino",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1680608?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

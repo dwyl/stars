@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/amandeepmittal",
+  "img": "https://avatars2.githubusercontent.com/u/10234615?v=3&s=460",
+  "uid": 10234615,
+  "repos": 102,
+  "stars": 73,
+  "followers": 78,
+  "following": 37,
+  "pinned": [
+    {
+      "url": "/freeCodeCamp/100DaysOfCode-twitter-bot"
+    },
+    {
+      "url": "/amandeepmittal/restapi-boilerplate"
+    },
+    {
+      "url": "/amandeepmittal/nodejs-tweet"
+    },
+    {
+      "url": "/amandeepmittal/jade"
+    },
+    {
+      "url": "/amandeepmittal/awesome-twitter-bots"
+    },
+    {
+      "url": "/amandeepmittal/fakerjs"
+    }
+  ],
+  "worksfor": "",
+  "location": "New Delhi",
+  "fullname": "Aman Mittal",
+  "website": "http://amandeepmittal.github.io/blog",
+  "avatar": "https://avatars2.githubusercontent.com/u/10234615?v=3&s=460",
+  "contribs": 1216,
+  "orgs": [
+    {
+      "freeCodeCamp": "https://avatars2.githubusercontent.com/u/9892522?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "code-stats": "https://avatars1.githubusercontent.com/u/27854180?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

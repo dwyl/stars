@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Web-Dev-Rich",
+  "img": "https://avatars2.githubusercontent.com/u/10727296?v=3&s=460",
+  "uid": 10727296,
+  "repos": 29,
+  "stars": 22,
+  "followers": 7,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/Web-Dev-Rich/fcc-pomodoro-clock"
+    },
+    {
+      "url": "/Web-Dev-Rich/fcc-javascript-calculator"
+    },
+    {
+      "url": "/Web-Dev-Rich/fcc-advanced-algorithms"
+    },
+    {
+      "url": "/Web-Dev-Rich/site-portfolio"
+    },
+    {
+      "url": "/Web-Dev-Rich/Web-Dev-Rich.github.io"
+    },
+    {
+      "url": "/Web-Dev-Rich/100-days-of-code"
+    }
+  ],
+  "worksfor": "",
+  "location": "Wiltshire, UK",
+  "fullname": "Rich Keyzor",
+  "website": "http://webdevri.ch",
+  "avatar": "https://avatars2.githubusercontent.com/u/10727296?v=3&s=460",
+  "contribs": 111,
+  "orgs": [
+    {
+      "FreeCodeCampSalisburyUK": "https://avatars3.githubusercontent.com/u/20224370?v=3&s=70"
+    }
+  ]
+}

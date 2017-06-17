@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Spaceinvaderz",
+  "img": "https://avatars2.githubusercontent.com/u/182786?v=3&s=460",
+  "uid": 182786,
+  "repos": 21,
+  "stars": 698,
+  "followers": 13,
+  "following": 62,
+  "pinned": [
+    {
+      "url": "/Spaceinvaderz/webhooks"
+    },
+    {
+      "url": "/Spaceinvaderz/rock-scissors-paper"
+    },
+    {
+      "url": "/Spaceinvaderz/zabbix-msi"
+    },
+    {
+      "url": "/Spaceinvaderz/sysinv"
+    },
+    {
+      "url": "/Spaceinvaderz/wmilab"
+    },
+    {
+      "url": "/Spaceinvaderz/zabbixweb"
+    }
+  ],
+  "worksfor": "@aligntech",
+  "location": "Moscow, Russia",
+  "fullname": "Anton Seledets",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/182786?v=3&s=460",
+  "contribs": 22,
+  "orgs": []
+}

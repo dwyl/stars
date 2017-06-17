@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/normful",
+  "img": "https://avatars1.githubusercontent.com/u/2453169?v=3&s=460",
+  "uid": 2453169,
+  "repos": 70,
+  "stars": 3400,
+  "followers": 49,
+  "following": 665,
+  "pinned": [
+    {
+      "url": "/normful/wanikani-level-vocabulary-grid"
+    },
+    {
+      "url": "/normful/googletranslate-vim"
+    },
+    {
+      "url": "/normful/satori-reader-blue-userstyle"
+    },
+    {
+      "url": "/normful/portable-dotfiles"
+    }
+  ],
+  "worksfor": "Periscope Data",
+  "location": "San Francisco",
+  "fullname": "Norman Sue",
+  "website": "https://www.periscopedata.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/2453169?v=3&s=460",
+  "contribs": 611,
+  "orgs": [
+    {
+      "lighthouse-labs": "https://avatars0.githubusercontent.com/u/5753105?v=3&s=70"
+    },
+    {
+      "control": "https://avatars2.githubusercontent.com/u/7740420?v=3&s=70"
+    },
+    {
+      "PeriscopeData": "https://avatars3.githubusercontent.com/u/11745827?v=3&s=70"
+    }
+  ]
+}

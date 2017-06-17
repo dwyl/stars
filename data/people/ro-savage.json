@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/ro-savage",
+  "img": "https://avatars3.githubusercontent.com/u/9244507?v=3&s=460",
+  "uid": 9244507,
+  "repos": 62,
+  "stars": 151,
+  "followers": 11,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/in-depth/indepth-demo"
+    },
+    {
+      "url": "/react-toolbox/react-toolbox"
+    },
+    {
+      "url": "/facebookincubator/create-react-app"
+    },
+    {
+      "url": "/facebook/react"
+    },
+    {
+      "url": "/facebook/jest"
+    },
+    {
+      "url": "/reactjs/redux"
+    }
+  ],
+  "worksfor": "@in-depth & @Passphere",
+  "location": "Auckland. New Zealand",
+  "fullname": "Ro Savage",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/9244507?v=3&s=460",
+  "contribs": 594,
+  "orgs": [
+    {
+      "in-depth": "https://avatars0.githubusercontent.com/u/20281848?v=3&s=70"
+    },
+    {
+      "Passphere": "https://avatars3.githubusercontent.com/u/25654443?v=3&s=70"
+    }
+  ]
+}

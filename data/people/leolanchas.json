@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/leolanchas",
+  "img": "https://avatars2.githubusercontent.com/u/1122580?v=3&s=460",
+  "uid": 1122580,
+  "repos": 5,
+  "stars": 11,
+  "followers": 7,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/leolanchas/Simple-POP3-Client"
+    },
+    {
+      "url": "/leolanchas/Distributed-Pacman"
+    },
+    {
+      "url": "/leolanchas/http-digest-passport-js"
+    },
+    {
+      "url": "/leolanchas/Opensong-Tildes"
+    },
+    {
+      "url": "/leolanchas/DGCApp"
+    }
+  ],
+  "worksfor": "http://pmone.com",
+  "location": "",
+  "fullname": "Leonardo",
+  "website": "http://leolanchas.tumblr.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/1122580?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

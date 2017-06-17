@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/winglian",
+  "img": "https://avatars1.githubusercontent.com/u/381258?v=3&s=460",
+  "uid": 381258,
+  "repos": 36,
+  "stars": 460,
+  "followers": 21,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/winglian/heroku-buildpack-php"
+    },
+    {
+      "url": "/winglian/Heroku-PHP"
+    },
+    {
+      "url": "/winglian/appstrap"
+    },
+    {
+      "url": "/winglian/SSTable2S3"
+    },
+    {
+      "url": "/winglian/Koozie"
+    },
+    {
+      "url": "/winglian/hiphop-php"
+    }
+  ],
+  "worksfor": "",
+  "location": "Annapolis, MD",
+  "fullname": "Wing Lian",
+  "website": "https://twitter.com/winglian",
+  "avatar": "https://avatars1.githubusercontent.com/u/381258?v=3&s=460",
+  "contribs": 46,
+  "orgs": []
+}

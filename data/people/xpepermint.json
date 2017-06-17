@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/xpepermint",
+  "img": "https://avatars1.githubusercontent.com/u/174279?v=3&s=460",
+  "uid": 174279,
+  "repos": 108,
+  "stars": 1100,
+  "followers": 47,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/xpepermint/rawmodeljs"
+    },
+    {
+      "url": "/xpepermint/vue-cli-template"
+    },
+    {
+      "url": "/xpepermint/vue-rawmodel"
+    },
+    {
+      "url": "/xpepermint/graphql-example"
+    },
+    {
+      "url": "/xpepermint/mongodb-cron"
+    },
+    {
+      "url": "/xpepermint/etcd-grpc"
+    }
+  ],
+  "worksfor": "",
+  "location": "CA, United States",
+  "fullname": "Kristijan Sedlak",
+  "website": "https://twitter.com/kristijansedlak",
+  "avatar": "https://avatars1.githubusercontent.com/u/174279?v=3&s=460",
+  "contribs": 1314,
+  "orgs": []
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/louisbl",
+  "img": "https://avatars3.githubusercontent.com/u/274775?v=3&s=460",
+  "uid": 274775,
+  "repos": 50,
+  "stars": 514,
+  "followers": 24,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/louisbl/cordova-plugin-locationservices"
+    },
+    {
+      "url": "/louisbl/cordova-plugin-gpslocation"
+    },
+    {
+      "url": "/louisbl/iGobelins"
+    },
+    {
+      "url": "/louisbl/FreenectNME"
+    },
+    {
+      "url": "/louisbl/drupal8-starter"
+    },
+    {
+      "url": "/louisbl/android-init"
+    }
+  ],
+  "worksfor": "",
+  "location": "Annecy",
+  "fullname": "Louis Beltramo",
+  "website": "https://www.louisbl.fr",
+  "avatar": "https://avatars3.githubusercontent.com/u/274775?v=3&s=460",
+  "contribs": 74,
+  "orgs": [
+    {
+      "hyperfiction": "https://avatars3.githubusercontent.com/u/902641?v=3&s=70"
+    },
+    {
+      "OzConseil": "https://avatars0.githubusercontent.com/u/12894000?v=3&s=70"
+    }
+  ]
+}

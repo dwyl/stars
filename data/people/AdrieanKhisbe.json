@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/AdrieanKhisbe",
+  "img": "https://avatars0.githubusercontent.com/u/2601132?v=3&s=460",
+  "uid": 2601132,
+  "repos": 219,
+  "stars": 1500,
+  "followers": 74,
+  "following": 174,
+  "pinned": [
+    {
+      "url": "/AdrieanKhisbe/cask-package-toolset.el"
+    },
+    {
+      "url": "/AdrieanKhisbe/configue"
+    },
+    {
+      "url": "/AdrieanKhisbe/spacemacs-anki-deck"
+    },
+    {
+      "url": "/AdrieanKhisbe/diractions"
+    },
+    {
+      "url": "/AdrieanKhisbe/omni-kill.el"
+    },
+    {
+      "url": "/AdrieanKhisbe/omni-scratch.el"
+    }
+  ],
+  "worksfor": "@CoorpAcademy",
+  "location": "France",
+  "fullname": "Adrien Becchis",
+  "website": "https://twitter.com/adrienbecchis",
+  "avatar": "https://avatars0.githubusercontent.com/u/2601132?v=3&s=460",
+  "contribs": 269,
+  "orgs": [
+    {
+      "shpec": "https://avatars3.githubusercontent.com/u/3496754?v=3&s=70"
+    },
+    {
+      "badges": "https://avatars0.githubusercontent.com/u/6254238?v=3&s=70"
+    },
+    {
+      "CoorpAcademy": "https://avatars2.githubusercontent.com/u/7345593?v=3&s=70"
+    },
+    {
+      "senecajs": "https://avatars1.githubusercontent.com/u/10085488?v=3&s=70"
+    }
+  ]
+}

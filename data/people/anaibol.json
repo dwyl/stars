@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/anaibol",
+  "img": "https://avatars3.githubusercontent.com/u/3210177?v=3&s=460",
+  "uid": 3210177,
+  "repos": 39,
+  "stars": 2800,
+  "followers": 46,
+  "following": 51,
+  "pinned": [
+    {
+      "url": "/moment/moment"
+    },
+    {
+      "url": "/ReactTraining/react-router"
+    },
+    {
+      "url": "/docker/compose"
+    },
+    {
+      "url": "/reactjs/react-redux"
+    },
+    {
+      "url": "/anaibol/awesome-serverless"
+    },
+    {
+      "url": "/anaibol/phaser-webpack-babel-boilerplate"
+    }
+  ],
+  "worksfor": "",
+  "location": "France",
+  "fullname": "Anibal",
+  "website": "http://anib.al",
+  "avatar": "https://avatars3.githubusercontent.com/u/3210177?v=3&s=460",
+  "contribs": 1518,
+  "orgs": []
+}

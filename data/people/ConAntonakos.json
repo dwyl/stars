@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/ConAntonakos",
+  "img": "https://avatars0.githubusercontent.com/u/1504302?v=3&s=460",
+  "uid": 1504302,
+  "repos": 48,
+  "stars": 1200,
+  "followers": 26,
+  "following": 173,
+  "pinned": [
+    {
+      "url": "/ConAntonakos/edX"
+    },
+    {
+      "url": "/ConAntonakos/stanford-university"
+    },
+    {
+      "url": "/ConAntonakos/DoneDone-API-Ruby"
+    },
+    {
+      "url": "/ConAntonakos/MyNotes-CakePHP"
+    },
+    {
+      "url": "/ConAntonakos/conantonakos.github.io"
+    },
+    {
+      "url": "/ConAntonakos/statsd"
+    }
+  ],
+  "worksfor": "Spotfront",
+  "location": "NYC",
+  "fullname": "Constantine Antonakos",
+  "website": "http://www.spotfront.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1504302?v=3&s=460",
+  "contribs": 1466,
+  "orgs": [
+    {
+      "spotfront": "https://avatars1.githubusercontent.com/u/1671838?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

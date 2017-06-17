@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/chisNaN",
+  "img": "https://avatars1.githubusercontent.com/u/2439389?v=3&s=460",
+  "uid": 2439389,
+  "repos": 34,
+  "stars": 65,
+  "followers": 9,
+  "following": 42,
+  "pinned": [
+    {
+      "url": "/chisNaN/git-tuto"
+    },
+    {
+      "url": "/chisNaN/my-react-tutos"
+    },
+    {
+      "url": "/chisNaN/js-test"
+    },
+    {
+      "url": "/chisNaN/react-pouchdb"
+    },
+    {
+      "url": "/chisNaN/dc-webstack"
+    },
+    {
+      "url": "/chisNaN/serverless-contactform"
+    }
+  ],
+  "worksfor": "@presteege",
+  "location": "Krypton, Kentucky, United States",
+  "fullname": "͡° ͜ʖ ͡°",
+  "website": "http://arthur.xn--grgoi-csa.re",
+  "avatar": "https://avatars1.githubusercontent.com/u/2439389?v=3&s=460",
+  "contribs": 2989,
+  "orgs": [
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "presteege": "https://avatars2.githubusercontent.com/u/16381677?v=3&s=70"
+    },
+    {
+      "webiscool": "https://avatars2.githubusercontent.com/u/19671426?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

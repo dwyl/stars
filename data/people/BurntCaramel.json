@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/BurntCaramel",
+  "img": "https://avatars3.githubusercontent.com/u/2635733?v=3&s=460",
+  "uid": 2635733,
+  "repos": 60,
+  "stars": 1100,
+  "followers": 49,
+  "following": 98,
+  "pinned": [
+    {
+      "url": "/RoyalIcing/lokum"
+    },
+    {
+      "url": "/BurntCaramel/Syrup"
+    },
+    {
+      "url": "/BurntCaramel/BurntCocoaUI"
+    },
+    {
+      "url": "/BurntCaramel/flambeau"
+    },
+    {
+      "url": "/BurntCaramel/Lantern"
+    },
+    {
+      "url": "/BurntCaramel/react-seeds"
+    }
+  ],
+  "worksfor": "@RoyalIcing",
+  "location": "Melbourne, Australia",
+  "fullname": "Patrick Smith",
+  "website": "http://burntcaramel.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/2635733?v=3&s=460",
+  "contribs": 1283,
+  "orgs": [
+    {
+      "RoyalIcing": "https://avatars3.githubusercontent.com/u/10793813?v=3&s=70"
+    }
+  ]
+}

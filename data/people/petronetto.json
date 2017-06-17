@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/petronetto",
+  "img": "https://avatars0.githubusercontent.com/u/8260778?v=3&s=460",
+  "uid": 8260778,
+  "repos": 122,
+  "stars": 168,
+  "followers": 25,
+  "following": 52,
+  "pinned": [
+    {
+      "url": "/petronetto/machine-learning-alpine"
+    },
+    {
+      "url": "/petronetto/php-nginx-alpine"
+    },
+    {
+      "url": "/petronetto/laravel-realtime-chat"
+    },
+    {
+      "url": "/petronetto/laravel-docker"
+    },
+    {
+      "url": "/petronetto/ionic2-uber-clone"
+    },
+    {
+      "url": "/petronetto/php-debug"
+    }
+  ],
+  "worksfor": "@xdevelsistemas",
+  "location": "Vitória, Espirito Santo, Brazil",
+  "fullname": "Juliano Petronetto",
+  "website": "http://petronetto.com.br",
+  "avatar": "https://avatars0.githubusercontent.com/u/8260778?v=3&s=460",
+  "contribs": 1518,
+  "orgs": [
+    {
+      "xdevelsistemas": "https://avatars1.githubusercontent.com/u/6761403?v=3&s=70"
+    }
+  ]
+}

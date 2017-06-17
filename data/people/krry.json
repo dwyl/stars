@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/krry",
+  "img": "https://avatars1.githubusercontent.com/u/439967?v=3&s=460",
+  "uid": 439967,
+  "repos": 18,
+  "stars": 74,
+  "followers": 13,
+  "following": 28,
+  "pinned": [
+    {
+      "url": "/krry/dotfiles"
+    },
+    {
+      "url": "/krry/aeshme"
+    },
+    {
+      "url": "/krry/heroku-buildpack-nodejs-gulp-bower"
+    },
+    {
+      "url": "/krry/ray-hubot"
+    }
+  ],
+  "worksfor": "Aether",
+  "location": "Los Angeles",
+  "fullname": "Kerry Snyder",
+  "website": "http://krry.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/439967?v=3&s=460",
+  "contribs": 110,
+  "orgs": []
+}

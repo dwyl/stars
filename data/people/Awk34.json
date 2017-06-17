@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/Awk34",
+  "img": "https://avatars2.githubusercontent.com/u/5545474?v=3&s=460",
+  "uid": 5545474,
+  "repos": 73,
+  "stars": 932,
+  "followers": 87,
+  "following": 104,
+  "pinned": [
+    {
+      "url": "/angular-fullstack/generator-angular-fullstack"
+    },
+    {
+      "url": "/Awk34/aksite"
+    },
+    {
+      "url": "/Awk34/euler-viewer"
+    },
+    {
+      "url": "/Awk34/dotsynth"
+    },
+    {
+      "url": "/Awk34/awesome-web-workers"
+    },
+    {
+      "url": "/Awk34/node-rplidar"
+    }
+  ],
+  "worksfor": "@StoutLLC, @DataVoke",
+  "location": "Indianapolis, IN",
+  "fullname": "Andrew Koroluk",
+  "website": "http://andrewk.me/",
+  "avatar": "https://avatars2.githubusercontent.com/u/5545474?v=3&s=460",
+  "contribs": 1697,
+  "orgs": [
+    {
+      "Adeptee": "https://avatars1.githubusercontent.com/u/11022615?v=3&s=70"
+    },
+    {
+      "angular-fullstack": "https://avatars3.githubusercontent.com/u/12663106?v=3&s=70"
+    },
+    {
+      "StoutLLC": "https://avatars0.githubusercontent.com/u/14153195?v=3&s=70"
+    },
+    {
+      "DataVoke": "https://avatars1.githubusercontent.com/u/24253446?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/newswim",
+  "img": "https://avatars1.githubusercontent.com/u/6667096?v=3&s=460",
+  "uid": 6667096,
+  "repos": 227,
+  "stars": 1900,
+  "followers": 35,
+  "following": 86,
+  "pinned": [
+    {
+      "url": "/newswim/denton_data"
+    },
+    {
+      "url": "/newswim/js_workshop"
+    },
+    {
+      "url": "/newswim/mylife"
+    },
+    {
+      "url": "/newswim/article-archive"
+    },
+    {
+      "url": "/newswim/learnelm"
+    },
+    {
+      "url": "/newswim/learning-resources"
+    }
+  ],
+  "worksfor": "Newswim",
+  "location": "Denton, Tx",
+  "fullname": "Dan Minshew",
+  "website": "http://twitter.com/newswim",
+  "avatar": "https://avatars1.githubusercontent.com/u/6667096?v=3&s=460",
+  "contribs": 941,
+  "orgs": []
+}

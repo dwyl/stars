@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/Mr-Dai",
+  "img": "https://avatars3.githubusercontent.com/u/6038522?v=3&s=460",
+  "uid": 6038522,
+  "repos": 18,
+  "stars": 33,
+  "followers": 21,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/Mr-Dai/Mr-Dai.github.io"
+    },
+    {
+      "url": "/Mr-Dai/MCTS-Hearthstone"
+    },
+    {
+      "url": "/WeTrack/WeTrack-Android"
+    },
+    {
+      "url": "/WeTrack/WeTrack-Backend"
+    },
+    {
+      "url": "/AlphaHearth/AlphaHearth"
+    },
+    {
+      "url": "/AlphaHearth/HearthIntellect"
+    }
+  ],
+  "worksfor": "Netease",
+  "location": "Guangzhou, China",
+  "fullname": "Robert Peng",
+  "website": "https://mr-dai.github.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/6038522?v=3&s=460",
+  "contribs": 394,
+  "orgs": [
+    {
+      "WeTrack": "https://avatars3.githubusercontent.com/u/23261046?v=3&s=70"
+    },
+    {
+      "AlphaHearth": "https://avatars3.githubusercontent.com/u/24384021?v=3&s=70"
+    }
+  ]
+}

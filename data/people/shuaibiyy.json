@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/shuaibiyy",
+  "img": "https://avatars1.githubusercontent.com/u/1766965?v=3&s=460",
+  "uid": 1766965,
+  "repos": 24,
+  "stars": 269,
+  "followers": 29,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/shuaibiyy/awesome-terraform"
+    },
+    {
+      "url": "/shuaibiyy/terraform-ecs-jenkins"
+    },
+    {
+      "url": "/shuaibiyy/haproxy-config-generator"
+    },
+    {
+      "url": "/shuaibiyy/terraform-jenkins"
+    },
+    {
+      "url": "/shuaibiyy/terraform-provisioner"
+    },
+    {
+      "url": "/shuaibiyy/ecs-weave-terraform-microservice-demo"
+    }
+  ],
+  "worksfor": "",
+  "location": "Berlin, Germany",
+  "fullname": "Shuaib Yunus",
+  "website": "https://shuaib.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/1766965?v=3&s=460",
+  "contribs": 69,
+  "orgs": [
+    {
+      "flexisaf": "https://avatars1.githubusercontent.com/u/10359297?v=3&s=70"
+    }
+  ]
+}

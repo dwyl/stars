@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mackwan84",
+  "img": "https://avatars2.githubusercontent.com/u/4495151?v=3&s=460",
+  "uid": 4495151,
+  "repos": 7,
+  "stars": 131,
+  "followers": 3,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/mackwan84/cordova-plugin-iflytek-speech"
+    },
+    {
+      "url": "/mackwan84/loopback-component-storage-oss"
+    },
+    {
+      "url": "/mackwan84/passport-quizlet"
+    },
+    {
+      "url": "/mackwan84/passport-oauth2-extension"
+    },
+    {
+      "url": "/mackwan84/passport-wechat-oa"
+    },
+    {
+      "url": "/mackwan84/loopback-connector-yunpian"
+    }
+  ],
+  "worksfor": "ICON",
+  "location": "Guangzhou, China",
+  "fullname": "Mac Kwan",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/4495151?v=3&s=460",
+  "contribs": 14,
+  "orgs": []
+}

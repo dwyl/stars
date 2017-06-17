@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/7fELF",
+  "img": "https://avatars1.githubusercontent.com/u/6826348?v=3&s=460",
+  "uid": 6826348,
+  "repos": 15,
+  "stars": 271,
+  "followers": 22,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/7fELF/dotfiles"
+    },
+    {
+      "url": "/7fELF/blinux-jenkins-slave"
+    },
+    {
+      "url": "/7fELF/audioManager"
+    },
+    {
+      "url": "/7fELF/malloc"
+    },
+    {
+      "url": "/7fELF/volley-gson"
+    },
+    {
+      "url": "/w3st3ry/360SH-NoScop3"
+    }
+  ],
+  "worksfor": "Epitech",
+  "location": "Lyon",
+  "fullname": "Antoine Baudrand",
+  "website": "http://antoine.network",
+  "avatar": "https://avatars1.githubusercontent.com/u/6826348?v=3&s=460",
+  "contribs": 393,
+  "orgs": [
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "Baldr-co": "https://avatars2.githubusercontent.com/u/22081663?v=3&s=70"
+    }
+  ]
+}

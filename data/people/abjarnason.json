@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/abjarnason",
+  "img": "https://avatars2.githubusercontent.com/u/3933134?v=3&s=460",
+  "uid": 3933134,
+  "repos": 28,
+  "stars": 24,
+  "followers": 3,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/abjarnason/docker-monitoring"
+    },
+    {
+      "url": "/abjarnason/modernie_selenium"
+    },
+    {
+      "url": "/abjarnason/Groandinn_startupWeekend"
+    },
+    {
+      "url": "/abjarnason/Distributed-Systems"
+    },
+    {
+      "url": "/abjarnason/middlewareConcepts2014"
+    },
+    {
+      "url": "/abjarnason/MagicEightBall"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Ásgeir Bjarnason",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/3933134?v=3&s=460",
+  "contribs": 43,
+  "orgs": []
+}

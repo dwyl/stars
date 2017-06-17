@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/tonnamb",
+  "img": "https://avatars2.githubusercontent.com/u/6272864?v=3&s=460",
+  "uid": 6272864,
+  "repos": 57,
+  "stars": 32,
+  "followers": 2,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/tonnamb/scholarly"
+    },
+    {
+      "url": "/reactjs/redux"
+    },
+    {
+      "url": "/lammps/lammps"
+    },
+    {
+      "url": "/tonnamb/game-of-life"
+    },
+    {
+      "url": "/tonnamb/gauge"
+    },
+    {
+      "url": "/materialsproject/pymatgen"
+    }
+  ],
+  "worksfor": "Penn State University",
+  "location": "State College, PA",
+  "fullname": "Tonnam Balankua",
+  "website": "https://tonnamb.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/6272864?v=3&s=460",
+  "contribs": 771,
+  "orgs": []
+}

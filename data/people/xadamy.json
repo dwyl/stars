@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/xadamy",
+  "img": "https://avatars2.githubusercontent.com/u/16296989?v=3&s=460",
+  "uid": 16296989,
+  "repos": 10,
+  "stars": 500,
+  "followers": 6,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/xadamy/tiny-i18n"
+    },
+    {
+      "url": "/xadamy/xadamy.xyz"
+    },
+    {
+      "url": "/xadamy/react-player-demo"
+    },
+    {
+      "url": "/xadamy/react-bookings-demo"
+    },
+    {
+      "url": "/24pullrequests/24pullrequests"
+    }
+  ],
+  "worksfor": "@lonerooftop",
+  "location": "Amsterdam, NL",
+  "fullname": "Adam Yeats",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/16296989?v=3&s=460",
+  "contribs": 632,
+  "orgs": [
+    {
+      "24pullrequests": "https://avatars2.githubusercontent.com/u/7920922?v=3&s=70"
+    },
+    {
+      "splitrb": "https://avatars1.githubusercontent.com/u/11708074?v=3&s=70"
+    }
+  ]
+}

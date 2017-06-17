@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/mbury",
+  "img": "https://avatars1.githubusercontent.com/u/1153346?v=3&s=460",
+  "uid": 1153346,
+  "repos": 4,
+  "stars": 419,
+  "followers": 6,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/mbury/.dotfiles"
+    },
+    {
+      "url": "/mbury/redux-table-test"
+    },
+    {
+      "url": "/mbury/mbury.github.io"
+    },
+    {
+      "url": "/mbury/hapi-api-jwt"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Michał Bury",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1153346?v=3&s=460",
+  "contribs": 5,
+  "orgs": []
+}

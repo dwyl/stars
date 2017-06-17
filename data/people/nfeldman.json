@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/nfeldman",
+  "img": "https://avatars1.githubusercontent.com/u/334457?v=3&s=460",
+  "uid": 334457,
+  "repos": 9,
+  "stars": 1200,
+  "followers": 7,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/nfeldman/requirer"
+    },
+    {
+      "url": "/nfeldman/logger"
+    },
+    {
+      "url": "/nfeldman/sparqlgen"
+    },
+    {
+      "url": "/nfeldman/Grue"
+    },
+    {
+      "url": "/nfeldman/Tris"
+    },
+    {
+      "url": "/nfeldman/requirejs-promise"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Noah Feldman",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/334457?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

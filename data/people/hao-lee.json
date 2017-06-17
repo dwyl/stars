@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/hao-lee",
+  "img": "https://avatars3.githubusercontent.com/u/8112645?v=3&s=460",
+  "uid": 8112645,
+  "repos": 20,
+  "stars": 89,
+  "followers": 9,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/hao-lee/linux-insides-zh"
+    },
+    {
+      "url": "/hao-lee/linux"
+    },
+    {
+      "url": "/hao-lee/GraduationProject"
+    },
+    {
+      "url": "/hao-lee/VocabularyAnalyzer"
+    },
+    {
+      "url": "/hao-lee/awesome-kernel"
+    },
+    {
+      "url": "/hao-lee/jhu-fullstack-course4"
+    }
+  ],
+  "worksfor": "",
+  "location": "China",
+  "fullname": "Mr.Lee",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/8112645?v=3&s=460",
+  "contribs": 571,
+  "orgs": [
+    {
+      "NodeBB-China": "https://avatars3.githubusercontent.com/u/23148685?v=3&s=70"
+    },
+    {
+      "SWJTU-Developer": "https://avatars3.githubusercontent.com/u/24581975?v=3&s=70"
+    }
+  ]
+}

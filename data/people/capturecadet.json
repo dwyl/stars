@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/capturecadet",
+  "img": "https://avatars1.githubusercontent.com/u/982969?v=3&s=460",
+  "uid": 982969,
+  "repos": 17,
+  "stars": 167,
+  "followers": 8,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/capturecadet/packer-windows"
+    },
+    {
+      "url": "/capturecadet/realtime-markdown"
+    },
+    {
+      "url": "/capturecadet/wheel-redux"
+    },
+    {
+      "url": "/capturecadet/node-speakable"
+    },
+    {
+      "url": "/capturecadet/babel-workshop"
+    },
+    {
+      "url": "/capturecadet/phaser"
+    }
+  ],
+  "worksfor": "",
+  "location": "Glasgow",
+  "fullname": "Vicki Cole",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/982969?v=3&s=460",
+  "contribs": 1194,
+  "orgs": [],
+  "developerprogram": true
+}

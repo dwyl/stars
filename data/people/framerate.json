@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/framerate",
+  "img": "https://avatars0.githubusercontent.com/u/74291?v=3&s=460",
+  "uid": 74291,
+  "repos": 27,
+  "stars": 424,
+  "followers": 32,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/framerate/ffxiai"
+    },
+    {
+      "url": "/framerate/scltemplates"
+    },
+    {
+      "url": "/framerate/hollywoodhack"
+    },
+    {
+      "url": "/framerate/scl"
+    },
+    {
+      "url": "/framerate/npm-check-updates"
+    },
+    {
+      "url": "/framerate/remind.io"
+    }
+  ],
+  "worksfor": "Karma Labs, Inc. / Secret Cow Level",
+  "location": "Los Angeles, CA",
+  "fullname": "Justin Reynard",
+  "website": "http://framerate.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/74291?v=3&s=460",
+  "contribs": 1346,
+  "orgs": [
+    {
+      "Windower": "https://avatars3.githubusercontent.com/u/1772042?v=3&s=70"
+    },
+    {
+      "HaveKarma": "https://avatars1.githubusercontent.com/u/5742158?v=3&s=70"
+    },
+    {
+      "secretcowlevel": "https://avatars2.githubusercontent.com/u/5742161?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

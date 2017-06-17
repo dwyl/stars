@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/oliversalzburg",
+  "img": "https://avatars1.githubusercontent.com/u/1658949?v=3&s=460",
+  "uid": 1658949,
+  "repos": 161,
+  "stars": 523,
+  "followers": 49,
+  "following": 67,
+  "pinned": [
+    {
+      "url": "/Strider-CD/strider"
+    },
+    {
+      "url": "/stacktracejs/stacktrace.js"
+    },
+    {
+      "url": "/mashpie/i18n-node"
+    },
+    {
+      "url": "/oliversalzburg/typo3scripts"
+    },
+    {
+      "url": "/cameroncondry/cbc-kitten-scientists"
+    }
+  ],
+  "worksfor": "FairManager",
+  "location": "Hanover, Germany",
+  "fullname": "Oliver Salzburg",
+  "website": "https://fairmanager.de",
+  "avatar": "https://avatars1.githubusercontent.com/u/1658949?v=3&s=460",
+  "contribs": 1003,
+  "orgs": [
+    {
+      "Strider-CD": "https://avatars0.githubusercontent.com/u/2199591?v=3&s=70"
+    },
+    {
+      "hartwig-at": "https://avatars0.githubusercontent.com/u/3532671?v=3&s=70"
+    },
+    {
+      "stacktracejs": "https://avatars1.githubusercontent.com/u/6131251?v=3&s=70"
+    },
+    {
+      "fairmanager-cordova": "https://avatars2.githubusercontent.com/u/10165283?v=3&s=70"
+    },
+    {
+      "fairmanager": "https://avatars0.githubusercontent.com/u/14817491?v=3&s=70"
+    }
+  ]
+}

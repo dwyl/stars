@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/bradreeder",
+  "img": "https://avatars1.githubusercontent.com/u/12380455?v=3&s=460",
+  "uid": 12380455,
+  "repos": 10,
+  "stars": 33,
+  "followers": 47,
+  "following": 64,
+  "pinned": [
+    {
+      "url": "/bradreeder/CV"
+    },
+    {
+      "url": "/CYPIAPT-LNDSE/Breathe-With-Me"
+    },
+    {
+      "url": "/foundersandcoders/master-reference"
+    },
+    {
+      "url": "/foundersandcoders/a-pattern-language"
+    },
+    {
+      "url": "/bradreeder/Tile-game"
+    },
+    {
+      "url": "/foundersandcoders/Node-Shell-Workshop"
+    }
+  ],
+  "worksfor": "@foundersandcoders",
+  "location": "London, UK",
+  "fullname": "Bradley",
+  "website": "https://bradreeder.github.io/Personal-Website/",
+  "avatar": "https://avatars1.githubusercontent.com/u/12380455?v=3&s=460",
+  "contribs": 1472,
+  "orgs": [
+    {
+      "foundersandcoders": "https://avatars1.githubusercontent.com/u/9970257?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "codingforeveryone": "https://avatars1.githubusercontent.com/u/12197231?v=3&s=70"
+    },
+    {
+      "InFact-coop": "https://avatars1.githubusercontent.com/u/27547161?v=3&s=70"
+    }
+  ]
+}

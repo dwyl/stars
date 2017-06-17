@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/jjanssen",
+  "img": "https://avatars0.githubusercontent.com/u/287422?v=3&s=460",
+  "uid": 287422,
+  "repos": 45,
+  "stars": 444,
+  "followers": 19,
+  "following": 34,
+  "pinned": [
+    {
+      "url": "/jjanssen/django-p3p"
+    },
+    {
+      "url": "/jjanssen/django-fb-iframe"
+    },
+    {
+      "url": "/jjanssen/django-openid-consumer"
+    },
+    {
+      "url": "/jjanssen/django-proteq-docs"
+    },
+    {
+      "url": "/jjanssen/jest-styled-components-bug"
+    },
+    {
+      "url": "/jjanssen/django-email-confirmation"
+    }
+  ],
+  "worksfor": "Lukkien",
+  "location": "Ede, Netherlands",
+  "fullname": "Janneke Janssen",
+  "website": "https://www.lukkien.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/287422?v=3&s=460",
+  "contribs": 217,
+  "orgs": [
+    {
+      "LUKKIEN": "https://avatars0.githubusercontent.com/u/120519?v=3&s=70"
+    },
+    {
+      "wagtail": "https://avatars1.githubusercontent.com/u/23708009?v=3&s=70"
+    }
+  ]
+}

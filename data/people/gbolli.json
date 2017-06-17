@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/gbolli",
+  "img": "https://avatars0.githubusercontent.com/u/29129093?v=3&s=460",
+  "uid": 29129093,
+  "repos": 4,
+  "stars": 5,
+  "followers": 1,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/gbolli/hello-world"
+    },
+    {
+      "url": "/gbolli/workflows"
+    },
+    {
+      "url": "/gbolli/analog_clock_js"
+    },
+    {
+      "url": "/gbolli/typing_speed_js"
+    }
+  ],
+  "worksfor": "",
+  "location": "Vancouver, BC, Canada",
+  "fullname": "Gord Bolli",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/29129093?v=3&s=460",
+  "contribs": 38,
+  "orgs": []
+}

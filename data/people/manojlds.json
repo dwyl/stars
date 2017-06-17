@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/manojlds",
+  "img": "https://avatars0.githubusercontent.com/u/191378?v=3&s=460",
+  "uid": 191378,
+  "repos": 119,
+  "stars": 1100,
+  "followers": 72,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/manojlds/cmd"
+    },
+    {
+      "url": "/manojlds/YDeliver"
+    },
+    {
+      "url": "/manojlds/gocd-docker"
+    },
+    {
+      "url": "/manojlds/posz"
+    },
+    {
+      "url": "/manojlds/ebs-snapshot-lambda"
+    },
+    {
+      "url": "/manojlds/pslinq"
+    }
+  ],
+  "worksfor": "@indix",
+  "location": "Chennai",
+  "fullname": "Manoj",
+  "website": "http://stacktoheap.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/191378?v=3&s=460",
+  "contribs": 898,
+  "orgs": [
+    {
+      "stacktoheap": "https://avatars2.githubusercontent.com/u/1173467?v=3&s=70"
+    },
+    {
+      "ind9": "https://avatars2.githubusercontent.com/u/1300730?v=3&s=70"
+    },
+    {
+      "geeknight": "https://avatars1.githubusercontent.com/u/5318283?v=3&s=70"
+    },
+    {
+      "indix": "https://avatars2.githubusercontent.com/u/22314469?v=3&s=70"
+    }
+  ]
+}

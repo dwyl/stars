@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/boyarskiy",
+  "img": "https://avatars2.githubusercontent.com/u/2486360?v=3&s=460",
+  "uid": 2486360,
+  "repos": 24,
+  "stars": 271,
+  "followers": 12,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/boyarskiy/react-simple-datepicker"
+    },
+    {
+      "url": "/boyarskiy/2048-react-redux"
+    },
+    {
+      "url": "/boyarskiy/react-flux-http-example"
+    },
+    {
+      "url": "/boyarskiy/react-loading-spinner"
+    },
+    {
+      "url": "/boyarskiy/graphql-redux-app"
+    },
+    {
+      "url": "/boyarskiy/decorator-debounce"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ukraine",
+  "fullname": "Eugeniy",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2486360?v=3&s=460",
+  "contribs": 426,
+  "orgs": []
+}

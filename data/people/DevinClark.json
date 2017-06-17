@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/DevinClark",
+  "img": "https://avatars0.githubusercontent.com/u/353563?v=3&s=460",
+  "uid": 353563,
+  "repos": 50,
+  "stars": 741,
+  "followers": 36,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/DevinClark/angular-tweet-filter"
+    },
+    {
+      "url": "/DevinClark/simply-mobile"
+    },
+    {
+      "url": "/DevinClark/Angular-Rome"
+    },
+    {
+      "url": "/DevinClark/go-polyline-to-geojson"
+    },
+    {
+      "url": "/DevinClark/babby-game"
+    },
+    {
+      "url": "/DevinClark/Jawbone-PHP-API-Wrapper"
+    }
+  ],
+  "worksfor": "Weather Decision Technologies",
+  "location": "Oklahoma City, Oklahoma",
+  "fullname": "Devin Clark",
+  "website": "http://www.devin-clark.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/353563?v=3&s=460",
+  "contribs": 210,
+  "orgs": [
+    {
+      "wdtinc": "https://avatars0.githubusercontent.com/u/4984855?v=3&s=70"
+    }
+  ]
+}

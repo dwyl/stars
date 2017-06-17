@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/adaptive",
+  "img": "https://avatars3.githubusercontent.com/u/17833?v=3&s=460",
+  "uid": 17833,
+  "repos": 28,
+  "stars": 427,
+  "followers": 7,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/adaptive/email-extractor-php"
+    },
+    {
+      "url": "/adaptive/twitterlibphp"
+    },
+    {
+      "url": "/adaptive/twitteroauth"
+    },
+    {
+      "url": "/adaptive/ruby-metar"
+    },
+    {
+      "url": "/adaptive/bootstrap"
+    },
+    {
+      "url": "/adaptive/adaptive.github.com"
+    }
+  ],
+  "worksfor": "WisePass",
+  "location": "Madeira, Portugal",
+  "fullname": "Hugo Romano",
+  "website": "https://windbirds.co",
+  "avatar": "https://avatars3.githubusercontent.com/u/17833?v=3&s=460",
+  "contribs": 69,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/pito-svk",
+  "img": "https://avatars2.githubusercontent.com/u/4748950?v=3&s=460",
+  "uid": 4748950,
+  "repos": 12,
+  "stars": 1200,
+  "followers": 10,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/pito-svk/node-train"
+    },
+    {
+      "url": "/pito-svk/Snake-Game"
+    },
+    {
+      "url": "/pito-svk/peterparada.com"
+    },
+    {
+      "url": "/pito-svk/Best-Calculator"
+    },
+    {
+      "url": "/pito-svk/Timezones-app"
+    },
+    {
+      "url": "/pito-svk/exercism-clojure"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Peter Parada",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/4748950?v=3&s=460",
+  "contribs": 112,
+  "orgs": [
+    {
+      "wtfall": "https://avatars2.githubusercontent.com/u/6960575?v=3&s=70"
+    }
+  ]
+}

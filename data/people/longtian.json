@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/longtian",
+  "img": "https://avatars1.githubusercontent.com/u/171947?v=3&s=460",
+  "uid": 171947,
+  "repos": 106,
+  "stars": 1200,
+  "followers": 157,
+  "following": 446,
+  "pinned": [
+    {
+      "url": "/longtian/javascript_performance_measurement"
+    },
+    {
+      "url": "/longtian/react-makes-you-sad"
+    },
+    {
+      "url": "/longtian/webpack_performance"
+    },
+    {
+      "url": "/longtian/npm2dot"
+    },
+    {
+      "url": "/longtian/react-datatables-example"
+    },
+    {
+      "url": "/longtian/qiniu-webpack-plugin"
+    }
+  ],
+  "worksfor": "@testin",
+  "location": "Beijing, China",
+  "fullname": "龙天",
+  "website": "https://cn.linkedin.com/in/longtian",
+  "avatar": "https://avatars1.githubusercontent.com/u/171947?v=3&s=460",
+  "contribs": 387,
+  "orgs": [
+    {
+      "udacity-homework": "https://avatars0.githubusercontent.com/u/10388663?v=3&s=70"
+    },
+    {
+      "testin": "https://avatars0.githubusercontent.com/u/29016871?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

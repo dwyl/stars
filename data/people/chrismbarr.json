@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/chrismbarr",
+  "img": "https://avatars3.githubusercontent.com/u/463685?v=3&s=460",
+  "uid": 463685,
+  "repos": 49,
+  "stars": 77,
+  "followers": 18,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/chrismbarr/TouchScroll"
+    },
+    {
+      "url": "/chrismbarr/FileDrop"
+    },
+    {
+      "url": "/chrismbarr/LyricConverter"
+    },
+    {
+      "url": "/chrismbarr/txt-to-pro-presenter"
+    },
+    {
+      "url": "/chrismbarr/jQuery.Bible"
+    },
+    {
+      "url": "/chrismbarr/guessr"
+    }
+  ],
+  "worksfor": "AppRiver",
+  "location": "Rome, GA",
+  "fullname": "Chris Barr",
+  "website": "http://chris-barr.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/463685?v=3&s=460",
+  "contribs": 157,
+  "orgs": [
+    {
+      "AppRiver": "https://avatars2.githubusercontent.com/u/6851209?v=3&s=70"
+    }
+  ]
+}

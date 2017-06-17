@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/cunneen",
+  "img": "https://avatars2.githubusercontent.com/u/1751645?v=3&s=460",
+  "uid": 1751645,
+  "repos": 32,
+  "stars": 78,
+  "followers": 6,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/cunneen/meteor-mailgun"
+    },
+    {
+      "url": "/cunneen/Bitbucket-Issue-Tracker-Visualizer"
+    },
+    {
+      "url": "/cunneen/meteor-signature-pad"
+    },
+    {
+      "url": "/cunneen/Cordova-PDF-Example-using-jsPDF"
+    },
+    {
+      "url": "/cunneen/cordovaPDFView"
+    },
+    {
+      "url": "/cunneen/meteor-email-verifier"
+    }
+  ],
+  "worksfor": "",
+  "location": "Perth, Australia",
+  "fullname": "Mike Cunneen",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1751645?v=3&s=460",
+  "contribs": 30,
+  "orgs": []
+}

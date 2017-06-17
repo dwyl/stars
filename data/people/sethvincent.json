@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/sethvincent",
+  "img": "https://avatars2.githubusercontent.com/u/164214?v=3&s=460",
+  "uid": 164214,
+  "repos": 298,
+  "stars": 3600,
+  "followers": 470,
+  "following": 520,
+  "pinned": [
+    {
+      "url": "/workshopper/javascripting"
+    },
+    {
+      "url": "/staticland/staticland"
+    },
+    {
+      "url": "/editdata/app.editdata.org"
+    },
+    {
+      "url": "/freeman-lab/minidocs"
+    },
+    {
+      "url": "/sethvincent/projects"
+    },
+    {
+      "url": "/sethvincent/notes"
+    }
+  ],
+  "worksfor": "",
+  "location": "seattle, wa",
+  "fullname": "Seth Vincent",
+  "website": "https://sethvincent.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/164214?v=3&s=460",
+  "contribs": 1727,
+  "orgs": [
+    {
+      "openseattle": "https://avatars1.githubusercontent.com/u/3466034?v=3&s=70"
+    },
+    {
+      "seattleio": "https://avatars0.githubusercontent.com/u/5035942?v=3&s=70"
+    },
+    {
+      "editdata": "https://avatars3.githubusercontent.com/u/14816301?v=3&s=70"
+    },
+    {
+      "staticland": "https://avatars0.githubusercontent.com/u/18635529?v=3&s=70"
+    },
+    {
+      "adventuretron": "https://avatars1.githubusercontent.com/u/22183886?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

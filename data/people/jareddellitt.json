@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jareddellitt",
+  "img": "https://avatars0.githubusercontent.com/u/477684?v=3&s=460",
+  "uid": 477684,
+  "repos": 23,
+  "stars": 103,
+  "followers": 26,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/jareddellitt/Facebook-Style-Mobile-Navigation"
+    },
+    {
+      "url": "/jareddellitt/ics-panel-switching"
+    },
+    {
+      "url": "/jareddellitt/scala-finagle-thrift-exploring"
+    },
+    {
+      "url": "/jareddellitt/nodejs-thrift-calculator-client"
+    },
+    {
+      "url": "/jareddellitt/android-lapse-sync"
+    },
+    {
+      "url": "/jareddellitt/scala-stuff"
+    }
+  ],
+  "worksfor": "Dwolla",
+  "location": "Des Moines, IA",
+  "fullname": "Jared Dellitt",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/477684?v=3&s=460",
+  "contribs": 52,
+  "orgs": [
+    {
+      "Dwolla": "https://avatars1.githubusercontent.com/u/823934?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/purezen",
+  "img": "https://avatars2.githubusercontent.com/u/3036093?v=3&s=460",
+  "uid": 3036093,
+  "repos": 88,
+  "stars": 141,
+  "followers": 14,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/node-nock/nock"
+    },
+    {
+      "url": "/purezen/react-koa-minimal-starter"
+    },
+    {
+      "url": "/purezen/koa"
+    },
+    {
+      "url": "/elayabharath/contextual"
+    },
+    {
+      "url": "/Shippable/cexec"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bangalore, India",
+  "fullname": "Aditya Bhardwaj",
+  "website": "https://purezen.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/3036093?v=3&s=460",
+  "contribs": 100,
+  "orgs": []
+}

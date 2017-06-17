@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/gndplayground",
+  "img": "https://avatars1.githubusercontent.com/u/17973301?v=3&s=460",
+  "uid": 17973301,
+  "repos": 11,
+  "stars": 22,
+  "followers": 0,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/gndplayground/react-hoc-form-validatable"
+    },
+    {
+      "url": "/gndplayground/express-react-starter-kit"
+    },
+    {
+      "url": "/tiki-elements/tiki-select-filterable"
+    },
+    {
+      "url": "/gndplayground/react-start"
+    }
+  ],
+  "worksfor": "Tiki.vn",
+  "location": "Vietnam",
+  "fullname": "Giang Nguyen",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/17973301?v=3&s=460",
+  "contribs": 726,
+  "orgs": []
+}

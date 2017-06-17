@@ -1,0 +1,61 @@
+{
+  "url": "https://github.com/DavidCai1993",
+  "img": "https://avatars0.githubusercontent.com/u/5886475?v=3&s=460",
+  "uid": 5886475,
+  "repos": 133,
+  "stars": 1200,
+  "followers": 463,
+  "following": 322,
+  "pinned": [
+    {
+      "url": "/nodejs/node"
+    },
+    {
+      "url": "/DavidCai1993/nodejs-api-doc"
+    },
+    {
+      "url": "/DavidCai1993/lock.js"
+    },
+    {
+      "url": "/DavidCai1993/my-blog"
+    },
+    {
+      "url": "/DavidCai1993/request"
+    },
+    {
+      "url": "/DavidCai1993/redlock-rs"
+    }
+  ],
+  "worksfor": "@teambition",
+  "location": "Shanghai, China",
+  "fullname": "David Cai",
+  "website": "http://dog.singles",
+  "avatar": "https://avatars0.githubusercontent.com/u/5886475?v=3&s=460",
+  "contribs": 727,
+  "orgs": [
+    {
+      "teambition": "https://avatars2.githubusercontent.com/u/1983116?v=3&s=70"
+    },
+    {
+      "Go-zh": "https://avatars1.githubusercontent.com/u/9815987?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "moajs": "https://avatars1.githubusercontent.com/u/12710573?v=3&s=70"
+    },
+    {
+      "eggjs": "https://avatars1.githubusercontent.com/u/15833670?v=3&s=70"
+    },
+    {
+      "17koa": "https://avatars2.githubusercontent.com/u/16133061?v=3&s=70"
+    },
+    {
+      "ts-believers": "https://avatars1.githubusercontent.com/u/16495689?v=3&s=70"
+    },
+    {
+      "go-http-utils": "https://avatars0.githubusercontent.com/u/23454752?v=3&s=70"
+    }
+  ]
+}

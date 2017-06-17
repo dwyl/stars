@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/j1348",
+  "img": "https://avatars3.githubusercontent.com/u/24779568?v=3&s=460",
+  "uid": 24779568,
+  "repos": 5,
+  "stars": 14,
+  "followers": 0,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/j1348/timelapse-web"
+    },
+    {
+      "url": "/j1348/timelapse-api"
+    },
+    {
+      "url": "/j1348/timelapse-amqp"
+    },
+    {
+      "url": "/j1348/calendar-nojs"
+    },
+    {
+      "url": "/j1348/dayoff"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "j1348",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/24779568?v=3&s=460",
+  "contribs": 300,
+  "orgs": []
+}

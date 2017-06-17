@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/danopia",
+  "img": "https://avatars3.githubusercontent.com/u/40628?v=3&s=460",
+  "uid": 40628,
+  "repos": 105,
+  "stars": 443,
+  "followers": 92,
+  "following": 72,
+  "pinned": [
+    {
+      "url": "/danopia/ruby-on-sails"
+    },
+    {
+      "url": "/danopia/remora"
+    },
+    {
+      "url": "/danopia/Romaine"
+    },
+    {
+      "url": "/danopia/rbircd"
+    },
+    {
+      "url": "/danopia/sshd.js"
+    },
+    {
+      "url": "/danopia/deviantart-difi"
+    }
+  ],
+  "worksfor": "Scopely",
+  "location": "Los Angeles, CA",
+  "fullname": "Daniel Lamando",
+  "website": "http://danopia.net/",
+  "avatar": "https://avatars3.githubusercontent.com/u/40628?v=3&s=460",
+  "contribs": 2385,
+  "orgs": [
+    {
+      "ooc-lang": "https://avatars1.githubusercontent.com/u/317852?v=3&s=70"
+    },
+    {
+      "minecube": "https://avatars2.githubusercontent.com/u/559616?v=3&s=70"
+    },
+    {
+      "scopely": "https://avatars1.githubusercontent.com/u/618945?v=3&s=70"
+    },
+    {
+      "tenthbit": "https://avatars3.githubusercontent.com/u/1060510?v=3&s=70"
+    },
+    {
+      "protonet-apps": "https://avatars1.githubusercontent.com/u/2163892?v=3&s=70"
+    }
+  ]
+}

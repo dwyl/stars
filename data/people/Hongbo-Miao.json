@@ -1,0 +1,67 @@
+{
+  "url": "https://github.com/Hongbo-Miao",
+  "img": "https://avatars2.githubusercontent.com/u/3375461?v=3&s=460",
+  "uid": 3375461,
+  "repos": 134,
+  "stars": 2500,
+  "followers": 133,
+  "following": 192,
+  "pinned": [
+    {
+      "url": "/angular/angular"
+    },
+    {
+      "url": "/cazala/synaptic"
+    },
+    {
+      "url": "/angular/universal"
+    },
+    {
+      "url": "/aframevr/aframe"
+    },
+    {
+      "url": "/ngrx/store"
+    },
+    {
+      "url": "/webtorrent/webtorrent"
+    }
+  ],
+  "worksfor": "Program Manager @Microsoft",
+  "location": "Seattle, WA",
+  "fullname": "Hongbo Miao",
+  "website": "http://linkedin.com/in/hongbomiao",
+  "avatar": "https://avatars2.githubusercontent.com/u/3375461?v=3&s=460",
+  "contribs": 522,
+  "orgs": [
+    {
+      "Azure-Samples": "https://avatars1.githubusercontent.com/u/1844662?v=3&s=70"
+    },
+    {
+      "AzureAD": "https://avatars0.githubusercontent.com/u/2966316?v=3&s=70"
+    },
+    {
+      "Microsoft": "https://avatars0.githubusercontent.com/u/6154722?v=3&s=70"
+    },
+    {
+      "OfficeDev": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=70"
+    },
+    {
+      "Azure": "https://avatars0.githubusercontent.com/u/6844498?v=3&s=70"
+    },
+    {
+      "valor-software": "https://avatars3.githubusercontent.com/u/6849042?v=3&s=70"
+    },
+    {
+      "codeRIT": "https://avatars2.githubusercontent.com/u/7265955?v=3&s=70"
+    },
+    {
+      "AngularClass": "https://avatars1.githubusercontent.com/u/11602678?v=3&s=70"
+    },
+    {
+      "microsoftgraph": "https://avatars3.githubusercontent.com/u/17304259?v=3&s=70"
+    },
+    {
+      "MicrosoftDocs": "https://avatars1.githubusercontent.com/u/22479449?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/briangershon",
+  "img": "https://avatars2.githubusercontent.com/u/139330?v=3&s=460",
+  "uid": 139330,
+  "repos": 61,
+  "stars": 1300,
+  "followers": 51,
+  "following": 73,
+  "pinned": [
+    {
+      "url": "/briangershon/ubuntu-setup-on-chromeos"
+    },
+    {
+      "url": "/briangershon/feed-tamer"
+    },
+    {
+      "url": "/briangershon/bicolor8x8-bluetooth"
+    },
+    {
+      "url": "/briangershon/exif-date-to-iso"
+    },
+    {
+      "url": "/briangershon/bitesize"
+    },
+    {
+      "url": "/briangershon/handycommands"
+    }
+  ],
+  "worksfor": "Unity Technologies",
+  "location": "Seattle, WA",
+  "fullname": "Brian Gershon",
+  "website": "http://blog.evolvingbits.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/139330?v=3&s=460",
+  "contribs": 2153,
+  "orgs": [
+    {
+      "UnityTech": "https://avatars3.githubusercontent.com/u/250106?v=3&s=70"
+    }
+  ]
+}

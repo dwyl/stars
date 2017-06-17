@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/marcacyr",
+  "img": "https://avatars3.githubusercontent.com/u/4146617?v=3&s=460",
+  "uid": 4146617,
+  "repos": 45,
+  "stars": 86,
+  "followers": 11,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/marcacyr/basic-node-api"
+    },
+    {
+      "url": "/marcacyr/google-libphonenumber"
+    },
+    {
+      "url": "/marcacyr/kanso"
+    },
+    {
+      "url": "/marcacyr/redux-voting-client"
+    },
+    {
+      "url": "/marcacyr/redux-voting-server"
+    },
+    {
+      "url": "/marcacyr/swift_hack_day"
+    }
+  ],
+  "worksfor": "RedLock",
+  "location": "San Francisco, CA",
+  "fullname": "Marc Cyr",
+  "website": "https://medium.com/@marcacyr",
+  "avatar": "https://avatars3.githubusercontent.com/u/4146617?v=3&s=460",
+  "contribs": 16,
+  "orgs": []
+}

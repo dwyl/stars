@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/bitcloud",
+  "img": "https://avatars1.githubusercontent.com/u/363385?v=3&s=460",
+  "uid": 363385,
+  "repos": 14,
+  "stars": 52,
+  "followers": 10,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/bitcloud/GTUG-HTML5-Campout"
+    },
+    {
+      "url": "/bitcloud/bitcloudshell"
+    },
+    {
+      "url": "/bitcloud/assemble"
+    },
+    {
+      "url": "/bitcloud/engine-handlebars"
+    },
+    {
+      "url": "/bitcloud/hapi-auth-bearer-simple"
+    },
+    {
+      "url": "/bitcloud/hapi-auth-jwt2"
+    }
+  ],
+  "worksfor": "Cospired GmbH",
+  "location": "Germany",
+  "fullname": "Jan Schmidle",
+  "website": "http://www.cospired.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/363385?v=3&s=460",
+  "contribs": 23,
+  "orgs": [
+    {
+      "cospired": "https://avatars2.githubusercontent.com/u/2266331?v=3&s=70"
+    },
+    {
+      "munichmakerlab": "https://avatars3.githubusercontent.com/u/6692326?v=3&s=70"
+    }
+  ]
+}

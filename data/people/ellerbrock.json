@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/ellerbrock",
+  "img": "https://avatars2.githubusercontent.com/u/2029255?v=3&s=460",
+  "uid": 2029255,
+  "repos": 494,
+  "stars": 1600,
+  "followers": 53,
+  "following": 180,
+  "pinned": [
+    {
+      "url": "/ellerbrock/fish-shell-setup-osx"
+    },
+    {
+      "url": "/ellerbrock/open-source-badges"
+    },
+    {
+      "url": "/ellerbrock/egghead-video-download"
+    },
+    {
+      "url": "/ellerbrock/node-developer-boilerplate"
+    },
+    {
+      "url": "/ellerbrock/awesome-koa"
+    },
+    {
+      "url": "/ellerbrock/awesome-typescript"
+    }
+  ],
+  "worksfor": "@frapsoft",
+  "location": "Heidenheim, Germany",
+  "fullname": "Maik Ellerbrock",
+  "website": "https://twitter.com/frapsoft",
+  "avatar": "https://avatars2.githubusercontent.com/u/2029255?v=3&s=460",
+  "contribs": 1255,
+  "orgs": [
+    {
+      "frapsoft": "https://avatars0.githubusercontent.com/u/6225024?v=3&s=70"
+    },
+    {
+      "Bash-it": "https://avatars0.githubusercontent.com/u/11575812?v=3&s=70"
+    },
+    {
+      "cloud-architecture": "https://avatars3.githubusercontent.com/u/29417837?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

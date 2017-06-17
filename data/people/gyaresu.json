@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/gyaresu",
+  "img": "https://avatars0.githubusercontent.com/u/29263?v=3&s=460",
+  "uid": 29263,
+  "repos": 101,
+  "stars": 529,
+  "followers": 59,
+  "following": 40,
+  "pinned": [
+    {
+      "url": "/gyaresu/rf1101se-teensy"
+    },
+    {
+      "url": "/gyaresu/hackrf-node-stuff"
+    },
+    {
+      "url": "/gyaresu/cc1101-uno-lcd"
+    },
+    {
+      "url": "/gyaresu/learn_c_the_hard_way"
+    },
+    {
+      "url": "/gyaresu/nodeschool"
+    },
+    {
+      "url": "/gyaresu/STM32F407G-DISC1"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Gareth",
+  "website": "http://gareth.codes",
+  "avatar": "https://avatars0.githubusercontent.com/u/29263?v=3&s=460",
+  "contribs": 175,
+  "orgs": [
+    {
+      "nodeschool": "https://avatars2.githubusercontent.com/u/5437587?v=3&s=70"
+    }
+  ]
+}

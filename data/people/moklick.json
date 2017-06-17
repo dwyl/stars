@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/moklick",
+  "img": "https://avatars3.githubusercontent.com/u/2857535?v=3&s=460",
+  "uid": 2857535,
+  "repos": 81,
+  "stars": 885,
+  "followers": 270,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/moklick/frontend-stuff"
+    },
+    {
+      "url": "/wbkd/awesome-d3"
+    },
+    {
+      "url": "/gka/canvid"
+    },
+    {
+      "url": "/moklick/nodejs-stuff"
+    },
+    {
+      "url": "/moklick/cctv-everywhere"
+    },
+    {
+      "url": "/wbkd/d3-extended"
+    }
+  ],
+  "worksfor": "http://webkid.io",
+  "location": "Berlin",
+  "fullname": "Moritz",
+  "website": "http://twitter.com/moklick",
+  "avatar": "https://avatars3.githubusercontent.com/u/2857535?v=3&s=460",
+  "contribs": 1344,
+  "orgs": [
+    {
+      "okfde": "https://avatars1.githubusercontent.com/u/2130307?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/gfogle",
+  "img": "https://avatars1.githubusercontent.com/u/7015773?v=3&s=460",
+  "uid": 7015773,
+  "repos": 34,
+  "stars": 145,
+  "followers": 11,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/gfogle/multi-platform-react"
+    },
+    {
+      "url": "/gfogle/Genetic"
+    },
+    {
+      "url": "/gfogle/common-web-nojquery"
+    },
+    {
+      "url": "/gfogle/react-render-talk"
+    },
+    {
+      "url": "/gfogle/react"
+    },
+    {
+      "url": "/gfogle/angular"
+    }
+  ],
+  "worksfor": "",
+  "location": "Boston MA",
+  "fullname": "George Fogle",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/7015773?v=3&s=460",
+  "contribs": 1562,
+  "orgs": [
+    {
+      "reactdc": "https://avatars2.githubusercontent.com/u/8931000?v=3&s=70"
+    }
+  ]
+}

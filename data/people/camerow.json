@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/camerow",
+  "img": "https://avatars3.githubusercontent.com/u/4154594?v=3&s=460",
+  "uid": 4154594,
+  "repos": 21,
+  "stars": 246,
+  "followers": 12,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/camerow/mern-starter-hapi"
+    },
+    {
+      "url": "/camerow/react-redux-component-injection-example"
+    },
+    {
+      "url": "/camerow/hangboard-timer"
+    },
+    {
+      "url": "/camerow/projectEuler"
+    },
+    {
+      "url": "/camerow/webpack-react"
+    },
+    {
+      "url": "/camerow/electron-sandbox"
+    }
+  ],
+  "worksfor": "",
+  "location": "Washington",
+  "fullname": "Will Cameron",
+  "website": "http://willcameron.me",
+  "avatar": "https://avatars3.githubusercontent.com/u/4154594?v=3&s=460",
+  "contribs": 324,
+  "orgs": []
+}

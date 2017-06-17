@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/hairyhenderson",
+  "img": "https://avatars2.githubusercontent.com/u/2037086?v=3&s=460",
+  "uid": 2037086,
+  "repos": 75,
+  "stars": 544,
+  "followers": 41,
+  "following": 76,
+  "pinned": [
+    {
+      "url": "/hairyhenderson/gomplate"
+    },
+    {
+      "url": "/hairyhenderson/jiraprinter"
+    },
+    {
+      "url": "/hairyhenderson/teams"
+    },
+    {
+      "url": "/hairyhenderson/passport-fellowshipone"
+    },
+    {
+      "url": "/docker/machine"
+    },
+    {
+      "url": "/hairyhenderson/hairyhenderson.github.io"
+    }
+  ],
+  "worksfor": "Qlik",
+  "location": "Ottawa, Canada",
+  "fullname": "Dave Henderson",
+  "website": "https://hairyhenderson.ca",
+  "avatar": "https://avatars2.githubusercontent.com/u/2037086?v=3&s=460",
+  "contribs": 4788,
+  "orgs": [
+    {
+      "qlik-trial": "https://avatars3.githubusercontent.com/u/12396906?v=3&s=70"
+    },
+    {
+      "DockerOttawaMeetup": "https://avatars2.githubusercontent.com/u/18711393?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

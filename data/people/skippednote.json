@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/skippednote",
+  "img": "https://avatars2.githubusercontent.com/u/2114712?v=3&s=460",
+  "uid": 2114712,
+  "repos": 55,
+  "stars": 519,
+  "followers": 74,
+  "following": 80,
+  "pinned": [
+    {
+      "url": "/skippednote/Go-Learn"
+    },
+    {
+      "url": "/skippednote/scrnshtr"
+    },
+    {
+      "url": "/skippednote/writ"
+    },
+    {
+      "url": "/skippednote/progressive-drupal"
+    },
+    {
+      "url": "/skippednote/RESTFul-APIs-using-Express.js-and-Node.js"
+    },
+    {
+      "url": "/skippednote/Frunt"
+    }
+  ],
+  "worksfor": "Acquia",
+  "location": "Srinagar, India",
+  "fullname": "Bassam Ismail",
+  "website": "http://bassam.co",
+  "avatar": "https://avatars2.githubusercontent.com/u/2114712?v=3&s=460",
+  "contribs": 1357,
+  "orgs": [
+    {
+      "acquia-pso": "https://avatars2.githubusercontent.com/u/1236592?v=3&s=70"
+    },
+    {
+      "opensourcesrinagar": "https://avatars0.githubusercontent.com/u/3119789?v=3&s=70"
+    },
+    {
+      "hackers-kashmir": "https://avatars0.githubusercontent.com/u/16527413?v=3&s=70"
+    }
+  ]
+}

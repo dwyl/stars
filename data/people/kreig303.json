@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kreig303",
+  "img": "https://avatars3.githubusercontent.com/u/12191766?v=3&s=460",
+  "uid": 12191766,
+  "repos": 7,
+  "stars": 223,
+  "followers": 7,
+  "following": 40,
+  "pinned": [
+    {
+      "url": "/kreig303/aqua"
+    },
+    {
+      "url": "/kreig303/hapi-sequelize"
+    },
+    {
+      "url": "/kreig303/mongo-models"
+    },
+    {
+      "url": "/kreig303/sequelize"
+    },
+    {
+      "url": "/kreig303/joi"
+    },
+    {
+      "url": "/kreig303/node"
+    }
+  ],
+  "worksfor": "Flamingo Customer Experience, Inc.",
+  "location": "New Haven, CT, USA",
+  "fullname": "Kreig Zimmerman",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/12191766?v=3&s=460",
+  "contribs": 191,
+  "orgs": []
+}

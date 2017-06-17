@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/philippeluickx",
+  "img": "https://avatars2.githubusercontent.com/u/836866?v=3&s=460",
+  "uid": 836866,
+  "repos": 26,
+  "stars": 523,
+  "followers": 9,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/philippeluickx/rdflib"
+    },
+    {
+      "url": "/philippeluickx/RDFAlchemy"
+    },
+    {
+      "url": "/philippeluickx/django-inplaceedit"
+    },
+    {
+      "url": "/philippeluickx/virtuoso-python"
+    },
+    {
+      "url": "/philippeluickx/django-favit"
+    },
+    {
+      "url": "/philippeluickx/django-taggit-jquery-tag-it"
+    }
+  ],
+  "worksfor": "Orava",
+  "location": "Tampere",
+  "fullname": "Philippe Luickx",
+  "website": "http://orava.co",
+  "avatar": "https://avatars2.githubusercontent.com/u/836866?v=3&s=460",
+  "contribs": 245,
+  "orgs": [
+    {
+      "apinf": "https://avatars1.githubusercontent.com/u/9882661?v=3&s=70"
+    }
+  ]
+}

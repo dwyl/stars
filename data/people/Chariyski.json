@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Chariyski",
+  "img": "https://avatars0.githubusercontent.com/u/6265395?v=3&s=460",
+  "uid": 6265395,
+  "repos": 11,
+  "stars": 27,
+  "followers": 14,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/Chariyski/JIRA-Cards-for-Task-Board"
+    },
+    {
+      "url": "/Chariyski/Home-Assistant-Configuration"
+    },
+    {
+      "url": "/Chariyski/grunt-nexus-downloader"
+    },
+    {
+      "url": "/Chariyski/portfolio"
+    },
+    {
+      "url": "/Chariyski/staircase-lighting"
+    },
+    {
+      "url": "/Chariyski/home-automation-rest"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bulgaria",
+  "fullname": "Krasimir Chariyski",
+  "website": "http://chariyski.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/6265395?v=3&s=460",
+  "contribs": 412,
+  "orgs": [
+    {
+      "LittleFurryBastards": "https://avatars1.githubusercontent.com/u/16318236?v=3&s=70"
+    }
+  ]
+}

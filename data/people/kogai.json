@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kogai",
+  "img": "https://avatars3.githubusercontent.com/u/4057326?v=3&s=460",
+  "uid": 4057326,
+  "repos": 112,
+  "stars": 1100,
+  "followers": 26,
+  "following": 63,
+  "pinned": [
+    {
+      "url": "/kogai/arisama"
+    },
+    {
+      "url": "/kogai/remotty-client"
+    },
+    {
+      "url": "/kogai/vscode-regex-railroad-diagrams"
+    },
+    {
+      "url": "/kogai/arduino"
+    },
+    {
+      "url": "/kogai/vue-form"
+    },
+    {
+      "url": "/kogai/angular-mock-generator"
+    }
+  ],
+  "worksfor": "",
+  "location": "Japan",
+  "fullname": "shinichi.kogai",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/4057326?v=3&s=460",
+  "contribs": 752,
+  "orgs": []
+}

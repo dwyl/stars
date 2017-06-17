@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/elmasse",
+  "img": "https://avatars0.githubusercontent.com/u/223235?v=3&s=460",
+  "uid": 223235,
+  "repos": 35,
+  "stars": 487,
+  "followers": 72,
+  "following": 45,
+  "pinned": [
+    {
+      "url": "/elmasse/elmasse-bundle"
+    },
+    {
+      "url": "/CocktailJS/cocktail"
+    },
+    {
+      "url": "/CocktailJS/traits-decorator"
+    },
+    {
+      "url": "/geut/chan"
+    },
+    {
+      "url": "/elmasse/ext-jwt-test"
+    },
+    {
+      "url": "/elmasse/hyper-markdown-preview"
+    }
+  ],
+  "worksfor": "Sencha, Inc",
+  "location": "La Plata, Buenos Aires. Argentina",
+  "fullname": "Max Fierro",
+  "website": "http://elmasse.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/223235?v=3&s=460",
+  "contribs": 575,
+  "orgs": [
+    {
+      "extjs": "https://avatars3.githubusercontent.com/u/78110?v=3&s=70"
+    },
+    {
+      "senchalabs": "https://avatars3.githubusercontent.com/u/313839?v=3&s=70"
+    },
+    {
+      "CocktailJS": "https://avatars2.githubusercontent.com/u/3879078?v=3&s=70"
+    },
+    {
+      "laplatajs": "https://avatars3.githubusercontent.com/u/7494006?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/claudgent",
+  "img": "https://avatars0.githubusercontent.com/u/12100616?v=3&s=460",
+  "uid": 12100616,
+  "repos": 13,
+  "stars": 10,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/claudgent/file-metadata"
+    },
+    {
+      "url": "/claudgent/head-parser"
+    },
+    {
+      "url": "/claudgent/image-search"
+    },
+    {
+      "url": "/claudgent/PengoBot"
+    },
+    {
+      "url": "/claudgent/url-shortener"
+    },
+    {
+      "url": "/claudgent/voting-app"
+    }
+  ],
+  "worksfor": "",
+  "location": "Garfield, NJ USA",
+  "fullname": "Claudio Gentile",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/12100616?v=3&s=460",
+  "contribs": 126,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/tebanep",
+  "img": "https://avatars1.githubusercontent.com/u/6664744?v=3&s=460",
+  "uid": 6664744,
+  "repos": 20,
+  "stars": 418,
+  "followers": 6,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/tebanep/Responsive-Dashboard"
+    },
+    {
+      "url": "/tebanep/ngbp"
+    },
+    {
+      "url": "/tebanep/building-a-blog-using-flask-and-angularjs"
+    },
+    {
+      "url": "/tebanep/angular-grunt-coffeescript"
+    },
+    {
+      "url": "/tebanep/angular-seed"
+    },
+    {
+      "url": "/tebanep/odoo-v8-nightly-docker"
+    }
+  ],
+  "worksfor": "nubark",
+  "location": "Colombia",
+  "fullname": "Esteban Echeverry",
+  "website": "http://www.nubark.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/6664744?v=3&s=460",
+  "contribs": 44,
+  "orgs": []
+}

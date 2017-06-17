@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/chaicko",
+  "img": "https://avatars1.githubusercontent.com/u/6152149?v=3&s=460",
+  "uid": 6152149,
+  "repos": 46,
+  "stars": 310,
+  "followers": 6,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/chaicko/AlgorithmicToolbox"
+    },
+    {
+      "url": "/chaicko/ruby-calisthenics"
+    },
+    {
+      "url": "/chaicko/tdd_book_code"
+    },
+    {
+      "url": "/chaicko/typo"
+    },
+    {
+      "url": "/chaicko/IntroToAlgorithms"
+    },
+    {
+      "url": "/chaicko/bglib"
+    }
+  ],
+  "worksfor": "",
+  "location": "Argentina",
+  "fullname": "Alejandro Javier Schwoykoski",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/6152149?v=3&s=460",
+  "contribs": 139,
+  "orgs": [
+    {
+      "i-comp": "https://avatars2.githubusercontent.com/u/10715047?v=3&s=70"
+    }
+  ]
+}

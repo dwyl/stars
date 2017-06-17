@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/austinkelleher",
+  "img": "https://avatars1.githubusercontent.com/u/3771924?v=3&s=460",
+  "uid": 3771924,
+  "repos": 92,
+  "stars": 409,
+  "followers": 40,
+  "following": 73,
+  "pinned": [
+    {
+      "url": "/austinkelleher/giphy-api"
+    },
+    {
+      "url": "/austinkelleher/dynograte"
+    },
+    {
+      "url": "/marko-js/marko"
+    },
+    {
+      "url": "/fashion-js/fashion-model"
+    },
+    {
+      "url": "/austinkelleher/nrd"
+    },
+    {
+      "url": "/austinkelleher/porti"
+    }
+  ],
+  "worksfor": "@eBay",
+  "location": "Raleigh-Durham, North Carolina",
+  "fullname": "Austin Kelleher",
+  "website": "https://www.austinkelleher.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/3771924?v=3&s=460",
+  "contribs": 781,
+  "orgs": [
+    {
+      "raptorjs": "https://avatars0.githubusercontent.com/u/2119145?v=3&s=70"
+    },
+    {
+      "lasso-js": "https://avatars3.githubusercontent.com/u/11873177?v=3&s=70"
+    },
+    {
+      "marko-js": "https://avatars0.githubusercontent.com/u/11873696?v=3&s=70"
+    },
+    {
+      "marko-js-samples": "https://avatars2.githubusercontent.com/u/12463465?v=3&s=70"
+    },
+    {
+      "fashion-js": "https://avatars3.githubusercontent.com/u/22891018?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/sandropucp",
+  "img": "https://avatars3.githubusercontent.com/u/3459377?v=3&s=460",
+  "uid": 3459377,
+  "repos": 14,
+  "stars": 203,
+  "followers": 1,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/sandropucp/blogapi"
+    },
+    {
+      "url": "/sandropucp/blogapp"
+    },
+    {
+      "url": "/sandropucp/BoilerplateExpressJSRESTAPI"
+    },
+    {
+      "url": "/sandropucp/MoneyTDD"
+    },
+    {
+      "url": "/sandropucp/VIPER-SWIFT"
+    },
+    {
+      "url": "/sandropucp/blog-api-es6"
+    }
+  ],
+  "worksfor": "",
+  "location": "Alexandria VA",
+  "fullname": "Sandro Sanchez",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3459377?v=3&s=460",
+  "contribs": 45,
+  "orgs": []
+}

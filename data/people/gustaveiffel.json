@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/gustaveiffel",
+  "img": "https://avatars3.githubusercontent.com/u/1273277?v=3&s=460",
+  "uid": 1273277,
+  "repos": 7,
+  "stars": 2100,
+  "followers": 6,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/gustaveiffel/storm-cassandra"
+    },
+    {
+      "url": "/gustaveiffel/big-data-plugin"
+    },
+    {
+      "url": "/gustaveiffel/incubator-storm"
+    },
+    {
+      "url": "/gustaveiffel/incubator-storm-1"
+    },
+    {
+      "url": "/gustaveiffel/AnomalyDetection"
+    },
+    {
+      "url": "/gustaveiffel/pmacct"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1273277?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

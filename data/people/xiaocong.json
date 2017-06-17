@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/xiaocong",
+  "img": "https://avatars0.githubusercontent.com/u/1559756?v=3&s=460",
+  "uid": 1559756,
+  "repos": 50,
+  "stars": 1100,
+  "followers": 212,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/xiaocong/uiautomator"
+    },
+    {
+      "url": "/xiaocong/android-uiautomator-server"
+    },
+    {
+      "url": "/xiaocong/android-uiautomator-jsonrpcserver"
+    },
+    {
+      "url": "/xiaocong/xiaocong.github.io"
+    },
+    {
+      "url": "/xiaocong/baidu-pcs"
+    },
+    {
+      "url": "/xiaocong/remote-task-web-app"
+    }
+  ],
+  "worksfor": "Guru inc.",
+  "location": "Beijing",
+  "fullname": "贺晓聪",
+  "website": "http://xiaocong.github.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1559756?v=3&s=460",
+  "contribs": 1257,
+  "orgs": [
+    {
+      "dropbox-dashbpard": "https://avatars0.githubusercontent.com/u/11881547?v=3&s=70"
+    }
+  ]
+}

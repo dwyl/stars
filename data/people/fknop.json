@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/fknop",
+  "img": "https://avatars1.githubusercontent.com/u/6775689?v=3&s=460",
+  "uid": 6775689,
+  "repos": 21,
+  "stars": 236,
+  "followers": 15,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/fknop/angular-pipes"
+    },
+    {
+      "url": "/fknop/hapi-pagination"
+    },
+    {
+      "url": "/fknop/ngx-hook"
+    },
+    {
+      "url": "/fknop/clean-decorators"
+    },
+    {
+      "url": "/fknop/slave-bot"
+    },
+    {
+      "url": "/fknop/node-unrar"
+    }
+  ],
+  "worksfor": "",
+  "location": "Brussels",
+  "fullname": "Florian Knop",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/6775689?v=3&s=460",
+  "contribs": 700,
+  "orgs": []
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/kleicht",
+  "img": "https://avatars0.githubusercontent.com/u/16385359?v=3&s=460",
+  "uid": 16385359,
+  "repos": 3,
+  "stars": 341,
+  "followers": 7,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/kleicht/algolia-vuejs-example"
+    },
+    {
+      "url": "/kleicht/webcitation"
+    },
+    {
+      "url": "/kleicht/doc.clever-cloud.com"
+    }
+  ],
+  "worksfor": "@Fabriks",
+  "location": "Lille",
+  "fullname": "Karl Leicht",
+  "website": "http://about.me/kleicht",
+  "avatar": "https://avatars0.githubusercontent.com/u/16385359?v=3&s=460",
+  "contribs": 13,
+  "orgs": []
+}

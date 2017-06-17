@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/rodrigoalviani",
+  "img": "https://avatars2.githubusercontent.com/u/5366090?v=3&s=460",
+  "uid": 5366090,
+  "repos": 30,
+  "stars": 488,
+  "followers": 20,
+  "following": 50,
+  "pinned": [
+    {
+      "url": "/rodrigoalviani/watermark-best-corner"
+    },
+    {
+      "url": "/rodrigoalviani/img-handler-server"
+    },
+    {
+      "url": "/rodrigoalviani/benchmark-jwt"
+    },
+    {
+      "url": "/rodrigoalviani/dotFiles"
+    },
+    {
+      "url": "/rodrigoalviani/heatmap"
+    },
+    {
+      "url": "/rodrigoalviani/full-mysql-backup"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Rodrigo Alviani",
+  "website": "https://br.linkedin.com/in/rodrigoalviani",
+  "avatar": "https://avatars2.githubusercontent.com/u/5366090?v=3&s=460",
+  "contribs": 14,
+  "orgs": [
+    {
+      "webmotors": "https://avatars3.githubusercontent.com/u/16245883?v=3&s=70"
+    }
+  ]
+}

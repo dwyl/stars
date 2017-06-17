@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/uehondor",
+  "img": "https://avatars2.githubusercontent.com/u/222116?v=3&s=460",
+  "uid": 222116,
+  "repos": 31,
+  "stars": 203,
+  "followers": 14,
+  "following": 28,
+  "pinned": [
+    {
+      "url": "/uehondor/phpunit-testrunner"
+    },
+    {
+      "url": "/uehondor/bootstrap-datetimepicker"
+    },
+    {
+      "url": "/uehondor/aws-cloudformation-chef-server"
+    },
+    {
+      "url": "/uehondor/chef"
+    },
+    {
+      "url": "/uehondor/install"
+    },
+    {
+      "url": "/uehondor/chef-repo"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Uyi Ehondor",
+  "website": "http://uyi.ehondor.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/222116?v=3&s=460",
+  "contribs": 40,
+  "orgs": []
+}

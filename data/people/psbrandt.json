@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/psbrandt",
+  "img": "https://avatars0.githubusercontent.com/u/668093?v=3&s=460",
+  "uid": 668093,
+  "repos": 56,
+  "stars": 1100,
+  "followers": 73,
+  "following": 606,
+  "pinned": [
+    {
+      "url": "/openmrs/openmrs-module-webservices.rest"
+    },
+    {
+      "url": "/psbrandt/openmrs.js"
+    },
+    {
+      "url": "/psbrandt/openmrs-platform-docker"
+    },
+    {
+      "url": "/esaude/esaude-platform-docker"
+    },
+    {
+      "url": "/esaude/esaude-poc-docker"
+    },
+    {
+      "url": "/psbrandt/generator-openmrs-owa"
+    }
+  ],
+  "worksfor": "University of Washington",
+  "location": "✈️",
+  "fullname": "Pascal Brandt",
+  "website": "https://psbrandt.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/668093?v=3&s=460",
+  "contribs": 523,
+  "orgs": [
+    {
+      "openmrs": "https://avatars1.githubusercontent.com/u/860776?v=3&s=70"
+    },
+    {
+      "uwcirg": "https://avatars1.githubusercontent.com/u/4440514?v=3&s=70"
+    },
+    {
+      "esaude": "https://avatars3.githubusercontent.com/u/6670085?v=3&s=70"
+    },
+    {
+      "UW-HPC": "https://avatars1.githubusercontent.com/u/12979313?v=3&s=70"
+    },
+    {
+      "uwbhi": "https://avatars2.githubusercontent.com/u/20417910?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

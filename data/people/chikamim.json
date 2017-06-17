@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/chikamim",
+  "img": "https://avatars3.githubusercontent.com/u/525626?v=3&s=460",
+  "uid": 525626,
+  "repos": 16,
+  "stars": 2900,
+  "followers": 10,
+  "following": 34,
+  "pinned": [
+    {
+      "url": "/chikamim/nounproject"
+    },
+    {
+      "url": "/chikamim/UICKeyChainStore"
+    },
+    {
+      "url": "/chikamim/concourse-example"
+    },
+    {
+      "url": "/chikamim/bitrise-example"
+    },
+    {
+      "url": "/chikamim/imageutil"
+    },
+    {
+      "url": "/chikamim/wercker-example"
+    }
+  ],
+  "worksfor": "@exdit",
+  "location": "Tokyo, Japan",
+  "fullname": "chikamim",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/525626?v=3&s=460",
+  "contribs": 101,
+  "orgs": []
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/dfrankland",
+  "img": "https://avatars0.githubusercontent.com/u/2488926?v=3&s=460",
+  "uid": 2488926,
+  "repos": 76,
+  "stars": 862,
+  "followers": 17,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/dfrankland/hyper-tab-icons"
+    },
+    {
+      "url": "/dfrankland/sous-vide"
+    },
+    {
+      "url": "/dfrankland/hyper-sync-settings"
+    },
+    {
+      "url": "/dfrankland/react-amphtml"
+    },
+    {
+      "url": "/dfrankland/hyper-transparent-bg"
+    },
+    {
+      "url": "/dfrankland/ampreact"
+    }
+  ],
+  "worksfor": "Narvar Inc",
+  "location": "San Francisco, CA",
+  "fullname": "Dylan Frankland",
+  "website": "https://dylan.frankland.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/2488926?v=3&s=460",
+  "contribs": 2613,
+  "orgs": [
+    {
+      "narvar": "https://avatars2.githubusercontent.com/u/4503814?v=3&s=70"
+    },
+    {
+      "snackcode": "https://avatars0.githubusercontent.com/u/12552508?v=3&s=70"
+    }
+  ]
+}

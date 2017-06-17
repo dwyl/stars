@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/AntAreS24",
+  "img": "https://avatars1.githubusercontent.com/u/8443467?v=3&s=460",
+  "uid": 8443467,
+  "repos": 6,
+  "stars": 3,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/AntAreS24/Flashtool"
+    },
+    {
+      "url": "/AntAreS24/containerisation"
+    },
+    {
+      "url": "/AntAreS24/contrib"
+    },
+    {
+      "url": "/AntAreS24/DockerBE"
+    },
+    {
+      "url": "/AntAreS24/node-audit-log"
+    },
+    {
+      "url": "/AntAreS24/iProcessDecisionsBEPlugin"
+    }
+  ],
+  "worksfor": "@TIBCOSoftware",
+  "location": "Sydney",
+  "fullname": "Ben Amiot",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/8443467?v=3&s=460",
+  "contribs": 12,
+  "orgs": []
+}

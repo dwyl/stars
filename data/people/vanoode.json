@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/vanoode",
+  "img": "https://avatars3.githubusercontent.com/u/4387422?v=3&s=460",
+  "uid": 4387422,
+  "repos": 5,
+  "stars": 32,
+  "followers": 2,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/vanoode/CoffeeScriptRedux"
+    },
+    {
+      "url": "/vanoode/r.pl-flights"
+    },
+    {
+      "url": "/vanoode/npm-svn"
+    },
+    {
+      "url": "/vanoode/material-foundation"
+    },
+    {
+      "url": "/vanoode/redux-axios-middleware"
+    }
+  ],
+  "worksfor": "Travactory N.V.",
+  "location": "Poland",
+  "fullname": "Przemysław Schultek",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/4387422?v=3&s=460",
+  "contribs": 5,
+  "orgs": []
+}

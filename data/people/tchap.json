@@ -1,0 +1,58 @@
+{
+  "url": "https://github.com/tchap",
+  "img": "https://avatars2.githubusercontent.com/u/697127?v=3&s=460",
+  "uid": 697127,
+  "repos": 72,
+  "stars": 522,
+  "followers": 25,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/tchap/go-patricia"
+    },
+    {
+      "url": "/tchap/gocli"
+    },
+    {
+      "url": "/tchap/go-dwarves"
+    },
+    {
+      "url": "/tchap/go-statemachine"
+    },
+    {
+      "url": "/tchap/go-exchange"
+    },
+    {
+      "url": "/tchap/salsa"
+    }
+  ],
+  "worksfor": "",
+  "location": "Prague, Czech Republic",
+  "fullname": "Ondřej Kupka",
+  "website": "http://about.me/ondrejkupka",
+  "avatar": "https://avatars2.githubusercontent.com/u/697127?v=3&s=460",
+  "contribs": 192,
+  "orgs": [
+    {
+      "salsita-integrations": "https://avatars3.githubusercontent.com/u/2300525?v=3&s=70"
+    },
+    {
+      "cider": "https://avatars1.githubusercontent.com/u/6117039?v=3&s=70"
+    },
+    {
+      "meeko": "https://avatars1.githubusercontent.com/u/7559480?v=3&s=70"
+    },
+    {
+      "meeko-contrib": "https://avatars0.githubusercontent.com/u/7628923?v=3&s=70"
+    },
+    {
+      "cider-plugins": "https://avatars0.githubusercontent.com/u/7635552?v=3&s=70"
+    },
+    {
+      "salsaflow": "https://avatars3.githubusercontent.com/u/9961758?v=3&s=70"
+    },
+    {
+      "salsita-workflow": "https://avatars1.githubusercontent.com/u/13883420?v=3&s=70"
+    }
+  ]
+}

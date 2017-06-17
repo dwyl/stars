@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/exromany",
+  "img": "https://avatars2.githubusercontent.com/u/359612?v=3&s=460",
+  "uid": 359612,
+  "repos": 16,
+  "stars": 1500,
+  "followers": 13,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/exromany/loopback-counts-mixin"
+    },
+    {
+      "url": "/exromany/Frodio-Player"
+    },
+    {
+      "url": "/exromany/Life-on-BrainFuck"
+    },
+    {
+      "url": "/exromany/beatme"
+    },
+    {
+      "url": "/exromany/remote-control-server"
+    },
+    {
+      "url": "/exromany/remote-control-client-android"
+    }
+  ],
+  "worksfor": "piano.io",
+  "location": "Russia",
+  "fullname": "exromany",
+  "website": "http://twitter.com/exromany",
+  "avatar": "https://avatars2.githubusercontent.com/u/359612?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

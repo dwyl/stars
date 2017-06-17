@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/aaronbruckner",
+  "img": "https://avatars0.githubusercontent.com/u/5942131?v=3&s=460",
+  "uid": 5942131,
+  "repos": 3,
+  "stars": 7,
+  "followers": 3,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/Nike-Inc/aws-scale"
+    },
+    {
+      "url": "/aaronbruckner/lambdaLoadTime"
+    },
+    {
+      "url": "/aaronbruckner/wechatAndroidLoginDemo"
+    }
+  ],
+  "worksfor": "Nike",
+  "location": "Portland OR",
+  "fullname": "Aaron Bruckner",
+  "website": "http://aaronbruckner.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/5942131?v=3&s=460",
+  "contribs": 57,
+  "orgs": [
+    {
+      "Nike-Inc": "https://avatars3.githubusercontent.com/u/1435711?v=3&s=70"
+    }
+  ]
+}

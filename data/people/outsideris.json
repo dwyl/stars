@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/outsideris",
+  "img": "https://avatars0.githubusercontent.com/u/390146?v=3&s=460",
+  "uid": 390146,
+  "repos": 80,
+  "stars": 894,
+  "followers": 542,
+  "following": 201,
+  "pinned": [
+    {
+      "url": "/outsideris/popularconvention"
+    },
+    {
+      "url": "/outsideris/slack-invite-automation"
+    },
+    {
+      "url": "/angular-ui/AngularJS-Atom"
+    },
+    {
+      "url": "/summernote/angular-summernote"
+    },
+    {
+      "url": "/nodejs/nodejs-ko"
+    },
+    {
+      "url": "/outsideris/request-blog-post"
+    }
+  ],
+  "worksfor": "Side Effect Studio",
+  "location": "Seoul, South Korea",
+  "fullname": "JeongHoon Byun (aka Outsider)",
+  "website": "http://blog.outsider.ne.kr",
+  "avatar": "https://avatars0.githubusercontent.com/u/390146?v=3&s=460",
+  "contribs": 437,
+  "orgs": [
+    {
+      "frends": "https://avatars0.githubusercontent.com/u/311385?v=3&s=70"
+    },
+    {
+      "spring-sprout": "https://avatars1.githubusercontent.com/u/749983?v=3&s=70"
+    },
+    {
+      "angular-ui": "https://avatars3.githubusercontent.com/u/1530011?v=3&s=70"
+    },
+    {
+      "summernote": "https://avatars3.githubusercontent.com/u/7778517?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

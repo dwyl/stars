@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/joshterrill",
+  "img": "https://avatars0.githubusercontent.com/u/5368757?v=3&s=460",
+  "uid": 5368757,
+  "repos": 120,
+  "stars": 349,
+  "followers": 26,
+  "following": 84,
+  "pinned": [
+    {
+      "url": "/joshterrill/heartbeat"
+    },
+    {
+      "url": "/joshterrill/ng2-cli-sweetalert2"
+    },
+    {
+      "url": "/joshterrill/twilio-autodialer"
+    },
+    {
+      "url": "/joshterrill/node-reverse-trojan"
+    },
+    {
+      "url": "/joshterrill/marijuana-verify"
+    },
+    {
+      "url": "/joshterrill/walky-server"
+    }
+  ],
+  "worksfor": "Clear Wave Software",
+  "location": "California",
+  "fullname": "Joshua Terrill",
+  "website": "http://joshterrill.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/5368757?v=3&s=460",
+  "contribs": 423,
+  "orgs": []
+}

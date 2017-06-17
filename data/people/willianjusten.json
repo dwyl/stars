@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/willianjusten",
+  "img": "https://avatars2.githubusercontent.com/u/3991845?v=3&s=460",
+  "uid": 3991845,
+  "repos": 90,
+  "stars": 712,
+  "followers": 1300,
+  "following": 70,
+  "pinned": [
+    {
+      "url": "/willianjusten/awesome-svg"
+    },
+    {
+      "url": "/willianjusten/awesome-audio-visualization"
+    },
+    {
+      "url": "/lyef/lyef-react-component"
+    },
+    {
+      "url": "/willianjusten/screamer-js"
+    },
+    {
+      "url": "/willianjusten/will-jekyll-template"
+    },
+    {
+      "url": "/willianjusten/cards-jekyll-template"
+    }
+  ],
+  "worksfor": "@toptal",
+  "location": "✈️",
+  "fullname": "Willian Justen",
+  "website": "http://willianjusten.com.br",
+  "avatar": "https://avatars2.githubusercontent.com/u/3991845?v=3&s=460",
+  "contribs": 774,
+  "orgs": [
+    {
+      "toptal": "https://avatars0.githubusercontent.com/u/4004158?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "free-time": "https://avatars3.githubusercontent.com/u/11519927?v=3&s=70"
+    },
+    {
+      "frontendbr": "https://avatars3.githubusercontent.com/u/16963863?v=3&s=70"
+    },
+    {
+      "Qualy-org": "https://avatars3.githubusercontent.com/u/18276511?v=3&s=70"
+    },
+    {
+      "lyef": "https://avatars0.githubusercontent.com/u/20605503?v=3&s=70"
+    }
+  ]
+}

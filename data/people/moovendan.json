@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/moovendan",
+  "img": "https://avatars1.githubusercontent.com/u/3063573?v=3&s=460",
+  "uid": 3063573,
+  "repos": 15,
+  "stars": 408,
+  "followers": 3,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/moovendan/bipio"
+    },
+    {
+      "url": "/moovendan/try_git"
+    },
+    {
+      "url": "/moovendan/scripts"
+    },
+    {
+      "url": "/moovendan/quickstart-basic"
+    },
+    {
+      "url": "/moovendan/quickstart-intermediate"
+    },
+    {
+      "url": "/moovendan/awesome-laravel"
+    }
+  ],
+  "worksfor": "Uber Tech Pvt Ltd",
+  "location": "Bangalore",
+  "fullname": "Moovendan",
+  "website": "http://www.moovendan.in",
+  "avatar": "https://avatars1.githubusercontent.com/u/3063573?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

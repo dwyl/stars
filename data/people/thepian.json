@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/thepian",
+  "img": "https://avatars0.githubusercontent.com/u/72638?v=3&s=460",
+  "uid": 72638,
+  "repos": 88,
+  "stars": 475,
+  "followers": 21,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/thepian/idiomatic.js"
+    },
+    {
+      "url": "/thepian/createsend"
+    },
+    {
+      "url": "/thepian/eslint"
+    },
+    {
+      "url": "/thepian/incremental-dom"
+    },
+    {
+      "url": "/thepian/template-tidy"
+    },
+    {
+      "url": "/thepian/Spelt"
+    }
+  ],
+  "worksfor": "Right Here Inc",
+  "location": "Switzerland",
+  "fullname": "Henrik Vendelbo",
+  "website": "http://fluentglobe.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/72638?v=3&s=460",
+  "contribs": 48,
+  "orgs": [
+    {
+      "pypy": "https://avatars3.githubusercontent.com/u/318667?v=3&s=70"
+    },
+    {
+      "socketstream": "https://avatars1.githubusercontent.com/u/5891564?v=3&s=70"
+    }
+  ]
+}

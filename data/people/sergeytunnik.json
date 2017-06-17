@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/sergeytunnik",
+  "img": "https://avatars1.githubusercontent.com/u/512079?v=3&s=460",
+  "uid": 512079,
+  "repos": 5,
+  "stars": 113,
+  "followers": 2,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/sergeytunnik/HandyCrmPS"
+    },
+    {
+      "url": "/sergeytunnik/HandyCrmPSExtentions"
+    },
+    {
+      "url": "/sergeytunnik/ST.ServiceBus.PowerShell"
+    },
+    {
+      "url": "/sergeytunnik/biz.dfch.PS.Azure.ServiceBus.Client"
+    },
+    {
+      "url": "/sergeytunnik/PoShTMG"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ukraine",
+  "fullname": "Sergey Tunnik",
+  "website": "http://tunnik.name",
+  "avatar": "https://avatars1.githubusercontent.com/u/512079?v=3&s=460",
+  "contribs": 13,
+  "orgs": []
+}

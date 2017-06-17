@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/dublx",
+  "img": "https://avatars2.githubusercontent.com/u/884596?v=3&s=460",
+  "uid": 884596,
+  "repos": 23,
+  "stars": 1000,
+  "followers": 21,
+  "following": 62,
+  "pinned": [
+    {
+      "url": "/dublx/packer-terraform-docker-aws-test"
+    },
+    {
+      "url": "/dublx/seneca-nsq-transport"
+    },
+    {
+      "url": "/dublx/nsq-view"
+    },
+    {
+      "url": "/dublx/Level3MediaPortalAPI"
+    },
+    {
+      "url": "/dublx/node-ftplastmod"
+    },
+    {
+      "url": "/dublx/config-etcd"
+    }
+  ],
+  "worksfor": "www.nearform.com",
+  "location": "Ireland",
+  "fullname": "Luis Faustino",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/884596?v=3&s=460",
+  "contribs": 16,
+  "orgs": []
+}

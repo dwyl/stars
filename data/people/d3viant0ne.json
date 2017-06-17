@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/d3viant0ne",
+  "img": "https://avatars2.githubusercontent.com/u/8420490?v=3&s=460",
+  "uid": 8420490,
+  "repos": 61,
+  "stars": 1000,
+  "followers": 118,
+  "following": 46,
+  "pinned": [
+    {
+      "url": "/webpack/webpack"
+    },
+    {
+      "url": "/webpack/webpack.js.org"
+    },
+    {
+      "url": "/webpack-contrib/organization"
+    },
+    {
+      "url": "/webpack-contrib/awesome-webpack"
+    },
+    {
+      "url": "/angular/material2"
+    },
+    {
+      "url": "/angular/flex-layout"
+    }
+  ],
+  "worksfor": "@webpack",
+  "location": "Twitter - @d3viant0ne",
+  "fullname": "Joshua Wiens",
+  "website": "http://deviantjs.io/",
+  "avatar": "https://avatars2.githubusercontent.com/u/8420490?v=3&s=460",
+  "contribs": 2854,
+  "orgs": [
+    {
+      "webpack": "https://avatars0.githubusercontent.com/u/2105791?v=3&s=70"
+    },
+    {
+      "babel": "https://avatars0.githubusercontent.com/u/9637642?v=3&s=70"
+    },
+    {
+      "AngularClass": "https://avatars1.githubusercontent.com/u/11602678?v=3&s=70"
+    },
+    {
+      "webpack-contrib": "https://avatars3.githubusercontent.com/u/25012217?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

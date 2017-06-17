@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/soliury",
+  "img": "https://avatars3.githubusercontent.com/u/5032079?v=3&s=460",
+  "uid": 5032079,
+  "repos": 83,
+  "stars": 1500,
+  "followers": 195,
+  "following": 80,
+  "pinned": [
+    {
+      "url": "/soliury/noder-react-native"
+    },
+    {
+      "url": "/soliury/react-native-html-render"
+    },
+    {
+      "url": "/soliury/gulp-react-native-css"
+    },
+    {
+      "url": "/soliury/ngFast"
+    },
+    {
+      "url": "/soliury/vue-component-kit"
+    },
+    {
+      "url": "/soliury/qora-core"
+    }
+  ],
+  "worksfor": "Meituan Inc",
+  "location": "Beijing China",
+  "fullname": "soliury",
+  "website": "http://lingyong.me",
+  "avatar": "https://avatars3.githubusercontent.com/u/5032079?v=3&s=460",
+  "contribs": 63,
+  "orgs": []
+}

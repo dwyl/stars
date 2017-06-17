@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/joaquimserafim",
+  "img": "https://avatars2.githubusercontent.com/u/2507889?v=3&s=460",
+  "uid": 2507889,
+  "repos": 209,
+  "stars": 1400,
+  "followers": 48,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/joaquimserafim/vagrant-nodejs-redis-mongodb"
+    },
+    {
+      "url": "/joaquimserafim/base64-url"
+    },
+    {
+      "url": "/joaquimserafim/node-netcat"
+    },
+    {
+      "url": "/joaquimserafim/json-web-token"
+    },
+    {
+      "url": "/joaquimserafim/is-json"
+    },
+    {
+      "url": "/joaquimserafim/node-open-geocoder"
+    }
+  ],
+  "worksfor": "YLD",
+  "location": "",
+  "fullname": "Joaquim Serafim",
+  "website": "https://twitter.com/JoaquimSerafim",
+  "avatar": "https://avatars2.githubusercontent.com/u/2507889?v=3&s=460",
+  "contribs": 270,
+  "orgs": []
+}

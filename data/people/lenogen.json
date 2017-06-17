@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/lenogen",
+  "img": "https://avatars2.githubusercontent.com/u/7307856?v=3&s=460",
+  "uid": 7307856,
+  "repos": 11,
+  "stars": 48,
+  "followers": 1,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/lenogen/flask-app-generator"
+    },
+    {
+      "url": "/lenogen/cocoa-programming-for-osx-5e"
+    },
+    {
+      "url": "/lenogen/xlwt"
+    },
+    {
+      "url": "/lenogen/IbPy"
+    },
+    {
+      "url": "/lenogen/react-skeleton"
+    },
+    {
+      "url": "/lenogen/fetch"
+    }
+  ],
+  "worksfor": "",
+  "location": "Tulsa,Oklahoma",
+  "fullname": "Andrew Boen",
+  "website": "http://www.andrewboen.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/7307856?v=3&s=460",
+  "contribs": 15,
+  "orgs": []
+}

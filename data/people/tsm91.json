@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/tsm91",
+  "img": "https://avatars1.githubusercontent.com/u/4459551?v=3&s=460",
+  "uid": 4459551,
+  "repos": 63,
+  "stars": 768,
+  "followers": 19,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/tsm91/postcss-filter-stream"
+    },
+    {
+      "url": "/tsm91/react-seed"
+    },
+    {
+      "url": "/tsm91/gulp-starter"
+    },
+    {
+      "url": "/tsm91/ng-cli"
+    },
+    {
+      "url": "/tsm91/chat"
+    },
+    {
+      "url": "/tsm91/ng-cli-example"
+    }
+  ],
+  "worksfor": "",
+  "location": "Budapest, Hungary",
+  "fullname": "Attila Egyed",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/4459551?v=3&s=460",
+  "contribs": 495,
+  "orgs": [
+    {
+      "codewareio": "https://avatars0.githubusercontent.com/u/17292507?v=3&s=70"
+    }
+  ]
+}

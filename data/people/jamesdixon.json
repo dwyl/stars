@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jamesdixon",
+  "img": "https://avatars1.githubusercontent.com/u/110114?v=3&s=460",
+  "uid": 110114,
+  "repos": 58,
+  "stars": 787,
+  "followers": 18,
+  "following": 107,
+  "pinned": [
+    {
+      "url": "/jamesdixon/ember-cli-simple-auth-firebase"
+    },
+    {
+      "url": "/jamesdixon/reactjs-webstorm-livetemplates"
+    },
+    {
+      "url": "/jamesdixon/node-ember-cli-deploy-azure-tables"
+    },
+    {
+      "url": "/jamesdixon/hapi-sendgrid"
+    },
+    {
+      "url": "/jamesdixon/ember-cli-todo-mvc"
+    },
+    {
+      "url": "/jamesdixon/ember-deploy-azure"
+    }
+  ],
+  "worksfor": "Scout",
+  "location": "Denver, CO",
+  "fullname": "James Dixon",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/110114?v=3&s=460",
+  "contribs": 451,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kentsay",
+  "img": "https://avatars3.githubusercontent.com/u/1147849?v=3&s=460",
+  "uid": 1147849,
+  "repos": 33,
+  "stars": 109,
+  "followers": 7,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/kentsay/Zurich-Velo-Challenge"
+    },
+    {
+      "url": "/kentsay/falcon-api-redis"
+    },
+    {
+      "url": "/kentsay/RcvBibleBot"
+    },
+    {
+      "url": "/kentsay/Multi-Tenancy-DBMS"
+    },
+    {
+      "url": "/kentsay/tpch-mt"
+    },
+    {
+      "url": "/kentsay/TIL"
+    }
+  ],
+  "worksfor": "",
+  "location": "Zürich, Switzerland",
+  "fullname": "Ken Tsay",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1147849?v=3&s=460",
+  "contribs": 368,
+  "orgs": []
+}

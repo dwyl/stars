@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/springuper",
+  "img": "https://avatars3.githubusercontent.com/u/687412?v=3&s=460",
+  "uid": 687412,
+  "repos": 68,
+  "stars": 518,
+  "followers": 51,
+  "following": 46,
+  "pinned": [
+    {
+      "url": "/springuper/log-error"
+    },
+    {
+      "url": "/springuper/postcss-viewport-units"
+    },
+    {
+      "url": "/springuper/algorithm"
+    },
+    {
+      "url": "/springuper/mustache-benchmark"
+    },
+    {
+      "url": "/springuper/tiny-async-queue"
+    },
+    {
+      "url": "/springuper/spring"
+    }
+  ],
+  "worksfor": "adRise",
+  "location": "Tianjin, China",
+  "fullname": "chun shang",
+  "website": "http://shangchun.net",
+  "avatar": "https://avatars3.githubusercontent.com/u/687412?v=3&s=460",
+  "contribs": 165,
+  "orgs": []
+}

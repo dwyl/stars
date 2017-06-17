@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/alephmelo",
+  "img": "https://avatars1.githubusercontent.com/u/6146240?v=3&s=460",
+  "uid": 6146240,
+  "repos": 41,
+  "stars": 549,
+  "followers": 42,
+  "following": 71,
+  "pinned": [
+    {
+      "url": "/lektor/lektor"
+    },
+    {
+      "url": "/Pylons/pyramid"
+    },
+    {
+      "url": "/django-guardian/django-guardian"
+    },
+    {
+      "url": "/alephmelo/python-way"
+    },
+    {
+      "url": "/bottlepy/bottle-boilerplate"
+    },
+    {
+      "url": "/alephmelo/watchman"
+    }
+  ],
+  "worksfor": "",
+  "location": "Brazil",
+  "fullname": "Aleph Melo",
+  "website": "http://alephmelo.github.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/6146240?v=3&s=460",
+  "contribs": 151,
+  "orgs": [
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "kofie": "https://avatars3.githubusercontent.com/u/15672220?v=3&s=70"
+    }
+  ]
+}

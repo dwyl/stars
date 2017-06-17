@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/dylanmaryk",
+  "img": "https://avatars3.githubusercontent.com/u/605735?v=3&s=460",
+  "uid": 605735,
+  "repos": 29,
+  "stars": 61,
+  "followers": 12,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/dylanmaryk/InsanityRadio-iOS"
+    },
+    {
+      "url": "/dylanmaryk/InsanityRadio-Android"
+    },
+    {
+      "url": "/dylanmaryk/TubeStatus"
+    },
+    {
+      "url": "/dylanmaryk/SimpleTransit"
+    },
+    {
+      "url": "/dylanmaryk/HowHipsterIsBerlin"
+    }
+  ],
+  "worksfor": "@door2door-io",
+  "location": "Berlin, Germany",
+  "fullname": "Dylan Maryk",
+  "website": "http://www.maryk.uk",
+  "avatar": "https://avatars3.githubusercontent.com/u/605735?v=3&s=460",
+  "contribs": 846,
+  "orgs": [
+    {
+      "door2door-io": "https://avatars1.githubusercontent.com/u/3738668?v=3&s=70"
+    }
+  ]
+}

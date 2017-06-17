@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/alfonsodev",
+  "img": "https://avatars2.githubusercontent.com/u/2131194?v=3&s=460",
+  "uid": 2131194,
+  "repos": 147,
+  "stars": 355,
+  "followers": 13,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/alfonsodev/docker-nginx-phalcon"
+    },
+    {
+      "url": "/alfonsodev/yao"
+    },
+    {
+      "url": "/alfonsodev/read-lines"
+    },
+    {
+      "url": "/alfonsodev/libre-user"
+    },
+    {
+      "url": "/alfonsodev/docker-nginx-symfony"
+    },
+    {
+      "url": "/alfonsodev/isorender"
+    }
+  ],
+  "worksfor": "",
+  "location": "Berlin",
+  "fullname": "Alfonso",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2131194?v=3&s=460",
+  "contribs": 51,
+  "orgs": [
+    {
+      "islaio": "https://avatars1.githubusercontent.com/u/5636843?v=3&s=70"
+    },
+    {
+      "ghinwallc": "https://avatars0.githubusercontent.com/u/16173985?v=3&s=70"
+    }
+  ]
+}

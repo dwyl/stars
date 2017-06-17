@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mmadden",
+  "img": "https://avatars3.githubusercontent.com/u/615870?v=3&s=460",
+  "uid": 615870,
+  "repos": 7,
+  "stars": 776,
+  "followers": 11,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/mmadden/ember-todos-with-build-tools-tests-and-other-modern-conveniences"
+    },
+    {
+      "url": "/mmadden/grumber"
+    },
+    {
+      "url": "/mmadden/pragmatic.js"
+    },
+    {
+      "url": "/mmadden/actionHero"
+    },
+    {
+      "url": "/mmadden/faye"
+    },
+    {
+      "url": "/mmadden/grunt-ember-templates"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ontario, Canada",
+  "fullname": "Matt Madden",
+  "website": "http://twitter.com/uimatt",
+  "avatar": "https://avatars3.githubusercontent.com/u/615870?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

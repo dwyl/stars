@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/nygardk",
+  "img": "https://avatars2.githubusercontent.com/u/2855908?v=3&s=460",
+  "uid": 2855908,
+  "repos": 16,
+  "stars": 105,
+  "followers": 9,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/nygardk/react-share"
+    },
+    {
+      "url": "/nygardk/react-loader-advanced"
+    },
+    {
+      "url": "/nygardk/react-scifi"
+    },
+    {
+      "url": "/nygardk/react-break"
+    },
+    {
+      "url": "/nygardk/BreakJS"
+    },
+    {
+      "url": "/nygardk/fludux"
+    }
+  ],
+  "worksfor": "Software Engineer at Wolt",
+  "location": "Helsinki, Finland",
+  "fullname": "Klaus Nygård",
+  "website": "http://klausnygard.fi",
+  "avatar": "https://avatars2.githubusercontent.com/u/2855908?v=3&s=460",
+  "contribs": 271,
+  "orgs": []
+}

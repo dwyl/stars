@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/baldwmic",
+  "img": "https://avatars3.githubusercontent.com/u/10538297?v=3&s=460",
+  "uid": 10538297,
+  "repos": 66,
+  "stars": 925,
+  "followers": 24,
+  "following": 200,
+  "pinned": [
+    {
+      "url": "/redux-saga/redux-saga"
+    },
+    {
+      "url": "/baldwmic/react-input-tags"
+    },
+    {
+      "url": "/baldwmic/hacker_fellows_2016"
+    },
+    {
+      "url": "/baldwmic/nodeschool"
+    },
+    {
+      "url": "/baldwmic/hnr499"
+    },
+    {
+      "url": "/baldwmic/dijkstras"
+    }
+  ],
+  "worksfor": "@notion",
+  "location": "",
+  "fullname": "Michael Baldwin",
+  "website": "http://www.michaelbaldwin.net",
+  "avatar": "https://avatars3.githubusercontent.com/u/10538297?v=3&s=460",
+  "contribs": 2245,
+  "orgs": []
+}

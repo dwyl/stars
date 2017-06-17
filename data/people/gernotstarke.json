@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/gernotstarke",
+  "img": "https://avatars2.githubusercontent.com/u/1233990?v=3&s=460",
+  "uid": 1233990,
+  "repos": 7,
+  "stars": 49,
+  "followers": 35,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/arc42/arc42-template"
+    },
+    {
+      "url": "/aim42/aim42"
+    },
+    {
+      "url": "/aim42/htmlSanityCheck"
+    },
+    {
+      "url": "/gernotstarke/arc42-master"
+    },
+    {
+      "url": "/arc42/faq.arc42.org-site"
+    }
+  ],
+  "worksfor": "innoQ",
+  "location": "Cologne, Germany",
+  "fullname": "Dr. Gernot Starke",
+  "website": "http://www.arc42.org",
+  "avatar": "https://avatars2.githubusercontent.com/u/1233990?v=3&s=460",
+  "contribs": 898,
+  "orgs": [
+    {
+      "arc42": "https://avatars0.githubusercontent.com/u/5435520?v=3&s=70"
+    },
+    {
+      "aim42": "https://avatars2.githubusercontent.com/u/6488931?v=3&s=70"
+    }
+  ]
+}

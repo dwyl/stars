@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/anatolinicolae",
+  "img": "https://avatars1.githubusercontent.com/u/1231135?v=3&s=460",
+  "uid": 1231135,
+  "repos": 14,
+  "stars": 2500,
+  "followers": 23,
+  "following": 117,
+  "pinned": [
+    {
+      "url": "/terkelg/ramme"
+    },
+    {
+      "url": "/anatolinicolae/shutter"
+    },
+    {
+      "url": "/anatolinicolae/laravel-installer"
+    },
+    {
+      "url": "/anatolinicolae/cloud9-docker"
+    },
+    {
+      "url": "/anatolinicolae/linux-dash"
+    },
+    {
+      "url": "/anatolinicolae/geolocation"
+    }
+  ],
+  "worksfor": "thundersquared",
+  "location": "Turin, Italy",
+  "fullname": "Anatoli Nicolae",
+  "website": "https://anatolinicolae.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1231135?v=3&s=460",
+  "contribs": 71,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jlsync",
+  "img": "https://avatars1.githubusercontent.com/u/3142?v=3&s=460",
+  "uid": 3142,
+  "repos": 74,
+  "stars": 526,
+  "followers": 24,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/jlsync/meetup-api"
+    },
+    {
+      "url": "/jlsync/jlsync"
+    },
+    {
+      "url": "/jlsync/flickr_chooser"
+    },
+    {
+      "url": "/jlsync/hashvid"
+    },
+    {
+      "url": "/jlsync/castanaut"
+    },
+    {
+      "url": "/jlsync/gltail"
+    }
+  ],
+  "worksfor": "http://www.jason-lee.net.au/    http://rotaville.com/",
+  "location": "London, UK",
+  "fullname": "Jason Lee",
+  "website": "http://big.first.name/",
+  "avatar": "https://avatars1.githubusercontent.com/u/3142?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

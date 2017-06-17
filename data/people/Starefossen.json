@@ -1,0 +1,65 @@
+{
+  "url": "https://github.com/Starefossen",
+  "img": "https://avatars2.githubusercontent.com/u/968267?v=3&s=460",
+  "uid": 968267,
+  "repos": 171,
+  "stars": 2800,
+  "followers": 138,
+  "following": 244,
+  "pinned": [
+    {
+      "url": "/kubernetes/kubernetes"
+    },
+    {
+      "url": "/moby/moby"
+    },
+    {
+      "url": "/containous/traefik"
+    },
+    {
+      "url": "/electron/electron"
+    },
+    {
+      "url": "/ansible/ansible"
+    },
+    {
+      "url": "/grafana/grafana"
+    }
+  ],
+  "worksfor": "@evry",
+  "location": "Bergen, Norway",
+  "fullname": "Hans Kristian Flaatten",
+  "website": "https://starefossen.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/968267?v=3&s=460",
+  "contribs": 1009,
+  "orgs": [
+    {
+      "Turistforeningen": "https://avatars0.githubusercontent.com/u/1188810?v=3&s=70"
+    },
+    {
+      "BLUG": "https://avatars1.githubusercontent.com/u/1508994?v=3&s=70"
+    },
+    {
+      "evry-bergen": "https://avatars3.githubusercontent.com/u/3647641?v=3&s=70"
+    },
+    {
+      "libjpmul": "https://avatars0.githubusercontent.com/u/4463376?v=3&s=70"
+    },
+    {
+      "GeoGames": "https://avatars2.githubusercontent.com/u/6619001?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "Rugdeveien": "https://avatars3.githubusercontent.com/u/10374301?v=3&s=70"
+    },
+    {
+      "Turbasen": "https://avatars3.githubusercontent.com/u/11798869?v=3&s=70"
+    },
+    {
+      "BergenOpenData": "https://avatars0.githubusercontent.com/u/12463978?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

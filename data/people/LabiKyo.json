@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/LabiKyo",
+  "img": "https://avatars3.githubusercontent.com/u/524408?v=3&s=460",
+  "uid": 524408,
+  "repos": 33,
+  "stars": 291,
+  "followers": 48,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/LabiKyo/dotfiles"
+    },
+    {
+      "url": "/LabiKyo/buaa-jwgl-evaluator"
+    },
+    {
+      "url": "/LabiKyo/DES-Ruby"
+    },
+    {
+      "url": "/LabiKyo/Big-Impact"
+    },
+    {
+      "url": "/LabiKyo/Game-of-Life"
+    },
+    {
+      "url": "/LabiKyo/item-based-collaborative-filtering-ls"
+    }
+  ],
+  "worksfor": "BUAA",
+  "location": "Beijing, China",
+  "fullname": "Labi Kyo",
+  "website": "http://xinyue.li",
+  "avatar": "https://avatars3.githubusercontent.com/u/524408?v=3&s=460",
+  "contribs": 35,
+  "orgs": [
+    {
+      "BHOSC": "https://avatars1.githubusercontent.com/u/904776?v=3&s=70"
+    }
+  ]
+}

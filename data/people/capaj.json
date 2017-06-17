@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/capaj",
+  "img": "https://avatars1.githubusercontent.com/u/1305378?v=3&s=460",
+  "uid": 1305378,
+  "repos": 253,
+  "stars": 1800,
+  "followers": 76,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/capaj/koa-monitor"
+    },
+    {
+      "url": "/capaj/jspm-react"
+    },
+    {
+      "url": "/capaj/require-globify"
+    },
+    {
+      "url": "/capaj/socket.io-rpc"
+    },
+    {
+      "url": "/capaj/Moonridge"
+    },
+    {
+      "url": "/capaj/ng-tools"
+    }
+  ],
+  "worksfor": "@LeapLabs",
+  "location": "Brno, Czech republic",
+  "fullname": "Jiri Spac",
+  "website": "http://about.me/capaj",
+  "avatar": "https://avatars1.githubusercontent.com/u/1305378?v=3&s=460",
+  "contribs": 776,
+  "orgs": [
+    {
+      "Pandacodium": "https://avatars1.githubusercontent.com/u/4533051?v=3&s=70"
+    },
+    {
+      "zakonomat": "https://avatars0.githubusercontent.com/u/5894570?v=3&s=70"
+    }
+  ]
+}

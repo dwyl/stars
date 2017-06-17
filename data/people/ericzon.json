@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ericzon",
+  "img": "https://avatars3.githubusercontent.com/u/1809508?v=3&s=460",
+  "uid": 1809508,
+  "repos": 46,
+  "stars": 224,
+  "followers": 12,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/ericzon/angular-bitly-generator"
+    },
+    {
+      "url": "/ericzon/node-ajax-seo"
+    },
+    {
+      "url": "/ericzon/node-ajax-snapshot"
+    },
+    {
+      "url": "/ericzon/angular-pmkr-components"
+    },
+    {
+      "url": "/ericzon/phantomjs-ajax-snapshot"
+    },
+    {
+      "url": "/ericzon/imgr"
+    }
+  ],
+  "worksfor": "Shargo",
+  "location": "Barcelona",
+  "fullname": "Eric",
+  "website": "https://twitter.com/EricLaraAmat",
+  "avatar": "https://avatars3.githubusercontent.com/u/1809508?v=3&s=460",
+  "contribs": 131,
+  "orgs": []
+}

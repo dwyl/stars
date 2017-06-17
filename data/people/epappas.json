@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/epappas",
+  "img": "https://avatars2.githubusercontent.com/u/434149?v=3&s=460",
+  "uid": 434149,
+  "repos": 52,
+  "stars": 1300,
+  "followers": 24,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/epappas/erl_streams"
+    },
+    {
+      "url": "/epappas/modQuery"
+    },
+    {
+      "url": "/epappas/TubeJS"
+    },
+    {
+      "url": "/epappas/rollbar-hapi"
+    },
+    {
+      "url": "/epappas/Trinity-FMW"
+    },
+    {
+      "url": "/epappas/datasmart"
+    }
+  ],
+  "worksfor": "evalonlabs.com",
+  "location": "London",
+  "fullname": "Evangelos Pappas",
+  "website": "http://twitter.com/Hevalon",
+  "avatar": "https://avatars2.githubusercontent.com/u/434149?v=3&s=460",
+  "contribs": 1341,
+  "orgs": []
+}

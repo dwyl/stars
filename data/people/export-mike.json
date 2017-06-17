@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/export-mike",
+  "img": "https://avatars2.githubusercontent.com/u/2983327?v=3&s=460",
+  "uid": 2983327,
+  "repos": 62,
+  "stars": 433,
+  "followers": 52,
+  "following": 101,
+  "pinned": [
+    {
+      "url": "/export-mike/react-redux-boilerplate"
+    },
+    {
+      "url": "/export-mike/f-etag"
+    },
+    {
+      "url": "/export-mike/gpslogger-android-dropbox-restapi"
+    },
+    {
+      "url": "/export-mike/camelcase-keys-recursive"
+    },
+    {
+      "url": "/export-mike/request-duck"
+    },
+    {
+      "url": "/export-mike/redux-crud"
+    }
+  ],
+  "worksfor": "",
+  "location": "London, UK",
+  "fullname": "Mike James",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2983327?v=3&s=460",
+  "contribs": 281,
+  "orgs": [
+    {
+      "pebblecode": "https://avatars1.githubusercontent.com/u/437686?v=3&s=70"
+    },
+    {
+      "lnug": "https://avatars0.githubusercontent.com/u/4046959?v=3&s=70"
+    },
+    {
+      "Thinkmill": "https://avatars3.githubusercontent.com/u/5761457?v=3&s=70"
+    },
+    {
+      "keystonejs": "https://avatars0.githubusercontent.com/u/6118534?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/why2pac",
+  "img": "https://avatars0.githubusercontent.com/u/5214573?v=3&s=460",
+  "uid": 5214573,
+  "repos": 12,
+  "stars": 109,
+  "followers": 2,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/why2pac/dp-tornado"
+    },
+    {
+      "url": "/why2pac/dp-node"
+    },
+    {
+      "url": "/why2pac/knex-automigrate"
+    },
+    {
+      "url": "/why2pac/SwiftRangeSlider"
+    },
+    {
+      "url": "/why2pac/Former"
+    },
+    {
+      "url": "/why2pac/NMessenger"
+    }
+  ],
+  "worksfor": "Notorious",
+  "location": "Seoul, Korea",
+  "fullname": "GONZO",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/5214573?v=3&s=460",
+  "contribs": 1233,
+  "orgs": [],
+  "developerprogram": true
+}

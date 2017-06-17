@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/wishun",
+  "img": "https://avatars0.githubusercontent.com/u/29400720?v=3&s=460",
+  "uid": 29400720,
+  "repos": 210,
+  "stars": 210,
+  "followers": 0,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/wishun/stunning-eureka"
+    },
+    {
+      "url": "/wishun/webworkify"
+    },
+    {
+      "url": "/wishun/slow-deps"
+    },
+    {
+      "url": "/wishun/0x"
+    },
+    {
+      "url": "/wishun/nyc"
+    },
+    {
+      "url": "/wishun/istanbul-lib-instrument"
+    }
+  ],
+  "worksfor": "@mapbox",
+  "location": "Hungary",
+  "fullname": "Lewis Yoshua",
+  "website": "https://lists.wikimedia.org/mailman/listinfo/wikimediameta-l",
+  "avatar": "https://avatars0.githubusercontent.com/u/29400720?v=3&s=460",
+  "contribs": 103,
+  "orgs": []
+}

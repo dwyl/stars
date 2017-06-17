@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/escalant3",
+  "img": "https://avatars1.githubusercontent.com/u/214898?v=3&s=460",
+  "uid": 214898,
+  "repos": 49,
+  "stars": 170,
+  "followers": 45,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/escalant3/ember-data-tastypie-adapter"
+    },
+    {
+      "url": "/escalant3/django-ember-example"
+    },
+    {
+      "url": "/escalant3/pyblueprints"
+    },
+    {
+      "url": "/escalant3/ember-data-neo4j-adapter"
+    },
+    {
+      "url": "/escalant3/sweet.js-personal-notes"
+    },
+    {
+      "url": "/escalant3/plexigraph"
+    }
+  ],
+  "worksfor": "",
+  "location": "Toronto, Ontario, Canada",
+  "fullname": "Diego Muñoz Escalante",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/214898?v=3&s=460",
+  "contribs": 3,
+  "orgs": [
+    {
+      "CulturePlex": "https://avatars2.githubusercontent.com/u/553661?v=3&s=70"
+    },
+    {
+      "emberjs-addons": "https://avatars3.githubusercontent.com/u/1253532?v=3&s=70"
+    },
+    {
+      "yoinup": "https://avatars0.githubusercontent.com/u/2564770?v=3&s=70"
+    }
+  ]
+}

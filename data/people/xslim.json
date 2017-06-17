@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/xslim",
+  "img": "https://avatars1.githubusercontent.com/u/47062?v=3&s=460",
+  "uid": 47062,
+  "repos": 88,
+  "stars": 1700,
+  "followers": 65,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/xslim/mobileDeviceManager"
+    },
+    {
+      "url": "/xslim/TKGauge"
+    },
+    {
+      "url": "/xslim/iChatTestPlugin"
+    },
+    {
+      "url": "/xslim/TKAppearance"
+    },
+    {
+      "url": "/xslim/gherkify"
+    },
+    {
+      "url": "/xslim/GCMathParser"
+    }
+  ],
+  "worksfor": "",
+  "location": "Amsterdam, Netherlands",
+  "fullname": "Taras Kalapun",
+  "website": "http://kalapun.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/47062?v=3&s=460",
+  "contribs": 210,
+  "orgs": [
+    {
+      "Adyen": "https://avatars1.githubusercontent.com/u/9713612?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

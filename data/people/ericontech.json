@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ericontech",
+  "img": "https://avatars0.githubusercontent.com/u/528733?v=3&s=460",
+  "uid": 528733,
+  "repos": 6,
+  "stars": 16,
+  "followers": 0,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/ericontech/docker-tutorial"
+    },
+    {
+      "url": "/ericontech/aws-iot-nodesjs"
+    },
+    {
+      "url": "/ericontech/serverless-sam"
+    },
+    {
+      "url": "/ericontech/alpine-armhf-mosquitto"
+    },
+    {
+      "url": "/ericontech/rpi-raspbian-mongodb"
+    },
+    {
+      "url": "/ericontech/alpine-armhf-redis"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Eric Mickelson",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/528733?v=3&s=460",
+  "contribs": 19,
+  "orgs": []
+}

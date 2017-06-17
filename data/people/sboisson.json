@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/sboisson",
+  "img": "https://avatars2.githubusercontent.com/u/238806?v=3&s=460",
+  "uid": 238806,
+  "repos": 13,
+  "stars": 1300,
+  "followers": 4,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/sboisson/CocoaSSDP"
+    },
+    {
+      "url": "/sboisson/redmine_git_hosting"
+    },
+    {
+      "url": "/sboisson/wireshark-ptpip"
+    },
+    {
+      "url": "/sboisson/thickskin"
+    },
+    {
+      "url": "/sboisson/pcap2har"
+    },
+    {
+      "url": "/sboisson/bragi"
+    }
+  ],
+  "worksfor": "DOTSCREEN",
+  "location": "Paris, France",
+  "fullname": "Stéphane",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/238806?v=3&s=460",
+  "contribs": 6,
+  "orgs": [
+    {
+      "YouSee": "https://avatars1.githubusercontent.com/u/456219?v=3&s=70"
+    },
+    {
+      "dotscreen": "https://avatars3.githubusercontent.com/u/1695127?v=3&s=70"
+    }
+  ]
+}

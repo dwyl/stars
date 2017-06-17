@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/leeroybrun",
+  "img": "https://avatars3.githubusercontent.com/u/1729528?v=3&s=460",
+  "uid": 1729528,
+  "repos": 90,
+  "stars": 436,
+  "followers": 23,
+  "following": 36,
+  "pinned": [
+    {
+      "url": "/leeroybrun/glacier-vault-remove"
+    },
+    {
+      "url": "/leeroybrun/node-mt-files-downloader"
+    },
+    {
+      "url": "/leeroybrun/socketio-express-sessions"
+    },
+    {
+      "url": "/leeroybrun/sails-util-mvcsloader"
+    },
+    {
+      "url": "/leeroybrun/node-allocine-api"
+    },
+    {
+      "url": "/leeroybrun/chrome-shazify"
+    }
+  ],
+  "worksfor": "",
+  "location": "Lausanne (Switzerland)",
+  "fullname": "Leeroy Brun",
+  "website": "http://www.leeroy.me",
+  "avatar": "https://avatars3.githubusercontent.com/u/1729528?v=3&s=460",
+  "contribs": 410,
+  "orgs": [
+    {
+      "Batiplus": "https://avatars1.githubusercontent.com/u/16132557?v=3&s=70"
+    }
+  ]
+}

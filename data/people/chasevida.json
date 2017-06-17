@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/chasevida",
+  "img": "https://avatars0.githubusercontent.com/u/846399?v=3&s=460",
+  "uid": 846399,
+  "repos": 18,
+  "stars": 141,
+  "followers": 19,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/chasevida/angular-browserify-gulp"
+    },
+    {
+      "url": "/chasevida/blum"
+    },
+    {
+      "url": "/chasevida/eslint-config-chasevida"
+    },
+    {
+      "url": "/chasevida/apollo-server-kits"
+    },
+    {
+      "url": "/chasevida/express-marionette-stylus"
+    },
+    {
+      "url": "/chasevida/orient"
+    }
+  ],
+  "worksfor": "",
+  "location": "Auckland, New Zealand",
+  "fullname": "Mark Coleman",
+  "website": "http://chasevida.me",
+  "avatar": "https://avatars0.githubusercontent.com/u/846399?v=3&s=460",
+  "contribs": 40,
+  "orgs": []
+}

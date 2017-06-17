@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jcolemorrison",
+  "img": "https://avatars3.githubusercontent.com/u/1551552?v=3&s=460",
+  "uid": 1551552,
+  "repos": 31,
+  "stars": 329,
+  "followers": 27,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/jcolemorrison/redux-sagas-authentication-app"
+    },
+    {
+      "url": "/jcolemorrison/ui-router-tutorial"
+    },
+    {
+      "url": "/jcolemorrison/angular-rails-tutorial-part-1"
+    },
+    {
+      "url": "/jcolemorrison/angular-express-tutorial-part-3"
+    },
+    {
+      "url": "/jcolemorrison/cra-storybook-sass-yarn"
+    },
+    {
+      "url": "/jcolemorrison/react-dnd-redux-example"
+    }
+  ],
+  "worksfor": "",
+  "location": "Sacramento, California",
+  "fullname": "Cole Morrison",
+  "website": "http://start.jcolemorrison.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1551552?v=3&s=460",
+  "contribs": 958,
+  "orgs": []
+}

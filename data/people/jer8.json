@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/jer8",
+  "img": "https://avatars1.githubusercontent.com/u/17349825?v=3&s=460",
+  "uid": 17349825,
+  "repos": 14,
+  "stars": 25,
+  "followers": 2,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/jer8/http-server"
+    },
+    {
+      "url": "/jer8/email-microservice"
+    },
+    {
+      "url": "/jer8/talk-now"
+    },
+    {
+      "url": "/jer8/WebRTC-Experiments"
+    },
+    {
+      "url": "/jer8/mean-apps"
+    },
+    {
+      "url": "/jer8/chatbotz"
+    }
+  ],
+  "worksfor": "Emirates Airline",
+  "location": "Dubai",
+  "fullname": "Jermie Domingo",
+  "website": "https://jermiedomingo.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/17349825?v=3&s=460",
+  "contribs": 1557,
+  "orgs": [],
+  "developerprogram": true
+}

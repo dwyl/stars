@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/pcalves",
+  "img": "https://avatars3.githubusercontent.com/u/919534?v=3&s=460",
+  "uid": 919534,
+  "repos": 12,
+  "stars": 316,
+  "followers": 20,
+  "following": 105,
+  "pinned": [
+    {
+      "url": "/pcalves/slimfb"
+    },
+    {
+      "url": "/pcalves/jquery-facebook-multi-friend-selector"
+    },
+    {
+      "url": "/pcalves/dotfiles"
+    },
+    {
+      "url": "/pcalves/chromephp"
+    },
+    {
+      "url": "/pcalves/jQuery-File-Upload"
+    },
+    {
+      "url": "/pcalves/composer"
+    }
+  ],
+  "worksfor": "@plexinc",
+  "location": "Lisboa",
+  "fullname": "Paulo Coelho Alves",
+  "website": "http://pcalv.es",
+  "avatar": "https://avatars3.githubusercontent.com/u/919534?v=3&s=460",
+  "contribs": 1751,
+  "orgs": []
+}

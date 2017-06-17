@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/adamclerk",
+  "img": "https://avatars3.githubusercontent.com/u/67539?v=3&s=460",
+  "uid": 67539,
+  "repos": 68,
+  "stars": 138,
+  "followers": 15,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/adamclerk/deck"
+    },
+    {
+      "url": "/adamclerk/vim-razor"
+    },
+    {
+      "url": "/adamclerk/Rainmeter-Batch-Plugin"
+    },
+    {
+      "url": "/adamclerk/Rainmeter-Svn-Plugin"
+    },
+    {
+      "url": "/adamclerk/Public-Powershell-Scripts"
+    },
+    {
+      "url": "/adamclerk/Powershell-IRC-Bots"
+    }
+  ],
+  "worksfor": "www.acquitygroup.com",
+  "location": "Treasure Valley Idaho (Boise, Nampa, Caldwell, Meridian, Eagle, Star)",
+  "fullname": "Adam Clark",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/67539?v=3&s=460",
+  "contribs": 30,
+  "orgs": [
+    {
+      "BoiseFED": "https://avatars1.githubusercontent.com/u/7365697?v=3&s=70"
+    }
+  ]
+}

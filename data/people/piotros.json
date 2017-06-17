@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/piotros",
+  "img": "https://avatars1.githubusercontent.com/u/3486023?v=3&s=460",
+  "uid": 3486023,
+  "repos": 23,
+  "stars": 372,
+  "followers": 10,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/zurb/foundation-sites"
+    },
+    {
+      "url": "/jquery/jquery-ui"
+    },
+    {
+      "url": "/henjue/vue-for-idea"
+    },
+    {
+      "url": "/edge1s/pipca"
+    },
+    {
+      "url": "/piotros/miblo"
+    },
+    {
+      "url": "/piotros/pretty-terminator"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Piotr Baran",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/3486023?v=3&s=460",
+  "contribs": 161,
+  "orgs": [
+    {
+      "meetjspl": "https://avatars3.githubusercontent.com/u/5639522?v=3&s=70"
+    },
+    {
+      "edge1s": "https://avatars3.githubusercontent.com/u/14013717?v=3&s=70"
+    },
+    {
+      "vue-bloki": "https://avatars0.githubusercontent.com/u/23528192?v=3&s=70"
+    }
+  ]
+}

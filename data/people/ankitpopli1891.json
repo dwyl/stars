@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/ankitpopli1891",
+  "img": "https://avatars1.githubusercontent.com/u/1699793?v=3&s=460",
+  "uid": 1699793,
+  "repos": 10,
+  "stars": 677,
+  "followers": 19,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/ankitpopli1891/re-quests"
+    },
+    {
+      "url": "/ankitpopli1891/django-autotranslate"
+    },
+    {
+      "url": "/armcha/Space-Navigation-View"
+    },
+    {
+      "url": "/ankitpopli1891/pyelliptic"
+    },
+    {
+      "url": "/Tivix/django-rest-auth"
+    },
+    {
+      "url": "/ReactTraining/react-router"
+    }
+  ],
+  "worksfor": "@DigiCred",
+  "location": "New Delhi, India",
+  "fullname": "Ankit Popli",
+  "website": "https://ankitpopli.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/1699793?v=3&s=460",
+  "contribs": 83,
+  "orgs": [
+    {
+      "CodeMyMobile": "https://avatars1.githubusercontent.com/u/5226924?v=3&s=70"
+    },
+    {
+      "DigiCred": "https://avatars1.githubusercontent.com/u/22852755?v=3&s=70"
+    }
+  ]
+}

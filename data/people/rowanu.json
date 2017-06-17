@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/rowanu",
+  "img": "https://avatars0.githubusercontent.com/u/706782?v=3&s=460",
+  "uid": 706782,
+  "repos": 24,
+  "stars": 1100,
+  "followers": 45,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/rowanu/100vis"
+    },
+    {
+      "url": "/rowanu/Machine-Learning"
+    },
+    {
+      "url": "/rowanu/constellations"
+    },
+    {
+      "url": "/rowanu/ChromeCalendarExtension"
+    },
+    {
+      "url": "/rowanu/serverless-terminator"
+    },
+    {
+      "url": "/rowanu/.dotfiles"
+    }
+  ],
+  "worksfor": "",
+  "location": "Australia",
+  "fullname": "rowan",
+  "website": "http://rowanudell.com/",
+  "avatar": "https://avatars0.githubusercontent.com/u/706782?v=3&s=460",
+  "contribs": 125,
+  "orgs": [
+    {
+      "hackmtl": "https://avatars0.githubusercontent.com/u/1260683?v=3&s=70"
+    },
+    {
+      "serverless": "https://avatars1.githubusercontent.com/u/13742415?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/hpduong",
+  "img": "https://avatars3.githubusercontent.com/u/4432141?v=3&s=460",
+  "uid": 4432141,
+  "repos": 15,
+  "stars": 279,
+  "followers": 2,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/hpduong/conversational-agent"
+    },
+    {
+      "url": "/hpduong/twitter-streaming-nodejs"
+    },
+    {
+      "url": "/hpduong/qb"
+    },
+    {
+      "url": "/hpduong/node-red-heroku"
+    },
+    {
+      "url": "/hpduong/facebook-messenger-bot-webhook"
+    },
+    {
+      "url": "/hpduong/skill-sample-nodejs-howto"
+    }
+  ],
+  "worksfor": "DiagnosisAI, LLC",
+  "location": "Irvine, Ca",
+  "fullname": "Henry",
+  "website": "http://www.diagnosisAI.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/4432141?v=3&s=460",
+  "contribs": 155,
+  "orgs": []
+}

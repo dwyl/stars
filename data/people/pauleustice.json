@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/pauleustice",
+  "img": "https://avatars3.githubusercontent.com/u/1677737?v=3&s=460",
+  "uid": 1677737,
+  "repos": 4,
+  "stars": 67,
+  "followers": 3,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/pauleustice/marionette-recipes"
+    },
+    {
+      "url": "/pauleustice/phonegap-test"
+    },
+    {
+      "url": "/pauleustice/validator"
+    },
+    {
+      "url": "/pauleustice/angular-cli-with-postcss"
+    }
+  ],
+  "worksfor": "",
+  "location": "Brighton, UK",
+  "fullname": "Paul",
+  "website": "http://pauleustice.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1677737?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/bdbergeron",
+  "img": "https://avatars3.githubusercontent.com/u/4922613?v=3&s=460",
+  "uid": 4922613,
+  "repos": 20,
+  "stars": 825,
+  "followers": 15,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/bdbergeron/BDBOAuth1Manager"
+    },
+    {
+      "url": "/bdbergeron/BDBSpinKitRefreshControl"
+    },
+    {
+      "url": "/bdbergeron/BDBPopupViewController"
+    },
+    {
+      "url": "/bdbergeron/BDBSplitViewController"
+    },
+    {
+      "url": "/bdbergeron/BreweryDB"
+    },
+    {
+      "url": "/bdbergeron/BDBAttributedButton"
+    }
+  ],
+  "worksfor": "@SFIncubator",
+  "location": "San Francisco, CA",
+  "fullname": "Brad Bergeron",
+  "website": "http://bradbergeron.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/4922613?v=3&s=460",
+  "contribs": 1154,
+  "orgs": [
+    {
+      "mcirclek": "https://avatars2.githubusercontent.com/u/9868988?v=3&s=70"
+    }
+  ]
+}

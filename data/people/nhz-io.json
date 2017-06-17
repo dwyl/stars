@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/nhz-io",
+  "img": "https://avatars2.githubusercontent.com/u/7918125?v=3&s=460",
+  "uid": 7918125,
+  "repos": 227,
+  "stars": 2700,
+  "followers": 15,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/nhz-io/react-canvas-component"
+    },
+    {
+      "url": "/nhz-io/run-gen"
+    },
+    {
+      "url": "/nhz-io/inferno-canvas-component"
+    },
+    {
+      "url": "/nhz-io/babel-plugin-mocktail"
+    },
+    {
+      "url": "/nhz-io/nw-signer"
+    },
+    {
+      "url": "/nhz-io/curry-n"
+    }
+  ],
+  "worksfor": "@ironSource",
+  "location": "",
+  "fullname": "Ishi Ruy",
+  "website": "http://nhz.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/7918125?v=3&s=460",
+  "contribs": 1364,
+  "orgs": [],
+  "developerprogram": true
+}

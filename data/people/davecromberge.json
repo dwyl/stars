@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/davecromberge",
+  "img": "https://avatars2.githubusercontent.com/u/164431?v=3&s=460",
+  "uid": 164431,
+  "repos": 50,
+  "stars": 127,
+  "followers": 16,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/davecromberge/mediastore"
+    },
+    {
+      "url": "/davecromberge/dsl"
+    },
+    {
+      "url": "/davecromberge/progfun"
+    },
+    {
+      "url": "/davecromberge/speech-lang-processing"
+    },
+    {
+      "url": "/davecromberge/wordnet"
+    },
+    {
+      "url": "/davecromberge/foodback"
+    }
+  ],
+  "worksfor": "@outlyerapp",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/164431?v=3&s=460",
+  "contribs": 701,
+  "orgs": [
+    {
+      "outlyerapp": "https://avatars2.githubusercontent.com/u/25188028?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/Jameskmonger",
+  "img": "https://avatars0.githubusercontent.com/u/2037007?v=3&s=460",
+  "uid": 2037007,
+  "repos": 75,
+  "stars": 157,
+  "followers": 32,
+  "following": 41,
+  "pinned": [
+    {
+      "url": "/Jameskmonger/isaac-crypto"
+    },
+    {
+      "url": "/alsatian-test/alsatian"
+    },
+    {
+      "url": "/Jameskmonger/data-byte-buffer"
+    },
+    {
+      "url": "/npm/npm"
+    },
+    {
+      "url": "/inversify/InversifyJS"
+    },
+    {
+      "url": "/buttercup/buttercup"
+    }
+  ],
+  "worksfor": "",
+  "location": "London, United Kingdom",
+  "fullname": "James Monger",
+  "website": "http://www.jamesmonger.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/2037007?v=3&s=460",
+  "contribs": 1965,
+  "orgs": [
+    {
+      "inversify": "https://avatars3.githubusercontent.com/u/11887183?v=3&s=70"
+    },
+    {
+      "courtroom": "https://avatars1.githubusercontent.com/u/16879615?v=3&s=70"
+    },
+    {
+      "chimneypot": "https://avatars0.githubusercontent.com/u/16903297?v=3&s=70"
+    },
+    {
+      "dependument": "https://avatars1.githubusercontent.com/u/17006081?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/idoo",
+  "img": "https://avatars1.githubusercontent.com/u/738921?v=3&s=460",
+  "uid": 738921,
+  "repos": 69,
+  "stars": 1400,
+  "followers": 24,
+  "following": 37,
+  "pinned": [
+    {
+      "url": "/robbyrussell/oh-my-zsh"
+    },
+    {
+      "url": "/atom/atom"
+    },
+    {
+      "url": "/angular/material"
+    },
+    {
+      "url": "/DefinitelyTyped/DefinitelyTyped"
+    },
+    {
+      "url": "/airbnb/enzyme"
+    },
+    {
+      "url": "/matthew-andrews/isomorphic-fetch"
+    }
+  ],
+  "worksfor": "",
+  "location": "Russia, St. Petersburg",
+  "fullname": "Ivan Verevkin",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/738921?v=3&s=460",
+  "contribs": 61,
+  "orgs": []
+}

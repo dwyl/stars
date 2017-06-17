@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/namuit",
+  "img": "https://avatars2.githubusercontent.com/u/423438?v=3&s=460",
+  "uid": 423438,
+  "repos": 50,
+  "stars": 980,
+  "followers": 18,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/namuit/djangosite"
+    },
+    {
+      "url": "/namuit/ios2android"
+    },
+    {
+      "url": "/namuit/admin-theme"
+    },
+    {
+      "url": "/namuit/memeorama"
+    },
+    {
+      "url": "/namuit/coursera-server-side-development"
+    },
+    {
+      "url": "/namuit/activeadmin-wysihtml5"
+    }
+  ],
+  "worksfor": "weLaika",
+  "location": "Turin, Italy",
+  "fullname": "Matteo Piotto",
+  "website": "http://matteopiotto.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/423438?v=3&s=460",
+  "contribs": 15,
+  "orgs": [
+    {
+      "welaika": "https://avatars2.githubusercontent.com/u/278653?v=3&s=70"
+    }
+  ]
+}

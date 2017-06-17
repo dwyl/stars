@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/irff",
+  "img": "https://avatars0.githubusercontent.com/u/1785218?v=3&s=460",
+  "uid": 1785218,
+  "repos": 37,
+  "stars": 359,
+  "followers": 46,
+  "following": 82,
+  "pinned": [
+    {
+      "url": "/irff/rest-storage"
+    },
+    {
+      "url": "/irff/hangman"
+    },
+    {
+      "url": "/irff/mfp-player"
+    },
+    {
+      "url": "/irff/uler"
+    },
+    {
+      "url": "/irff/diffy"
+    }
+  ],
+  "worksfor": "",
+  "location": "Indonesia",
+  "fullname": "Tri Ahmad Irfan",
+  "website": "http://irfan3.me",
+  "avatar": "https://avatars0.githubusercontent.com/u/1785218?v=3&s=460",
+  "contribs": 16,
+  "orgs": [
+    {
+      "RistekCSUI": "https://avatars3.githubusercontent.com/u/3433898?v=3&s=70"
+    },
+    {
+      "coderhutan": "https://avatars1.githubusercontent.com/u/8831316?v=3&s=70"
+    }
+  ]
+}

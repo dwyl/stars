@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/hwclass",
+  "img": "https://avatars3.githubusercontent.com/u/3750931?v=3&s=460",
+  "uid": 3750931,
+  "repos": 108,
+  "stars": 525,
+  "followers": 319,
+  "following": 506,
+  "pinned": [
+    {
+      "url": "/expressjs/express"
+    },
+    {
+      "url": "/box/t3js"
+    },
+    {
+      "url": "/hwclass/ziya"
+    },
+    {
+      "url": "/hwclass/node-cli-google"
+    },
+    {
+      "url": "/hwclass/booklet"
+    },
+    {
+      "url": "/hwclass/telegram-said-what-bot"
+    }
+  ],
+  "worksfor": "Blacklane GmbH",
+  "location": "Berlin",
+  "fullname": "Barış Güler",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3750931?v=3&s=460",
+  "contribs": 1069,
+  "orgs": [
+    {
+      "paranoiaproject": "https://avatars1.githubusercontent.com/u/7465485?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "JSNinjas": "https://avatars2.githubusercontent.com/u/11861293?v=3&s=70"
+    },
+    {
+      "istanbulreact": "https://avatars1.githubusercontent.com/u/16821872?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/nicodinh",
+  "img": "https://avatars0.githubusercontent.com/u/7486270?v=3&s=460",
+  "uid": 7486270,
+  "repos": 96,
+  "stars": 1000,
+  "followers": 19,
+  "following": 40,
+  "pinned": [
+    {
+      "url": "/azaritech/keyboard-discovery"
+    },
+    {
+      "url": "/azaritech/hapi-starter-kit"
+    },
+    {
+      "url": "/koajs/joi-router"
+    },
+    {
+      "url": "/abrkn/nonce"
+    },
+    {
+      "url": "/nicodinh/leafletc2"
+    },
+    {
+      "url": "/cuberite/cuberite"
+    }
+  ],
+  "worksfor": "iHealthLabs Europe",
+  "location": "Paris, France",
+  "fullname": "Nicolas Azari",
+  "website": "https://nicolas.azari.fr",
+  "avatar": "https://avatars0.githubusercontent.com/u/7486270?v=3&s=460",
+  "contribs": 2249,
+  "orgs": [
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    },
+    {
+      "After-Hym": "https://avatars0.githubusercontent.com/u/20689279?v=3&s=70"
+    },
+    {
+      "azaritech": "https://avatars1.githubusercontent.com/u/24198380?v=3&s=70"
+    },
+    {
+      "mosaic-engine": "https://avatars2.githubusercontent.com/u/24845833?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/ZenCocoon",
+  "img": "https://avatars1.githubusercontent.com/u/10502?v=3&s=460",
+  "uid": 10502,
+  "repos": 71,
+  "stars": 849,
+  "followers": 28,
+  "following": 100,
+  "pinned": [
+    {
+      "url": "/ZenCocoon/inplacericheditor"
+    },
+    {
+      "url": "/ZenCocoon/i18n_multi_locales_validations"
+    },
+    {
+      "url": "/ZenCocoon/Maptimize---Demo-1"
+    },
+    {
+      "url": "/ZenCocoon/ember-rails-coffee-demo"
+    },
+    {
+      "url": "/ZenCocoon/rspec-subject-extensions"
+    },
+    {
+      "url": "/ZenCocoon/prototype-playground"
+    }
+  ],
+  "worksfor": "BookingSync",
+  "location": "Earth",
+  "fullname": "Sébastien Grosjean",
+  "website": "http://www.bookingsync.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/10502?v=3&s=460",
+  "contribs": 4456,
+  "orgs": [
+    {
+      "BookingSync": "https://avatars1.githubusercontent.com/u/552099?v=3&s=70"
+    },
+    {
+      "eOasia": "https://avatars3.githubusercontent.com/u/17076098?v=3&s=70"
+    }
+  ]
+}

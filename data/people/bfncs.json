@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/bfncs",
+  "img": "https://avatars3.githubusercontent.com/u/1049882?v=3&s=460",
+  "uid": 1049882,
+  "repos": 27,
+  "stars": 706,
+  "followers": 21,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/bfncs/codemod-imports-sort"
+    },
+    {
+      "url": "/bfncs/jQuery-Youtube-Channel-Player"
+    },
+    {
+      "url": "/bfncs/TextareaCounter"
+    },
+    {
+      "url": "/bfncs/PagePathHistoryManager"
+    },
+    {
+      "url": "/bfncs/linopress"
+    },
+    {
+      "url": "/bfncs/modShopify"
+    }
+  ],
+  "worksfor": "@sipgate",
+  "location": "Essen",
+  "fullname": "Marc Löhe",
+  "website": "https://twitter.com/bfncs",
+  "avatar": "https://avatars3.githubusercontent.com/u/1049882?v=3&s=460",
+  "contribs": 418,
+  "orgs": [
+    {
+      "sipgate": "https://avatars2.githubusercontent.com/u/95804?v=3&s=70"
+    },
+    {
+      "bytebus": "https://avatars0.githubusercontent.com/u/3747807?v=3&s=70"
+    }
+  ]
+}

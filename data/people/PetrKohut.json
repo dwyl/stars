@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/PetrKohut",
+  "img": "https://avatars0.githubusercontent.com/u/807487?v=3&s=460",
+  "uid": 807487,
+  "repos": 11,
+  "stars": 168,
+  "followers": 22,
+  "following": 38,
+  "pinned": [
+    {
+      "url": "/PetrKohut/es6-custom-errors"
+    },
+    {
+      "url": "/PetrKohut/minimal-babel-node6-app"
+    },
+    {
+      "url": "/PetrKohut/hackerrank-javascript"
+    },
+    {
+      "url": "/PetrKohut/hackrank-golang"
+    },
+    {
+      "url": "/PetrKohut/dotfiles"
+    },
+    {
+      "url": "/PetrKohut/dart-pong"
+    }
+  ],
+  "worksfor": "iflix",
+  "location": "Prague",
+  "fullname": "Petr Kohut",
+  "website": "https://twitter.com/PetrKohut",
+  "avatar": "https://avatars0.githubusercontent.com/u/807487?v=3&s=460",
+  "contribs": 333,
+  "orgs": [
+    {
+      "DartHackPrague": "https://avatars3.githubusercontent.com/u/1687495?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ]
+}

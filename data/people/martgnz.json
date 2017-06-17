@@ -1,0 +1,73 @@
+{
+  "url": "https://github.com/martgnz",
+  "img": "https://avatars3.githubusercontent.com/u/1236790?v=3&s=460",
+  "uid": 1236790,
+  "repos": 49,
+  "stars": 1500,
+  "followers": 87,
+  "following": 43,
+  "pinned": [
+    {
+      "url": "/martgnz/d3-snippets"
+    },
+    {
+      "url": "/newsappsio/spam"
+    },
+    {
+      "url": "/martgnz/es-atlas"
+    },
+    {
+      "url": "/PopulateTools/gobierto"
+    },
+    {
+      "url": "/martgnz/madrid-atlas"
+    },
+    {
+      "url": "/martgnz/barcelona-atlas"
+    }
+  ],
+  "worksfor": "@PopulateTools",
+  "location": "Madrid",
+  "fullname": "Martín González",
+  "website": "https://martingonzalez.net",
+  "avatar": "https://avatars3.githubusercontent.com/u/1236790?v=3&s=460",
+  "contribs": 1200,
+  "orgs": [
+    {
+      "medialab-prado": "https://avatars2.githubusercontent.com/u/1409990?v=3&s=70"
+    },
+    {
+      "OKFN-Spain": "https://avatars2.githubusercontent.com/u/5120211?v=3&s=70"
+    },
+    {
+      "hacklabupf": "https://avatars3.githubusercontent.com/u/9613287?v=3&s=70"
+    },
+    {
+      "bcnfs": "https://avatars2.githubusercontent.com/u/10105853?v=3&s=70"
+    },
+    {
+      "elespanol": "https://avatars3.githubusercontent.com/u/11681625?v=3&s=70"
+    },
+    {
+      "newsappsio": "https://avatars2.githubusercontent.com/u/12434704?v=3&s=70"
+    },
+    {
+      "PopulateTools": "https://avatars3.githubusercontent.com/u/12809868?v=3&s=70"
+    },
+    {
+      "hackshackersbcn": "https://avatars1.githubusercontent.com/u/13079104?v=3&s=70"
+    },
+    {
+      "politibot": "https://avatars0.githubusercontent.com/u/19765812?v=3&s=70"
+    },
+    {
+      "BilbaoDataLab": "https://avatars3.githubusercontent.com/u/21680231?v=3&s=70"
+    },
+    {
+      "decidim": "https://avatars1.githubusercontent.com/u/22474646?v=3&s=70"
+    },
+    {
+      "GO-DIVAL": "https://avatars1.githubusercontent.com/u/25298525?v=3&s=70"
+    }
+  ]
+}

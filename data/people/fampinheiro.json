@@ -1,0 +1,34 @@
+{
+  "url": "https://github.com/fampinheiro",
+  "img": "https://avatars1.githubusercontent.com/u/763528?v=3&s=460",
+  "uid": 763528,
+  "repos": 21,
+  "stars": 82,
+  "followers": 25,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/fampinheiro/.vim"
+    },
+    {
+      "url": "/fampinheiro/hapi"
+    },
+    {
+      "url": "/fampinheiro/huyang"
+    },
+    {
+      "url": "/fampinheiro/nvpqs"
+    }
+  ],
+  "worksfor": "",
+  "location": "Lisbon, Portugal",
+  "fullname": "Filipe Pinheiro",
+  "website": "http://fampinheiro.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/763528?v=3&s=460",
+  "contribs": 32,
+  "orgs": [
+    {
+      "R42": "https://avatars2.githubusercontent.com/u/2136031?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/dkimura",
+  "img": "https://avatars3.githubusercontent.com/u/7234418?v=3&s=460",
+  "uid": 7234418,
+  "repos": 25,
+  "stars": 1300,
+  "followers": 30,
+  "following": 53,
+  "pinned": [
+    {
+      "url": "/dkimura/slack-status-app"
+    },
+    {
+      "url": "/dkimura/osx-setup"
+    },
+    {
+      "url": "/dkimura/grunt-sjistoutf8"
+    },
+    {
+      "url": "/dkimura/boxstarter"
+    },
+    {
+      "url": "/dkimura/zurui-scss"
+    },
+    {
+      "url": "/dkimura/redux-observable-sandbox"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Daichi Kimura",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/7234418?v=3&s=460",
+  "contribs": 1256,
+  "orgs": [
+    {
+      "feedforce": "https://avatars2.githubusercontent.com/u/4169389?v=3&s=70"
+    }
+  ]
+}

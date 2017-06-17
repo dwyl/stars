@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/maoosi",
+  "img": "https://avatars2.githubusercontent.com/u/4679377?v=3&s=460",
+  "uid": 4679377,
+  "repos": 14,
+  "stars": 605,
+  "followers": 11,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/maoosi/spritz.js"
+    },
+    {
+      "url": "/maoosi/wait.js"
+    },
+    {
+      "url": "/maoosi/eventt.js"
+    },
+    {
+      "url": "/maoosi/snakle.js"
+    },
+    {
+      "url": "/maoosi/flatkint"
+    },
+    {
+      "url": "/maoosi/jquery.timeliny"
+    }
+  ],
+  "worksfor": "@ClemengerBBDOMelbourne",
+  "location": "Melbourne, Australia",
+  "fullname": "Sylvain",
+  "website": "http://sylvainsimao.fr",
+  "avatar": "https://avatars2.githubusercontent.com/u/4679377?v=3&s=460",
+  "contribs": 205,
+  "orgs": []
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/BankTP",
+  "img": "https://avatars2.githubusercontent.com/u/760410?v=3&s=460",
+  "uid": 760410,
+  "repos": 3,
+  "stars": 88,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/BankTP/MapRadiusView"
+    },
+    {
+      "url": "/BankTP/DBFlow"
+    },
+    {
+      "url": "/BankTP/vuex"
+    }
+  ],
+  "worksfor": "20Scoops",
+  "location": "Chiang Mai, Thailand",
+  "fullname": "Tanawut Pitchayaboonwong",
+  "website": "http://banktp.in.th",
+  "avatar": "https://avatars2.githubusercontent.com/u/760410?v=3&s=460",
+  "contribs": 9,
+  "orgs": []
+}

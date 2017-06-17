@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/jackcarlisle",
+  "img": "https://avatars3.githubusercontent.com/u/12450298?v=3&s=460",
+  "uid": 12450298,
+  "repos": 24,
+  "stars": 64,
+  "followers": 30,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/dwyl/learn-aws-lambda"
+    },
+    {
+      "url": "/dwyl/image-uploads"
+    },
+    {
+      "url": "/dwyl/learn-aws-iot"
+    },
+    {
+      "url": "/dwyl/contributing"
+    },
+    {
+      "url": "/dwyl/hapi-riot"
+    },
+    {
+      "url": "/dwyl/labels"
+    }
+  ],
+  "worksfor": "@dwyl",
+  "location": "London",
+  "fullname": "Jack Carlisle",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/12450298?v=3&s=460",
+  "contribs": 1668,
+  "orgs": [
+    {
+      "foundersandcoders": "https://avatars1.githubusercontent.com/u/9970257?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "FAC6": "https://avatars3.githubusercontent.com/u/13964431?v=3&s=70"
+    },
+    {
+      "koalabears": "https://avatars3.githubusercontent.com/u/14273628?v=3&s=70"
+    }
+  ]
+}

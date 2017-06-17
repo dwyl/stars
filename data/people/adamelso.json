@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/adamelso",
+  "img": "https://avatars3.githubusercontent.com/u/5972864?v=3&s=460",
+  "uid": 5972864,
+  "repos": 88,
+  "stars": 1200,
+  "followers": 59,
+  "following": 189,
+  "pinned": [
+    {
+      "url": "/adamelso/php-ews"
+    },
+    {
+      "url": "/adamelso/albumgrab"
+    },
+    {
+      "url": "/adamelso/rapid-transit"
+    },
+    {
+      "url": "/adamelso/london-bus-routes"
+    },
+    {
+      "url": "/adamelso/php-exchange"
+    },
+    {
+      "url": "/adamelso/upnp-request-generator"
+    }
+  ],
+  "worksfor": "REISS",
+  "location": "London, UK",
+  "fullname": "Adam Elsodaney",
+  "website": "http://stackoverflow.com/users/558866/adam-elsodaney",
+  "avatar": "https://avatars3.githubusercontent.com/u/5972864?v=3&s=460",
+  "contribs": 897,
+  "orgs": [
+    {
+      "archfizz": "https://avatars3.githubusercontent.com/u/1548222?v=3&s=70"
+    },
+    {
+      "friendsofsylius": "https://avatars2.githubusercontent.com/u/22503991?v=3&s=70"
+    }
+  ]
+}

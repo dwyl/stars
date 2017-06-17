@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/patrl",
+  "img": "https://avatars0.githubusercontent.com/u/13229321?v=3&s=460",
+  "uid": 13229321,
+  "repos": 12,
+  "stars": 130,
+  "followers": 8,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/patrl/dotfiles"
+    },
+    {
+      "url": "/patrl/selectionfest"
+    },
+    {
+      "url": "/patrl/old-site"
+    },
+    {
+      "url": "/patrl/bibliography"
+    },
+    {
+      "url": "/patrl/ucl-beamer"
+    },
+    {
+      "url": "/patrl/.emacs.d"
+    }
+  ],
+  "worksfor": "University College London",
+  "location": "Berlin",
+  "fullname": "Patrick Elliott",
+  "website": "http://patrickdelliott.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/13229321?v=3&s=460",
+  "contribs": 672,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/yhagio",
+  "img": "https://avatars2.githubusercontent.com/u/2874081?v=3&s=460",
+  "uid": 2874081,
+  "repos": 54,
+  "stars": 342,
+  "followers": 69,
+  "following": 170,
+  "pinned": [
+    {
+      "url": "/yhagio/utage"
+    },
+    {
+      "url": "/yhagio/em-dashboard"
+    },
+    {
+      "url": "/yhagio/restaurant-reviewer-client"
+    },
+    {
+      "url": "/yhagio/restaurant-reviewer-api"
+    },
+    {
+      "url": "/yhagio/offline-caltrain"
+    },
+    {
+      "url": "/yhagio/kickstarter-clone"
+    }
+  ],
+  "worksfor": "SweetIQ Analytics",
+  "location": "Montréal, QC",
+  "fullname": "Yuichi Hagio",
+  "website": "http://yuichihagio.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/2874081?v=3&s=460",
+  "contribs": 1241,
+  "orgs": []
+}

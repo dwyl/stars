@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/KevinTCoughlin",
+  "img": "https://avatars0.githubusercontent.com/u/706967?v=3&s=460",
+  "uid": 706967,
+  "repos": 88,
+  "stars": 2700,
+  "followers": 66,
+  "following": 176,
+  "pinned": [
+    {
+      "url": "/KevinTCoughlin/citibike"
+    },
+    {
+      "url": "/KevinTCoughlin/node-randomuser"
+    },
+    {
+      "url": "/KevinTCoughlin/node-gittip"
+    },
+    {
+      "url": "/KevinTCoughlin/BreakJS"
+    },
+    {
+      "url": "/KevinTCoughlin/citibike.php"
+    },
+    {
+      "url": "/KevinTCoughlin/Smodr-Android"
+    }
+  ],
+  "worksfor": "Microsoft",
+  "location": "Seattle, WA",
+  "fullname": "Kevin Coughlin",
+  "website": "http://kevintcoughlin.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/706967?v=3&s=460",
+  "contribs": 169,
+  "orgs": [
+    {
+      "Microsoft": "https://avatars0.githubusercontent.com/u/6154722?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

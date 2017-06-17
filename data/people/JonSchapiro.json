@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/JonSchapiro",
+  "img": "https://avatars2.githubusercontent.com/u/15739945?v=3&s=460",
+  "uid": 15739945,
+  "repos": 21,
+  "stars": 6,
+  "followers": 3,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/JonSchapiro/DesignPatterns"
+    },
+    {
+      "url": "/JonSchapiro/Mosaiek"
+    },
+    {
+      "url": "/JonSchapiro/follow-tube"
+    },
+    {
+      "url": "/JonSchapiro/Mosaiek-Builder"
+    },
+    {
+      "url": "/JonSchapiro/CrackingTheCodingInterview"
+    },
+    {
+      "url": "/JonSchapiro/iHaveToTakeThis"
+    }
+  ],
+  "worksfor": "OpenTable",
+  "location": "San Francisco, CA",
+  "fullname": "Jonathan Schapiro",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/15739945?v=3&s=460",
+  "contribs": 966,
+  "orgs": []
+}

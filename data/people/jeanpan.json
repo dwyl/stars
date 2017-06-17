@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/jeanpan",
+  "img": "https://avatars0.githubusercontent.com/u/1307026?v=3&s=460",
+  "uid": 1307026,
+  "repos": 52,
+  "stars": 274,
+  "followers": 19,
+  "following": 54,
+  "pinned": [
+    {
+      "url": "/jeanpan/react-native-camera-roll-picker"
+    },
+    {
+      "url": "/jeanpan/nyc-subway-entrances-map"
+    },
+    {
+      "url": "/jeanpan/world-earthquake-map"
+    },
+    {
+      "url": "/jeanpan/create-react-pwa-boilerplate"
+    },
+    {
+      "url": "/jeanpan/react-native-nav-tabs-example"
+    },
+    {
+      "url": "/jeanpan/jeanpan.github.io"
+    }
+  ],
+  "worksfor": "",
+  "location": "Taiwan",
+  "fullname": "Jean Pan",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1307026?v=3&s=460",
+  "contribs": 215,
+  "orgs": [
+    {
+      "gopomoinc": "https://avatars2.githubusercontent.com/u/16630620?v=3&s=70"
+    },
+    {
+      "clapperboard": "https://avatars0.githubusercontent.com/u/17577587?v=3&s=70"
+    }
+  ]
+}

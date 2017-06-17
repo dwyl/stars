@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/brayancruces",
+  "img": "https://avatars2.githubusercontent.com/u/4109044?v=3&s=460",
+  "uid": 4109044,
+  "repos": 197,
+  "stars": 2300,
+  "followers": 53,
+  "following": 324,
+  "pinned": [
+    {
+      "url": "/culqi/culqi-php"
+    },
+    {
+      "url": "/iandevlin/html5bones"
+    },
+    {
+      "url": "/saintplay/Encrypt-App"
+    },
+    {
+      "url": "/culqi/culqi-magento"
+    },
+    {
+      "url": "/culqi/culqi-woocommerce"
+    },
+    {
+      "url": "/brayancruces/frontend-guidelines"
+    }
+  ],
+  "worksfor": "Culqi (@culqi)",
+  "location": "Lima, Perú",
+  "fullname": "Brayan Cruces",
+  "website": "http://brayancru.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/4109044?v=3&s=460",
+  "contribs": 454,
+  "orgs": [
+    {
+      "UPCSoftwareDevs": "https://avatars3.githubusercontent.com/u/4483105?v=3&s=70"
+    },
+    {
+      "culqi": "https://avatars0.githubusercontent.com/u/13783771?v=3&s=70"
+    },
+    {
+      "TheAbbeyCode": "https://avatars3.githubusercontent.com/u/16470947?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

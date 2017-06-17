@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/saru95",
+  "img": "https://avatars3.githubusercontent.com/u/6523503?v=3&s=460",
+  "uid": 6523503,
+  "repos": 51,
+  "stars": 1600,
+  "followers": 87,
+  "following": 82,
+  "pinned": [
+    {
+      "url": "/nodejs/node"
+    },
+    {
+      "url": "/ascribe/image-match"
+    },
+    {
+      "url": "/mozilla/mozregression"
+    },
+    {
+      "url": "/saru95/ideone-npm"
+    },
+    {
+      "url": "/createai/Footfall-regression"
+    },
+    {
+      "url": "/chapel-lang/chapel"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Sarthak Munshi",
+  "website": "https://saru.ml/",
+  "avatar": "https://avatars3.githubusercontent.com/u/6523503?v=3&s=460",
+  "contribs": 524,
+  "orgs": [
+    {
+      "interviewstreet": "https://avatars3.githubusercontent.com/u/1030588?v=3&s=70"
+    },
+    {
+      "createai": "https://avatars1.githubusercontent.com/u/14223815?v=3&s=70"
+    },
+    {
+      "boatdb": "https://avatars0.githubusercontent.com/u/21006125?v=3&s=70"
+    },
+    {
+      "PICTSDL": "https://avatars3.githubusercontent.com/u/25819480?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

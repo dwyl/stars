@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/jbpionnier",
+  "img": "https://avatars1.githubusercontent.com/u/1279225?v=3&s=460",
+  "uid": 1279225,
+  "repos": 30,
+  "stars": 1300,
+  "followers": 55,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/huitparfait/huitparfait"
+    },
+    {
+      "url": "/jbpionnier/eslint-config-node"
+    },
+    {
+      "url": "/jbpionnier/bluebird"
+    },
+    {
+      "url": "/jbpionnier/elasticsearch"
+    }
+  ],
+  "worksfor": "Freelance",
+  "location": "Lille, France",
+  "fullname": "Jean-Baptiste Pionnier",
+  "website": "https://twitter.com/JbPionnier",
+  "avatar": "https://avatars1.githubusercontent.com/u/1279225?v=3&s=460",
+  "contribs": 2832,
+  "orgs": [
+    {
+      "ChtiJS": "https://avatars2.githubusercontent.com/u/5999418?v=3&s=70"
+    },
+    {
+      "huitparfait": "https://avatars0.githubusercontent.com/u/19346031?v=3&s=70"
+    }
+  ]
+}

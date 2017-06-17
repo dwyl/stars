@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/Kroid",
+  "img": "https://avatars1.githubusercontent.com/u/2667899?v=3&s=460",
+  "uid": 2667899,
+  "repos": 54,
+  "stars": 125,
+  "followers": 2,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/taptapship/wiredep"
+    },
+    {
+      "url": "/klei/gulp-inject"
+    },
+    {
+      "url": "/Kroid/angular-nlp-compromise"
+    },
+    {
+      "url": "/Kroid/angular-query-master"
+    },
+    {
+      "url": "/Kroid/tick-tack-30line"
+    }
+  ],
+  "worksfor": "MillionAgents",
+  "location": "Russia/Moskow",
+  "fullname": "George M Kroid",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/2667899?v=3&s=460",
+  "contribs": 17,
+  "orgs": [
+    {
+      "linqua": "https://avatars0.githubusercontent.com/u/13285716?v=3&s=70"
+    }
+  ]
+}

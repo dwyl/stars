@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/beejhuff",
+  "img": "https://avatars1.githubusercontent.com/u/1728733?v=3&s=460",
+  "uid": 1728733,
+  "repos": 688,
+  "stars": 2500,
+  "followers": 76,
+  "following": 1300,
+  "pinned": [
+    {
+      "url": "/beejhuff/magento-security-toolkit"
+    },
+    {
+      "url": "/beejhuff/Danslo_Aop"
+    },
+    {
+      "url": "/beejhuff/EmailImages"
+    },
+    {
+      "url": "/beejhuff/triplecheck-common"
+    },
+    {
+      "url": "/beejhuff/judge"
+    },
+    {
+      "url": "/beejhuff/meff"
+    }
+  ],
+  "worksfor": "",
+  "location": "San Francisco, CA",
+  "fullname": "Bryan \"BJ\" Hoffpauir",
+  "website": "https://innovez.blogspot.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1728733?v=3&s=460",
+  "contribs": 211,
+  "orgs": [
+    {
+      "magento-hackathon": "https://avatars3.githubusercontent.com/u/1586526?v=3&s=70"
+    },
+    {
+      "MageTalk": "https://avatars3.githubusercontent.com/u/16919673?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/ethanrubio",
+  "img": "https://avatars0.githubusercontent.com/u/8210947?v=3&s=460",
+  "uid": 8210947,
+  "repos": 29,
+  "stars": 126,
+  "followers": 22,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/airbnb/javascript"
+    },
+    {
+      "url": "/Microsoft/TypeScript"
+    },
+    {
+      "url": "/DefinitelyTyped/DefinitelyTyped"
+    },
+    {
+      "url": "/ethanrubio/conventional-commit-types-atom"
+    },
+    {
+      "url": "/ethanrubio/cz-conventional-changelog-atom"
+    },
+    {
+      "url": "/ethanrubio/cloud-trace-nodejs"
+    }
+  ],
+  "worksfor": "Headspace",
+  "location": "Santa Monica, CA",
+  "fullname": "Ethan Rubio",
+  "website": "https://ethanielrubio.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/8210947?v=3&s=460",
+  "contribs": 2759,
+  "orgs": [
+    {
+      "InstaRoomie": "https://avatars1.githubusercontent.com/u/17304745?v=3&s=70"
+    },
+    {
+      "EnglishMuffinLLC": "https://avatars1.githubusercontent.com/u/17715884?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

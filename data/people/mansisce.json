@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mansisce",
+  "img": "https://avatars2.githubusercontent.com/u/5550539?v=3&s=460",
+  "uid": 5550539,
+  "repos": 20,
+  "stars": 20,
+  "followers": 2,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/mansisce/php-webhook"
+    },
+    {
+      "url": "/mansisce/es5-shim"
+    },
+    {
+      "url": "/mansisce/frontend-dev-bookmarks"
+    },
+    {
+      "url": "/mansisce/showcase"
+    },
+    {
+      "url": "/mansisce/laravel-ranchride"
+    },
+    {
+      "url": "/mansisce/restaurant"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/5550539?v=3&s=460",
+  "contribs": 18,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/LelesBox",
+  "img": "https://avatars0.githubusercontent.com/u/4645282?v=3&s=460",
+  "uid": 4645282,
+  "repos": 40,
+  "stars": 356,
+  "followers": 11,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/LelesBox/kanban"
+    },
+    {
+      "url": "/LelesBox/trello-drag"
+    },
+    {
+      "url": "/LelesBox/vue-loader"
+    },
+    {
+      "url": "/LelesBox/radar-core"
+    },
+    {
+      "url": "/LelesBox/file-router"
+    },
+    {
+      "url": "/LelesBox/cropper"
+    }
+  ],
+  "worksfor": "",
+  "location": "Shenzhen",
+  "fullname": "LeeBox",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/4645282?v=3&s=460",
+  "contribs": 237,
+  "orgs": []
+}

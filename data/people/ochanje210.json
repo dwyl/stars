@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/ochanje210",
+  "img": "https://avatars1.githubusercontent.com/u/16204807?v=3&s=460",
+  "uid": 16204807,
+  "repos": 9,
+  "stars": 176,
+  "followers": 19,
+  "following": 71,
+  "pinned": [
+    {
+      "url": "/sv-bootcamp/Pingo"
+    },
+    {
+      "url": "/ochanje210/react-native-cube"
+    },
+    {
+      "url": "/marckrenn/framer-Firebase"
+    },
+    {
+      "url": "/ochanje210/DroneDeploy-App-PDF-Creator"
+    },
+    {
+      "url": "/recbook/recbook-client"
+    },
+    {
+      "url": "/airbnb/react-native-maps"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Youngchan Je",
+  "website": "https://medium.com/@youngchanje",
+  "avatar": "https://avatars1.githubusercontent.com/u/16204807?v=3&s=460",
+  "contribs": 878,
+  "orgs": [
+    {
+      "sv-bootcamp": "https://avatars3.githubusercontent.com/u/20648483?v=3&s=70"
+    },
+    {
+      "recbook": "https://avatars0.githubusercontent.com/u/24806634?v=3&s=70"
+    },
+    {
+      "open-korean-text": "https://avatars3.githubusercontent.com/u/25519420?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/FidelisClayton",
+  "img": "https://avatars2.githubusercontent.com/u/9627967?v=3&s=460",
+  "uid": 9627967,
+  "repos": 25,
+  "stars": 175,
+  "followers": 15,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/FidelisClayton/elm-spotify-mapper"
+    },
+    {
+      "url": "/FidelisClayton/elm-pomodoro"
+    },
+    {
+      "url": "/FidelisClayton/react-redux-sweetalert2"
+    },
+    {
+      "url": "/FidelisClayton/spotify-mapper"
+    },
+    {
+      "url": "/FidelisClayton/elm-github-profile"
+    },
+    {
+      "url": "/FidelisClayton/MEAN-Stack-base-project"
+    }
+  ],
+  "worksfor": "@Codeminer42",
+  "location": "Natal, RN",
+  "fullname": "Clayton Fidelis",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/9627967?v=3&s=460",
+  "contribs": 656,
+  "orgs": [
+    {
+      "bro-force": "https://avatars2.githubusercontent.com/u/25537096?v=3&s=70"
+    }
+  ]
+}

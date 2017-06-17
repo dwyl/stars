@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/derek-palmer",
+  "img": "https://avatars2.githubusercontent.com/u/7724604?v=3&s=460",
+  "uid": 7724604,
+  "repos": 15,
+  "stars": 126,
+  "followers": 5,
+  "following": 36,
+  "pinned": [
+    {
+      "url": "/derek-palmer/acebot-discord"
+    },
+    {
+      "url": "/derek-palmer/dockerize-minecraft-server"
+    },
+    {
+      "url": "/derek-palmer/squarespace-s3"
+    },
+    {
+      "url": "/derek-palmer/twitter-analyst"
+    },
+    {
+      "url": "/derek-palmer/noice-notes"
+    },
+    {
+      "url": "/derek-palmer/370z-twitter-bot"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ithaca, NY",
+  "fullname": "Derek Palmer",
+  "website": "http://derek-palmer.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/7724604?v=3&s=460",
+  "contribs": 1392,
+  "orgs": []
+}

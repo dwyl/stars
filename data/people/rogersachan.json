@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/rogersachan",
+  "img": "https://avatars2.githubusercontent.com/u/7173984?v=3&s=460",
+  "uid": 7173984,
+  "repos": 65,
+  "stars": 1300,
+  "followers": 10,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/PowerShell/PowerShell"
+    },
+    {
+      "url": "/Microsoft/WinObjC"
+    },
+    {
+      "url": "/dotnet/core"
+    },
+    {
+      "url": "/eclipse/che"
+    },
+    {
+      "url": "/dotnet/cli"
+    }
+  ],
+  "worksfor": "@Camano",
+  "location": "",
+  "fullname": "Roger",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/7173984?v=3&s=460",
+  "contribs": 758,
+  "orgs": [
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "NVIDIAGameWorks": "https://avatars2.githubusercontent.com/u/7717624?v=3&s=70"
+    },
+    {
+      "WakeECHS": "https://avatars2.githubusercontent.com/u/25823939?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mistyharsh",
+  "img": "https://avatars2.githubusercontent.com/u/4905303?v=3&s=460",
+  "uid": 4905303,
+  "repos": 6,
+  "stars": 245,
+  "followers": 5,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/mistyharsh/knex-ddl"
+    },
+    {
+      "url": "/mistyharsh/javascript-regexp-directory"
+    },
+    {
+      "url": "/mistyharsh/design-inspiration"
+    },
+    {
+      "url": "/mistyharsh/pug-devcon-2014"
+    },
+    {
+      "url": "/mistyharsh/call"
+    },
+    {
+      "url": "/mistyharsh/TypeScript"
+    }
+  ],
+  "worksfor": "Independent",
+  "location": "Pune",
+  "fullname": "Harshal",
+  "website": "http://www.definitelysimple.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/4905303?v=3&s=460",
+  "contribs": 16,
+  "orgs": []
+}

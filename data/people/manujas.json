@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/manujas",
+  "img": "https://avatars1.githubusercontent.com/u/7229411?v=3&s=460",
+  "uid": 7229411,
+  "repos": 10,
+  "stars": 32,
+  "followers": 2,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/ConocimientoAbierto/ckanext-evaluator"
+    },
+    {
+      "url": "/ConocimientoAbierto/ckanext-fca_theme"
+    },
+    {
+      "url": "/manujas/camps"
+    },
+    {
+      "url": "/manujas/circleSound"
+    },
+    {
+      "url": "/manujas/colorGame"
+    },
+    {
+      "url": "/manujas/vim"
+    }
+  ],
+  "worksfor": "",
+  "location": "Buenos Arias, Argentina",
+  "fullname": "Emanuel Arias",
+  "website": "https://twitter.com/manujas4",
+  "avatar": "https://avatars1.githubusercontent.com/u/7229411?v=3&s=460",
+  "contribs": 131,
+  "orgs": []
+}

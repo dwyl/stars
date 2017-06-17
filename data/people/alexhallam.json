@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/alexhallam",
+  "img": "https://avatars3.githubusercontent.com/u/9298693?v=3&s=460",
+  "uid": 9298693,
+  "repos": 28,
+  "stars": 9,
+  "followers": 3,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/alexhallam/Stemplot.jl"
+    },
+    {
+      "url": "/alexhallam/TimeToX.jl"
+    },
+    {
+      "url": "/alexhallam/TensorFlow-Survival-Analysis"
+    },
+    {
+      "url": "/alexhallam/Paper-Helicopter"
+    }
+  ],
+  "worksfor": "OHSU Student - Biostatistics MS",
+  "location": "Portland Oregon",
+  "fullname": "Alex Hallam",
+  "website": "https://twitter.com/alexhallam6_28",
+  "avatar": "https://avatars3.githubusercontent.com/u/9298693?v=3&s=460",
+  "contribs": 217,
+  "orgs": []
+}

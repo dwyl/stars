@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/ionphractal",
+  "img": "https://avatars2.githubusercontent.com/u/16098792?v=3&s=460",
+  "uid": 16098792,
+  "repos": 3,
+  "stars": 3,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/ionphractal/nativefier"
+    },
+    {
+      "url": "/ionphractal/node-ffi"
+    },
+    {
+      "url": "/ionphractal/electron-quick-start"
+    }
+  ],
+  "worksfor": "@avarteqgmbh @anynines",
+  "location": "Saarbrücken, Germany",
+  "fullname": "Michael Both",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/16098792?v=3&s=460",
+  "contribs": 18,
+  "orgs": []
+}

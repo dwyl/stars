@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/iameli",
+  "img": "https://avatars1.githubusercontent.com/u/257909?v=3&s=460",
+  "uid": 257909,
+  "repos": 70,
+  "stars": 275,
+  "followers": 16,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/streamplace/streamplace"
+    },
+    {
+      "url": "/meteor/meteor"
+    },
+    {
+      "url": "/kubernetes/kubernetes"
+    },
+    {
+      "url": "/rethinkdb/rethinkdb"
+    },
+    {
+      "url": "/iameli/kubernetes-letsencrypt"
+    },
+    {
+      "url": "/iameli/buttonpusher"
+    }
+  ],
+  "worksfor": "@streamplace",
+  "location": "Seattle",
+  "fullname": "Eli Mallon",
+  "website": "https://iame.li/",
+  "avatar": "https://avatars1.githubusercontent.com/u/257909?v=3&s=460",
+  "contribs": 1465,
+  "orgs": []
+}

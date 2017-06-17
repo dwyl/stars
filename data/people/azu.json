@@ -1,0 +1,67 @@
+{
+  "url": "https://github.com/azu",
+  "img": "https://avatars2.githubusercontent.com/u/19714?v=3&s=460",
+  "uid": 19714,
+  "repos": 777,
+  "stars": 7500,
+  "followers": 673,
+  "following": 270,
+  "pinned": [
+    {
+      "url": "/azu/promises-book"
+    },
+    {
+      "url": "/azu/awesome-commit-english"
+    },
+    {
+      "url": "/azu/NSDate-Escort"
+    },
+    {
+      "url": "/azu/large-scale-javascript"
+    },
+    {
+      "url": "/azu/JavaScript-Plugin-Architecture"
+    },
+    {
+      "url": "/azu/github-reader"
+    }
+  ],
+  "worksfor": "",
+  "location": "Tokyo/Japan",
+  "fullname": "azu",
+  "website": "http://efcl.info/",
+  "avatar": "https://avatars2.githubusercontent.com/u/19714?v=3&s=460",
+  "contribs": 8948,
+  "orgs": [
+    {
+      "efcl": "https://avatars0.githubusercontent.com/u/8081392?v=3&s=70"
+    },
+    {
+      "jser": "https://avatars3.githubusercontent.com/u/8184731?v=3&s=70"
+    },
+    {
+      "estools": "https://avatars1.githubusercontent.com/u/9900213?v=3&s=70"
+    },
+    {
+      "coding-kata": "https://avatars0.githubusercontent.com/u/10607142?v=3&s=70"
+    },
+    {
+      "meta-sushi": "https://avatars1.githubusercontent.com/u/10752575?v=3&s=70"
+    },
+    {
+      "power-assert-js": "https://avatars0.githubusercontent.com/u/12379170?v=3&s=70"
+    },
+    {
+      "textlint": "https://avatars2.githubusercontent.com/u/15377024?v=3&s=70"
+    },
+    {
+      "almin": "https://avatars0.githubusercontent.com/u/18663013?v=3&s=70"
+    },
+    {
+      "textlint-ja": "https://avatars1.githubusercontent.com/u/19858336?v=3&s=70"
+    },
+    {
+      "syntax-tree": "https://avatars3.githubusercontent.com/u/24633385?v=3&s=70"
+    }
+  ]
+}

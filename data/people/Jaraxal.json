@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Jaraxal",
+  "img": "https://avatars3.githubusercontent.com/u/3903179?v=3&s=460",
+  "uid": 3903179,
+  "repos": 7,
+  "stars": 255,
+  "followers": 16,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/Jaraxal/ambari-elasticsearch-service"
+    },
+    {
+      "url": "/Jaraxal/ansible-aws-example"
+    },
+    {
+      "url": "/Jaraxal/convert-sandbox-vagrant"
+    },
+    {
+      "url": "/Jaraxal/cloudbreak-docs"
+    },
+    {
+      "url": "/Jaraxal/install-hortonworks-docker-sandbox"
+    },
+    {
+      "url": "/Jaraxal/cloudbreak"
+    }
+  ],
+  "worksfor": "@hortonworks",
+  "location": "Aberdeen, MD USA",
+  "fullname": "Michael Young",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3903179?v=3&s=460",
+  "contribs": 60,
+  "orgs": [
+    {
+      "hortonworks": "https://avatars3.githubusercontent.com/u/898785?v=3&s=70"
+    }
+  ]
+}

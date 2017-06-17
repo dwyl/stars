@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/doppioslash",
+  "img": "https://avatars3.githubusercontent.com/u/508324?v=3&s=460",
+  "uid": 508324,
+  "repos": 73,
+  "stars": 4900,
+  "followers": 149,
+  "following": 103,
+  "pinned": [
+    {
+      "url": "/doppioslash/arewegameyet"
+    },
+    {
+      "url": "/doppioslash/CastleOfElm"
+    },
+    {
+      "url": "/doppioslash/AndroidClojureTutorial"
+    },
+    {
+      "url": "/doppioslash/DevappTutorials"
+    },
+    {
+      "url": "/doppioslash/dotfiles"
+    },
+    {
+      "url": "/doppioslash/NarrativeAI"
+    }
+  ],
+  "worksfor": "Peer Stritzinger GmbH",
+  "location": "Liverpool, UK",
+  "fullname": "Claudia Doppioslash",
+  "website": "http://www.doppioslash.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/508324?v=3&s=460",
+  "contribs": 159,
+  "orgs": [
+    {
+      "narrative-ai": "https://avatars0.githubusercontent.com/u/16937707?v=3&s=70"
+    }
+  ]
+}

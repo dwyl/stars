@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/FullStackForger",
+  "img": "https://avatars2.githubusercontent.com/u/10958238?v=3&s=460",
+  "uid": 10958238,
+  "repos": 123,
+  "stars": 145,
+  "followers": 14,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/FullStackForger/hapilizer"
+    },
+    {
+      "url": "/FullStackForger/hactor"
+    },
+    {
+      "url": "/FullStackForger/react-jwt-auth"
+    },
+    {
+      "url": "/FullStackForger/react-jwt-auth-redux"
+    },
+    {
+      "url": "/FullStackForger/enverse"
+    },
+    {
+      "url": "/FullStackForger/fs-react-starter-pack"
+    }
+  ],
+  "worksfor": "",
+  "location": "London, UK",
+  "fullname": "Mark",
+  "website": "https://fullstackforger.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/10958238?v=3&s=460",
+  "contribs": 1476,
+  "orgs": []
+}

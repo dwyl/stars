@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/hermo",
+  "img": "https://avatars2.githubusercontent.com/u/25127?v=3&s=460",
+  "uid": 25127,
+  "repos": 27,
+  "stars": 123,
+  "followers": 8,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/hermo/rspec"
+    },
+    {
+      "url": "/hermo/money"
+    },
+    {
+      "url": "/hermo/lighthouse-git-hooks"
+    },
+    {
+      "url": "/hermo/vimfiles"
+    },
+    {
+      "url": "/hermo/snipmate-snippets"
+    },
+    {
+      "url": "/hermo/homebrew"
+    }
+  ],
+  "worksfor": "Verkkokauppa.com",
+  "location": "Helsinki, Finland",
+  "fullname": "Mirko Grönroos",
+  "website": "https://mirko.fi",
+  "avatar": "https://avatars2.githubusercontent.com/u/25127?v=3&s=460",
+  "contribs": 20,
+  "orgs": [
+    {
+      "verkkokauppacom": "https://avatars3.githubusercontent.com/u/1632041?v=3&s=70"
+    }
+  ]
+}

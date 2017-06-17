@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/mantoni",
+  "img": "https://avatars2.githubusercontent.com/u/332271?v=3&s=460",
+  "uid": 332271,
+  "repos": 78,
+  "stars": 363,
+  "followers": 89,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/sinonjs/sinon"
+    },
+    {
+      "url": "/mantoni/mochify.js"
+    },
+    {
+      "url": "/mantoni/eslint_d.js"
+    },
+    {
+      "url": "/mantoni/listen.js"
+    },
+    {
+      "url": "/javascript-studio/studio-changes"
+    },
+    {
+      "url": "/javascript-studio/studio-log"
+    }
+  ],
+  "worksfor": "@javascript-studio",
+  "location": "Zürich, Switzerland",
+  "fullname": "Maximilian Antoni",
+  "website": "http://maxantoni.de",
+  "avatar": "https://avatars2.githubusercontent.com/u/332271?v=3&s=460",
+  "contribs": 2364,
+  "orgs": [
+    {
+      "sinonjs": "https://avatars1.githubusercontent.com/u/6570253?v=3&s=70"
+    },
+    {
+      "geo-tales": "https://avatars0.githubusercontent.com/u/12556903?v=3&s=70"
+    },
+    {
+      "javascript-studio": "https://avatars1.githubusercontent.com/u/20162036?v=3&s=70"
+    }
+  ]
+}

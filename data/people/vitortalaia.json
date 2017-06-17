@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/vitortalaia",
+  "img": "https://avatars2.githubusercontent.com/u/5838414?v=3&s=460",
+  "uid": 5838414,
+  "repos": 13,
+  "stars": 256,
+  "followers": 38,
+  "following": 87,
+  "pinned": [
+    {
+      "url": "/vitortalaia/pokedex-setec-api"
+    },
+    {
+      "url": "/vitortalaia/pokedex-setec-boilerplate"
+    },
+    {
+      "url": "/vitortalaia/v2"
+    },
+    {
+      "url": "/vitortalaia/js-tracks"
+    },
+    {
+      "url": "/vitortalaia/eloquente-javascript"
+    },
+    {
+      "url": "/vitortalaia/node-calculadora"
+    }
+  ],
+  "worksfor": "@Codeminer42",
+  "location": "Sorocaba - SP - Brasil",
+  "fullname": "Vitor Talaia",
+  "website": "http://twitter.com/vitortalaia",
+  "avatar": "https://avatars2.githubusercontent.com/u/5838414?v=3&s=460",
+  "contribs": 1065,
+  "orgs": [
+    {
+      "gurusorocaba": "https://avatars2.githubusercontent.com/u/921623?v=3&s=70"
+    },
+    {
+      "Codeminer42": "https://avatars2.githubusercontent.com/u/1602924?v=3&s=70"
+    },
+    {
+      "sorocabacss": "https://avatars0.githubusercontent.com/u/21114962?v=3&s=70"
+    },
+    {
+      "snug-lab": "https://avatars0.githubusercontent.com/u/22816701?v=3&s=70"
+    },
+    {
+      "entrylvl": "https://avatars1.githubusercontent.com/u/26529390?v=3&s=70"
+    }
+  ]
+}

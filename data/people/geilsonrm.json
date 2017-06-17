@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/geilsonrm",
+  "img": "https://avatars0.githubusercontent.com/u/10155481?v=3&s=460",
+  "uid": 10155481,
+  "repos": 18,
+  "stars": 10,
+  "followers": 0,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/geilsonrm/motion-detection-in-javascript"
+    },
+    {
+      "url": "/geilsonrm/canvas-speedometer"
+    },
+    {
+      "url": "/geilsonrm/aprendendo-padroes-de-projeto-javascript"
+    },
+    {
+      "url": "/geilsonrm/skeleton-express4"
+    },
+    {
+      "url": "/geilsonrm/node-postgres"
+    },
+    {
+      "url": "/geilsonrm/node-padrao"
+    }
+  ],
+  "worksfor": "",
+  "location": "Vitória-ES",
+  "fullname": "Geilson Ribeiro Mirandola",
+  "website": "http://grmmaker.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/10155481?v=3&s=460",
+  "contribs": 43,
+  "orgs": []
+}

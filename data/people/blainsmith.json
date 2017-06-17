@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/blainsmith",
+  "img": "https://avatars0.githubusercontent.com/u/483829?v=3&s=460",
+  "uid": 483829,
+  "repos": 69,
+  "stars": 1200,
+  "followers": 60,
+  "following": 63,
+  "pinned": [
+    {
+      "url": "/oddnetworks/oddworks"
+    },
+    {
+      "url": "/oddnetworks/roku-cli"
+    },
+    {
+      "url": "/oddnetworks/odd-go-sdk"
+    },
+    {
+      "url": "/blainsmith/goreds"
+    },
+    {
+      "url": "/blainsmith/seahash"
+    }
+  ],
+  "worksfor": "Odd Networks",
+  "location": "Saratoga Springs, NY",
+  "fullname": "Beard of War",
+  "website": "http://blainsmith.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/483829?v=3&s=460",
+  "contribs": 1668,
+  "orgs": [
+    {
+      "ooyala": "https://avatars1.githubusercontent.com/u/365274?v=3&s=70"
+    },
+    {
+      "adjacentconcepts": "https://avatars1.githubusercontent.com/u/933082?v=3&s=70"
+    },
+    {
+      "RebelGeeks": "https://avatars3.githubusercontent.com/u/5559945?v=3&s=70"
+    },
+    {
+      "oddnetworks": "https://avatars2.githubusercontent.com/u/7726625?v=3&s=70"
+    },
+    {
+      "agnostechvalley": "https://avatars0.githubusercontent.com/u/14004568?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/armand1m",
+  "img": "https://avatars0.githubusercontent.com/u/6154901?v=3&s=460",
+  "uid": 6154901,
+  "repos": 78,
+  "stars": 904,
+  "followers": 33,
+  "following": 45,
+  "pinned": [
+    {
+      "url": "/armand1m/geni"
+    },
+    {
+      "url": "/armand1m/microservices"
+    },
+    {
+      "url": "/guilhermelimak/Winter-old"
+    },
+    {
+      "url": "/sequelize/sequelize"
+    },
+    {
+      "url": "/hapijs/hapi"
+    },
+    {
+      "url": "/appersonlabs/patronus"
+    }
+  ],
+  "worksfor": "Itix",
+  "location": "Vila Velha",
+  "fullname": "Armando Magalhães",
+  "website": "http://armand1m.herokuapp.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/6154901?v=3&s=460",
+  "contribs": 420,
+  "orgs": []
+}

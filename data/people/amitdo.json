@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/amitdo",
+  "img": "https://avatars3.githubusercontent.com/u/13571208?v=3&s=460",
+  "uid": 13571208,
+  "repos": 116,
+  "stars": 1800,
+  "followers": 13,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/tesseract-ocr/tesseract"
+    },
+    {
+      "url": "/tmbdev/clstm"
+    },
+    {
+      "url": "/tmbdev/ocropy"
+    },
+    {
+      "url": "/mesonbuild/meson"
+    },
+    {
+      "url": "/fonttools/fonttools"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Amit D.",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/13571208?v=3&s=460",
+  "contribs": 303,
+  "orgs": []
+}

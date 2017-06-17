@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/nhducit",
+  "img": "https://avatars1.githubusercontent.com/u/4246176?v=3&s=460",
+  "uid": 4246176,
+  "repos": 71,
+  "stars": 3900,
+  "followers": 29,
+  "following": 48,
+  "pinned": [
+    {
+      "url": "/meteor/meteor"
+    },
+    {
+      "url": "/babel/babel"
+    },
+    {
+      "url": "/angular/angular"
+    },
+    {
+      "url": "/petkaantonov/bluebird"
+    },
+    {
+      "url": "/JedWatson/react-select"
+    }
+  ],
+  "worksfor": "",
+  "location": "Viet Nam",
+  "fullname": "nhducit",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/4246176?v=3&s=460",
+  "contribs": 99,
+  "orgs": [
+    {
+      "javascript-patterns": "https://avatars2.githubusercontent.com/u/17950914?v=3&s=70"
+    }
+  ]
+}

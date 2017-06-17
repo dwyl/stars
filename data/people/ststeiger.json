@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ststeiger",
+  "img": "https://avatars3.githubusercontent.com/u/294085?v=3&s=460",
+  "uid": 294085,
+  "repos": 285,
+  "stars": 166,
+  "followers": 9,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/ststeiger/FunctionInterception"
+    },
+    {
+      "url": "/ststeiger/SvgConverter"
+    },
+    {
+      "url": "/ststeiger/BuildVersionIncrement"
+    },
+    {
+      "url": "/ststeiger/FuseExample"
+    },
+    {
+      "url": "/ststeiger/MultiWikiParser"
+    },
+    {
+      "url": "/ststeiger/StackExchangeDataDumpImporter"
+    }
+  ],
+  "worksfor": "",
+  "location": "Switzerland",
+  "fullname": "Stefan Steiger",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/294085?v=3&s=460",
+  "contribs": 67,
+  "orgs": []
+}

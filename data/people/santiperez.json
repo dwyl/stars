@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/santiperez",
+  "img": "https://avatars1.githubusercontent.com/u/1950189?v=3&s=460",
+  "uid": 1950189,
+  "repos": 24,
+  "stars": 30,
+  "followers": 12,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/santiperez/node-redsys-api"
+    },
+    {
+      "url": "/santiperez/base-express"
+    },
+    {
+      "url": "/santiperez/MAREA2"
+    },
+    {
+      "url": "/santiperez/Processing-Reactive-Sound-Examples"
+    },
+    {
+      "url": "/santiperez/M102"
+    }
+  ],
+  "worksfor": "Altran",
+  "location": "Barcelona",
+  "fullname": "Santi Pérez",
+  "website": "https://www.linkedin.com/pub/santiago-p%C3%A9rez-fern%C3%A1ndez/3a/8b9/617",
+  "avatar": "https://avatars1.githubusercontent.com/u/1950189?v=3&s=460",
+  "contribs": 28,
+  "orgs": [
+    {
+      "eetac": "https://avatars3.githubusercontent.com/u/4030166?v=3&s=70"
+    }
+  ]
+}

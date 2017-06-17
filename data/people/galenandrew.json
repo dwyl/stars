@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/galenandrew",
+  "img": "https://avatars3.githubusercontent.com/u/796368?v=3&s=460",
+  "uid": 796368,
+  "repos": 57,
+  "stars": 763,
+  "followers": 81,
+  "following": 214,
+  "pinned": [
+    {
+      "url": "/dialexa/relish"
+    },
+    {
+      "url": "/vinli/vinli-node"
+    },
+    {
+      "url": "/hapijs/hapi"
+    },
+    {
+      "url": "/hapijs/joi"
+    },
+    {
+      "url": "/tgriesser/knex"
+    },
+    {
+      "url": "/mafintosh/csv-parser"
+    }
+  ],
+  "worksfor": "@dialexa",
+  "location": "Dallas, TX",
+  "fullname": "Andrew Turner",
+  "website": "http://twitter.com/galenandrew",
+  "avatar": "https://avatars3.githubusercontent.com/u/796368?v=3&s=460",
+  "contribs": 1035,
+  "orgs": [
+    {
+      "dialexa": "https://avatars1.githubusercontent.com/u/479248?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

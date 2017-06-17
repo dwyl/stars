@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/eerohele",
+  "img": "https://avatars0.githubusercontent.com/u/31859?v=3&s=460",
+  "uid": 31859,
+  "repos": 32,
+  "stars": 226,
+  "followers": 17,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/eerohele/exalt"
+    },
+    {
+      "url": "/eerohele/dita-ot-gradle"
+    },
+    {
+      "url": "/eerohele/expek"
+    },
+    {
+      "url": "/eerohele/saxon-gradle"
+    },
+    {
+      "url": "/eerohele/equis"
+    },
+    {
+      "url": "/eerohele/catalogs"
+    }
+  ],
+  "worksfor": "",
+  "location": "Finland",
+  "fullname": "Eero Helenius",
+  "website": "https://eerohele.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/31859?v=3&s=460",
+  "contribs": 263,
+  "orgs": [
+    {
+      "dita-ot": "https://avatars1.githubusercontent.com/u/1642274?v=3&s=70"
+    }
+  ]
+}

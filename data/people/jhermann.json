@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/jhermann",
+  "img": "https://avatars0.githubusercontent.com/u/1068245?v=3&s=460",
+  "uid": 1068245,
+  "repos": 102,
+  "stars": 5700,
+  "followers": 71,
+  "following": 68,
+  "pinned": [
+    {
+      "url": "/jhermann/awesome-python-talks"
+    },
+    {
+      "url": "/jhermann/artifactory-debian"
+    },
+    {
+      "url": "/jhermann/devpi-enterprisey"
+    },
+    {
+      "url": "/jhermann/jmx4py"
+    },
+    {
+      "url": "/jhermann/observatory"
+    },
+    {
+      "url": "/jhermann/rituals"
+    }
+  ],
+  "worksfor": "1&1",
+  "location": "Germany",
+  "fullname": "Jürgen Hermann",
+  "website": "http://jhermann.github.io/",
+  "avatar": "https://avatars0.githubusercontent.com/u/1068245?v=3&s=460",
+  "contribs": 523,
+  "orgs": [
+    {
+      "1and1": "https://avatars3.githubusercontent.com/u/743115?v=3&s=70"
+    },
+    {
+      "Feed-The-Web": "https://avatars0.githubusercontent.com/u/8920201?v=3&s=70"
+    },
+    {
+      "Build-The-Web": "https://avatars2.githubusercontent.com/u/9452922?v=3&s=70"
+    }
+  ]
+}

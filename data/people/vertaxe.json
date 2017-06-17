@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/vertaxe",
+  "img": "https://avatars3.githubusercontent.com/u/1711238?v=3&s=460",
+  "uid": 1711238,
+  "repos": 14,
+  "stars": 67,
+  "followers": 2,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/vertaxe/spree_scaffold"
+    },
+    {
+      "url": "/vertaxe/spree_opp_gateway"
+    },
+    {
+      "url": "/vertaxe/active_merchant"
+    },
+    {
+      "url": "/vertaxe/spree_gateway"
+    },
+    {
+      "url": "/vertaxe/spree_infinite_scroll"
+    },
+    {
+      "url": "/vertaxe/spree-multi-currency"
+    }
+  ],
+  "worksfor": "Mythical Fish",
+  "location": "Amsterdam",
+  "fullname": "Jake Broughton",
+  "website": "http://mythical.fish",
+  "avatar": "https://avatars3.githubusercontent.com/u/1711238?v=3&s=460",
+  "contribs": 7,
+  "orgs": []
+}

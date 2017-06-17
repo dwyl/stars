@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/escherba",
+  "img": "https://avatars1.githubusercontent.com/u/474486?v=3&s=460",
+  "uid": 474486,
+  "repos": 83,
+  "stars": 941,
+  "followers": 44,
+  "following": 206,
+  "pinned": [
+    {
+      "url": "/escherba/Weather"
+    },
+    {
+      "url": "/escherba/lsh-hdc"
+    },
+    {
+      "url": "/escherba/algorithms-in-javascript"
+    },
+    {
+      "url": "/escherba/python-cityhash"
+    },
+    {
+      "url": "/escherba/lstm_workshop"
+    },
+    {
+      "url": "/escherba/pymaptools"
+    }
+  ],
+  "worksfor": "@VEVO",
+  "location": "San Francisco, CA",
+  "fullname": "Eugene Scherba",
+  "website": "https://about.me/escherba",
+  "avatar": "https://avatars1.githubusercontent.com/u/474486?v=3&s=460",
+  "contribs": 2681,
+  "orgs": []
+}

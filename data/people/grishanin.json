@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/grishanin",
+  "img": "https://avatars3.githubusercontent.com/u/719361?v=3&s=460",
+  "uid": 719361,
+  "repos": 67,
+  "stars": 368,
+  "followers": 3,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/grishanin/jquery-miniColors"
+    },
+    {
+      "url": "/grishanin/broccoli-sample-app"
+    },
+    {
+      "url": "/grishanin/grunt-tasks"
+    },
+    {
+      "url": "/grishanin/Sourcejs_debug-mode"
+    },
+    {
+      "url": "/grishanin/d3_diagram"
+    },
+    {
+      "url": "/grishanin/private-bower"
+    }
+  ],
+  "worksfor": "",
+  "location": "Moscow, Russia",
+  "fullname": "Evgeny Grishanin",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/719361?v=3&s=460",
+  "contribs": 8,
+  "orgs": []
+}

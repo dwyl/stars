@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/joshburgess",
+  "img": "https://avatars3.githubusercontent.com/u/5396631?v=3&s=460",
+  "uid": 5396631,
+  "repos": 207,
+  "stars": 2500,
+  "followers": 82,
+  "following": 396,
+  "pinned": [
+    {
+      "url": "/joshburgess/redux-most"
+    },
+    {
+      "url": "/joshburgess/inferno-most-fp-demo"
+    },
+    {
+      "url": "/mostjs/core"
+    },
+    {
+      "url": "/infernojs/inferno"
+    },
+    {
+      "url": "/reactjs/redux"
+    },
+    {
+      "url": "/redux-observable/redux-observable"
+    }
+  ],
+  "worksfor": "",
+  "location": "Tampa, FL",
+  "fullname": "Josh Burgess",
+  "website": "https://twitter.com/@_joshburgess",
+  "avatar": "https://avatars3.githubusercontent.com/u/5396631?v=3&s=460",
+  "contribs": 257,
+  "orgs": [
+    {
+      "suncoastjs": "https://avatars0.githubusercontent.com/u/2896286?v=3&s=70"
+    },
+    {
+      "exercism": "https://avatars2.githubusercontent.com/u/5624255?v=3&s=70"
+    },
+    {
+      "infernojs": "https://avatars1.githubusercontent.com/u/14214240?v=3&s=70"
+    },
+    {
+      "reactjstampabay": "https://avatars1.githubusercontent.com/u/18738421?v=3&s=70"
+    }
+  ]
+}

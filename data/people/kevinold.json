@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kevinold",
+  "img": "https://avatars3.githubusercontent.com/u/21967?v=3&s=460",
+  "uid": 21967,
+  "repos": 117,
+  "stars": 1700,
+  "followers": 85,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/kevinold/serverless-graphql-dadjokes"
+    },
+    {
+      "url": "/kevinold/react-optimized-list-demo"
+    },
+    {
+      "url": "/kevinold/authorwatch-rails"
+    },
+    {
+      "url": "/kevinold/dotfiles"
+    },
+    {
+      "url": "/kevinold/scripts"
+    },
+    {
+      "url": "/kevinold/pinboard_to_instapaper_to_kindle"
+    }
+  ],
+  "worksfor": "@LifewayIT",
+  "location": "White House, TN",
+  "fullname": "Kevin Old",
+  "website": "http://www.kevinold.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/21967?v=3&s=460",
+  "contribs": 1507,
+  "orgs": []
+}

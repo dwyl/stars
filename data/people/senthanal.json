@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/senthanal",
+  "img": "https://avatars1.githubusercontent.com/u/249725?v=3&s=460",
+  "uid": 249725,
+  "repos": 18,
+  "stars": 52,
+  "followers": 3,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/senthanal/gulp-jasmine-webdriverio"
+    },
+    {
+      "url": "/senthanal/CodePlay"
+    },
+    {
+      "url": "/senthanal/angular.js"
+    },
+    {
+      "url": "/senthanal/ui-select"
+    },
+    {
+      "url": "/senthanal/openlayers"
+    },
+    {
+      "url": "/senthanal/angular-toggle-switch"
+    }
+  ],
+  "worksfor": "www.wigeogis.com",
+  "location": "Munich, Germany",
+  "fullname": "Senthanal Sirpi Manohar",
+  "website": "http://www.senthanal.at",
+  "avatar": "https://avatars1.githubusercontent.com/u/249725?v=3&s=460",
+  "contribs": 6,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/hardware",
+  "img": "https://avatars3.githubusercontent.com/u/327354?v=3&s=460",
+  "uid": 327354,
+  "repos": 56,
+  "stars": 596,
+  "followers": 93,
+  "following": 28,
+  "pinned": [
+    {
+      "url": "/hardware/mailserver"
+    },
+    {
+      "url": "/hardware/ovh-availability"
+    },
+    {
+      "url": "/hardware/nsd-dnssec"
+    },
+    {
+      "url": "/hardware/ObjectViewer"
+    },
+    {
+      "url": "/hardware/postfixadmin"
+    },
+    {
+      "url": "/hardware/full-backup"
+    }
+  ],
+  "worksfor": "@mondediefr",
+  "location": "France",
+  "fullname": "",
+  "website": "https://blog.meshup.net/",
+  "avatar": "https://avatars3.githubusercontent.com/u/327354?v=3&s=460",
+  "contribs": 258,
+  "orgs": [
+    {
+      "mondediefr": "https://avatars0.githubusercontent.com/u/15617928?v=3&s=70"
+    }
+  ]
+}

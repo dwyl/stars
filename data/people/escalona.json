@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/escalona",
+  "img": "https://avatars2.githubusercontent.com/u/1314892?v=3&s=460",
+  "uid": 1314892,
+  "repos": 24,
+  "stars": 38,
+  "followers": 6,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/escalona/first_app"
+    },
+    {
+      "url": "/escalona/demo_app"
+    },
+    {
+      "url": "/escalona/sample_app"
+    },
+    {
+      "url": "/escalona/try_git"
+    },
+    {
+      "url": "/escalona/ruby_view_server"
+    },
+    {
+      "url": "/escalona/routes_controller_exercise"
+    }
+  ],
+  "worksfor": "",
+  "location": "San Diego, CA",
+  "fullname": "Aaron Escalona",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1314892?v=3&s=460",
+  "contribs": 701,
+  "orgs": []
+}

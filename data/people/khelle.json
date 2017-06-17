@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/khelle",
+  "img": "https://avatars1.githubusercontent.com/u/5642657?v=3&s=460",
+  "uid": 5642657,
+  "repos": 31,
+  "stars": 138,
+  "followers": 46,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/kraken-php/framework"
+    },
+    {
+      "url": "/kraken-php/kraken"
+    },
+    {
+      "url": "/kraken-php/demo-chat"
+    },
+    {
+      "url": "/AdamBrodzinski/RedScript"
+    },
+    {
+      "url": "/khelle/redscript-compiler"
+    }
+  ],
+  "worksfor": "",
+  "location": "Poland",
+  "fullname": "Kamil J.",
+  "website": "http://kjamroz.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/5642657?v=3&s=460",
+  "contribs": 2273,
+  "orgs": [
+    {
+      "kraken-php": "https://avatars2.githubusercontent.com/u/15938282?v=3&s=70"
+    }
+  ]
+}

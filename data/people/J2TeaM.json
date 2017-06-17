@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/J2TeaM",
+  "img": "https://avatars0.githubusercontent.com/u/5250117?v=3&s=460",
+  "uid": 5250117,
+  "repos": 133,
+  "stars": 1200,
+  "followers": 254,
+  "following": 225,
+  "pinned": [
+    {
+      "url": "/J2TeaM/awesome-AutoIt"
+    },
+    {
+      "url": "/twbs/bootstrap"
+    },
+    {
+      "url": "/google/material-design-lite"
+    },
+    {
+      "url": "/facebook/php-graph-sdk"
+    },
+    {
+      "url": "/cdnjs/cdnjs"
+    },
+    {
+      "url": "/os-js/OS.js"
+    }
+  ],
+  "worksfor": "@J2TeaM-dev",
+  "location": "127.0.0.1",
+  "fullname": "Juno_okyo",
+  "website": "https://junookyo.blogspot.com/?utm_source=github",
+  "avatar": "https://avatars0.githubusercontent.com/u/5250117?v=3&s=460",
+  "contribs": 515,
+  "orgs": [
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "AutoIT-VN": "https://avatars3.githubusercontent.com/u/14246064?v=3&s=70"
+    },
+    {
+      "J2TeaM-dev": "https://avatars2.githubusercontent.com/u/14251235?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

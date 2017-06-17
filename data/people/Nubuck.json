@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Nubuck",
+  "img": "https://avatars0.githubusercontent.com/u/6399322?v=3&s=460",
+  "uid": 6399322,
+  "repos": 29,
+  "stars": 2700,
+  "followers": 25,
+  "following": 35,
+  "pinned": [
+    {
+      "url": "/Nubuck/Event.js"
+    },
+    {
+      "url": "/Nubuck/generator-nio-generator"
+    },
+    {
+      "url": "/Nubuck/docker-station"
+    },
+    {
+      "url": "/Nubuck/nio-box-base"
+    },
+    {
+      "url": "/Nubuck/express-spike"
+    },
+    {
+      "url": "/Nubuck/bootstrap"
+    }
+  ],
+  "worksfor": "",
+  "location": "Johannesburg, South Africa",
+  "fullname": "Barry Buck",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/6399322?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/davidebettio",
+  "img": "https://avatars3.githubusercontent.com/u/238577?v=3&s=460",
+  "uid": 238577,
+  "repos": 34,
+  "stars": 768,
+  "followers": 15,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/davidebettio/DBSignupViewController"
+    },
+    {
+      "url": "/davidebettio/rails3-on-ec2"
+    },
+    {
+      "url": "/davidebettio/rails3-nginx-unicorn"
+    },
+    {
+      "url": "/davidebettio/MySQL-backup-to-Amazon-S3"
+    },
+    {
+      "url": "/davidebettio/rds-s3-backup"
+    },
+    {
+      "url": "/davidebettio/nginx-init-debian"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Davide Bettio",
+  "website": "http://www.davidebettio.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/238577?v=3&s=460",
+  "contribs": 14,
+  "orgs": []
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/michael-k",
+  "img": "https://avatars2.githubusercontent.com/u/152008?v=3&s=460",
+  "uid": 152008,
+  "repos": 121,
+  "stars": 816,
+  "followers": 14,
+  "following": 27,
+  "pinned": [
+    {
+      "url": "/git-lfs/git-lfs"
+    },
+    {
+      "url": "/jessfraz/dockerfiles"
+    },
+    {
+      "url": "/axsemantics/atml3-docs"
+    },
+    {
+      "url": "/django/django"
+    }
+  ],
+  "worksfor": "",
+  "location": "Stuttgart, Germany",
+  "fullname": "Michael",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/152008?v=3&s=460",
+  "contribs": 354,
+  "orgs": []
+}

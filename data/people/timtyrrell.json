@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/timtyrrell",
+  "img": "https://avatars0.githubusercontent.com/u/100535?v=3&s=460",
+  "uid": 100535,
+  "repos": 47,
+  "stars": 764,
+  "followers": 41,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/timtyrrell/chatMessageParsing"
+    },
+    {
+      "url": "/timtyrrell/react-inline-edit"
+    },
+    {
+      "url": "/timtyrrell/json-directories-validator"
+    },
+    {
+      "url": "/timtyrrell/redux-typeahead"
+    },
+    {
+      "url": "/timtyrrell/alt-typeahead"
+    }
+  ],
+  "worksfor": "Help.com",
+  "location": "Austin, TX",
+  "fullname": "Tim Tyrrell",
+  "website": "http://blog.tyrrell.io/",
+  "avatar": "https://avatars0.githubusercontent.com/u/100535?v=3&s=460",
+  "contribs": 25,
+  "orgs": [
+    {
+      "austinonrails": "https://avatars0.githubusercontent.com/u/43000?v=3&s=70"
+    },
+    {
+      "austin-rb": "https://avatars3.githubusercontent.com/u/606880?v=3&s=70"
+    }
+  ]
+}

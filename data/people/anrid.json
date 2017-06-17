@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/anrid",
+  "img": "https://avatars2.githubusercontent.com/u/4372709?v=3&s=460",
+  "uid": 4372709,
+  "repos": 30,
+  "stars": 109,
+  "followers": 14,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/anrid/grappa"
+    },
+    {
+      "url": "/anrid/playground"
+    },
+    {
+      "url": "/anrid/fina"
+    },
+    {
+      "url": "/anrid/microman"
+    },
+    {
+      "url": "/anrid/baseline"
+    },
+    {
+      "url": "/anrid/learn-js"
+    }
+  ],
+  "worksfor": "Taskworld",
+  "location": "Bangkok",
+  "fullname": "Anri Digholm",
+  "website": "https://twitter.com/anridig",
+  "avatar": "https://avatars2.githubusercontent.com/u/4372709?v=3&s=460",
+  "contribs": 659,
+  "orgs": [
+    {
+      "taskworld": "https://avatars1.githubusercontent.com/u/4669243?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/andyt10",
+  "img": "https://avatars2.githubusercontent.com/u/5994528?v=3&s=460",
+  "uid": 5994528,
+  "repos": 5,
+  "stars": 31,
+  "followers": 7,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/andyt10/anon"
+    },
+    {
+      "url": "/andyt10/busapp"
+    },
+    {
+      "url": "/andyt10/html-js-authenticator"
+    },
+    {
+      "url": "/andyt10/FSAUtils"
+    },
+    {
+      "url": "/andyt10/terraform-api-gateway-cors-module"
+    }
+  ],
+  "worksfor": "@brickx",
+  "location": "Sydney, NSW",
+  "fullname": "Andy Thompson",
+  "website": "http://andythompson.com.au",
+  "avatar": "https://avatars2.githubusercontent.com/u/5994528?v=3&s=460",
+  "contribs": 434,
+  "orgs": []
+}

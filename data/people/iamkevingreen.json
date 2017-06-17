@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/iamkevingreen",
+  "img": "https://avatars2.githubusercontent.com/u/2124358?v=3&s=460",
+  "uid": 2124358,
+  "repos": 43,
+  "stars": 342,
+  "followers": 24,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/the-couch/rimp"
+    },
+    {
+      "url": "/the-couch/paralless"
+    },
+    {
+      "url": "/the-couch/lazy-class"
+    },
+    {
+      "url": "/iamkevingreen/electron-react-auth0"
+    },
+    {
+      "url": "/iamkevingreen/universal-boilerplate"
+    }
+  ],
+  "worksfor": "The Couch",
+  "location": "New York, NY",
+  "fullname": "Kevin Green",
+  "website": "http://districtdomain.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/2124358?v=3&s=460",
+  "contribs": 2353,
+  "orgs": [
+    {
+      "AddisonDesign": "https://avatars1.githubusercontent.com/u/1123898?v=3&s=70"
+    },
+    {
+      "handsome-ny": "https://avatars3.githubusercontent.com/u/3681054?v=3&s=70"
+    },
+    {
+      "DattoWeb": "https://avatars2.githubusercontent.com/u/5912965?v=3&s=70"
+    },
+    {
+      "the-couch": "https://avatars0.githubusercontent.com/u/11343568?v=3&s=70"
+    }
+  ]
+}

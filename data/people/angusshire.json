@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/angusshire",
+  "img": "https://avatars0.githubusercontent.com/u/5877145?v=3&s=460",
+  "uid": 5877145,
+  "repos": 7,
+  "stars": 220000,
+  "followers": 11500,
+  "following": 231000,
+  "pinned": [
+    {
+      "url": "/angusshire/greenhat"
+    },
+    {
+      "url": "/angusshire/mac-spoofer"
+    },
+    {
+      "url": "/angusshire/memscan"
+    },
+    {
+      "url": "/angusshire/msbot"
+    },
+    {
+      "url": "/angusshire/exams"
+    },
+    {
+      "url": "/angusshire/rosalind"
+    }
+  ],
+  "worksfor": "UC Berkeley",
+  "location": "Berkeley, CA",
+  "fullname": "Angus Hung",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/5877145?v=3&s=460",
+  "contribs": 23,
+  "orgs": [],
+  "developerprogram": true
+}

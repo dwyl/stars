@@ -1,0 +1,56 @@
+{
+  "url": "https://github.com/khaosdoctor",
+  "img": "https://avatars1.githubusercontent.com/u/3200560?v=3&s=460",
+  "uid": 3200560,
+  "repos": 31,
+  "stars": 207,
+  "followers": 28,
+  "following": 50,
+  "pinned": [
+    {
+      "url": "/khaosdoctor/ngs"
+    },
+    {
+      "url": "/khaosdoctor/delay.css"
+    },
+    {
+      "url": "/khaosdoctor/knoblr"
+    },
+    {
+      "url": "/khaosdoctor/my-notes"
+    },
+    {
+      "url": "/khaosdoctor/setup"
+    },
+    {
+      "url": "/khaosdoctor/.dotfiles"
+    }
+  ],
+  "worksfor": "Software Engineer @squidit",
+  "location": "Brazil",
+  "fullname": "Lucas Santos",
+  "website": "http://lsantos.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/3200560?v=3&s=460",
+  "contribs": 1603,
+  "orgs": [
+    {
+      "squidit": "https://avatars3.githubusercontent.com/u/16025977?v=3&s=70"
+    },
+    {
+      "abc-dev": "https://avatars0.githubusercontent.com/u/16270642?v=3&s=70"
+    },
+    {
+      "LUAPPInc": "https://avatars3.githubusercontent.com/u/16891524?v=3&s=70"
+    },
+    {
+      "crud-abc": "https://avatars0.githubusercontent.com/u/17261325?v=3&s=70"
+    },
+    {
+      "training-center": "https://avatars3.githubusercontent.com/u/18053262?v=3&s=70"
+    },
+    {
+      "fusibox": "https://avatars3.githubusercontent.com/u/22861942?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

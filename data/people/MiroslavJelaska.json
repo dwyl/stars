@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/MiroslavJelaska",
+  "img": "https://avatars1.githubusercontent.com/u/2855316?v=3&s=460",
+  "uid": 2855316,
+  "repos": 22,
+  "stars": 22,
+  "followers": 15,
+  "following": 27,
+  "pinned": [
+    {
+      "url": "/MiroslavJelaska/SpaceInvaders"
+    },
+    {
+      "url": "/MiroslavJelaska/connect-four"
+    },
+    {
+      "url": "/MiroslavJelaska/Faculty_ComputerNetworkAlgorithms"
+    },
+    {
+      "url": "/MiroslavJelaska/timer-for-competition"
+    },
+    {
+      "url": "/MiroslavJelaska/LearningDesignPatterns"
+    },
+    {
+      "url": "/MiroslavJelaska/iban-hr.js"
+    }
+  ],
+  "worksfor": "@dump-hr",
+  "location": "Croatia",
+  "fullname": "Miroslav Jelaska",
+  "website": "https://hr.linkedin.com/in/mjelaska",
+  "avatar": "https://avatars1.githubusercontent.com/u/2855316?v=3&s=460",
+  "contribs": 924,
+  "orgs": [
+    {
+      "dump-hr": "https://avatars2.githubusercontent.com/u/16052991?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/katopz",
+  "img": "https://avatars0.githubusercontent.com/u/97060?v=3&s=460",
+  "uid": 97060,
+  "repos": 185,
+  "stars": 1300,
+  "followers": 117,
+  "following": 337,
+  "pinned": [
+    {
+      "url": "/katopz/react-apollo-graphql-github-example"
+    },
+    {
+      "url": "/katopz/google-material-color-swift"
+    },
+    {
+      "url": "/rabbotio/nap"
+    },
+    {
+      "url": "/katopz/best-practices"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bangkok, Thailand",
+  "fullname": "Todsaporn Banjerdkit",
+  "website": "https://medium.com/@katopz",
+  "avatar": "https://avatars0.githubusercontent.com/u/97060?v=3&s=460",
+  "contribs": 1300,
+  "orgs": [
+    {
+      "away3d": "https://avatars2.githubusercontent.com/u/549071?v=3&s=70"
+    },
+    {
+      "rabbotio": "https://avatars1.githubusercontent.com/u/17824120?v=3&s=70"
+    },
+    {
+      "otterhq": "https://avatars0.githubusercontent.com/u/20491532?v=3&s=70"
+    },
+    {
+      "restacks": "https://avatars2.githubusercontent.com/u/22674531?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

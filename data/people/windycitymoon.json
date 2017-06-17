@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/windycitymoon",
+  "img": "https://avatars1.githubusercontent.com/u/1562683?v=3&s=460",
+  "uid": 1562683,
+  "repos": 15,
+  "stars": 24,
+  "followers": 3,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/windycitymoon/wpupdater"
+    },
+    {
+      "url": "/windycitymoon/patternlab-gesso"
+    },
+    {
+      "url": "/windycitymoon/angular-echonest"
+    },
+    {
+      "url": "/windycitymoon/jekyll-gesso"
+    },
+    {
+      "url": "/windycitymoon/gesso-wordpress-with-woo"
+    },
+    {
+      "url": "/windycitymoon/gsa-splash"
+    }
+  ],
+  "worksfor": "Forum One",
+  "location": "Seattle",
+  "fullname": "Derek Moon",
+  "website": "http://forumone.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1562683?v=3&s=460",
+  "contribs": 1508,
+  "orgs": []
+}

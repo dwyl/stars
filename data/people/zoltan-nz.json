@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/zoltan-nz",
+  "img": "https://avatars1.githubusercontent.com/u/1009783?v=3&s=460",
+  "uid": 1009783,
+  "repos": 154,
+  "stars": 849,
+  "followers": 175,
+  "following": 188,
+  "pinned": [
+    {
+      "url": "/zoltan-nz/product-app"
+    },
+    {
+      "url": "/zoltan-nz/library-app"
+    },
+    {
+      "url": "/yoember/yoember.github.io"
+    },
+    {
+      "url": "/zoltan-nz/contacts-app-client"
+    },
+    {
+      "url": "/zoltan-nz/chat-app-v2"
+    },
+    {
+      "url": "/zoltan-nz/map-touch"
+    }
+  ],
+  "worksfor": "Victoria University of Wellington",
+  "location": "Wellington, New Zealand",
+  "fullname": "Zoltan",
+  "website": "http://zoltan.nz",
+  "avatar": "https://avatars1.githubusercontent.com/u/1009783?v=3&s=460",
+  "contribs": 440,
+  "orgs": [
+    {
+      "yoember": "https://avatars3.githubusercontent.com/u/16076886?v=3&s=70"
+    }
+  ]
+}

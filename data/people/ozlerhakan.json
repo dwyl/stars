@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/ozlerhakan",
+  "img": "https://avatars1.githubusercontent.com/u/1964927?v=3&s=460",
+  "uid": 1964927,
+  "repos": 28,
+  "stars": 577,
+  "followers": 109,
+  "following": 333,
+  "pinned": [
+    {
+      "url": "/asciidocfx/AsciidocFX"
+    },
+    {
+      "url": "/ozlerhakan/mongolastic"
+    },
+    {
+      "url": "/ozlerhakan/rapid"
+    },
+    {
+      "url": "/ozlerhakan/mongodb-json-files"
+    },
+    {
+      "url": "/ozlerhakan/aop-metrics"
+    },
+    {
+      "url": "/ozlerhakan/aspectj-ebook"
+    }
+  ],
+  "worksfor": "kodcu.com",
+  "location": "Izmir, Turkey",
+  "fullname": "Hakan Özler",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1964927?v=3&s=460",
+  "contribs": 246,
+  "orgs": [
+    {
+      "kodcu": "https://avatars2.githubusercontent.com/u/6419700?v=3&s=70"
+    },
+    {
+      "asciidocfx": "https://avatars0.githubusercontent.com/u/10000707?v=3&s=70"
+    }
+  ]
+}

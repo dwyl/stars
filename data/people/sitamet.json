@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/sitamet",
+  "img": "https://avatars1.githubusercontent.com/u/393011?v=3&s=460",
+  "uid": 393011,
+  "repos": 12,
+  "stars": 160,
+  "followers": 4,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/sitamet/fui-angular"
+    },
+    {
+      "url": "/sitamet/FlikrWeb"
+    },
+    {
+      "url": "/sitamet/mojito"
+    },
+    {
+      "url": "/sitamet/git-deploy"
+    },
+    {
+      "url": "/sitamet/node-ansible"
+    },
+    {
+      "url": "/sitamet/letsencrypt"
+    }
+  ],
+  "worksfor": "wetopi",
+  "location": "Barcelona",
+  "fullname": "Joan",
+  "website": "https://wetopi.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/393011?v=3&s=460",
+  "contribs": 8,
+  "orgs": []
+}

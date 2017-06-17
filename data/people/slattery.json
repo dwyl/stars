@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/slattery",
+  "img": "https://avatars2.githubusercontent.com/u/1829326?v=3&s=460",
+  "uid": 1829326,
+  "repos": 71,
+  "stars": 1700,
+  "followers": 40,
+  "following": 436,
+  "pinned": [
+    {
+      "url": "/slattery/static-underscore-brunch"
+    },
+    {
+      "url": "/slattery/grunt-ah-cfg-migrate"
+    },
+    {
+      "url": "/slattery/bbjsbeautify"
+    },
+    {
+      "url": "/slattery/jsDAV"
+    },
+    {
+      "url": "/slattery/icalevent"
+    },
+    {
+      "url": "/slattery/ical.js"
+    }
+  ],
+  "worksfor": "",
+  "location": "New Haven, CT",
+  "fullname": "Mike Slattery",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1829326?v=3&s=460",
+  "contribs": 32,
+  "orgs": []
+}

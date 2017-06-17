@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/Kuchiriel",
+  "img": "https://avatars3.githubusercontent.com/u/4648891?v=3&s=460",
+  "uid": 4648891,
+  "repos": 6,
+  "stars": 277,
+  "followers": 18,
+  "following": 53,
+  "pinned": [
+    {
+      "url": "/Kuchiriel/install-archlinux"
+    },
+    {
+      "url": "/Kuchiriel/archlinux-on-android"
+    },
+    {
+      "url": "/Kuchiriel/kuchiriel.github.io"
+    },
+    {
+      "url": "/Kuchiriel/zswap"
+    },
+    {
+      "url": "/Kuchiriel/about-me"
+    },
+    {
+      "url": "/Kuchiriel/dotfiles"
+    }
+  ],
+  "worksfor": "",
+  "location": "Jacareí - SP",
+  "fullname": "Matheus Almeida",
+  "website": "https://about.me/kuchiriel",
+  "avatar": "https://avatars3.githubusercontent.com/u/4648891?v=3&s=460",
+  "contribs": 167,
+  "orgs": [
+    {
+      "DestructHub": "https://avatars1.githubusercontent.com/u/12687363?v=3&s=70"
+    },
+    {
+      "brain-labs": "https://avatars3.githubusercontent.com/u/20472966?v=3&s=70"
+    }
+  ]
+}

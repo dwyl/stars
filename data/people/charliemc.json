@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/charliemc",
+  "img": "https://avatars3.githubusercontent.com/u/4527004?v=3&s=460",
+  "uid": 4527004,
+  "repos": 10,
+  "stars": 215,
+  "followers": 24,
+  "following": 42,
+  "pinned": [
+    {
+      "url": "/charliemc/camel-races"
+    },
+    {
+      "url": "/charliemc/adidas-ionic"
+    },
+    {
+      "url": "/charliemc/jwt-socketio"
+    },
+    {
+      "url": "/charliemc/jwt-secured-api"
+    },
+    {
+      "url": "/charliemc/box-of-things-js"
+    }
+  ],
+  "worksfor": "10Labs",
+  "location": "Zaragoza, Aragón, Spain",
+  "fullname": "Charlie Martínez",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/4527004?v=3&s=460",
+  "contribs": 206,
+  "orgs": []
+}

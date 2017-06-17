@@ -1,0 +1,62 @@
+{
+  "url": "https://github.com/thebergamo",
+  "img": "https://avatars3.githubusercontent.com/u/1778730?v=3&s=460",
+  "uid": 1778730,
+  "repos": 153,
+  "stars": 223,
+  "followers": 123,
+  "following": 64,
+  "pinned": [
+    {
+      "url": "/thebergamo/start-hapiness"
+    },
+    {
+      "url": "/thebergamo/k7"
+    },
+    {
+      "url": "/hapijs/good-console"
+    },
+    {
+      "url": "/thebergamo/vimfiles"
+    },
+    {
+      "url": "/thebergamo/studies"
+    },
+    {
+      "url": "/thebergamo/realworld-graphql"
+    }
+  ],
+  "worksfor": "@concretesolutions",
+  "location": "Sao Paulo, Brazil",
+  "fullname": "Marcos Vinicius Bérgamo",
+  "website": "https://medium.com/@thedon",
+  "avatar": "https://avatars3.githubusercontent.com/u/1778730?v=3&s=460",
+  "contribs": 114,
+  "orgs": [
+    {
+      "nodebr": "https://avatars1.githubusercontent.com/u/2177738?v=3&s=70"
+    },
+    {
+      "beerjs": "https://avatars0.githubusercontent.com/u/4584318?v=3&s=70"
+    },
+    {
+      "nodeschool": "https://avatars2.githubusercontent.com/u/5437587?v=3&s=70"
+    },
+    {
+      "nodeconf": "https://avatars0.githubusercontent.com/u/10212540?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "nko5": "https://avatars1.githubusercontent.com/u/13375802?v=3&s=70"
+    },
+    {
+      "open-source-society": "https://avatars2.githubusercontent.com/u/14957346?v=3&s=70"
+    },
+    {
+      "Cart-API": "https://avatars0.githubusercontent.com/u/17985017?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

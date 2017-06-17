@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/pedromclamas",
+  "img": "https://avatars3.githubusercontent.com/u/11016847?v=3&s=460",
+  "uid": 11016847,
+  "repos": 6,
+  "stars": 24,
+  "followers": 2,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/pedromclamas/resume.github.com"
+    },
+    {
+      "url": "/pedromclamas/sql-server-samples"
+    },
+    {
+      "url": "/pedromclamas/awesome-deep-learning"
+    },
+    {
+      "url": "/pedromclamas/MLAlgorithms"
+    },
+    {
+      "url": "/pedromclamas/data-science-ipython-notebooks"
+    },
+    {
+      "url": "/pedromclamas/griffon-vm"
+    }
+  ],
+  "worksfor": "",
+  "location": "Lisbon",
+  "fullname": "Pedro Lamas",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/11016847?v=3&s=460",
+  "contribs": 6,
+  "orgs": []
+}

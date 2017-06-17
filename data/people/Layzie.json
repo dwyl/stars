@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/Layzie",
+  "img": "https://avatars0.githubusercontent.com/u/844804?v=3&s=460",
+  "uid": 844804,
+  "repos": 65,
+  "stars": 6400,
+  "followers": 206,
+  "following": 407,
+  "pinned": [
+    {
+      "url": "/Layzie/rockstage_js"
+    },
+    {
+      "url": "/Layzie/dotfiles"
+    },
+    {
+      "url": "/Layzie/JavaScript-Garden"
+    },
+    {
+      "url": "/Layzie/gatekeeper.js"
+    },
+    {
+      "url": "/Layzie/generator-beez"
+    },
+    {
+      "url": "/Layzie/Backbone-ja"
+    }
+  ],
+  "worksfor": "Medley, Inc.",
+  "location": "Tokyo, Japan",
+  "fullname": "HIRAKI Satoru",
+  "website": "http://layzie.hatenablog.com/",
+  "avatar": "https://avatars0.githubusercontent.com/u/844804?v=3&s=460",
+  "contribs": 2609,
+  "orgs": [
+    {
+      "enja-oss": "https://avatars3.githubusercontent.com/u/2903126?v=3&s=70"
+    },
+    {
+      "html5j-english": "https://avatars3.githubusercontent.com/u/5626287?v=3&s=70"
+    },
+    {
+      "medley-inc": "https://avatars1.githubusercontent.com/u/10985598?v=3&s=70"
+    },
+    {
+      "frontendweekly": "https://avatars0.githubusercontent.com/u/11205502?v=3&s=70"
+    }
+  ]
+}

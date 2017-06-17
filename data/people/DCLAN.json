@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/DCLAN",
+  "img": "https://avatars2.githubusercontent.com/u/4163809?v=3&s=460",
+  "uid": 4163809,
+  "repos": 7,
+  "stars": 5,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/DCLAN/react-native-playground"
+    },
+    {
+      "url": "/DCLAN/bb8-microsoft-band"
+    },
+    {
+      "url": "/DCLAN/Cordova-BlinkUpPlugin"
+    },
+    {
+      "url": "/DCLAN/Cordova-BlinkUpSample"
+    },
+    {
+      "url": "/DCLAN/BandSensorSwift"
+    },
+    {
+      "url": "/DCLAN/travis-ci-test"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Daniel Lanthier",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/4163809?v=3&s=460",
+  "contribs": 12,
+  "orgs": []
+}

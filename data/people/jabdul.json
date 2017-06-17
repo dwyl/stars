@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jabdul",
+  "img": "https://avatars2.githubusercontent.com/u/1120930?v=3&s=460",
+  "uid": 1120930,
+  "repos": 7,
+  "stars": 282,
+  "followers": 8,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/jabdul/jquery-mobile"
+    },
+    {
+      "url": "/jabdul/Authentication-and-authorization-with-ZF"
+    },
+    {
+      "url": "/jabdul/appland"
+    },
+    {
+      "url": "/jabdul/apln"
+    },
+    {
+      "url": "/jabdul/es6-node-react-todo-demo"
+    },
+    {
+      "url": "/jabdul/bill-unattended-test"
+    }
+  ],
+  "worksfor": "Craft Turf",
+  "location": "London",
+  "fullname": "James Abdul",
+  "website": "http://www.craftturf.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1120930?v=3&s=460",
+  "contribs": 6,
+  "orgs": []
+}

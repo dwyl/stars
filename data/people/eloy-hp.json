@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/eloy-hp",
+  "img": "https://avatars3.githubusercontent.com/u/17277080?v=3&s=460",
+  "uid": 17277080,
+  "repos": 5,
+  "stars": 122,
+  "followers": 1,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/eloy-hp/dns"
+    },
+    {
+      "url": "/eloy-hp/expr-apache2-headers-whitelist"
+    },
+    {
+      "url": "/eloy-hp/electron"
+    },
+    {
+      "url": "/eloy-hp/pipeline-examples"
+    },
+    {
+      "url": "/eloy-hp/dex"
+    }
+  ],
+  "worksfor": "HP Inc.",
+  "location": "Fort Collins, CO",
+  "fullname": "Leonardo Eloy",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/17277080?v=3&s=460",
+  "contribs": 7,
+  "orgs": []
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/sent1nel",
+  "img": "https://avatars3.githubusercontent.com/u/435746?v=3&s=460",
+  "uid": 435746,
+  "repos": 52,
+  "stars": 932,
+  "followers": 49,
+  "following": 127,
+  "pinned": [
+    {
+      "url": "/sent1nel/spaaace"
+    },
+    {
+      "url": "/sent1nel/knocker"
+    },
+    {
+      "url": "/sent1nel/jquery-browserify"
+    },
+    {
+      "url": "/sent1nel/node_irc"
+    },
+    {
+      "url": "/sent1nel/fleet"
+    },
+    {
+      "url": "/sent1nel/percolation"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Joshua K. Farrar",
+  "website": "http://labs.sent1nel.me",
+  "avatar": "https://avatars3.githubusercontent.com/u/435746?v=3&s=460",
+  "contribs": 360,
+  "orgs": [
+    {
+      "GannettDigital": "https://avatars3.githubusercontent.com/u/1149177?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

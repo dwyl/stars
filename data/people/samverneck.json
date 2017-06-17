@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/samverneck",
+  "img": "https://avatars1.githubusercontent.com/u/22237899?v=3&s=460",
+  "uid": 22237899,
+  "repos": 518,
+  "stars": 215,
+  "followers": 18,
+  "following": 72,
+  "pinned": [
+    {
+      "url": "/samverneck/lab-de-estudos-sobre-criptografia"
+    },
+    {
+      "url": "/samverneck/Grupo-de-Estudos-de-Haskell"
+    },
+    {
+      "url": "/samverneck/Cryptography-I"
+    },
+    {
+      "url": "/samverneck/my-security-tools"
+    },
+    {
+      "url": "/samverneck/estudando-sobre-linux"
+    },
+    {
+      "url": "/samverneck/onbook-api-strapi"
+    }
+  ],
+  "worksfor": "@socialweek @TerminalRoot404",
+  "location": "Brazil, Vitória-ES",
+  "fullname": "SAMUEL VERNECK",
+  "website": "http://samverneck.github.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/22237899?v=3&s=460",
+  "contribs": 872,
+  "orgs": []
+}

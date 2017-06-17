@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mrtavat",
+  "img": "https://avatars0.githubusercontent.com/u/1635049?v=3&s=460",
+  "uid": 1635049,
+  "repos": 167,
+  "stars": 769,
+  "followers": 42,
+  "following": 3000,
+  "pinned": [
+    {
+      "url": "/mrtavat/MiniPOS"
+    },
+    {
+      "url": "/mrtavat/SimplePOS"
+    },
+    {
+      "url": "/mrtavat/MobiPOS"
+    },
+    {
+      "url": "/mrtavat/bootstrap"
+    },
+    {
+      "url": "/mrtavat/CodeIgniter"
+    },
+    {
+      "url": "/mrtavat/yii2"
+    }
+  ],
+  "worksfor": "@CMPOSCompanyLimited",
+  "location": "Bangkok, Thailand",
+  "fullname": "Tavat Raknumtiank",
+  "website": "http://www.codedsir.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1635049?v=3&s=460",
+  "contribs": 47,
+  "orgs": []
+}

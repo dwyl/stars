@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/corsoa",
+  "img": "https://avatars3.githubusercontent.com/u/915373?v=3&s=460",
+  "uid": 915373,
+  "repos": 11,
+  "stars": 1500,
+  "followers": 18,
+  "following": 154,
+  "pinned": [
+    {
+      "url": "/corsoa/datatables-generator"
+    },
+    {
+      "url": "/corsoa/dotfiles"
+    },
+    {
+      "url": "/corsoa/hackerrank"
+    },
+    {
+      "url": "/corsoa/pmon"
+    }
+  ],
+  "worksfor": "Ellucian",
+  "location": "Washington DC",
+  "fullname": "Aaron Corso",
+  "website": "http://corsoa.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/915373?v=3&s=460",
+  "contribs": 48,
+  "orgs": []
+}

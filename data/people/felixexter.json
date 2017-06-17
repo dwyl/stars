@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/felixexter",
+  "img": "https://avatars1.githubusercontent.com/u/2854701?v=3&s=460",
+  "uid": 2854701,
+  "repos": 11,
+  "stars": 250,
+  "followers": 30,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/felixexter/tmpl.js"
+    },
+    {
+      "url": "/felixexter/jquery.animated"
+    },
+    {
+      "url": "/felixexter/scrollbarWidth"
+    },
+    {
+      "url": "/felixexter/debuga"
+    },
+    {
+      "url": "/felixexter/jquery.placeholder"
+    },
+    {
+      "url": "/felixexter/gulp-browserify-starter-faq"
+    }
+  ],
+  "worksfor": "CSSSR",
+  "location": "Russia, Saint-Petersburg",
+  "fullname": "Felix Exter",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/2854701?v=3&s=460",
+  "contribs": 1528,
+  "orgs": [
+    {
+      "CSSSR": "https://avatars2.githubusercontent.com/u/5882285?v=3&s=70"
+    },
+    {
+      "rispa-io": "https://avatars2.githubusercontent.com/u/26642903?v=3&s=70"
+    }
+  ]
+}

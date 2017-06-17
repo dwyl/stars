@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/mariocasciaro",
+  "img": "https://avatars0.githubusercontent.com/u/105319?v=3&s=460",
+  "uid": 105319,
+  "repos": 29,
+  "stars": 376,
+  "followers": 110,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/mariocasciaro/object-path"
+    },
+    {
+      "url": "/mariocasciaro/scatter"
+    },
+    {
+      "url": "/mariocasciaro/object-path-immutable"
+    },
+    {
+      "url": "/mariocasciaro/gulp-concat-css"
+    },
+    {
+      "url": "/mariocasciaro/npm-workspace"
+    },
+    {
+      "url": "/mariocasciaro/gulp-clone"
+    }
+  ],
+  "worksfor": "@sponsorama",
+  "location": "Dublin, Ireland",
+  "fullname": "Mario Casciaro",
+  "website": "https://twitter.com/mariocasciaro",
+  "avatar": "https://avatars0.githubusercontent.com/u/105319?v=3&s=460",
+  "contribs": 36,
+  "orgs": [
+    {
+      "sponsorama": "https://avatars1.githubusercontent.com/u/19648664?v=3&s=70"
+    },
+    {
+      "nodejs-design-patterns-book": "https://avatars0.githubusercontent.com/u/20062324?v=3&s=70"
+    }
+  ]
+}

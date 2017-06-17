@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/xemoe",
+  "img": "https://avatars0.githubusercontent.com/u/848552?v=3&s=460",
+  "uid": 848552,
+  "repos": 65,
+  "stars": 44,
+  "followers": 2,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/xemoe/json_resume"
+    },
+    {
+      "url": "/xemoe/http-api-design"
+    },
+    {
+      "url": "/xemoe/cooking-challenge-promise"
+    },
+    {
+      "url": "/xemoe/awesome-sysadmin"
+    },
+    {
+      "url": "/xemoe/elasticsearch-definitive-guide"
+    },
+    {
+      "url": "/xemoe/.vimrc"
+    }
+  ],
+  "worksfor": "SRAN Technology Co., Ltd",
+  "location": "Bangkok, Thailand",
+  "fullname": "Teerapong Ladlee",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/848552?v=3&s=460",
+  "contribs": 48,
+  "orgs": []
+}

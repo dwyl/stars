@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/dwkerwin",
+  "img": "https://avatars0.githubusercontent.com/u/10225761?v=3&s=460",
+  "uid": 10225761,
+  "repos": 5,
+  "stars": 3,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/customink-webops/hostsfile"
+    },
+    {
+      "url": "/markitx/dynamo-backup-to-s3"
+    },
+    {
+      "url": "/aaronpowell/ps-nvmw"
+    },
+    {
+      "url": "/dwkerwin/aws-powershell-helpers"
+    },
+    {
+      "url": "/screenshotapi/screenshotapi-nodejs"
+    }
+  ],
+  "worksfor": "",
+  "location": "Princeton, NJ",
+  "fullname": "Doug Kerwin",
+  "website": "http://www.dougkerwin.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/10225761?v=3&s=460",
+  "contribs": 339,
+  "orgs": []
+}

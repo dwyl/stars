@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/openwayne",
+  "img": "https://avatars1.githubusercontent.com/u/2129782?v=3&s=460",
+  "uid": 2129782,
+  "repos": 62,
+  "stars": 958,
+  "followers": 14,
+  "following": 58,
+  "pinned": [
+    {
+      "url": "/openwayne/libgdx-ui"
+    },
+    {
+      "url": "/openwayne/lua-nucleo"
+    },
+    {
+      "url": "/openwayne/lincity-ng-advanced"
+    },
+    {
+      "url": "/openwayne/HJR_liblua_demo"
+    },
+    {
+      "url": "/openwayne/CCGameSWF"
+    },
+    {
+      "url": "/openwayne/wepy-demo-new"
+    }
+  ],
+  "worksfor": "alibaba",
+  "location": "hangzhou",
+  "fullname": "wayne",
+  "website": "http://www.inwin8.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/2129782?v=3&s=460",
+  "contribs": 56,
+  "orgs": [
+    {
+      "SilentWorld": "https://avatars3.githubusercontent.com/u/5711239?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/zhaiduo",
+  "img": "https://avatars0.githubusercontent.com/u/47869?v=3&s=460",
+  "uid": 47869,
+  "repos": 128,
+  "stars": 1400,
+  "followers": 14,
+  "following": 37,
+  "pinned": [
+    {
+      "url": "/zhaiduo/dockerTest"
+    },
+    {
+      "url": "/zhaiduo/gulp-githooks"
+    },
+    {
+      "url": "/zhaiduo/gulpDevEnv"
+    },
+    {
+      "url": "/zhaiduo/myFirstRRWA"
+    },
+    {
+      "url": "/zhaiduo/syncMacHosts"
+    },
+    {
+      "url": "/zhaiduo/syncTagVersion"
+    }
+  ],
+  "worksfor": "PinBot",
+  "location": "Chengdu, Sichuan, China",
+  "fullname": "Adam",
+  "website": "http://www.zhaiduo.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/47869?v=3&s=460",
+  "contribs": 476,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/samdengler",
+  "img": "https://avatars3.githubusercontent.com/u/133874?v=3&s=460",
+  "uid": 133874,
+  "repos": 13,
+  "stars": 412,
+  "followers": 7,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/samdengler/workstation-chef-repo"
+    },
+    {
+      "url": "/samdengler/pivotal_workstation"
+    },
+    {
+      "url": "/samdengler/git-pulls"
+    },
+    {
+      "url": "/samdengler/dotfiles"
+    },
+    {
+      "url": "/samdengler/puppet-osx"
+    },
+    {
+      "url": "/samdengler/puppet-rubymine"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Sam Dengler",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/133874?v=3&s=460",
+  "contribs": 25,
+  "orgs": []
+}

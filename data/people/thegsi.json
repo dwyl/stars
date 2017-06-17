@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/thegsi",
+  "img": "https://avatars1.githubusercontent.com/u/12121805?v=3&s=460",
+  "uid": 12121805,
+  "repos": 22,
+  "stars": 71,
+  "followers": 30,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/thegsi/simpleServer"
+    },
+    {
+      "url": "/thegsi/CV"
+    },
+    {
+      "url": "/thegsi/markdown-content-html"
+    },
+    {
+      "url": "/thegsi/React-Webpack-Set-Up"
+    },
+    {
+      "url": "/thegsi/react-chess"
+    },
+    {
+      "url": "/thegsi/map-react-task"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "Gethin Rees",
+  "website": "http://cambridge.academia.edu/GethinRees",
+  "avatar": "https://avatars1.githubusercontent.com/u/12121805?v=3&s=460",
+  "contribs": 5,
+  "orgs": [
+    {
+      "foundersandcoders": "https://avatars1.githubusercontent.com/u/9970257?v=3&s=70"
+    },
+    {
+      "codingforeveryone": "https://avatars1.githubusercontent.com/u/12197231?v=3&s=70"
+    },
+    {
+      "FAC6": "https://avatars3.githubusercontent.com/u/13964431?v=3&s=70"
+    },
+    {
+      "fcscripters": "https://avatars0.githubusercontent.com/u/14273633?v=3&s=70"
+    }
+  ]
+}

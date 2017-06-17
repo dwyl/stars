@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/kevincobain2000",
+  "img": "https://avatars3.githubusercontent.com/u/629055?v=3&s=460",
+  "uid": 629055,
+  "repos": 83,
+  "stars": 1800,
+  "followers": 90,
+  "following": 57,
+  "pinned": [
+    {
+      "url": "/kevincobain2000/ionic-animated-modal"
+    },
+    {
+      "url": "/kevincobain2000/sentiment_classifier"
+    },
+    {
+      "url": "/kevincobain2000/ionic-photo-browser"
+    },
+    {
+      "url": "/kevincobain2000/jProcessing"
+    },
+    {
+      "url": "/kevincobain2000/ionic-animated-popup"
+    },
+    {
+      "url": "/kevincobain2000/ionic-timeline"
+    }
+  ],
+  "worksfor": "Zappallas Inc",
+  "location": "Tokyo, Japan",
+  "fullname": "Pulkit Kathuria",
+  "website": "http://kevincobain2000.github.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/629055?v=3&s=460",
+  "contribs": 4200,
+  "orgs": [
+    {
+      "zapbd": "https://avatars2.githubusercontent.com/u/9441140?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

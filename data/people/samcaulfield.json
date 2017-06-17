@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/samcaulfield",
+  "img": "https://avatars1.githubusercontent.com/u/6098068?v=3&s=460",
+  "uid": 6098068,
+  "repos": 9,
+  "stars": 71,
+  "followers": 14,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/samcaulfield/GameEngine"
+    },
+    {
+      "url": "/samcaulfield/OpenGL"
+    },
+    {
+      "url": "/samcaulfield/libsc"
+    },
+    {
+      "url": "/samcaulfield/Rival"
+    },
+    {
+      "url": "/samcaulfield/memcheat"
+    },
+    {
+      "url": "/samcaulfield/git-tutorial"
+    }
+  ],
+  "worksfor": "@movidius",
+  "location": "Dublin, Ireland",
+  "fullname": "Sam Caulfield",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/6098068?v=3&s=460",
+  "contribs": 1936,
+  "orgs": [
+    {
+      "netsoc": "https://avatars2.githubusercontent.com/u/1050696?v=3&s=70"
+    }
+  ]
+}

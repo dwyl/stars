@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/piccoloaiutante",
+  "img": "https://avatars2.githubusercontent.com/u/867842?v=3&s=460",
+  "uid": 867842,
+  "repos": 50,
+  "stars": 48,
+  "followers": 54,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/wixtoolset/wix3"
+    },
+    {
+      "url": "/nodejs/build"
+    },
+    {
+      "url": "/senecajs/seneca-in-practice"
+    },
+    {
+      "url": "/piccoloaiutante/build"
+    }
+  ],
+  "worksfor": "Nearform",
+  "location": "Brescia",
+  "fullname": "Michele Capra",
+  "website": "http://about.me/mik",
+  "avatar": "https://avatars2.githubusercontent.com/u/867842?v=3&s=460",
+  "contribs": 147,
+  "orgs": [
+    {
+      "WEBdeBS": "https://avatars1.githubusercontent.com/u/1248631?v=3&s=70"
+    },
+    {
+      "nearform": "https://avatars3.githubusercontent.com/u/1544687?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "senecajs": "https://avatars1.githubusercontent.com/u/10085488?v=3&s=70"
+    }
+  ]
+}

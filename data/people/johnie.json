@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/johnie",
+  "img": "https://avatars2.githubusercontent.com/u/864992?v=3&s=460",
+  "uid": 864992,
+  "repos": 83,
+  "stars": 3100,
+  "followers": 37,
+  "following": 69,
+  "pinned": [
+    {
+      "url": "/johnie/postcss-swedish-stylesheets"
+    },
+    {
+      "url": "/johnie/postcss-crip"
+    },
+    {
+      "url": "/johnie/eslint-config-airbnb-flow"
+    },
+    {
+      "url": "/johnie/crip-css-properties"
+    },
+    {
+      "url": "/johnie/amputee"
+    },
+    {
+      "url": "/johnie/ytmp3"
+    }
+  ],
+  "worksfor": "@Cloud-Nine, Wired In, @crip",
+  "location": "Sweden",
+  "fullname": "Johnie Hjelm",
+  "website": "http://johnie.se",
+  "avatar": "https://avatars2.githubusercontent.com/u/864992?v=3&s=460",
+  "contribs": 670,
+  "orgs": [
+    {
+      "adroiter": "https://avatars0.githubusercontent.com/u/10517694?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

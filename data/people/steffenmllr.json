@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/steffenmllr",
+  "img": "https://avatars2.githubusercontent.com/u/449563?v=3&s=460",
+  "uid": 449563,
+  "repos": 120,
+  "stars": 1200,
+  "followers": 50,
+  "following": 91,
+  "pinned": [
+    {
+      "url": "/steffenmllr/imageoptmizer-brunch"
+    },
+    {
+      "url": "/steffenmllr/docker-butler"
+    },
+    {
+      "url": "/steffenmllr/li3_gelf"
+    },
+    {
+      "url": "/steffenmllr/node-red-contrib-sonoff-tasmota"
+    },
+    {
+      "url": "/steffenmllr/Chowly"
+    },
+    {
+      "url": "/steffenmllr/docker-backup-postgresql-to-ftp"
+    }
+  ],
+  "worksfor": "Müller & Sohn",
+  "location": "Berlin",
+  "fullname": "Steffen Müller",
+  "website": "http://www.mllrsohn.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/449563?v=3&s=460",
+  "contribs": 1523,
+  "orgs": [
+    {
+      "mllrsohn": "https://avatars1.githubusercontent.com/u/2979915?v=3&s=70"
+    }
+  ]
+}

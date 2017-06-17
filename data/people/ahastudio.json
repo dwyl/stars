@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/ahastudio",
+  "img": "https://avatars2.githubusercontent.com/u/36392?v=3&s=460",
+  "uid": 36392,
+  "repos": 109,
+  "stars": 789,
+  "followers": 88,
+  "following": 48,
+  "pinned": [
+    {
+      "url": "/ahastudio/CodingLife"
+    },
+    {
+      "url": "/ahastudio/til"
+    },
+    {
+      "url": "/ahastudio/dockerfiles"
+    },
+    {
+      "url": "/ahastudio/tensorflow-kr"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Ashal aka JOKER",
+  "website": "https://ahastudio.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/36392?v=3&s=460",
+  "contribs": 2094,
+  "orgs": [
+    {
+      "rubykr": "https://avatars1.githubusercontent.com/u/518913?v=3&s=70"
+    },
+    {
+      "XperOrg": "https://avatars0.githubusercontent.com/u/21324997?v=3&s=70"
+    }
+  ]
+}

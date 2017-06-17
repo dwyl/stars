@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/bchociej",
+  "img": "https://avatars2.githubusercontent.com/u/4683658?v=3&s=460",
+  "uid": 4683658,
+  "repos": 22,
+  "stars": 25,
+  "followers": 6,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/bchociej/ergodox-stand"
+    },
+    {
+      "url": "/bchociej/bobbin"
+    },
+    {
+      "url": "/bchociej/thus"
+    },
+    {
+      "url": "/bchociej/lru-map"
+    },
+    {
+      "url": "/bchociej/express-route-printer"
+    },
+    {
+      "url": "/bchociej/platform-ng"
+    }
+  ],
+  "worksfor": "",
+  "location": "Kansas City, MO",
+  "fullname": "Ben Chociej",
+  "website": "http://www.benchociej.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/4683658?v=3&s=460",
+  "contribs": 120,
+  "orgs": [
+    {
+      "juristat": "https://avatars0.githubusercontent.com/u/6097310?v=3&s=70"
+    }
+  ]
+}

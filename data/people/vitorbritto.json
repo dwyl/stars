@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/vitorbritto",
+  "img": "https://avatars2.githubusercontent.com/u/769193?v=3&s=460",
+  "uid": 769193,
+  "repos": 101,
+  "stars": 1600,
+  "followers": 573,
+  "following": 170,
+  "pinned": [
+    {
+      "url": "/vitorbritto/workflow-guide"
+    },
+    {
+      "url": "/vitorbritto/dev-list"
+    },
+    {
+      "url": "/vitorbritto/boilerplates"
+    },
+    {
+      "url": "/vitorbritto/tictac"
+    },
+    {
+      "url": "/vitorbritto/gomdn"
+    },
+    {
+      "url": "/vitorbritto/forcefiles"
+    }
+  ],
+  "worksfor": "vb web studio",
+  "location": "Brazil",
+  "fullname": "Vitor Britto",
+  "website": "http://www.vitorbritto.com.br",
+  "avatar": "https://avatars2.githubusercontent.com/u/769193?v=3&s=460",
+  "contribs": 124,
+  "orgs": [
+    {
+      "wpbrasil": "https://avatars1.githubusercontent.com/u/3344909?v=3&s=70"
+    }
+  ]
+}

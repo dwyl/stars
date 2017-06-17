@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "env2": "^2.2.0",
-    "github-scraper": "^4.0.1",
+    "github-scraper": "^4.2.0",
     "hapi": "^16.4.3",
     "hapi-auth-github": "^2.0.0",
     "hapi-postgres-connection": "^6.1.0",

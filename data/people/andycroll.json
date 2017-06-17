@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/andycroll",
+  "img": "https://avatars2.githubusercontent.com/u/2780?v=3&s=460",
+  "uid": 2780,
+  "repos": 33,
+  "stars": 922,
+  "followers": 49,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/andycroll/atthemovies"
+    },
+    {
+      "url": "/andycroll/odeon_uk"
+    },
+    {
+      "url": "/andycroll/cineworld_uk"
+    },
+    {
+      "url": "/andycroll/movie_titleize"
+    },
+    {
+      "url": "/andycroll/heroku-buildpack-jekyll"
+    },
+    {
+      "url": "/andycroll/picturehouse_uk"
+    }
+  ],
+  "worksfor": "Good Scary",
+  "location": "Brighton, UK",
+  "fullname": "Andy Croll",
+  "website": "http://andycroll.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/2780?v=3&s=460",
+  "contribs": 1538,
+  "orgs": [],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/heyts",
+  "img": "https://avatars0.githubusercontent.com/u/4481304?v=3&s=460",
+  "uid": 4481304,
+  "repos": 10,
+  "stars": 99,
+  "followers": 4,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/heyts/dotfiles"
+    },
+    {
+      "url": "/heyts/djangoproject.com"
+    },
+    {
+      "url": "/heyts/lire-lemonde"
+    },
+    {
+      "url": "/heyts/django-flat-theme"
+    },
+    {
+      "url": "/heyts/handbook"
+    },
+    {
+      "url": "/heyts/jwt-decode"
+    }
+  ],
+  "worksfor": "",
+  "location": "Brooklyn, NY",
+  "fullname": "Thomas Schmidt",
+  "website": "http://neutrl.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/4481304?v=3&s=460",
+  "contribs": 1561,
+  "orgs": []
+}

@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/albertico",
+  "img": "https://avatars2.githubusercontent.com/u/1066016?v=3&s=460",
+  "uid": 1066016,
+  "repos": 26,
+  "stars": 1400,
+  "followers": 36,
+  "following": 112,
+  "pinned": [
+    {
+      "url": "/albertico/compass-api"
+    },
+    {
+      "url": "/albertico/crime-spotter"
+    },
+    {
+      "url": "/albertico/policia-delitos-etl"
+    },
+    {
+      "url": "/albertico/tech-summit-2015-hackathon"
+    },
+    {
+      "url": "/albertico/homebrew-cask"
+    },
+    {
+      "url": "/albertico/code4puertorico.github.io"
+    }
+  ],
+  "worksfor": "USDS / SBA / more fun stuff",
+  "location": "Washington, DC / Puerto Rico",
+  "fullname": "Alberto Colón Viera",
+  "website": "http://alberti.co",
+  "avatar": "https://avatars2.githubusercontent.com/u/1066016?v=3&s=460",
+  "contribs": 14,
+  "orgs": [
+    {
+      "codeforamerica": "https://avatars2.githubusercontent.com/u/337792?v=3&s=70"
+    },
+    {
+      "commonwealth-of-puerto-rico": "https://avatars3.githubusercontent.com/u/4306066?v=3&s=70"
+    },
+    {
+      "government": "https://avatars0.githubusercontent.com/u/5321787?v=3&s=70"
+    },
+    {
+      "Code4PuertoRico": "https://avatars1.githubusercontent.com/u/6626422?v=3&s=70"
+    }
+  ]
+}

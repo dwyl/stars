@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/aquinault",
+  "img": "https://avatars3.githubusercontent.com/u/517909?v=3&s=460",
+  "uid": 517909,
+  "repos": 35,
+  "stars": 627,
+  "followers": 5,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/aquinault/game-o"
+    },
+    {
+      "url": "/aquinault/scraper"
+    },
+    {
+      "url": "/aquinault/aquinault.github.io"
+    },
+    {
+      "url": "/aquinault/hubot"
+    },
+    {
+      "url": "/aquinault/hubot-scripts"
+    },
+    {
+      "url": "/aquinault/pouchdb"
+    }
+  ],
+  "worksfor": "CADE SOFT",
+  "location": "FRANCE",
+  "fullname": "Quinault",
+  "website": "http://www.cadesoft.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/517909?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

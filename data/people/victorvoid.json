@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/victorvoid",
+  "img": "https://avatars0.githubusercontent.com/u/6734111?v=3&s=460",
+  "uid": 6734111,
+  "repos": 81,
+  "stars": 1100,
+  "followers": 128,
+  "following": 132,
+  "pinned": [
+    {
+      "url": "/victorvoid/vim-frontend"
+    },
+    {
+      "url": "/victorvoid/space-jekyll-template"
+    },
+    {
+      "url": "/victorvoid/placeload.js"
+    },
+    {
+      "url": "/victorvoid/fluany"
+    },
+    {
+      "url": "/victorvoid/aprenda-clojurescript"
+    },
+    {
+      "url": "/victorvoid/generator-capybara"
+    }
+  ],
+  "worksfor": "Concrete Solutions",
+  "location": "Brazil, São Paulo",
+  "fullname": "Victor Igor",
+  "website": "https://medium.com/@victorvoid",
+  "avatar": "https://avatars0.githubusercontent.com/u/6734111?v=3&s=460",
+  "contribs": 740,
+  "orgs": [
+    {
+      "gdgmanaus": "https://avatars2.githubusercontent.com/u/9272326?v=3&s=70"
+    },
+    {
+      "WhitestormJS": "https://avatars2.githubusercontent.com/u/16437392?v=3&s=70"
+    }
+  ]
+}

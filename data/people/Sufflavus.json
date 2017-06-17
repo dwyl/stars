@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Sufflavus",
+  "img": "https://avatars1.githubusercontent.com/u/2123162?v=3&s=460",
+  "uid": 2123162,
+  "repos": 42,
+  "stars": 245,
+  "followers": 14,
+  "following": 34,
+  "pinned": [
+    {
+      "url": "/PerfCo/GeekData"
+    },
+    {
+      "url": "/Sufflavus/CodepenExamples"
+    },
+    {
+      "url": "/Sufflavus/javascript-es6-linq-examples"
+    },
+    {
+      "url": "/Sufflavus/javascript-es5-linq-examples"
+    },
+    {
+      "url": "/Sufflavus/Colibri"
+    },
+    {
+      "url": "/Sufflavus/Mint"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Tania Shatilova",
+  "website": "http://us.linkedin.com/pub/tatiana-shatilova/81/94/260",
+  "avatar": "https://avatars1.githubusercontent.com/u/2123162?v=3&s=460",
+  "contribs": 355,
+  "orgs": [
+    {
+      "PerfCo": "https://avatars3.githubusercontent.com/u/16505530?v=3&s=70"
+    }
+  ]
+}

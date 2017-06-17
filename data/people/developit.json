@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/developit",
+  "img": "https://avatars1.githubusercontent.com/u/105127?v=3&s=460",
+  "uid": 105127,
+  "repos": 222,
+  "stars": 3500,
+  "followers": 1500,
+  "following": 160,
+  "pinned": [
+    {
+      "url": "/developit/preact"
+    },
+    {
+      "url": "/developit/preact-cli"
+    },
+    {
+      "url": "/developit/unfetch"
+    },
+    {
+      "url": "/developit/mitt"
+    },
+    {
+      "url": "/developit/express-es6-rest-api"
+    },
+    {
+      "url": "/developit/undom"
+    }
+  ],
+  "worksfor": "developIT",
+  "location": "Hamilton, Ontario, Canada",
+  "fullname": "Jason Miller",
+  "website": "https://jasonformat.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/105127?v=3&s=460",
+  "contribs": 2152,
+  "orgs": [
+    {
+      "synacor": "https://avatars1.githubusercontent.com/u/5131423?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

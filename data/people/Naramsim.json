@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/Naramsim",
+  "img": "https://avatars2.githubusercontent.com/u/8996268?v=3&s=460",
+  "uid": 8996268,
+  "repos": 42,
+  "stars": 1100,
+  "followers": 23,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/PokeAPI/pokedex-promise-v2"
+    },
+    {
+      "url": "/Naramsim/GithubOriginalStreak"
+    },
+    {
+      "url": "/Naramsim/Betterbin"
+    },
+    {
+      "url": "/Naramsim/Colosseum"
+    },
+    {
+      "url": "/Naramsim/Nppi"
+    }
+  ],
+  "worksfor": "",
+  "location": "Calliano, TN, Italy",
+  "fullname": "Alessandro Pezzè",
+  "website": "https://naramsim.github.io/",
+  "avatar": "https://avatars2.githubusercontent.com/u/8996268?v=3&s=460",
+  "contribs": 671,
+  "orgs": [
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "PokeAPI": "https://avatars1.githubusercontent.com/u/19692032?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/Rulox",
+  "img": "https://avatars3.githubusercontent.com/u/6643657?v=3&s=460",
+  "uid": 6643657,
+  "repos": 13,
+  "stars": 37,
+  "followers": 19,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/Rulox/react-atomic-structure"
+    },
+    {
+      "url": "/Rulox/gitgaming"
+    },
+    {
+      "url": "/Rulox/codefett"
+    },
+    {
+      "url": "/Rulox/LUNO"
+    },
+    {
+      "url": "/Rulox/rulox-daemon"
+    },
+    {
+      "url": "/Rulox/ModbusServer"
+    }
+  ],
+  "worksfor": "@wearenolte",
+  "location": "Tenerife || New York",
+  "fullname": "Raúl",
+  "website": "http://www.raulmr.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/6643657?v=3&s=460",
+  "contribs": 320,
+  "orgs": [
+    {
+      "wearenolte": "https://avatars0.githubusercontent.com/u/8808755?v=3&s=70"
+    },
+    {
+      "moxie-lean": "https://avatars3.githubusercontent.com/u/15912467?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

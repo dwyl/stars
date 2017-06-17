@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/garfbargle",
+  "img": "https://avatars1.githubusercontent.com/u/1245620?v=3&s=460",
+  "uid": 1245620,
+  "repos": 23,
+  "stars": 584,
+  "followers": 8,
+  "following": 12,
+  "pinned": [
+    {
+      "url": "/garfbargle/xcode-snippets"
+    },
+    {
+      "url": "/garfbargle/breadwallet"
+    },
+    {
+      "url": "/garfbargle/LambdAuth"
+    },
+    {
+      "url": "/garfbargle/swagger-editor-server"
+    },
+    {
+      "url": "/garfbargle/PullToRefreshCoreText"
+    },
+    {
+      "url": "/garfbargle/resume"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1245620?v=3&s=460",
+  "contribs": 15,
+  "orgs": [
+    {
+      "BigPurpleDot": "https://avatars3.githubusercontent.com/u/1407043?v=3&s=70"
+    }
+  ]
+}

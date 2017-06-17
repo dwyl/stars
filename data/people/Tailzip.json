@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Tailzip",
+  "img": "https://avatars0.githubusercontent.com/u/1068018?v=3&s=460",
+  "uid": 1068018,
+  "repos": 9,
+  "stars": 797,
+  "followers": 14,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/Tailzip/customer-area"
+    },
+    {
+      "url": "/Tailzip/weather-app"
+    },
+    {
+      "url": "/Tailzip/learnsauce-susy"
+    },
+    {
+      "url": "/Tailzip/diagonal-page-transition"
+    },
+    {
+      "url": "/Tailzip/test-jekyll"
+    },
+    {
+      "url": "/Tailzip/worldcup-app"
+    }
+  ],
+  "worksfor": "",
+  "location": "Paris, France",
+  "fullname": "Antoine",
+  "website": "http://antoine.tanzil.li",
+  "avatar": "https://avatars0.githubusercontent.com/u/1068018?v=3&s=460",
+  "contribs": 203,
+  "orgs": [
+    {
+      "lxc-webpanel": "https://avatars2.githubusercontent.com/u/3912425?v=3&s=70"
+    }
+  ]
+}

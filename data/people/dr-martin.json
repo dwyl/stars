@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/dr-martin",
+  "img": "https://avatars0.githubusercontent.com/u/1063551?v=3&s=460",
+  "uid": 1063551,
+  "repos": 5,
+  "stars": 448,
+  "followers": 6,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/dr-martin/requirejs-3rdlib"
+    },
+    {
+      "url": "/dr-martin/dimensions"
+    },
+    {
+      "url": "/dr-martin/jquery-formchange"
+    },
+    {
+      "url": "/dr-martin/jquery-fancybox"
+    },
+    {
+      "url": "/dr-martin/keypad"
+    }
+  ],
+  "worksfor": "",
+  "location": "El Salvador",
+  "fullname": "Daniel Reyes",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1063551?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

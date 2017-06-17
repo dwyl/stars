@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/uber1geek",
+  "img": "https://avatars0.githubusercontent.com/u/8023116?v=3&s=460",
+  "uid": 8023116,
+  "repos": 22,
+  "stars": 47,
+  "followers": 7,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/uber1geek/PDF-Encrypt"
+    },
+    {
+      "url": "/uber1geek/.setup"
+    },
+    {
+      "url": "/uber1geek/Image-Search-Using-Clarifai"
+    },
+    {
+      "url": "/uber1geek/Image-Search-Using-Django-and-Clarifai-APi"
+    }
+  ],
+  "worksfor": "WebWeave",
+  "location": "Srinagar, Kashmir",
+  "fullname": "Zaid Hakak",
+  "website": "http://ubergeek.me",
+  "avatar": "https://avatars0.githubusercontent.com/u/8023116?v=3&s=460",
+  "contribs": 74,
+  "orgs": []
+}

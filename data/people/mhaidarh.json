@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/mhaidarh",
+  "img": "https://avatars0.githubusercontent.com/u/235584?v=3&s=460",
+  "uid": 235584,
+  "repos": 91,
+  "stars": 16300,
+  "followers": 200,
+  "following": 1100,
+  "pinned": [
+    {
+      "url": "/mhaidarh/dotfiles"
+    },
+    {
+      "url": "/mhaidarh/super-workshop-js"
+    },
+    {
+      "url": "/mhaidarh/talk-reactive"
+    },
+    {
+      "url": "/mhaidarh/stool"
+    },
+    {
+      "url": "/mhaidarh/super-rest-api-node"
+    },
+    {
+      "url": "/mhaidarh/super-mocha-demo"
+    }
+  ],
+  "worksfor": "@hazeorid",
+  "location": "Earth",
+  "fullname": "M Haidar Hanif",
+  "website": "https://mhaidarhanif.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/235584?v=3&s=460",
+  "contribs": 1780,
+  "orgs": [
+    {
+      "hazeorid": "https://avatars1.githubusercontent.com/u/1275662?v=3&s=70"
+    },
+    {
+      "satellid": "https://avatars3.githubusercontent.com/u/10796876?v=3&s=70"
+    },
+    {
+      "profezzi": "https://avatars0.githubusercontent.com/u/25471195?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

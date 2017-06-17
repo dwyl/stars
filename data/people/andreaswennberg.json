@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/andreaswennberg",
+  "img": "https://avatars2.githubusercontent.com/u/12210127?v=3&s=460",
+  "uid": 12210127,
+  "repos": 41,
+  "stars": 29,
+  "followers": 9,
+  "following": 25,
+  "pinned": [
+    {
+      "url": "/andreaswennberg/hackathon-starter"
+    },
+    {
+      "url": "/andreaswennberg/OnsenUI-router"
+    },
+    {
+      "url": "/andreaswennberg/socket.io"
+    },
+    {
+      "url": "/andreaswennberg/passport-local"
+    },
+    {
+      "url": "/andreaswennberg/SVG-Loaders"
+    },
+    {
+      "url": "/andreaswennberg/meteorhunt"
+    }
+  ],
+  "worksfor": "",
+  "location": "Uppsala, Sweden",
+  "fullname": "Andreas Wennberg",
+  "website": "http://www.400contacts.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/12210127?v=3&s=460",
+  "contribs": 29,
+  "orgs": []
+}

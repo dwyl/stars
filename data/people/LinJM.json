@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/LinJM",
+  "img": "https://avatars3.githubusercontent.com/u/5347113?v=3&s=460",
+  "uid": 5347113,
+  "repos": 93,
+  "stars": 136,
+  "followers": 13,
+  "following": 176,
+  "pinned": [
+    {
+      "url": "/LinJM/cnn-lstm-ctc"
+    },
+    {
+      "url": "/LinJM/object-detector"
+    },
+    {
+      "url": "/LinJM/bag-of-words"
+    },
+    {
+      "url": "/LinJM/Attention-OCR"
+    },
+    {
+      "url": "/LinJM/tensorflow_with_latest_papers"
+    },
+    {
+      "url": "/LinJM/CTPN"
+    }
+  ],
+  "worksfor": "CVTE Technology",
+  "location": "Guangzhou, China",
+  "fullname": "Lin JM",
+  "website": "http://blog.csdn.net/linj_m",
+  "avatar": "https://avatars3.githubusercontent.com/u/5347113?v=3&s=460",
+  "contribs": 114,
+  "orgs": []
+}

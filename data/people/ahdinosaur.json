@@ -1,0 +1,100 @@
+{
+  "url": "https://github.com/ahdinosaur",
+  "img": "https://avatars2.githubusercontent.com/u/719605?v=3&s=460",
+  "uid": 719605,
+  "repos": 489,
+  "stars": 3100,
+  "followers": 311,
+  "following": 352,
+  "pinned": [
+    {
+      "url": "/ahdinosaur/inu"
+    },
+    {
+      "url": "/ahdinosaur/vas"
+    },
+    {
+      "url": "/enspiral-root-systems/dogstack"
+    },
+    {
+      "url": "/ahdinosaur/mad-science-handbook"
+    },
+    {
+      "url": "/ssbc/ssb-handbook"
+    },
+    {
+      "url": "/valueflows/valueflows"
+    }
+  ],
+  "worksfor": "@enspiral-root-systems",
+  "location": "Wellington, New Zealand",
+  "fullname": "Mikey",
+  "website": "http://dinosaur.is",
+  "avatar": "https://avatars2.githubusercontent.com/u/719605?v=3&s=460",
+  "contribs": 2290,
+  "orgs": [
+    {
+      "enspiral": "https://avatars2.githubusercontent.com/u/24974?v=3&s=70"
+    },
+    {
+      "CalSEC": "https://avatars3.githubusercontent.com/u/1052413?v=3&s=70"
+    },
+    {
+      "bigcompany": "https://avatars1.githubusercontent.com/u/2150684?v=3&s=70"
+    },
+    {
+      "cloyne": "https://avatars1.githubusercontent.com/u/5109751?v=3&s=70"
+    },
+    {
+      "nodeschool": "https://avatars2.githubusercontent.com/u/5437587?v=3&s=70"
+    },
+    {
+      "ahdinosaur-os": "https://avatars1.githubusercontent.com/u/7098750?v=3&s=70"
+    },
+    {
+      "linxmix": "https://avatars1.githubusercontent.com/u/7464463?v=3&s=70"
+    },
+    {
+      "valueflows": "https://avatars1.githubusercontent.com/u/8381170?v=3&s=70"
+    },
+    {
+      "cobudget": "https://avatars1.githubusercontent.com/u/8426371?v=3&s=70"
+    },
+    {
+      "stackcss": "https://avatars1.githubusercontent.com/u/8941200?v=3&s=70"
+    },
+    {
+      "loopjs": "https://avatars1.githubusercontent.com/u/9923232?v=3&s=70"
+    },
+    {
+      "ssbc": "https://avatars1.githubusercontent.com/u/10190339?v=3&s=70"
+    },
+    {
+      "ioschool": "https://avatars0.githubusercontent.com/u/10876363?v=3&s=70"
+    },
+    {
+      "livejs": "https://avatars0.githubusercontent.com/u/12841747?v=3&s=70"
+    },
+    {
+      "micro-js": "https://avatars0.githubusercontent.com/u/15795772?v=3&s=70"
+    },
+    {
+      "enspiral-root-systems": "https://avatars1.githubusercontent.com/u/18340991?v=3&s=70"
+    },
+    {
+      "pull-stream": "https://avatars0.githubusercontent.com/u/19355812?v=3&s=70"
+    },
+    {
+      "audiojs": "https://avatars1.githubusercontent.com/u/19620050?v=3&s=70"
+    },
+    {
+      "depject": "https://avatars1.githubusercontent.com/u/25989573?v=3&s=70"
+    },
+    {
+      "colorjs": "https://avatars0.githubusercontent.com/u/26192701?v=3&s=70"
+    },
+    {
+      "dogstack": "https://avatars1.githubusercontent.com/u/26947042?v=3&s=70"
+    }
+  ]
+}

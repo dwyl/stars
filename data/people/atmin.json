@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/atmin",
+  "img": "https://avatars1.githubusercontent.com/u/714648?v=3&s=460",
+  "uid": 714648,
+  "repos": 26,
+  "stars": 1200,
+  "followers": 17,
+  "following": 12,
+  "pinned": [
+    {
+      "url": "/atmin/jtmpl"
+    },
+    {
+      "url": "/atmin/freak"
+    },
+    {
+      "url": "/atmin/funponent"
+    },
+    {
+      "url": "/atmin/jtmpl-core"
+    },
+    {
+      "url": "/atmin/SelectorListener"
+    },
+    {
+      "url": "/atmin/rethinkdb-jtmpl-demo"
+    }
+  ],
+  "worksfor": "",
+  "location": "Sofia",
+  "fullname": "Atanas Minev",
+  "website": "http://atmin.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/714648?v=3&s=460",
+  "contribs": 34,
+  "orgs": [
+    {
+      "luciddg": "https://avatars1.githubusercontent.com/u/7980346?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/pokk",
+  "img": "https://avatars2.githubusercontent.com/u/5198104?v=3&s=460",
+  "uid": 5198104,
+  "repos": 25,
+  "stars": 128,
+  "followers": 2,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/pokk/mvp-magazine"
+    },
+    {
+      "url": "/pokk/KotlinKnifer"
+    },
+    {
+      "url": "/pokk/algorithm"
+    },
+    {
+      "url": "/pokk/preference_set"
+    },
+    {
+      "url": "/pokk/rapid-mvp-base"
+    },
+    {
+      "url": "/pokk/Mailer"
+    }
+  ],
+  "worksfor": "@dev-cloverlab",
+  "location": "Osaka, Japan",
+  "fullname": "Jieyi",
+  "website": "https://linkedin.com/in/jieyi-wu-952451a4",
+  "avatar": "https://avatars2.githubusercontent.com/u/5198104?v=3&s=460",
+  "contribs": 1013,
+  "orgs": []
+}

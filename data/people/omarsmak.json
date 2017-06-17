@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/omarsmak",
+  "img": "https://avatars3.githubusercontent.com/u/1190920?v=3&s=460",
+  "uid": 1190920,
+  "repos": 21,
+  "stars": 115,
+  "followers": 13,
+  "following": 25,
+  "pinned": [
+    {
+      "url": "/omarsmak/debezium"
+    },
+    {
+      "url": "/omarsmak/cass-db"
+    },
+    {
+      "url": "/omarsmak/foxxsupertest"
+    },
+    {
+      "url": "/omarsmak/supertest"
+    },
+    {
+      "url": "/omarsmak/Linked-Data-Containers"
+    }
+  ],
+  "worksfor": "RWTH Aachen / @trivago",
+  "location": "Cologne, Germany",
+  "fullname": "Omar Al-Safi",
+  "website": "https://twitter.com/omarsmak",
+  "avatar": "https://avatars3.githubusercontent.com/u/1190920?v=3&s=460",
+  "contribs": 98,
+  "orgs": []
+}

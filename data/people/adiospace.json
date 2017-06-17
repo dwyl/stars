@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/adiospace",
+  "img": "https://avatars1.githubusercontent.com/u/31248?v=3&s=460",
+  "uid": 31248,
+  "repos": 51,
+  "stars": 384,
+  "followers": 27,
+  "following": 45,
+  "pinned": [
+    {
+      "url": "/adiospace/adio-theme"
+    },
+    {
+      "url": "/adiospace/vim-adio"
+    },
+    {
+      "url": "/adiospace/switcheroo"
+    },
+    {
+      "url": "/adiospace/generator-staticsite"
+    },
+    {
+      "url": "/adiospace/gibberish"
+    },
+    {
+      "url": "/adiospace/webpack-config"
+    }
+  ],
+  "worksfor": "",
+  "location": "Not Space",
+  "fullname": "Adrian Olaru",
+  "website": "http://adio.space",
+  "avatar": "https://avatars1.githubusercontent.com/u/31248?v=3&s=460",
+  "contribs": 18,
+  "orgs": []
+}

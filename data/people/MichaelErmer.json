@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/MichaelErmer",
+  "img": "https://avatars2.githubusercontent.com/u/628787?v=3&s=460",
+  "uid": 628787,
+  "repos": 41,
+  "stars": 293,
+  "followers": 13,
+  "following": 28,
+  "pinned": [
+    {
+      "url": "/MichaelErmer/feathers-populate-hook"
+    },
+    {
+      "url": "/MichaelErmer/docker-sentry"
+    },
+    {
+      "url": "/MichaelErmer/angular-seed"
+    },
+    {
+      "url": "/contactimpact/agg-client"
+    },
+    {
+      "url": "/contactimpact/agg-commands"
+    }
+  ],
+  "worksfor": "@contactimpact",
+  "location": "Regensburg/Berlin (Germany)",
+  "fullname": "Michael Ermer",
+  "website": "https://ermer.de",
+  "avatar": "https://avatars2.githubusercontent.com/u/628787?v=3&s=460",
+  "contribs": 1651,
+  "orgs": []
+}

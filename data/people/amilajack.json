@@ -1,0 +1,59 @@
+{
+  "url": "https://github.com/amilajack",
+  "img": "https://avatars2.githubusercontent.com/u/6374832?v=3&s=460",
+  "uid": 6374832,
+  "repos": 742,
+  "stars": 2600,
+  "followers": 133,
+  "following": 120,
+  "pinned": [
+    {
+      "url": "/amilajack/eslint-plugin-compat"
+    },
+    {
+      "url": "/amilajack/eslint-plugin-flowtype-errors"
+    },
+    {
+      "url": "/amilajack/popcorn-time-desktop"
+    },
+    {
+      "url": "/amilajack/js-algorithms"
+    },
+    {
+      "url": "/amilajack/compat-db"
+    },
+    {
+      "url": "/amilajack/babel-plugin-fail-explicit"
+    }
+  ],
+  "worksfor": "@uber",
+  "location": "Fremont, CA",
+  "fullname": "Amila Welihinda",
+  "website": "http://amilajack.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/6374832?v=3&s=460",
+  "contribs": 4537,
+  "orgs": [
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    },
+    {
+      "fertona": "https://avatars1.githubusercontent.com/u/13264242?v=3&s=70"
+    },
+    {
+      "butler-ide": "https://avatars1.githubusercontent.com/u/22136128?v=3&s=70"
+    },
+    {
+      "parallel-js": "https://avatars1.githubusercontent.com/u/22480602?v=3&s=70"
+    },
+    {
+      "react-boilerplate": "https://avatars1.githubusercontent.com/u/25323389?v=3&s=70"
+    },
+    {
+      "falcon-client": "https://avatars3.githubusercontent.com/u/26029618?v=3&s=70"
+    },
+    {
+      "electron-react-boilerplate": "https://avatars3.githubusercontent.com/u/28049053?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

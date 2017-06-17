@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/mechatroner",
+  "img": "https://avatars3.githubusercontent.com/u/5349737?v=3&s=460",
+  "uid": 5349737,
+  "repos": 4,
+  "stars": 2,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/mechatroner/rainbow_csv"
+    },
+    {
+      "url": "/mechatroner/aided_reading"
+    },
+    {
+      "url": "/mechatroner/minimal_gdb"
+    },
+    {
+      "url": "/mechatroner/gtk_gedit_rainbow_csv"
+    }
+  ],
+  "worksfor": "Medical Science and Computing",
+  "location": "",
+  "fullname": "Dmitry Ignatovich",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/5349737?v=3&s=460",
+  "contribs": 56,
+  "orgs": []
+}

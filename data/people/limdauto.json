@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/limdauto",
+  "img": "https://avatars2.githubusercontent.com/u/2032984?v=3&s=460",
+  "uid": 2032984,
+  "repos": 67,
+  "stars": 1400,
+  "followers": 38,
+  "following": 171,
+  "pinned": [
+    {
+      "url": "/gulpjs/gulp"
+    },
+    {
+      "url": "/mochajs/mocha"
+    },
+    {
+      "url": "/s3tools/s3cmd"
+    },
+    {
+      "url": "/burnash/gspread"
+    },
+    {
+      "url": "/elastic/elasticsearch-py"
+    },
+    {
+      "url": "/limdauto/pgcli"
+    }
+  ],
+  "worksfor": "Memrise",
+  "location": "London",
+  "fullname": "Lim H.",
+  "website": "http://limdauto.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/2032984?v=3&s=460",
+  "contribs": 49,
+  "orgs": []
+}

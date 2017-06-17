@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mjhea0",
+  "img": "https://avatars2.githubusercontent.com/u/2018167?v=3&s=460",
+  "uid": 2018167,
+  "repos": 696,
+  "stars": 3800,
+  "followers": 927,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/mjhea0/flaskr-tdd"
+    },
+    {
+      "url": "/mjhea0/flask-boilerplate"
+    },
+    {
+      "url": "/mjhea0/node-stripe-charge"
+    },
+    {
+      "url": "/mjhea0/python-ruby"
+    },
+    {
+      "url": "/mjhea0/passport-local-express4"
+    },
+    {
+      "url": "/mjhea0/sublime-setup-for-python"
+    }
+  ],
+  "worksfor": "Myself",
+  "location": "Boulder",
+  "fullname": "Michael Herman",
+  "website": "http://www.mherman.org/",
+  "avatar": "https://avatars2.githubusercontent.com/u/2018167?v=3&s=460",
+  "contribs": 2022,
+  "orgs": []
+}

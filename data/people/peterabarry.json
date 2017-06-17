@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/peterabarry",
+  "img": "https://avatars0.githubusercontent.com/u/963982?v=3&s=460",
+  "uid": 963982,
+  "repos": 6,
+  "stars": 29,
+  "followers": 4,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/peterabarry/serverless"
+    },
+    {
+      "url": "/peterabarry/clojureplay"
+    },
+    {
+      "url": "/peterabarry/peterabarry.github.com"
+    },
+    {
+      "url": "/peterabarry/nexus-deployer"
+    },
+    {
+      "url": "/peterabarry/nar-to-nexus"
+    },
+    {
+      "url": "/peterabarry/java-concurrency"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Peter Barry",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/963982?v=3&s=460",
+  "contribs": 403,
+  "orgs": []
+}

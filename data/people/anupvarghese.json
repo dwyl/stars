@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/anupvarghese",
+  "img": "https://avatars2.githubusercontent.com/u/4844577?v=3&s=460",
+  "uid": 4844577,
+  "repos": 88,
+  "stars": 628,
+  "followers": 6,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/CassetteRocks/react-infinite-scroller"
+    },
+    {
+      "url": "/cyrilthomas/node-delay-promise"
+    },
+    {
+      "url": "/AskNemo/dosto"
+    },
+    {
+      "url": "/ordermentum/steveo"
+    },
+    {
+      "url": "/anupvarghese/redux-notifications-middleware"
+    },
+    {
+      "url": "/danielmoi/react-select-multi"
+    }
+  ],
+  "worksfor": "@ordermentum",
+  "location": "Sydney, Australia",
+  "fullname": "Anoop Varghese",
+  "website": "https://anupvarghese.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/4844577?v=3&s=460",
+  "contribs": 2423,
+  "orgs": [],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/cloudboy",
+  "img": "https://avatars1.githubusercontent.com/u/4169799?v=3&s=460",
+  "uid": 4169799,
+  "repos": 8,
+  "stars": 258,
+  "followers": 2,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/cloudboy/java"
+    },
+    {
+      "url": "/cloudboy/mod_cluster"
+    },
+    {
+      "url": "/cloudboy/bootstrap-window"
+    },
+    {
+      "url": "/cloudboy/git-demo"
+    },
+    {
+      "url": "/cloudboy/remote-git-demo"
+    },
+    {
+      "url": "/cloudboy/docker-workshop"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "kyle",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/4169799?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

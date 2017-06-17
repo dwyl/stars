@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/phillipchan2",
+  "img": "https://avatars1.githubusercontent.com/u/16655109?v=3&s=460",
+  "uid": 16655109,
+  "repos": 32,
+  "stars": 6,
+  "followers": 3,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/phillipchan2/process-and-test"
+    },
+    {
+      "url": "/phillipchan2/lrdcom-guide"
+    },
+    {
+      "url": "/phillipchan2/liferay-bathroom-jamz"
+    },
+    {
+      "url": "/phillipchan2/check-source-formatting"
+    },
+    {
+      "url": "/phillipchan2/lrdcom-recipes"
+    },
+    {
+      "url": "/phillipchan2/gulp-app-boilerplate"
+    }
+  ],
+  "worksfor": "@liferay",
+  "location": "",
+  "fullname": "Phillip Chan",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/16655109?v=3&s=460",
+  "contribs": 580,
+  "orgs": []
+}

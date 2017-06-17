@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/vktec",
+  "img": "https://avatars2.githubusercontent.com/u/14016168?v=3&s=460",
+  "uid": 14016168,
+  "repos": 18,
+  "stars": 171,
+  "followers": 8,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/vktec/tinycalc"
+    },
+    {
+      "url": "/v-irc/site"
+    },
+    {
+      "url": "/vktec/njsm"
+    },
+    {
+      "url": "/vktec/vsg"
+    }
+  ],
+  "worksfor": "",
+  "location": "Mars, solar system, milky way",
+  "fullname": "Samadi van Koten",
+  "website": "http://vktec.co.uk",
+  "avatar": "https://avatars2.githubusercontent.com/u/14016168?v=3&s=460",
+  "contribs": 271,
+  "orgs": [
+    {
+      "torbaytechjam": "https://avatars0.githubusercontent.com/u/11709813?v=3&s=70"
+    },
+    {
+      "v-irc": "https://avatars0.githubusercontent.com/u/19980483?v=3&s=70"
+    }
+  ]
+}

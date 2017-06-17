@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/SwathiMystery",
+  "img": "https://avatars0.githubusercontent.com/u/1615134?v=3&s=460",
+  "uid": 1615134,
+  "repos": 107,
+  "stars": 1200,
+  "followers": 33,
+  "following": 207,
+  "pinned": [
+    {
+      "url": "/SwathiMystery/mesos-pinspider"
+    },
+    {
+      "url": "/SwathiMystery/deploy_shard_mongodb"
+    },
+    {
+      "url": "/hortonworks/dstream"
+    },
+    {
+      "url": "/SwathiMystery/phabricator"
+    },
+    {
+      "url": "/SwathiMystery/deploy_webapp_tomcat"
+    },
+    {
+      "url": "/SwathiMystery/jekyll-tag-gen"
+    }
+  ],
+  "worksfor": "Reunify",
+  "location": "Bangalore, Los Angeles",
+  "fullname": "Swathi Venkatachala (idevnull)",
+  "website": "http://femgeekz.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/1615134?v=3&s=460",
+  "contribs": 118,
+  "orgs": []
+}

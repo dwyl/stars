@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/glennschler",
+  "img": "https://avatars2.githubusercontent.com/u/196729?v=3&s=460",
+  "uid": 196729,
+  "repos": 13,
+  "stars": 548,
+  "followers": 3,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/glennschler/docker-debugnode"
+    },
+    {
+      "url": "/glennschler/spotspec-wt"
+    },
+    {
+      "url": "/glennschler/spotspec"
+    },
+    {
+      "url": "/glennschler/oats-linux-ec2"
+    },
+    {
+      "url": "/glennschler/node-ec2"
+    },
+    {
+      "url": "/glennschler/dillinger"
+    }
+  ],
+  "worksfor": "",
+  "location": "Argentina <-> Vermont",
+  "fullname": "Glenn Schlereth",
+  "website": "https://twitter.com/glennms",
+  "avatar": "https://avatars2.githubusercontent.com/u/196729?v=3&s=460",
+  "contribs": 49,
+  "orgs": []
+}

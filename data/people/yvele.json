@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/yvele",
+  "img": "https://avatars3.githubusercontent.com/u/4225430?v=3&s=460",
+  "uid": 4225430,
+  "repos": 8,
+  "stars": 874,
+  "followers": 18,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/yvele/azure-function-express"
+    },
+    {
+      "url": "/yvele/poosh"
+    },
+    {
+      "url": "/eawsy/aws-lambda-go"
+    }
+  ],
+  "worksfor": "@hapticmedia",
+  "location": "Strasbourg, France",
+  "fullname": "Yves M.",
+  "website": "https://hapticmedia.fr",
+  "avatar": "https://avatars3.githubusercontent.com/u/4225430?v=3&s=460",
+  "contribs": 2343,
+  "orgs": [
+    {
+      "hapticmedia": "https://avatars3.githubusercontent.com/u/20283049?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jonascheng",
+  "img": "https://avatars2.githubusercontent.com/u/13446971?v=3&s=460",
+  "uid": 13446971,
+  "repos": 22,
+  "stars": 105,
+  "followers": 7,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/jonascheng/serverless-architecture-with-aws"
+    },
+    {
+      "url": "/jonascheng/docker-vernemq"
+    },
+    {
+      "url": "/jonascheng/TheCucumberBook"
+    },
+    {
+      "url": "/jonascheng/AwsElbLogAnalyer"
+    },
+    {
+      "url": "/jonascheng/cpp11-exponential-backoff"
+    },
+    {
+      "url": "/jonascheng/jenkins-blinkstick"
+    }
+  ],
+  "worksfor": "Trend Micro",
+  "location": "Taipei",
+  "fullname": "Jonas Cheng",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/13446971?v=3&s=460",
+  "contribs": 198,
+  "orgs": [
+    {
+      "trendmicro": "https://avatars1.githubusercontent.com/u/427106?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/rjsteinert",
+  "img": "https://avatars2.githubusercontent.com/u/156575?v=3&s=460",
+  "uid": 156575,
+  "repos": 153,
+  "stars": 514,
+  "followers": 54,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/rjsteinert/end-callback-hell-using-async-and-await"
+    },
+    {
+      "url": "/rjsteinert/ng-json-form"
+    }
+  ],
+  "worksfor": "Research Triangle Institute International",
+  "location": "Burlington, VT",
+  "fullname": "R.J. Steinert",
+  "website": "http://rjsteinert.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/156575?v=3&s=460",
+  "contribs": 1228,
+  "orgs": [
+    {
+      "open-learning-exchange": "https://avatars3.githubusercontent.com/u/2736354?v=3&s=70"
+    },
+    {
+      "FarmHack": "https://avatars2.githubusercontent.com/u/4021020?v=3&s=70"
+    },
+    {
+      "publiclab": "https://avatars3.githubusercontent.com/u/4621650?v=3&s=70"
+    },
+    {
+      "openpipekit": "https://avatars0.githubusercontent.com/u/11580764?v=3&s=70"
+    }
+  ]
+}

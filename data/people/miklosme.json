@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/miklosme",
+  "img": "https://avatars1.githubusercontent.com/u/8769273?v=3&s=460",
+  "uid": 8769273,
+  "repos": 39,
+  "stars": 464,
+  "followers": 14,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/miklosme/Calendar"
+    },
+    {
+      "url": "/miklosme/Chess"
+    },
+    {
+      "url": "/miklosme/media-list-application"
+    },
+    {
+      "url": "/miklosme/subtitler-cli"
+    },
+    {
+      "url": "/miklosme/gl-react-color-blending"
+    },
+    {
+      "url": "/miklosme/ingatlan"
+    }
+  ],
+  "worksfor": "@EclecticIQ",
+  "location": "Amsterdam, Netherlands",
+  "fullname": "Miklos Megyes",
+  "website": "https://twitter.com/miklos_me",
+  "avatar": "https://avatars1.githubusercontent.com/u/8769273?v=3&s=460",
+  "contribs": 591,
+  "orgs": [
+    {
+      "EclecticIQ": "https://avatars0.githubusercontent.com/u/8667254?v=3&s=70"
+    }
+  ]
+}

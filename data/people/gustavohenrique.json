@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/gustavohenrique",
+  "img": "https://avatars2.githubusercontent.com/u/51675?v=3&s=460",
+  "uid": 51675,
+  "repos": 80,
+  "stars": 1200,
+  "followers": 73,
+  "following": 79,
+  "pinned": [
+    {
+      "url": "/gustavohenrique/gulp-angular-semantic-ui"
+    },
+    {
+      "url": "/gustavohenrique/gh1"
+    },
+    {
+      "url": "/gustavohenrique/django-cash"
+    },
+    {
+      "url": "/gustavohenrique/tipsforlinux"
+    },
+    {
+      "url": "/gustavohenrique/wms"
+    },
+    {
+      "url": "/gustavohenrique/django-crud-ajax-demo"
+    }
+  ],
+  "worksfor": "GustavoHenrique.net",
+  "location": "São Paulo, SP, Brazil",
+  "fullname": "Gustavo Henrique",
+  "website": "http://about.me/gustavohenrique",
+  "avatar": "https://avatars2.githubusercontent.com/u/51675?v=3&s=460",
+  "contribs": 96,
+  "orgs": [
+    {
+      "wdev": "https://avatars1.githubusercontent.com/u/684022?v=3&s=70"
+    },
+    {
+      "ideais": "https://avatars3.githubusercontent.com/u/725221?v=3&s=70"
+    }
+  ]
+}

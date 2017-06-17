@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/edmondcang",
+  "img": "https://avatars2.githubusercontent.com/u/15867625?v=3&s=460",
+  "uid": 15867625,
+  "repos": 24,
+  "stars": 100,
+  "followers": 1,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/edmondcang/vimrc"
+    },
+    {
+      "url": "/edmondcang/conkyrc"
+    },
+    {
+      "url": "/edmondcang/common_substrings"
+    },
+    {
+      "url": "/edmondcang/express-socket-io-server"
+    },
+    {
+      "url": "/edmondcang/javascript-tools"
+    },
+    {
+      "url": "/edmondcang/csv2sql.js"
+    }
+  ],
+  "worksfor": "http://www.shoppinggai.com",
+  "location": "Hong Kong",
+  "fullname": "Edmond Cheng",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/15867625?v=3&s=460",
+  "contribs": 127,
+  "orgs": [
+    {
+      "Glacemont": "https://avatars0.githubusercontent.com/u/15867638?v=3&s=70"
+    }
+  ]
+}

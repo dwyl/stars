@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/nschlemm",
+  "img": "https://avatars0.githubusercontent.com/u/948118?v=3&s=460",
+  "uid": 948118,
+  "repos": 25,
+  "stars": 6200,
+  "followers": 31,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/nschlemm/django-rest-framework"
+    },
+    {
+      "url": "/nschlemm/django-fluent-blogs"
+    },
+    {
+      "url": "/nschlemm/django-voice"
+    },
+    {
+      "url": "/nschlemm/django-select2"
+    },
+    {
+      "url": "/nschlemm/vagrant-centos"
+    },
+    {
+      "url": "/nschlemm/drf-nested-routers"
+    }
+  ],
+  "worksfor": "coder nostra GmbH",
+  "location": "Hamburg",
+  "fullname": "Nikolaus Schlemm",
+  "website": "http://coder-nostra.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/948118?v=3&s=460",
+  "contribs": 21,
+  "orgs": []
+}

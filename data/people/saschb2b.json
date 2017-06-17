@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/saschb2b",
+  "img": "https://avatars2.githubusercontent.com/u/2778161?v=3&s=460",
+  "uid": 2778161,
+  "repos": 11,
+  "stars": 206,
+  "followers": 11,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/TeamWertarbyte/material-auto-rotating-carousel"
+    },
+    {
+      "url": "/TeamWertarbyte/material-ui-rating"
+    },
+    {
+      "url": "/TeamWertarbyte/material-ui-image"
+    },
+    {
+      "url": "/TeamWertarbyte/material-ui-settings-panel"
+    },
+    {
+      "url": "/saschb2b/meteor-mantra-react-redux-kickstarter"
+    }
+  ],
+  "worksfor": "@TeamWertarbyte",
+  "location": "Germany",
+  "fullname": "Sascha Becker",
+  "website": "http://www.wertarbyte.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/2778161?v=3&s=460",
+  "contribs": 480,
+  "orgs": [
+    {
+      "TeamWertarbyte": "https://avatars1.githubusercontent.com/u/18644962?v=3&s=70"
+    }
+  ]
+}

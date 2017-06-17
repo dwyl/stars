@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/basejump",
+  "img": "https://avatars2.githubusercontent.com/u/187726?v=3&s=460",
+  "uid": 187726,
+  "repos": 66,
+  "stars": 78,
+  "followers": 12,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/basejump/grails-executor"
+    },
+    {
+      "url": "/basejump/markdown-plus"
+    },
+    {
+      "url": "/basejump/grails-gpars-batch-load-benchmark"
+    },
+    {
+      "url": "/basejump/tlc"
+    },
+    {
+      "url": "/basejump/jquery-ui-bootstrap"
+    },
+    {
+      "url": "/basejump/grails-spring-events"
+    }
+  ],
+  "worksfor": "@9ci",
+  "location": "Chicago",
+  "fullname": "Joshua B",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/187726?v=3&s=460",
+  "contribs": 307,
+  "orgs": [
+    {
+      "grails-plugins": "https://avatars0.githubusercontent.com/u/72412?v=3&s=70"
+    },
+    {
+      "multi-tenant": "https://avatars1.githubusercontent.com/u/416994?v=3&s=70"
+    },
+    {
+      "9ci": "https://avatars1.githubusercontent.com/u/871532?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/HyperSprite",
+  "img": "https://avatars0.githubusercontent.com/u/9909591?v=3&s=460",
+  "uid": 9909591,
+  "repos": 38,
+  "stars": 49,
+  "followers": 5,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/HyperSprite/dcit"
+    },
+    {
+      "url": "/HyperSprite/redux-todo-with-auth"
+    },
+    {
+      "url": "/HyperSprite/r3bl-base"
+    },
+    {
+      "url": "/HyperSprite/hypersprite.github.io"
+    },
+    {
+      "url": "/HyperSprite/dcit-test-data"
+    }
+  ],
+  "worksfor": "",
+  "location": "SF Bay Area",
+  "fullname": "Christopher Dunavan",
+  "website": "http://portfolio.hypersprite.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/9909591?v=3&s=460",
+  "contribs": 456,
+  "orgs": []
+}

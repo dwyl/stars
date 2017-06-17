@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Gaduo",
+  "img": "https://avatars1.githubusercontent.com/u/5178062?v=3&s=460",
+  "uid": 5178062,
+  "repos": 48,
+  "stars": 161,
+  "followers": 12,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/Gaduo/IHE-Technical-Frameworks.tcumi"
+    },
+    {
+      "url": "/Gaduo/FHIR-tcumi"
+    },
+    {
+      "url": "/Gaduo/biom3lab"
+    },
+    {
+      "url": "/Gaduo/spring-petclinic-example"
+    },
+    {
+      "url": "/Gaduo/gaduo.github.io"
+    },
+    {
+      "url": "/Gaduo/FHIR-book"
+    }
+  ],
+  "worksfor": "@TCU-MI",
+  "location": "",
+  "fullname": "Yu Wei Chien",
+  "website": "http://gaduo-chien-blog.logdown.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/5178062?v=3&s=460",
+  "contribs": 215,
+  "orgs": []
+}

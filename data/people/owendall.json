@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/owendall",
+  "img": "https://avatars3.githubusercontent.com/u/10927?v=3&s=460",
+  "uid": 10927,
+  "repos": 43,
+  "stars": 239,
+  "followers": 20,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/owendall/Agility"
+    },
+    {
+      "url": "/owendall/hobo-gradient-demo"
+    },
+    {
+      "url": "/owendall/hobo"
+    },
+    {
+      "url": "/owendall/Recipes"
+    },
+    {
+      "url": "/owendall/node-neo4j"
+    },
+    {
+      "url": "/owendall/d3"
+    }
+  ],
+  "worksfor": "Agile Innovations, LLC",
+  "location": "USA",
+  "fullname": "Owen Dall",
+  "website": "http://agile-innovations.net",
+  "avatar": "https://avatars3.githubusercontent.com/u/10927?v=3&s=460",
+  "contribs": 964,
+  "orgs": [
+    {
+      "Hobo": "https://avatars3.githubusercontent.com/u/320964?v=3&s=70"
+    },
+    {
+      "BI": "https://avatars2.githubusercontent.com/u/339060?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/dmjio",
+  "img": "https://avatars3.githubusercontent.com/u/875324?v=3&s=460",
+  "uid": 875324,
+  "repos": 201,
+  "stars": 1900,
+  "followers": 123,
+  "following": 350,
+  "pinned": [
+    {
+      "url": "/dmjio/stripe"
+    },
+    {
+      "url": "/haskell-servant/servant-swagger"
+    },
+    {
+      "url": "/dmjio/envy"
+    },
+    {
+      "url": "/dmjio/google-translate"
+    },
+    {
+      "url": "/dmjio/hackernews"
+    },
+    {
+      "url": "/dmjio/s3-signer"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "David Johnson",
+  "website": "http://dmj.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/875324?v=3&s=460",
+  "contribs": 735,
+  "orgs": [
+    {
+      "faylang": "https://avatars0.githubusercontent.com/u/2131569?v=3&s=70"
+    },
+    {
+      "acid-state": "https://avatars0.githubusercontent.com/u/4883641?v=3&s=70"
+    },
+    {
+      "scotty-web": "https://avatars1.githubusercontent.com/u/6120097?v=3&s=70"
+    },
+    {
+      "haskell-servant": "https://avatars0.githubusercontent.com/u/10049283?v=3&s=70"
+    },
+    {
+      "ChicagoHaskell": "https://avatars1.githubusercontent.com/u/10944889?v=3&s=70"
+    },
+    {
+      "Despair": "https://avatars2.githubusercontent.com/u/20124192?v=3&s=70"
+    }
+  ]
+}

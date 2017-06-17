@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/aredo",
+  "img": "https://avatars2.githubusercontent.com/u/201664?v=3&s=460",
+  "uid": 201664,
+  "repos": 342,
+  "stars": 3000,
+  "followers": 133,
+  "following": 358,
+  "pinned": [
+    {
+      "url": "/aredo/express4-bootstrap-starter"
+    },
+    {
+      "url": "/aredo/porn-site-list"
+    },
+    {
+      "url": "/aredo/express-enforces-ssl"
+    },
+    {
+      "url": "/aredo/simple-server-geoip"
+    },
+    {
+      "url": "/aredo/restcountries"
+    },
+    {
+      "url": "/aredo/mongokoo"
+    }
+  ],
+  "worksfor": "@urbanhire",
+  "location": "Jakarta, Indonesia",
+  "fullname": "Hengki Sihombing",
+  "website": "http://urbanhire.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/201664?v=3&s=460",
+  "contribs": 2780,
+  "orgs": [
+    {
+      "nodeschool": "https://avatars2.githubusercontent.com/u/5437587?v=3&s=70"
+    },
+    {
+      "jakartajs": "https://avatars0.githubusercontent.com/u/5997574?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "urbanhire": "https://avatars1.githubusercontent.com/u/16681572?v=3&s=70"
+    }
+  ]
+}

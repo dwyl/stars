@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/nguerrier",
+  "img": "https://avatars0.githubusercontent.com/u/1872544?v=3&s=460",
+  "uid": 1872544,
+  "repos": 3,
+  "stars": 22,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/nguerrier/jekyll"
+    },
+    {
+      "url": "/nguerrier/recurly-java-library"
+    },
+    {
+      "url": "/nguerrier/marsjug.github.com"
+    }
+  ],
+  "worksfor": "Prediseo",
+  "location": "Marseille",
+  "fullname": "Nicolas GUERRIER",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1872544?v=3&s=460",
+  "contribs": 0,
+  "orgs": [
+    {
+      "prediseo": "https://avatars0.githubusercontent.com/u/1872172?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/thebinarypenguin",
+  "img": "https://avatars0.githubusercontent.com/u/672812?v=3&s=460",
+  "uid": 672812,
+  "repos": 36,
+  "stars": 239,
+  "followers": 9,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/thebinarypenguin/socket.io-chess"
+    },
+    {
+      "url": "/thebinarypenguin/raml-cop"
+    },
+    {
+      "url": "/thebinarypenguin/droll"
+    },
+    {
+      "url": "/thebinarypenguin/raml-example"
+    },
+    {
+      "url": "/thebinarypenguin/guaw"
+    },
+    {
+      "url": "/thebinarypenguin/hapi-redis-sessions-example"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Ethan Zimmerman",
+  "website": "http://thebinarypenguin.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/672812?v=3&s=460",
+  "contribs": 202,
+  "orgs": []
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/abhisekp",
+  "img": "https://avatars0.githubusercontent.com/u/1029200?v=3&s=460",
+  "uid": 1029200,
+  "repos": 76,
+  "stars": 181,
+  "followers": 228,
+  "following": 62,
+  "pinned": [
+    {
+      "url": "/abhisekp/cyclic-next"
+    },
+    {
+      "url": "/abhisekp/rate-limiter-api"
+    },
+    {
+      "url": "/abhisekp/gitter-archive-cli"
+    },
+    {
+      "url": "/abhisekp/Practice-Modern-JavaScript"
+    },
+    {
+      "url": "/abhisekp/FCC-Project-TicTacToe"
+    },
+    {
+      "url": "/abhisekp/BeatBox"
+    }
+  ],
+  "worksfor": "@freeCodeCamp",
+  "location": "India",
+  "fullname": "Abhisek Pattnaik",
+  "website": "http://about.me/abhisekp",
+  "avatar": "https://avatars0.githubusercontent.com/u/1029200?v=3&s=460",
+  "contribs": 336,
+  "orgs": [
+    {
+      "coderwall-charity": "https://avatars2.githubusercontent.com/u/3080009?v=3&s=70"
+    },
+    {
+      "freeCodeCamp": "https://avatars2.githubusercontent.com/u/9892522?v=3&s=70"
+    },
+    {
+      "stampit-org": "https://avatars3.githubusercontent.com/u/12635305?v=3&s=70"
+    },
+    {
+      "ODevLord": "https://avatars3.githubusercontent.com/u/13349098?v=3&s=70"
+    },
+    {
+      "CamperBotX": "https://avatars0.githubusercontent.com/u/13856013?v=3&s=70"
+    }
+  ]
+}

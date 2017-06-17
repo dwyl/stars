@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/MarcLoupias",
+  "img": "https://avatars1.githubusercontent.com/u/5159723?v=3&s=460",
+  "uid": 5159723,
+  "repos": 11,
+  "stars": 63,
+  "followers": 8,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/johnpapa/angular-styleguide"
+    },
+    {
+      "url": "/MarcLoupias/poc-play-rest-backend"
+    },
+    {
+      "url": "/MarcLoupias/poc-angular-frontend"
+    },
+    {
+      "url": "/MarcLoupias/my-cv"
+    },
+    {
+      "url": "/MarcLoupias/memo-dev"
+    }
+  ],
+  "worksfor": "Freelance",
+  "location": "Paris, France",
+  "fullname": "marlou",
+  "website": "http://cv.marc-loupias.fr",
+  "avatar": "https://avatars1.githubusercontent.com/u/5159723?v=3&s=460",
+  "contribs": 441,
+  "orgs": []
+}

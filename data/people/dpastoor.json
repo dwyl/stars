@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/dpastoor",
+  "img": "https://avatars1.githubusercontent.com/u/3196313?v=3&s=460",
+  "uid": 3196313,
+  "repos": 285,
+  "stars": 2100,
+  "followers": 65,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/dpastoor/awesome-shiny"
+    },
+    {
+      "url": "/dpastoor/PKPDmisc"
+    },
+    {
+      "url": "/dpastoor/lpgitbook"
+    },
+    {
+      "url": "/dpastoor/nonmemutils"
+    },
+    {
+      "url": "/dpastoor/r-pharmacometrics"
+    },
+    {
+      "url": "/dpastoor/satchel"
+    }
+  ],
+  "worksfor": "University of Maryland Center for Translational Medicine",
+  "location": "Baltimore, MD",
+  "fullname": "Devin Pastoor",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/3196313?v=3&s=460",
+  "contribs": 2774,
+  "orgs": [
+    {
+      "hackreactor": "https://avatars1.githubusercontent.com/u/2824164?v=3&s=70"
+    },
+    {
+      "UMCTM": "https://avatars1.githubusercontent.com/u/6933513?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

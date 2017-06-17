@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/georapbox",
+  "img": "https://avatars3.githubusercontent.com/u/6596039?v=3&s=460",
+  "uid": 6596039,
+  "repos": 85,
+  "stars": 623,
+  "followers": 34,
+  "following": 54,
+  "pinned": [
+    {
+      "url": "/georapbox/angular-PubSub"
+    },
+    {
+      "url": "/georapbox/brackets-JSLint-Configurator"
+    },
+    {
+      "url": "/georapbox/brackets-angular-snippets"
+    },
+    {
+      "url": "/georapbox/brackets-notes"
+    },
+    {
+      "url": "/georapbox/brackets-jade-snippets"
+    },
+    {
+      "url": "/georapbox/jsEssentials"
+    }
+  ],
+  "worksfor": "@customedialabs",
+  "location": "Greece",
+  "fullname": "George Raptis",
+  "website": "https://georapbox.github.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/6596039?v=3&s=460",
+  "contribs": 735,
+  "orgs": [
+    {
+      "customedialabs": "https://avatars3.githubusercontent.com/u/6001892?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/vmlinz",
+  "img": "https://avatars3.githubusercontent.com/u/68061?v=3&s=460",
+  "uid": 68061,
+  "repos": 311,
+  "stars": 8100,
+  "followers": 62,
+  "following": 627,
+  "pinned": [
+    {
+      "url": "/vmlinz/strongswan-android"
+    },
+    {
+      "url": "/vmlinz/cordova-plugin-weixin"
+    },
+    {
+      "url": "/vmlinz/cordova-plugin-alipay"
+    },
+    {
+      "url": "/vmlinz/docker-android-dev"
+    },
+    {
+      "url": "/vmlinz/shadowsocks-docker"
+    },
+    {
+      "url": "/vmlinz/my_emacs_conf"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Zaicheng Qi",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/68061?v=3&s=460",
+  "contribs": 217,
+  "orgs": []
+}

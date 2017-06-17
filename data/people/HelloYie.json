@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/HelloYie",
+  "img": "https://avatars0.githubusercontent.com/u/5723225?v=3&s=460",
+  "uid": 5723225,
+  "repos": 8,
+  "stars": 604,
+  "followers": 30,
+  "following": 60,
+  "pinned": [
+    {
+      "url": "/HelloYie/redux-rest-middleware"
+    },
+    {
+      "url": "/HelloYie/HelloYie.github.io"
+    },
+    {
+      "url": "/HelloYie/fe-guide"
+    },
+    {
+      "url": "/HelloYie/phaser-tank"
+    },
+    {
+      "url": "/HelloYie/we-app"
+    },
+    {
+      "url": "/HelloYie/moment"
+    }
+  ],
+  "worksfor": "Knownsec",
+  "location": "",
+  "fullname": "熊艺杰",
+  "website": "http://helloyie.github.io/",
+  "avatar": "https://avatars0.githubusercontent.com/u/5723225?v=3&s=460",
+  "contribs": 197,
+  "orgs": []
+}

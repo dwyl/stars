@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/nhsz",
+  "img": "https://avatars1.githubusercontent.com/u/948922?v=3&s=460",
+  "uid": 948922,
+  "repos": 58,
+  "stars": 154,
+  "followers": 27,
+  "following": 68,
+  "pinned": [
+    {
+      "url": "/nhsz/nhsz.github.io"
+    },
+    {
+      "url": "/nhsz/node-lightning-talk"
+    },
+    {
+      "url": "/nhsz/bitrate"
+    },
+    {
+      "url": "/nhsz/dolar-oficial"
+    },
+    {
+      "url": "/FreeCodeCampBA/wikibot"
+    },
+    {
+      "url": "/nhsz/github-project-finder"
+    }
+  ],
+  "worksfor": "@FreeCodeCampBA",
+  "location": "Buenos Aires, Argentina",
+  "fullname": "Nicolás Quiroz",
+  "website": "https://nicolasquiroz.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/948922?v=3&s=460",
+  "contribs": 1280,
+  "orgs": [
+    {
+      "FreeCodeCampBA": "https://avatars1.githubusercontent.com/u/20493435?v=3&s=70"
+    }
+  ]
+}

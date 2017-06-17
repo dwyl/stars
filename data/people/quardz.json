@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/quardz",
+  "img": "https://avatars2.githubusercontent.com/u/1425527?v=3&s=460",
+  "uid": 1425527,
+  "repos": 4,
+  "stars": 312,
+  "followers": 4,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/quardz/s3"
+    },
+    {
+      "url": "/quardz/mix_form"
+    },
+    {
+      "url": "/quardz/aws-lambda-tutorials"
+    },
+    {
+      "url": "/quardz/teach-git-to-vivek"
+    }
+  ],
+  "worksfor": "cmsbots.com",
+  "location": "Bangalore India",
+  "fullname": "Adal",
+  "website": "http://www.cmsbots.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1425527?v=3&s=460",
+  "contribs": 5,
+  "orgs": []
+}

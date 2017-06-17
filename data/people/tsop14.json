@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/tsop14",
+  "img": "https://avatars3.githubusercontent.com/u/8484757?v=3&s=460",
+  "uid": 8484757,
+  "repos": 8,
+  "stars": 8,
+  "followers": 19,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/tsop14/hapi-socketio-redis-chat-example"
+    },
+    {
+      "url": "/tsop14/book"
+    },
+    {
+      "url": "/tsop14/hapijs.com"
+    },
+    {
+      "url": "/tsop14/angular-leaflet-directive"
+    },
+    {
+      "url": "/tsop14/learn-git-basics"
+    },
+    {
+      "url": "/tsop14/registry"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "Emma Milner",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/8484757?v=3&s=460",
+  "contribs": 270,
+  "orgs": [
+    {
+      "guardian": "https://avatars3.githubusercontent.com/u/164318?v=3&s=70"
+    }
+  ]
+}

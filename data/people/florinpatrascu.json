@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/florinpatrascu",
+  "img": "https://avatars3.githubusercontent.com/u/76138?v=3&s=460",
+  "uid": 76138,
+  "repos": 46,
+  "stars": 69,
+  "followers": 22,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/florinpatrascu/bolt_sips"
+    },
+    {
+      "url": "/florinpatrascu/neo4j_sips"
+    },
+    {
+      "url": "/florinpatrascu/bolt_movies_elixir_phoenix"
+    },
+    {
+      "url": "/florinpatrascu/movies_elixir_phoenix"
+    },
+    {
+      "url": "/florinpatrascu/micro"
+    },
+    {
+      "url": "/florinpatrascu/jpublish"
+    }
+  ],
+  "worksfor": "",
+  "location": "Toronto, CANADA",
+  "fullname": "Florin",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/76138?v=3&s=460",
+  "contribs": 199,
+  "orgs": [
+    {
+      "neo4j-examples": "https://avatars3.githubusercontent.com/u/218965?v=3&s=70"
+    },
+    {
+      "objcio": "https://avatars0.githubusercontent.com/u/4409139?v=3&s=70"
+    },
+    {
+      "automation-wizards": "https://avatars0.githubusercontent.com/u/19539315?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/ChuyuHsu",
+  "img": "https://avatars2.githubusercontent.com/u/1912315?v=3&s=460",
+  "uid": 1912315,
+  "repos": 47,
+  "stars": 225,
+  "followers": 9,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/instabot-py/instabot.py"
+    },
+    {
+      "url": "/EntilZha/PyFunctional"
+    },
+    {
+      "url": "/Hediby/fastsent_theano"
+    },
+    {
+      "url": "/zhangzibin/deep-skip-thoughts"
+    },
+    {
+      "url": "/ChuyuHsu/scala-genetic-algorithm"
+    }
+  ],
+  "worksfor": "National Taiwan University",
+  "location": "台灣",
+  "fullname": "Chu-Yu Hsu",
+  "website": "https://www.linkedin.com/profile/view?id=181732295",
+  "avatar": "https://avatars2.githubusercontent.com/u/1912315?v=3&s=460",
+  "contribs": 11,
+  "orgs": []
+}

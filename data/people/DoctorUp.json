@@ -1,0 +1,27 @@
+{
+  "entries": [
+    {
+      "name": "mean",
+      "desc": "Our Node.js and MongoDB",
+      "updated": "2016-06-28T17:52:30Z",
+      "lang": "JavaScript"
+    },
+    {
+      "name": "Alamofire",
+      "desc": "Elegant HTTP Networking in Swift",
+      "updated": "2016-06-16T21:18:39Z",
+      "lang": "Swift"
+    },
+    {
+      "name": "ABFRealmSearchViewController",
+      "desc": "Drop-in text search interface for an RLMObject subclass.",
+      "updated": "2016-01-16T05:31:32Z",
+      "lang": "Objective-C"
+    }
+  ],
+  "url": "https://github.com/DoctorUp",
+  "name": "DoctorUp",
+  "desc": "",
+  "pcount": 0,
+  "avatar": "https://avatars1.githubusercontent.com/u/10675732?v=3&s=200"
+}

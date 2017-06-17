@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/jschr",
+  "img": "https://avatars0.githubusercontent.com/u/1163252?v=3&s=460",
+  "uid": 1163252,
+  "repos": 57,
+  "stars": 552,
+  "followers": 143,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/jschr/bootstrap-modal"
+    },
+    {
+      "url": "/jschr/jschr.io"
+    },
+    {
+      "url": "/jschr/textillate"
+    },
+    {
+      "url": "/jschr/theme-provider"
+    },
+    {
+      "url": "/jschr/electron-react-redux-boilerplate"
+    },
+    {
+      "url": "/jschr/form-provider"
+    }
+  ],
+  "worksfor": "@spin-io",
+  "location": "Waterloo, Ontario",
+  "fullname": "Jordan Schroter",
+  "website": "http://jschr.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/1163252?v=3&s=460",
+  "contribs": 2214,
+  "orgs": [
+    {
+      "spin-io": "https://avatars0.githubusercontent.com/u/4294703?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/antony",
+  "img": "https://avatars3.githubusercontent.com/u/218949?v=3&s=460",
+  "uid": 218949,
+  "repos": 81,
+  "stars": 421,
+  "followers": 36,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/antony/grails-oauth-scribe"
+    },
+    {
+      "url": "/antony/grails-ajax-uploader"
+    },
+    {
+      "url": "/antony/grails-jasmine-plugin"
+    },
+    {
+      "url": "/antony/grails-social-sharing-plugin"
+    },
+    {
+      "url": "/antony/grails-extra-validators"
+    },
+    {
+      "url": "/antony/elasticsearch-grails-plugin"
+    }
+  ],
+  "worksfor": "Desirable Objects Ltd",
+  "location": "London, UK",
+  "fullname": "Antony Jones",
+  "website": "http://desirableobjects.co.uk",
+  "avatar": "https://avatars3.githubusercontent.com/u/218949?v=3&s=460",
+  "contribs": 670,
+  "orgs": [
+    {
+      "energizedwork": "https://avatars3.githubusercontent.com/u/389603?v=3&s=70"
+    },
+    {
+      "desirable-objects": "https://avatars2.githubusercontent.com/u/996812?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

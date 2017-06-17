@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/DuocTran",
+  "img": "https://avatars2.githubusercontent.com/u/444909?v=3&s=460",
+  "uid": 444909,
+  "repos": 10,
+  "stars": 88,
+  "followers": 0,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/DuocTran/Newtonsoft.Json"
+    },
+    {
+      "url": "/DuocTran/PartialResponse"
+    },
+    {
+      "url": "/DuocTran/dtran"
+    },
+    {
+      "url": "/DuocTran/WebApiThrottle"
+    },
+    {
+      "url": "/DuocTran/AngularJSAuthentication"
+    },
+    {
+      "url": "/DuocTran/Umbraco-CMS"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Duoc Tran",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/444909?v=3&s=460",
+  "contribs": 5,
+  "orgs": []
+}

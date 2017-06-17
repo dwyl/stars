@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/mic-kul",
+  "img": "https://avatars0.githubusercontent.com/u/1634999?v=3&s=460",
+  "uid": 1634999,
+  "repos": 33,
+  "stars": 227,
+  "followers": 16,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/mic-kul/invoice-parser"
+    },
+    {
+      "url": "/netguru/rack_password"
+    },
+    {
+      "url": "/mic-kul/jots"
+    },
+    {
+      "url": "/mic-kul/accountant"
+    },
+    {
+      "url": "/mic-kul/wfirma_expenses_add"
+    }
+  ],
+  "worksfor": "@netguru",
+  "location": "Warsaw",
+  "fullname": "Michal Kulesza",
+  "website": "http://mic-kul.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1634999?v=3&s=460",
+  "contribs": 794,
+  "orgs": []
+}

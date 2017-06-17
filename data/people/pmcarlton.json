@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/pmcarlton",
+  "img": "https://avatars3.githubusercontent.com/u/1320820?v=3&s=460",
+  "uid": 1320820,
+  "repos": 9,
+  "stars": 65,
+  "followers": 1,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/pmcarlton/zotero-slack"
+    },
+    {
+      "url": "/pmcarlton/pubmed-rss-twitter"
+    },
+    {
+      "url": "/pmcarlton/BibDesk2Zotero_attachments"
+    },
+    {
+      "url": "/pmcarlton/Chromosomics"
+    },
+    {
+      "url": "/pmcarlton/ImmortalStrand"
+    },
+    {
+      "url": "/pmcarlton/fvlib"
+    }
+  ],
+  "worksfor": "Graduate School of Biostudies, Kyoto University",
+  "location": "Kyoto, Japan",
+  "fullname": "Peter Carlton",
+  "website": "http://www.carltonlab.org",
+  "avatar": "https://avatars3.githubusercontent.com/u/1320820?v=3&s=460",
+  "contribs": 7,
+  "orgs": []
+}

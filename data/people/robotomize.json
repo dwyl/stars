@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/robotomize",
+  "img": "https://avatars1.githubusercontent.com/u/1207984?v=3&s=460",
+  "uid": 1207984,
+  "repos": 52,
+  "stars": 1100,
+  "followers": 43,
+  "following": 247,
+  "pinned": [
+    {
+      "url": "/robotomize/regression-php"
+    },
+    {
+      "url": "/robotomize/stubzero"
+    },
+    {
+      "url": "/robotomize/fujes"
+    },
+    {
+      "url": "/robotomize/koa2-useragent"
+    },
+    {
+      "url": "/robotomize/metanol"
+    },
+    {
+      "url": "/robotomize/stashbot"
+    }
+  ],
+  "worksfor": "Sakh.com LLC",
+  "location": "Russia, Vladivostok",
+  "fullname": "Nikita",
+  "website": "https://ru.linkedin.com/in/ivanovnikita",
+  "avatar": "https://avatars1.githubusercontent.com/u/1207984?v=3&s=460",
+  "contribs": 356,
+  "orgs": [
+    {
+      "rbtmy": "https://avatars2.githubusercontent.com/u/19944041?v=3&s=70"
+    }
+  ]
+}

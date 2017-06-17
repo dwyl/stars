@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/KevinvBre",
+  "img": "https://avatars0.githubusercontent.com/u/14143053?v=3&s=460",
+  "uid": 14143053,
+  "repos": 6,
+  "stars": 9,
+  "followers": 0,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/KevinvBre/TobiiEyeX_prototypes"
+    },
+    {
+      "url": "/KevinvBre/Processing"
+    },
+    {
+      "url": "/KevinvBre/Arduino"
+    },
+    {
+      "url": "/KevinvBre/facetracking-in-openframeworks"
+    },
+    {
+      "url": "/KevinvBre/raspberry-pi-python-based-wifi-watcher"
+    },
+    {
+      "url": "/KevinvBre/iphone-accelerometer-typer"
+    }
+  ],
+  "worksfor": "VanBerlo",
+  "location": "Utrecht",
+  "fullname": "Kevin",
+  "website": "http://www.kevinvanbreemaat.nl",
+  "avatar": "https://avatars0.githubusercontent.com/u/14143053?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

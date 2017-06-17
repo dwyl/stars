@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mswanson",
+  "img": "https://avatars0.githubusercontent.com/u/144861?v=3&s=460",
+  "uid": 144861,
+  "repos": 6,
+  "stars": 1300,
+  "followers": 13,
+  "following": 58,
+  "pinned": [
+    {
+      "url": "/mswanson/ember-cli-deploy-elasticache"
+    },
+    {
+      "url": "/mswanson/ember-cli-mirage"
+    },
+    {
+      "url": "/mswanson/guides"
+    },
+    {
+      "url": "/mswanson/ember-guides-markdown"
+    },
+    {
+      "url": "/mswanson/peepchat-ui"
+    },
+    {
+      "url": "/mswanson/peepchat-api"
+    }
+  ],
+  "worksfor": "1524 Interactive, LLC",
+  "location": "Austin, TX",
+  "fullname": "Michael Swanson",
+  "website": "http://1524interactive.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/144861?v=3&s=460",
+  "contribs": 22,
+  "orgs": []
+}

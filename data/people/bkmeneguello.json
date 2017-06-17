@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/bkmeneguello",
+  "img": "https://avatars2.githubusercontent.com/u/1322552?v=3&s=460",
+  "uid": 1322552,
+  "repos": 61,
+  "stars": 538,
+  "followers": 9,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/bkmeneguello/docker-monitor"
+    },
+    {
+      "url": "/bkmeneguello/cai-nmgen"
+    },
+    {
+      "url": "/bkmeneguello/jpatchaca-real"
+    },
+    {
+      "url": "/bkmeneguello/code-services-api"
+    },
+    {
+      "url": "/bkmeneguello/smallville"
+    },
+    {
+      "url": "/bkmeneguello/cornucopia-lib"
+    }
+  ],
+  "worksfor": "",
+  "location": "Maringá/PR",
+  "fullname": "Bruno Meneguello",
+  "website": "http://blog.meneguello.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1322552?v=3&s=460",
+  "contribs": 130,
+  "orgs": [
+    {
+      "CodeITSolutionsCompany": "https://avatars3.githubusercontent.com/u/19491353?v=3&s=70"
+    }
+  ]
+}

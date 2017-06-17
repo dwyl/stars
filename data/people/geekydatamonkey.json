@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/geekydatamonkey",
+  "img": "https://avatars3.githubusercontent.com/u/980170?v=3&s=460",
+  "uid": 980170,
+  "repos": 55,
+  "stars": 211,
+  "followers": 7,
+  "following": 28,
+  "pinned": [
+    {
+      "url": "/geekydatamonkey/simple-ldap-search"
+    },
+    {
+      "url": "/geekydatamonkey/simple-userstore"
+    },
+    {
+      "url": "/geekydatamonkey/simple-userstore-cli"
+    },
+    {
+      "url": "/deptofcreativecaffeination/deptofcreativecaffeination.com"
+    },
+    {
+      "url": "/geekydatamonkey/gravity-sandbox-experiment"
+    }
+  ],
+  "worksfor": "@mcadonline @deptofcreativecaffeination",
+  "location": "•••  ∞  •••",
+  "fullname": "James Johnson",
+  "website": "http://james.mn",
+  "avatar": "https://avatars3.githubusercontent.com/u/980170?v=3&s=460",
+  "contribs": 334,
+  "orgs": [
+    {
+      "mcadonline": "https://avatars2.githubusercontent.com/u/2940369?v=3&s=70"
+    }
+  ]
+}

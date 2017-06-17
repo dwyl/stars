@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/mhavelant",
+  "img": "https://avatars0.githubusercontent.com/u/15192295?v=3&s=460",
+  "uid": 15192295,
+  "repos": 3,
+  "stars": 16,
+  "followers": 2,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/mhavelant/installscripts"
+    },
+    {
+      "url": "/mhavelant/docker"
+    },
+    {
+      "url": "/mhavelant/docker4drupal"
+    }
+  ],
+  "worksfor": "@brainsum",
+  "location": "Hungary, Budapest",
+  "fullname": "Máté Havelant",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/15192295?v=3&s=460",
+  "contribs": 1745,
+  "orgs": []
+}

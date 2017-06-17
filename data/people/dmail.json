@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/dmail",
+  "img": "https://avatars3.githubusercontent.com/u/443639?v=3&s=460",
+  "uid": 443639,
+  "repos": 24,
+  "stars": 218,
+  "followers": 3,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/dmail/promise"
+    },
+    {
+      "url": "/dmail/url-search-params"
+    },
+    {
+      "url": "/dmail/to-source"
+    },
+    {
+      "url": "/dmail/iterable"
+    },
+    {
+      "url": "/dmail/thenable"
+    },
+    {
+      "url": "/dmail/url"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Damien Maillard",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/443639?v=3&s=460",
+  "contribs": 980,
+  "orgs": []
+}

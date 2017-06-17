@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/chriskwan",
+  "img": "https://avatars3.githubusercontent.com/u/174767?v=3&s=460",
+  "uid": 174767,
+  "repos": 67,
+  "stars": 291,
+  "followers": 28,
+  "following": 58,
+  "pinned": [
+    {
+      "url": "/chriskwan/electron-lightning-talk"
+    },
+    {
+      "url": "/chriskwan/module-maker"
+    },
+    {
+      "url": "/chriskwan/whiteboard"
+    },
+    {
+      "url": "/chriskwan/bannAR"
+    },
+    {
+      "url": "/chriskwan/camera-canvas"
+    },
+    {
+      "url": "/chriskwan/menu-controller"
+    }
+  ],
+  "worksfor": "Vistaprint",
+  "location": "Boston, MA",
+  "fullname": "Chris Kwan",
+  "website": "http://npmjs.com/~chriskwan",
+  "avatar": "https://avatars3.githubusercontent.com/u/174767?v=3&s=460",
+  "contribs": 551,
+  "orgs": [
+    {
+      "vistaprint": "https://avatars1.githubusercontent.com/u/3782811?v=3&s=70"
+    },
+    {
+      "WhitestormJS": "https://avatars2.githubusercontent.com/u/16437392?v=3&s=70"
+    },
+    {
+      "TheVelociraptors": "https://avatars3.githubusercontent.com/u/23138364?v=3&s=70"
+    },
+    {
+      "HackingForGood": "https://avatars1.githubusercontent.com/u/29101811?v=3&s=70"
+    }
+  ]
+}

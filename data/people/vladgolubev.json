@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/vladgolubev",
+  "img": "https://avatars2.githubusercontent.com/u/3817380?v=3&s=460",
+  "uid": 3817380,
+  "repos": 35,
+  "stars": 184,
+  "followers": 32,
+  "following": 81,
+  "pinned": [
+    {
+      "url": "/vladgolubev/serverless"
+    },
+    {
+      "url": "/vladgolubev/docker-graphviz-png-cli"
+    },
+    {
+      "url": "/tneudevteam/mdlok"
+    },
+    {
+      "url": "/vladgolubev/GMMEnhancer"
+    },
+    {
+      "url": "/tneudevteam/MODULE.OK"
+    },
+    {
+      "url": "/vladgolubev/docker-in-aws-lambda"
+    }
+  ],
+  "worksfor": "@shelfio",
+  "location": "Lviv, Ukraine",
+  "fullname": "Vlad Holubiev",
+  "website": "http://linkedin.com/in/vladgolubev",
+  "avatar": "https://avatars2.githubusercontent.com/u/3817380?v=3&s=460",
+  "contribs": 10233,
+  "orgs": [
+    {
+      "university-projects-se-6050103": "https://avatars2.githubusercontent.com/u/15469357?v=3&s=70"
+    },
+    {
+      "tneudevteam": "https://avatars1.githubusercontent.com/u/16319363?v=3&s=70"
+    },
+    {
+      "shelfio": "https://avatars0.githubusercontent.com/u/18517896?v=3&s=70"
+    }
+  ]
+}

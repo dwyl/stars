@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/elqsar",
+  "img": "https://avatars0.githubusercontent.com/u/994450?v=3&s=460",
+  "uid": 994450,
+  "repos": 43,
+  "stars": 453,
+  "followers": 11,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/elqsar/clean-react-starter"
+    },
+    {
+      "url": "/elqsar/hndemo-ionic"
+    },
+    {
+      "url": "/elqsar/log-processor"
+    },
+    {
+      "url": "/elqsar/reactive-android-example"
+    },
+    {
+      "url": "/elqsar/weather-with-react-native"
+    },
+    {
+      "url": "/elqsar/casual-eaters"
+    }
+  ],
+  "worksfor": "CN Group CZ, s.r.o.",
+  "location": "Prague",
+  "fullname": "Boris Musatov",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/994450?v=3&s=460",
+  "contribs": 61,
+  "orgs": [
+    {
+      "cngroupdk": "https://avatars3.githubusercontent.com/u/9844016?v=3&s=70"
+    }
+  ]
+}

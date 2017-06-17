@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/vansosnin",
+  "img": "https://avatars3.githubusercontent.com/u/8207551?v=3&s=460",
+  "uid": 8207551,
+  "repos": 25,
+  "stars": 219,
+  "followers": 13,
+  "following": 51,
+  "pinned": [
+    {
+      "url": "/skbkontur/billing-ui"
+    },
+    {
+      "url": "/ben-eb/perfectionist"
+    },
+    {
+      "url": "/vansosnin/jasmine-to-chai-codemod"
+    },
+    {
+      "url": "/vansosnin/postcss-omit-import-tilde"
+    }
+  ],
+  "worksfor": "@skbkontur",
+  "location": "Russia, Yekaterinburg",
+  "fullname": "Ivan Sosnin",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/8207551?v=3&s=460",
+  "contribs": 1091,
+  "orgs": [
+    {
+      "skbkontur": "https://avatars0.githubusercontent.com/u/5087073?v=3&s=70"
+    },
+    {
+      "UralJS": "https://avatars3.githubusercontent.com/u/26331412?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/hassankhan",
+  "img": "https://avatars2.githubusercontent.com/u/1781985?v=3&s=460",
+  "uid": 1781985,
+  "repos": 24,
+  "stars": 821,
+  "followers": 66,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/hassankhan/config"
+    },
+    {
+      "url": "/larabros/elogram"
+    },
+    {
+      "url": "/react-native-contrib/rsx"
+    },
+    {
+      "url": "/react-native-contrib/react-native-heyzap"
+    },
+    {
+      "url": "/hassankhan/frontman"
+    }
+  ],
+  "worksfor": "@EndemolShineGroup",
+  "location": "London",
+  "fullname": "Hassan Khan",
+  "website": "http://hassankhan.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/1781985?v=3&s=460",
+  "contribs": 1152,
+  "orgs": [
+    {
+      "emojione": "https://avatars2.githubusercontent.com/u/6843823?v=3&s=70"
+    },
+    {
+      "EndemolShineGroup": "https://avatars3.githubusercontent.com/u/9568512?v=3&s=70"
+    },
+    {
+      "larabros": "https://avatars3.githubusercontent.com/u/17712919?v=3&s=70"
+    },
+    {
+      "react-native-contrib": "https://avatars3.githubusercontent.com/u/18746498?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

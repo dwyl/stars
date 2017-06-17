@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/rohitkothari",
+  "img": "https://avatars3.githubusercontent.com/u/5898479?v=3&s=460",
+  "uid": 5898479,
+  "repos": 23,
+  "stars": 198,
+  "followers": 10,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/rohitkothari/ansible-modules-core"
+    },
+    {
+      "url": "/rohitkothari/AirBox"
+    },
+    {
+      "url": "/rohitkothari/JAWS"
+    },
+    {
+      "url": "/rohitkothari/SimianArmy"
+    },
+    {
+      "url": "/rohitkothari/CloudIgrate-API"
+    },
+    {
+      "url": "/mrlesmithjr/ansible-manage-lvm"
+    }
+  ],
+  "worksfor": "Juniper Networks",
+  "location": "",
+  "fullname": "Rohit Kothari",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/5898479?v=3&s=460",
+  "contribs": 9,
+  "orgs": []
+}

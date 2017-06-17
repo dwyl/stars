@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/floriannagel",
+  "img": "https://avatars3.githubusercontent.com/u/1937096?v=3&s=460",
+  "uid": 1937096,
+  "repos": 3,
+  "stars": 331,
+  "followers": 10,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/floriannagel/parallax-sample"
+    },
+    {
+      "url": "/floriannagel/fastlane-plugin-slack_train"
+    },
+    {
+      "url": "/floriannagel/gitlab-paper"
+    }
+  ],
+  "worksfor": "@DeinSpielraum",
+  "location": "Braunschweig, Germany",
+  "fullname": "Florian Nagel",
+  "website": "http://deinspielraum.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1937096?v=3&s=460",
+  "contribs": 28,
+  "orgs": []
+}

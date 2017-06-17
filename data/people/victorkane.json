@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/victorkane",
+  "img": "https://avatars3.githubusercontent.com/u/106342?v=3&s=460",
+  "uid": 106342,
+  "repos": 24,
+  "stars": 62,
+  "followers": 80,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/victorkane/lit"
+    },
+    {
+      "url": "/victorkane/ProjectFlowAndTracker"
+    },
+    {
+      "url": "/victorkane/lit-drupal-lean"
+    },
+    {
+      "url": "/victorkane/recipe-js"
+    },
+    {
+      "url": "/victorkane/meetup-2016-04-05"
+    },
+    {
+      "url": "/victorkane/heyjade"
+    }
+  ],
+  "worksfor": "AWebFactory",
+  "location": "Buenos Aires, Argentina",
+  "fullname": "Victor Kane",
+  "website": "http://awebfactory.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/106342?v=3&s=460",
+  "contribs": 54,
+  "orgs": [
+    {
+      "awebfactory": "https://avatars0.githubusercontent.com/u/13498790?v=3&s=70"
+    }
+  ]
+}

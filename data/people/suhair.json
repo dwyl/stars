@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/suhair",
+  "img": "https://avatars2.githubusercontent.com/u/165396?v=3&s=460",
+  "uid": 165396,
+  "repos": 21,
+  "stars": 1700,
+  "followers": 7,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/suhair/DependencyInjection-Demo"
+    },
+    {
+      "url": "/suhair/NetSoci"
+    },
+    {
+      "url": "/suhair/Daphne"
+    },
+    {
+      "url": "/suhair/sample_app"
+    },
+    {
+      "url": "/suhair/koans"
+    },
+    {
+      "url": "/suhair/VimSettings"
+    }
+  ],
+  "worksfor": "ISPG",
+  "location": "India",
+  "fullname": "Suhair Hassan E",
+  "website": "http://suhair.in",
+  "avatar": "https://avatars2.githubusercontent.com/u/165396?v=3&s=460",
+  "contribs": 7,
+  "orgs": []
+}

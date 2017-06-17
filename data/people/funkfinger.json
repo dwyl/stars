@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/funkfinger",
+  "img": "https://avatars2.githubusercontent.com/u/5948?v=3&s=460",
+  "uid": 5948,
+  "repos": 45,
+  "stars": 152,
+  "followers": 7,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/funkfinger/funkfinger.github.io"
+    },
+    {
+      "url": "/funkfinger/tap-bpm-click-track"
+    },
+    {
+      "url": "/funkfinger/esp8266-ota-test"
+    },
+    {
+      "url": "/funkfinger/sandbox"
+    },
+    {
+      "url": "/funkfinger/tongue_tied"
+    },
+    {
+      "url": "/funkfinger/angular-playground"
+    }
+  ],
+  "worksfor": "",
+  "location": "Phoenix, AZ",
+  "fullname": "Jay Wiggins",
+  "website": "http://twitter.com/funkfinger",
+  "avatar": "https://avatars2.githubusercontent.com/u/5948?v=3&s=460",
+  "contribs": 110,
+  "orgs": []
+}

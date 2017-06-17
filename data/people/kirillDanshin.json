@@ -1,0 +1,56 @@
+{
+  "url": "https://github.com/kirillDanshin",
+  "img": "https://avatars2.githubusercontent.com/u/9026581?v=3&s=460",
+  "uid": 9026581,
+  "repos": 78,
+  "stars": 453,
+  "followers": 50,
+  "following": 45,
+  "pinned": [
+    {
+      "url": "/golang/go"
+    },
+    {
+      "url": "/goodlang/good"
+    },
+    {
+      "url": "/avelino/awesome-go"
+    },
+    {
+      "url": "/gramework/gramework"
+    },
+    {
+      "url": "/rancher/os"
+    },
+    {
+      "url": "/nmathewson/Libevent"
+    }
+  ],
+  "worksfor": "@GuavaStudio @IzumrudTech",
+  "location": "Belarus",
+  "fullname": "Kirill Danshin",
+  "website": "https://guava.studio/",
+  "avatar": "https://avatars2.githubusercontent.com/u/9026581?v=3&s=460",
+  "contribs": 2423,
+  "orgs": [
+    {
+      "goodlang": "https://avatars3.githubusercontent.com/u/24359841?v=3&s=70"
+    },
+    {
+      "bloGol": "https://avatars2.githubusercontent.com/u/25310638?v=3&s=70"
+    },
+    {
+      "goodblog": "https://avatars0.githubusercontent.com/u/25311014?v=3&s=70"
+    },
+    {
+      "goodlog": "https://avatars1.githubusercontent.com/u/25311021?v=3&s=70"
+    },
+    {
+      "goodsrc": "https://avatars2.githubusercontent.com/u/25311054?v=3&s=70"
+    },
+    {
+      "cssfmt": "https://avatars0.githubusercontent.com/u/26801532?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

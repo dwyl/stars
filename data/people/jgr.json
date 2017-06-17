@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jgr",
+  "img": "https://avatars3.githubusercontent.com/u/129648?v=3&s=460",
+  "uid": 129648,
+  "repos": 13,
+  "stars": 46,
+  "followers": 24,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/jgr/diagonalize"
+    },
+    {
+      "url": "/jgr/capistrano"
+    },
+    {
+      "url": "/jgr/cubbyhole"
+    },
+    {
+      "url": "/jgr/spit"
+    },
+    {
+      "url": "/jgr/asset-pipeline-example"
+    },
+    {
+      "url": "/jgr/dotfiles"
+    }
+  ],
+  "worksfor": "",
+  "location": "Portland, OR",
+  "fullname": "James Rucker",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/129648?v=3&s=460",
+  "contribs": 221,
+  "orgs": []
+}

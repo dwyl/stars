@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/tompiarulli",
+  "img": "https://avatars0.githubusercontent.com/u/2266762?v=3&s=460",
+  "uid": 2266762,
+  "repos": 6,
+  "stars": 1200,
+  "followers": 9,
+  "following": 50,
+  "pinned": [
+    {
+      "url": "/tompiarulli/starting-swift"
+    },
+    {
+      "url": "/tompiarulli/swift-error-handling"
+    },
+    {
+      "url": "/tompiarulli/tools"
+    },
+    {
+      "url": "/tompiarulli/dotfiles"
+    },
+    {
+      "url": "/tompiarulli/elm-tutorial"
+    },
+    {
+      "url": "/tompiarulli/sublime-cheat-sheets"
+    }
+  ],
+  "worksfor": "Freelance",
+  "location": "Philadelphia, PA",
+  "fullname": "Tom Piarulli",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/2266762?v=3&s=460",
+  "contribs": 472,
+  "orgs": [
+    {
+      "phillycocoa": "https://avatars0.githubusercontent.com/u/47540?v=3&s=70"
+    },
+    {
+      "indyhall": "https://avatars0.githubusercontent.com/u/5488323?v=3&s=70"
+    }
+  ]
+}

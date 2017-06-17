@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/joecodecreations",
+  "img": "https://avatars2.githubusercontent.com/u/13281201?v=3&s=460",
+  "uid": 13281201,
+  "repos": 37,
+  "stars": 11,
+  "followers": 1,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/joecodecreations/semanticVersion"
+    },
+    {
+      "url": "/joecodecreations/angular_flash_cards"
+    },
+    {
+      "url": "/joecodecreations/ECMA_6_babel_node_grunt_sass_ejs_template"
+    },
+    {
+      "url": "/joecodecreations/custom-grunt-tasks"
+    },
+    {
+      "url": "/joecodecreations/python_port_scanner_interactive"
+    },
+    {
+      "url": "/joecodecreations/alexa-automation-setup"
+    }
+  ],
+  "worksfor": "",
+  "location": "Raleigh, North Carolina",
+  "fullname": "Joseph",
+  "website": "https://www.codecreations.net",
+  "avatar": "https://avatars2.githubusercontent.com/u/13281201?v=3&s=460",
+  "contribs": 545,
+  "orgs": []
+}

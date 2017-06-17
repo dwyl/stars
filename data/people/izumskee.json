@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/izumskee",
+  "img": "https://avatars2.githubusercontent.com/u/1485565?v=3&s=460",
+  "uid": 1485565,
+  "repos": 10,
+  "stars": 182,
+  "followers": 4,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/izumskee/graphql-starter-kit"
+    },
+    {
+      "url": "/izumskee/typescript-node-api"
+    },
+    {
+      "url": "/izumskee/dotfiles"
+    },
+    {
+      "url": "/izumskee/js-stack-from-scratch"
+    },
+    {
+      "url": "/izumskee/simple-validator"
+    },
+    {
+      "url": "/izumskee/what-happens-when"
+    }
+  ],
+  "worksfor": "Jazz Pixels",
+  "location": "Minsk, Belarus",
+  "fullname": "izumskee",
+  "website": "http://izumskee.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1485565?v=3&s=460",
+  "contribs": 73,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/spearwolf",
+  "img": "https://avatars1.githubusercontent.com/u/12805?v=3&s=460",
+  "uid": 12805,
+  "repos": 34,
+  "stars": 553,
+  "followers": 18,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/spearwolf/threejs-boilerplate"
+    },
+    {
+      "url": "/spearwolf/picimo"
+    },
+    {
+      "url": "/spearwolf/eventize"
+    },
+    {
+      "url": "/spearwolf/dungeonmaker.js"
+    },
+    {
+      "url": "/spearwolf/jab"
+    },
+    {
+      "url": "/spearwolf/blitpunk"
+    }
+  ],
+  "worksfor": "",
+  "location": "Germany, Berlin",
+  "fullname": "Wolfger Schramm",
+  "website": "https://spearwolf.de",
+  "avatar": "https://avatars1.githubusercontent.com/u/12805?v=3&s=460",
+  "contribs": 702,
+  "orgs": []
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/eiriklv",
+  "img": "https://avatars1.githubusercontent.com/u/3486317?v=3&s=460",
+  "uid": 3486317,
+  "repos": 1300,
+  "stars": 6300,
+  "followers": 154,
+  "following": 340,
+  "pinned": [
+    {
+      "url": "/eiriklv/react-masonry-component"
+    },
+    {
+      "url": "/eiriklv/react-masonry-mixin"
+    },
+    {
+      "url": "/eiriklv/express-passport-app"
+    },
+    {
+      "url": "/eiriklv/hearsay-frontend"
+    },
+    {
+      "url": "/eiriklv/react-packery-component"
+    },
+    {
+      "url": "/eiriklv/react-packery-mixin"
+    }
+  ],
+  "worksfor": "Independent",
+  "location": "Oslo",
+  "fullname": "Eirik L. Vullum",
+  "website": "http://vullum.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/3486317?v=3&s=460",
+  "contribs": 1888,
+  "orgs": [
+    {
+      "inceptio-no": "https://avatars3.githubusercontent.com/u/7979455?v=3&s=70"
+    },
+    {
+      "ReactWeek": "https://avatars1.githubusercontent.com/u/11040183?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ]
+}

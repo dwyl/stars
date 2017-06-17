@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/arturmkrtchyan",
+  "img": "https://avatars3.githubusercontent.com/u/601646?v=3&s=460",
+  "uid": 601646,
+  "repos": 30,
+  "stars": 115,
+  "followers": 38,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/arturmkrtchyan/iban4j"
+    },
+    {
+      "url": "/mintDS/mintds"
+    },
+    {
+      "url": "/mintDS/mintds-java"
+    },
+    {
+      "url": "/mintDS/mintds-protocol"
+    },
+    {
+      "url": "/arturmkrtchyan/sizeof4j"
+    }
+  ],
+  "worksfor": "Zalando",
+  "location": "Berlin, Germany",
+  "fullname": "Artur Mkrtchyan",
+  "website": "http://arturmkrtchyan.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/601646?v=3&s=460",
+  "contribs": 53,
+  "orgs": [
+    {
+      "zalando": "https://avatars0.githubusercontent.com/u/1564818?v=3&s=70"
+    },
+    {
+      "mintDS": "https://avatars0.githubusercontent.com/u/15245448?v=3&s=70"
+    }
+  ]
+}

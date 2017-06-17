@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/connor11528",
+  "img": "https://avatars2.githubusercontent.com/u/3578908?v=3&s=460",
+  "uid": 3578908,
+  "repos": 304,
+  "stars": 1100,
+  "followers": 130,
+  "following": 994,
+  "pinned": [
+    {
+      "url": "/connor11528/laravel-5.3-app"
+    },
+    {
+      "url": "/connor11528/laravel-forum"
+    },
+    {
+      "url": "/connor11528/coding-interviews"
+    },
+    {
+      "url": "/connor11528/vuejs-auth-frontend"
+    },
+    {
+      "url": "/connor11528/sequelize-bookmarks"
+    },
+    {
+      "url": "/connor11528/hexo-personal-site"
+    }
+  ],
+  "worksfor": "Mondo",
+  "location": "Alameda, CA",
+  "fullname": "Connor Leech",
+  "website": "http://connorleech.info/",
+  "avatar": "https://avatars2.githubusercontent.com/u/3578908?v=3&s=460",
+  "contribs": 365,
+  "orgs": [
+    {
+      "nairobijs": "https://avatars3.githubusercontent.com/u/6583168?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

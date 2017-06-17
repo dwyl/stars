@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/pmuens",
+  "img": "https://avatars2.githubusercontent.com/u/1606004?v=3&s=460",
+  "uid": 1606004,
+  "repos": 56,
+  "stars": 6000,
+  "followers": 198,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/serverless/serverless"
+    },
+    {
+      "url": "/JustServerless/awesome-serverless"
+    },
+    {
+      "url": "/pmuens/serverless-book"
+    },
+    {
+      "url": "/JustServerless/discuss"
+    },
+    {
+      "url": "/pmuens/serverless-crud"
+    },
+    {
+      "url": "/pmuens/simple"
+    }
+  ],
+  "worksfor": "Serverless, Inc.",
+  "location": "San Francisco, CA",
+  "fullname": "Philipp Muens",
+  "website": "http://serverless.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1606004?v=3&s=460",
+  "contribs": 4410,
+  "orgs": [
+    {
+      "DiscoverMeteor": "https://avatars3.githubusercontent.com/u/4321119?v=3&s=70"
+    },
+    {
+      "Sclbl": "https://avatars3.githubusercontent.com/u/5923085?v=3&s=70"
+    },
+    {
+      "serverless": "https://avatars1.githubusercontent.com/u/13742415?v=3&s=70"
+    },
+    {
+      "JustMeteor": "https://avatars0.githubusercontent.com/u/14175156?v=3&s=70"
+    },
+    {
+      "GravityProject": "https://avatars2.githubusercontent.com/u/15725246?v=3&s=70"
+    },
+    {
+      "JustServerless": "https://avatars0.githubusercontent.com/u/17001340?v=3&s=70"
+    }
+  ]
+}

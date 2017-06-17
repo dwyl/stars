@@ -1,0 +1,35 @@
+{
+  "url": "https://github.com/srhtcn",
+  "img": "https://avatars0.githubusercontent.com/u/5612144?v=3&s=460",
+  "uid": 5612144,
+  "repos": 19,
+  "stars": 290,
+  "followers": 18,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/opsgenie/opsgenie-nodejs-sdk"
+    },
+    {
+      "url": "/srhtcn/serverless-slack-user-invitation"
+    },
+    {
+      "url": "/opsgenie/slack-to-opsgenie-alert-creator"
+    },
+    {
+      "url": "/opsgenie/playground-scenario-generator"
+    }
+  ],
+  "worksfor": "@opsgenie",
+  "location": "",
+  "fullname": "Serhat Can",
+  "website": "https://linkedin.com/in/serhatcan",
+  "avatar": "https://avatars0.githubusercontent.com/u/5612144?v=3&s=460",
+  "contribs": 141,
+  "orgs": [
+    {
+      "opsgenie": "https://avatars2.githubusercontent.com/u/1818843?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

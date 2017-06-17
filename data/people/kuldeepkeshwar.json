@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/kuldeepkeshwar",
+  "img": "https://avatars0.githubusercontent.com/u/10448534?v=3&s=460",
+  "uid": 10448534,
+  "repos": 217,
+  "stars": 388,
+  "followers": 8,
+  "following": 59,
+  "pinned": [
+    {
+      "url": "/kuldeepkeshwar/universal-starter"
+    },
+    {
+      "url": "/kuldeepkeshwar/react-native-web"
+    },
+    {
+      "url": "/kuldeepkeshwar/css-loaders"
+    },
+    {
+      "url": "/kuldeepkeshwar/angular-unsavedChanges"
+    },
+    {
+      "url": "/kuldeepkeshwar/ui-calendar"
+    },
+    {
+      "url": "/kuldeepkeshwar/ui-dialog"
+    }
+  ],
+  "worksfor": "Paytm",
+  "location": "India",
+  "fullname": "anotherjsguy",
+  "website": "https://in.linkedin.com/in/kuldeepkeshwar",
+  "avatar": "https://avatars0.githubusercontent.com/u/10448534?v=3&s=460",
+  "contribs": 204,
+  "orgs": [
+    {
+      "angular-libs": "https://avatars3.githubusercontent.com/u/16022237?v=3&s=70"
+    },
+    {
+      "node-libs": "https://avatars2.githubusercontent.com/u/16069479?v=3&s=70"
+    }
+  ]
+}

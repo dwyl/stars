@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/nikolenkoanton92",
+  "img": "https://avatars3.githubusercontent.com/u/9578297?v=3&s=460",
+  "uid": 9578297,
+  "repos": 61,
+  "stars": 1200,
+  "followers": 21,
+  "following": 140,
+  "pinned": [
+    {
+      "url": "/nikolenkoanton92/react-input-suggest"
+    },
+    {
+      "url": "/nikolenkoanton92/isomorphic-react-jspm-boilerplate"
+    },
+    {
+      "url": "/nikolenkoanton92/node_waitlisted"
+    },
+    {
+      "url": "/nikolenkoanton92/react-easy-paginate"
+    },
+    {
+      "url": "/lsm/micromono"
+    }
+  ],
+  "worksfor": "Microsoft",
+  "location": "Seattle, WA",
+  "fullname": "Anton Nikolenko",
+  "website": "http://www.antonnikolenko.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/9578297?v=3&s=460",
+  "contribs": 4648,
+  "orgs": [
+    {
+      "Azure": "https://avatars0.githubusercontent.com/u/6844498?v=3&s=70"
+    }
+  ]
+}

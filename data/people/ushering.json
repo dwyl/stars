@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ushering",
+  "img": "https://avatars1.githubusercontent.com/u/6698962?v=3&s=460",
+  "uid": 6698962,
+  "repos": 6,
+  "stars": 436,
+  "followers": 2,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/ushering/BernoulliGenerator"
+    },
+    {
+      "url": "/ushering/spacemacs"
+    },
+    {
+      "url": "/ushering/ox-twbs"
+    },
+    {
+      "url": "/ushering/dotfiles"
+    },
+    {
+      "url": "/ushering/webui-aria2"
+    },
+    {
+      "url": "/ushering/crouton"
+    }
+  ],
+  "worksfor": "",
+  "location": "Los Angeles",
+  "fullname": "Ruisheng Wang",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/6698962?v=3&s=460",
+  "contribs": 5,
+  "orgs": []
+}

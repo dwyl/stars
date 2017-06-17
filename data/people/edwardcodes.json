@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/edwardcodes",
+  "img": "https://avatars1.githubusercontent.com/u/8533973?v=3&s=460",
+  "uid": 8533973,
+  "repos": 9,
+  "stars": 161,
+  "followers": 13,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/dwyl/start-here"
+    },
+    {
+      "url": "/edwardcodes/Javascript-the-Good-Parts-notes"
+    },
+    {
+      "url": "/edwardcodes/edwardcodes.github.io"
+    },
+    {
+      "url": "/edwardcodes/Elixir"
+    }
+  ],
+  "worksfor": "dwyl.io",
+  "location": "Lisboa",
+  "fullname": "EdwardCodes",
+  "website": "http://www.dwyl.io/",
+  "avatar": "https://avatars1.githubusercontent.com/u/8533973?v=3&s=460",
+  "contribs": 105,
+  "orgs": [
+    {
+      "namegen": "https://avatars3.githubusercontent.com/u/8493502?v=3&s=70"
+    },
+    {
+      "docdis": "https://avatars2.githubusercontent.com/u/10836426?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ]
+}

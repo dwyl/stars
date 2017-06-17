@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/4xposed",
+  "img": "https://avatars0.githubusercontent.com/u/187765?v=3&s=460",
+  "uid": 187765,
+  "repos": 17,
+  "stars": 219,
+  "followers": 26,
+  "following": 58,
+  "pinned": [
+    {
+      "url": "/4xposed/grape-sideload"
+    },
+    {
+      "url": "/4xposed/oauth-slack-discourse"
+    },
+    {
+      "url": "/4xposed/SlackInvite.me"
+    },
+    {
+      "url": "/4xposed/capistrano-puma"
+    }
+  ],
+  "worksfor": "volders.de",
+  "location": "Berlin, Germany",
+  "fullname": "Daniel Climent",
+  "website": "https://twitter.com/4xposed",
+  "avatar": "https://avatars0.githubusercontent.com/u/187765?v=3&s=460",
+  "contribs": 1721,
+  "orgs": [
+    {
+      "vertragswecker": "https://avatars3.githubusercontent.com/u/5987152?v=3&s=70"
+    },
+    {
+      "slashrocket": "https://avatars0.githubusercontent.com/u/10340500?v=3&s=70"
+    }
+  ]
+}

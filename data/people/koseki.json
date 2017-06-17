@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/koseki",
+  "img": "https://avatars3.githubusercontent.com/u/11028?v=3&s=460",
+  "uid": 11028,
+  "repos": 25,
+  "stars": 77,
+  "followers": 28,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/koseki/mocksmtpd"
+    },
+    {
+      "url": "/koseki/git-object-browser"
+    },
+    {
+      "url": "/koseki/copyfixer"
+    },
+    {
+      "url": "/koseki/hatenadiary-writer"
+    },
+    {
+      "url": "/koseki/osx-vagrant-sandbox"
+    },
+    {
+      "url": "/koseki/ppcommand"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "KOSEKI Kengo",
+  "website": "http://koseki.hatenablog.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/11028?v=3&s=460",
+  "contribs": 345,
+  "orgs": []
+}

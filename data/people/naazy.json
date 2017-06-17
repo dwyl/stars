@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/naazy",
+  "img": "https://avatars0.githubusercontent.com/u/11833296?v=3&s=460",
+  "uid": 11833296,
+  "repos": 40,
+  "stars": 145,
+  "followers": 42,
+  "following": 41,
+  "pinned": [
+    {
+      "url": "/dwyl/learn-nightwatch"
+    },
+    {
+      "url": "/dwyl/hapi-auth-jwt2"
+    },
+    {
+      "url": "/dwyl/hapi-error"
+    },
+    {
+      "url": "/dwyl/learn-elm"
+    },
+    {
+      "url": "/naazy/Scrapey-McScrape"
+    },
+    {
+      "url": "/koalabears/react-mouse-pointer-tools"
+    }
+  ],
+  "worksfor": "@dwyl",
+  "location": "London",
+  "fullname": "Naaz (Marziyeh)",
+  "website": "http://naazy.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/11833296?v=3&s=460",
+  "contribs": 3475,
+  "orgs": [
+    {
+      "foundersandcoders": "https://avatars1.githubusercontent.com/u/9970257?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "node-girls": "https://avatars0.githubusercontent.com/u/13981928?v=3&s=70"
+    },
+    {
+      "koalabears": "https://avatars3.githubusercontent.com/u/14273628?v=3&s=70"
+    },
+    {
+      "juspayapp": "https://avatars2.githubusercontent.com/u/15702675?v=3&s=70"
+    },
+    {
+      "xcell-temp": "https://avatars1.githubusercontent.com/u/16611873?v=3&s=70"
+    }
+  ]
+}

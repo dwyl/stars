@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/dschinkel",
+  "img": "https://avatars1.githubusercontent.com/u/338798?v=3&s=460",
+  "uid": 338798,
+  "repos": 16,
+  "stars": 634,
+  "followers": 25,
+  "following": 291,
+  "pinned": [
+    {
+      "url": "/dschinkel/reactivate"
+    },
+    {
+      "url": "/dschinkel/tdd-dave-promises"
+    },
+    {
+      "url": "/dschinkel/ApplyJS"
+    }
+  ],
+  "worksfor": "WeDoTDD.com",
+  "location": "Chicago, il",
+  "fullname": "Dave Schinkel",
+  "website": "http://WeDoTDD.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/338798?v=3&s=460",
+  "contribs": 1728,
+  "orgs": []
+}

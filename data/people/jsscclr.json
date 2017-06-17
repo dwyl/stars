@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/jsscclr",
+  "img": "https://avatars2.githubusercontent.com/u/7599627?v=3&s=460",
+  "uid": 7599627,
+  "repos": 49,
+  "stars": 2500,
+  "followers": 37,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/jsscclr/talks"
+    },
+    {
+      "url": "/jsscclr/movie-library"
+    },
+    {
+      "url": "/jsscclr/calculator"
+    },
+    {
+      "url": "/jsscclr/creative-coding-syd"
+    },
+    {
+      "url": "/jsscclr/EmployeeTracker"
+    },
+    {
+      "url": "/jsscclr/cf-sample"
+    }
+  ],
+  "worksfor": "",
+  "location": "Sydney, Australia",
+  "fullname": "Jessica Claire Edwards",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/7599627?v=3&s=460",
+  "contribs": 32,
+  "orgs": [
+    {
+      "hollersydney": "https://avatars1.githubusercontent.com/u/789822?v=3&s=70"
+    },
+    {
+      "sydney-node-ninjas": "https://avatars3.githubusercontent.com/u/2799960?v=3&s=70"
+    }
+  ]
+}

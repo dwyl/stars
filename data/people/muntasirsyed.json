@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/muntasirsyed",
+  "img": "https://avatars1.githubusercontent.com/u/1833934?v=3&s=460",
+  "uid": 1833934,
+  "repos": 29,
+  "stars": 491,
+  "followers": 25,
+  "following": 70,
+  "pinned": [
+    {
+      "url": "/haplo-org/haplo-research-manager"
+    },
+    {
+      "url": "/haplo-org/haplo-standard-plugins-dev"
+    },
+    {
+      "url": "/yigit/android-priority-jobqueue"
+    },
+    {
+      "url": "/muntasirsyed/realm-java"
+    },
+    {
+      "url": "/muntasirsyed/lara-bb"
+    },
+    {
+      "url": "/haplo-org/haplo-docs"
+    }
+  ],
+  "worksfor": "King's College London",
+  "location": "London, United Kingdom",
+  "fullname": "Muntasir Syed",
+  "website": "http://muntasirsyed.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1833934?v=3&s=460",
+  "contribs": 42,
+  "orgs": [
+    {
+      "haplo-org": "https://avatars0.githubusercontent.com/u/1612567?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

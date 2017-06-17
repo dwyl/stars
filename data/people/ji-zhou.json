@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ji-zhou",
+  "img": "https://avatars3.githubusercontent.com/u/7296910?v=3&s=460",
+  "uid": 7296910,
+  "repos": 7,
+  "stars": 562,
+  "followers": 9,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/ji-zhou/.emacs.d"
+    },
+    {
+      "url": "/ji-zhou/deepin-emacs"
+    },
+    {
+      "url": "/ji-zhou/highlight-parentheses.el"
+    },
+    {
+      "url": "/ji-zhou/dotfiles"
+    },
+    {
+      "url": "/ji-zhou/checkbox"
+    },
+    {
+      "url": "/ji-zhou/kcp-shadowsocks-docker"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "zhouji",
+  "website": "http://zhouji.name",
+  "avatar": "https://avatars3.githubusercontent.com/u/7296910?v=3&s=460",
+  "contribs": 74,
+  "orgs": []
+}

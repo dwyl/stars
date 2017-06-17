@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/jonathansamines",
+  "img": "https://avatars3.githubusercontent.com/u/1268268?v=3&s=460",
+  "uid": 1268268,
+  "repos": 56,
+  "stars": 318,
+  "followers": 19,
+  "following": 56,
+  "pinned": [
+    {
+      "url": "/jonathansamines/node-routing-decorators"
+    },
+    {
+      "url": "/lelylan/simple-oauth2"
+    },
+    {
+      "url": "/bugsnag/bugsnag-node"
+    },
+    {
+      "url": "/ember-cli/ember-cli-eslint"
+    },
+    {
+      "url": "/jonathansamines/format-link-header"
+    },
+    {
+      "url": "/jonathansamines/crumb"
+    }
+  ],
+  "worksfor": "Paypal",
+  "location": "Guatemala",
+  "fullname": "Jonathan Samines",
+  "website": "http://jonathansamines.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1268268?v=3&s=460",
+  "contribs": 292,
+  "orgs": [
+    {
+      "coderwall-forked": "https://avatars2.githubusercontent.com/u/3080402?v=3&s=70"
+    },
+    {
+      "coderwall-komododragon": "https://avatars3.githubusercontent.com/u/3085995?v=3&s=70"
+    },
+    {
+      "coderwall-polygamous": "https://avatars2.githubusercontent.com/u/3086534?v=3&s=70"
+    }
+  ]
+}

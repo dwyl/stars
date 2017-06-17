@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/futurist",
+  "img": "https://avatars0.githubusercontent.com/u/159167?v=3&s=460",
+  "uid": 159167,
+  "repos": 129,
+  "stars": 2500,
+  "followers": 14,
+  "following": 163,
+  "pinned": [
+    {
+      "url": "/futurist/js-format.el"
+    },
+    {
+      "url": "/futurist/cutecmd"
+    },
+    {
+      "url": "/futurist/add-array-methods"
+    },
+    {
+      "url": "/futurist/jobman"
+    },
+    {
+      "url": "/futurist/objutil"
+    },
+    {
+      "url": "/futurist/mdrag"
+    }
+  ],
+  "worksfor": "@cssobj",
+  "location": "China",
+  "fullname": "James Yang",
+  "website": "https://github.com/cssobj/cssobj",
+  "avatar": "https://avatars0.githubusercontent.com/u/159167?v=3&s=460",
+  "contribs": 1667,
+  "orgs": []
+}

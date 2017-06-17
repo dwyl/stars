@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/valtlfelipe",
+  "img": "https://avatars1.githubusercontent.com/u/3065339?v=3&s=460",
+  "uid": 3065339,
+  "repos": 11,
+  "stars": 1100,
+  "followers": 12,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/valtlfelipe/TinyMCE-LocalAutoSave"
+    },
+    {
+      "url": "/valtlfelipe/sendy-pt-br"
+    },
+    {
+      "url": "/valtlfelipe/hapi-sequelizejs"
+    },
+    {
+      "url": "/valtlfelipe/ember-cli-select-it"
+    },
+    {
+      "url": "/valtlfelipe/docker-mongo"
+    },
+    {
+      "url": "/valtlfelipe/php-github-api"
+    }
+  ],
+  "worksfor": "",
+  "location": "Brasil",
+  "fullname": "Felipe",
+  "website": "http://felipe.im",
+  "avatar": "https://avatars1.githubusercontent.com/u/3065339?v=3&s=460",
+  "contribs": 2501,
+  "orgs": [
+    {
+      "SofitSoftware": "https://avatars2.githubusercontent.com/u/15805728?v=3&s=70"
+    }
+  ]
+}

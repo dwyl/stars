@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/mwyatt",
+  "img": "https://avatars1.githubusercontent.com/u/812491?v=3&s=460",
+  "uid": 812491,
+  "repos": 20,
+  "stars": 129,
+  "followers": 4,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/mwyatt/core"
+    },
+    {
+      "url": "/mwyatt/dialogue"
+    },
+    {
+      "url": "/mwyatt/codex"
+    },
+    {
+      "url": "/mwyatt/dotfiles"
+    },
+    {
+      "url": "/mwyatt/grid"
+    }
+  ],
+  "worksfor": "The ACME Facilities Group",
+  "location": "Burnley, Lancashire",
+  "fullname": "Martin Wyatt",
+  "website": "http://martinwyatt.name/",
+  "avatar": "https://avatars1.githubusercontent.com/u/812491?v=3&s=460",
+  "contribs": 543,
+  "orgs": []
+}

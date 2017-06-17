@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/kandros",
+  "img": "https://avatars0.githubusercontent.com/u/4562878?v=3&s=460",
+  "uid": 4562878,
+  "repos": 131,
+  "stars": 540,
+  "followers": 23,
+  "following": 47,
+  "pinned": [
+    {
+      "url": "/kandros/micro-jwt-auth"
+    },
+    {
+      "url": "/kandros/react-rxjs-wikipedia-search"
+    },
+    {
+      "url": "/kandros/serverless-cron-lambda-http-trigger"
+    },
+    {
+      "url": "/kandros/lingo-inspired"
+    },
+    {
+      "url": "/kandros/hapi-typescript-sequelize-backend"
+    },
+    {
+      "url": "/kandros/typescript-starter"
+    }
+  ],
+  "worksfor": "",
+  "location": "Italy",
+  "fullname": "Jaga Santagostino",
+  "website": "http://jagasantagostino.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/4562878?v=3&s=460",
+  "contribs": 2135,
+  "orgs": [
+    {
+      "jaga": "https://avatars1.githubusercontent.com/u/10710089?v=3&s=70"
+    },
+    {
+      "MilanoTechScene": "https://avatars1.githubusercontent.com/u/12250229?v=3&s=70"
+    },
+    {
+      "js-girls": "https://avatars1.githubusercontent.com/u/13335431?v=3&s=70"
+    },
+    {
+      "jagascript": "https://avatars3.githubusercontent.com/u/17043338?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/gwenf",
+  "img": "https://avatars0.githubusercontent.com/u/10039233?v=3&s=460",
+  "uid": 10039233,
+  "repos": 80,
+  "stars": 239,
+  "followers": 71,
+  "following": 34,
+  "pinned": [
+    {
+      "url": "/Free-Code-Camp-Indy/free-code-camp-indy.github.io"
+    },
+    {
+      "url": "/gwenf/react-redux-boilerplate"
+    },
+    {
+      "url": "/gwenf/awesome-free-code-camp-resources"
+    },
+    {
+      "url": "/gwenf/aws-lambda"
+    },
+    {
+      "url": "/gwenf/regex-breakfast"
+    }
+  ],
+  "worksfor": "Ion Three",
+  "location": "Indianapolis, IN",
+  "fullname": "Gwendolyn Faraday",
+  "website": "http://gwenfaraday.com/",
+  "avatar": "https://avatars0.githubusercontent.com/u/10039233?v=3&s=460",
+  "contribs": 579,
+  "orgs": [
+    {
+      "Free-Code-Camp-Indy": "https://avatars0.githubusercontent.com/u/22624189?v=3&s=70"
+    },
+    {
+      "FCC-Hackathon-Indy": "https://avatars3.githubusercontent.com/u/28488614?v=3&s=70"
+    }
+  ]
+}

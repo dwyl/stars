@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ptzagk",
+  "img": "https://avatars3.githubusercontent.com/u/66448?v=3&s=460",
+  "uid": 66448,
+  "repos": 340,
+  "stars": 3000,
+  "followers": 38,
+  "following": 205,
+  "pinned": [
+    {
+      "url": "/ptzagk/react-router"
+    },
+    {
+      "url": "/ptzagk/react"
+    },
+    {
+      "url": "/ptzagk/frdomain"
+    },
+    {
+      "url": "/ptzagk/webpack-react-redux-isomorphic-render-example"
+    },
+    {
+      "url": "/ptzagk/python-machine-learning-book"
+    },
+    {
+      "url": "/ptzagk/cf-ui"
+    }
+  ],
+  "worksfor": "IST SA",
+  "location": "Athens, Greece",
+  "fullname": "Panayiotis Tzagkarakis",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/66448?v=3&s=460",
+  "contribs": 93,
+  "orgs": []
+}

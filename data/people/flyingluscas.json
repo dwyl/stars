@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/flyingluscas",
+  "img": "https://avatars3.githubusercontent.com/u/6232791?v=3&s=460",
+  "uid": 6232791,
+  "repos": 72,
+  "stars": 1200,
+  "followers": 37,
+  "following": 120,
+  "pinned": [
+    {
+      "url": "/codecasts/spa-starter-kit"
+    },
+    {
+      "url": "/flyingluscas/Laravel-BugNotifier"
+    },
+    {
+      "url": "/flyingluscas/correios-php"
+    },
+    {
+      "url": "/flyingluscas/viacep-php"
+    },
+    {
+      "url": "/coderwebschool/spa-starter-api"
+    },
+    {
+      "url": "/flyingluscas/pagarme-laravel"
+    }
+  ],
+  "worksfor": "@pagarme",
+  "location": "Brazil - São Paulo",
+  "fullname": "Lucas Pires",
+  "website": "https://flyingluscas.github.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/6232791?v=3&s=460",
+  "contribs": 1028,
+  "orgs": [
+    {
+      "pagarme": "https://avatars1.githubusercontent.com/u/3846050?v=3&s=70"
+    },
+    {
+      "coderwebschool": "https://avatars0.githubusercontent.com/u/22874041?v=3&s=70"
+    }
+  ]
+}

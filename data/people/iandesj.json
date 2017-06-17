@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/iandesj",
+  "img": "https://avatars3.githubusercontent.com/u/2693790?v=3&s=460",
+  "uid": 2693790,
+  "repos": 7,
+  "stars": 904,
+  "followers": 19,
+  "following": 52,
+  "pinned": [
+    {
+      "url": "/iandesj/vagrant-gradle-deploy"
+    },
+    {
+      "url": "/iandesj/vbuilder"
+    },
+    {
+      "url": "/iandesj/Spring-Boot-MicroService-Blueprint"
+    },
+    {
+      "url": "/iandesj/awesome-python"
+    },
+    {
+      "url": "/iandesj/beerscraper"
+    },
+    {
+      "url": "/iandesj/neovim-config"
+    }
+  ],
+  "worksfor": "KL&A",
+  "location": "Michigan",
+  "fullname": "Ian DesJardins",
+  "website": "http://www.twitter.com/ianddesjardins",
+  "avatar": "https://avatars3.githubusercontent.com/u/2693790?v=3&s=460",
+  "contribs": 546,
+  "orgs": []
+}

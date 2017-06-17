@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/horike37",
+  "img": "https://avatars0.githubusercontent.com/u/1301012?v=3&s=460",
+  "uid": 1301012,
+  "repos": 53,
+  "stars": 183,
+  "followers": 65,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/serverless/serverless"
+    },
+    {
+      "url": "/horike37/serverless-step-functions"
+    },
+    {
+      "url": "/horike37/serverless-api-integration-test-sample"
+    },
+    {
+      "url": "/horike37/simple-api-gateway"
+    },
+    {
+      "url": "/horike37/serverless-delete-loggroups"
+    },
+    {
+      "url": "/horike37/serverless-unittest-boilerplate"
+    }
+  ],
+  "worksfor": "DigitalCube Co. Ltd.",
+  "location": "Japan",
+  "fullname": "Takahiro Horike",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1301012?v=3&s=460",
+  "contribs": 978,
+  "orgs": [
+    {
+      "serverless": "https://avatars1.githubusercontent.com/u/13742415?v=3&s=70"
+    },
+    {
+      "getshifter": "https://avatars1.githubusercontent.com/u/22144656?v=3&s=70"
+    }
+  ]
+}

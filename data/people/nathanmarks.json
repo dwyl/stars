@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/nathanmarks",
+  "img": "https://avatars0.githubusercontent.com/u/4420103?v=3&s=460",
+  "uid": 4420103,
+  "repos": 67,
+  "stars": 208,
+  "followers": 42,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/nathanmarks/jss-theme-reactor"
+    },
+    {
+      "url": "/nathanmarks/vrtest"
+    },
+    {
+      "url": "/callemall/material-ui"
+    },
+    {
+      "url": "/cssinjs/jss"
+    },
+    {
+      "url": "/muibotdev/muibot"
+    },
+    {
+      "url": "/nathanmarks/stylishly"
+    }
+  ],
+  "worksfor": "@Shopify",
+  "location": "Toronto, ON",
+  "fullname": "Nathan",
+  "website": "http://nathanmarks.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/4420103?v=3&s=460",
+  "contribs": 361,
+  "orgs": [
+    {
+      "cssinjs": "https://avatars0.githubusercontent.com/u/9503099?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

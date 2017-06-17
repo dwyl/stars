@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/znamilya",
+  "img": "https://avatars0.githubusercontent.com/u/5811832?v=3&s=460",
+  "uid": 5811832,
+  "repos": 11,
+  "stars": 128,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/znamilya/generator-reactik"
+    },
+    {
+      "url": "/znamilya/koa-starter-kit"
+    },
+    {
+      "url": "/znamilya/koa-simple-rest-api"
+    },
+    {
+      "url": "/znamilya/koa-todo-app"
+    },
+    {
+      "url": "/znamilya/tutorial-app-microblogging-app-with-flux-and-react"
+    },
+    {
+      "url": "/znamilya/habit"
+    }
+  ],
+  "worksfor": "",
+  "location": "Russia",
+  "fullname": "Илья Знаменский",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/5811832?v=3&s=460",
+  "contribs": 42,
+  "orgs": []
+}

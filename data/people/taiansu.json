@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/taiansu",
+  "img": "https://avatars3.githubusercontent.com/u/241597?v=3&s=460",
+  "uid": 241597,
+  "repos": 39,
+  "stars": 1500,
+  "followers": 76,
+  "following": 79,
+  "pinned": [
+    {
+      "url": "/taiansu/pipe_to"
+    },
+    {
+      "url": "/taiansu/game_of_life_elixir"
+    },
+    {
+      "url": "/taiansu/generator-rf"
+    },
+    {
+      "url": "/taiansu/nerdtree-ag"
+    },
+    {
+      "url": "/taiansu/vimrc"
+    },
+    {
+      "url": "/taiansu/dotfiles"
+    }
+  ],
+  "worksfor": "",
+  "location": "Taipei, Taiwan",
+  "fullname": "Tai An Su",
+  "website": "http://taian.su",
+  "avatar": "https://avatars3.githubusercontent.com/u/241597?v=3&s=460",
+  "contribs": 302,
+  "orgs": [
+    {
+      "railsgirls-taiwan": "https://avatars2.githubusercontent.com/u/5234811?v=3&s=70"
+    }
+  ]
+}

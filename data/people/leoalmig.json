@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/leoalmig",
+  "img": "https://avatars1.githubusercontent.com/u/6754058?v=3&s=460",
+  "uid": 6754058,
+  "repos": 11,
+  "stars": 1100,
+  "followers": 70,
+  "following": 214,
+  "pinned": [
+    {
+      "url": "/leoalmig/materiais-aceleradora"
+    },
+    {
+      "url": "/leoalmig/exercicios-aceleradora"
+    },
+    {
+      "url": "/leoalmig/fonts"
+    },
+    {
+      "url": "/leoalmig/sneskit"
+    },
+    {
+      "url": "/leoalmig/reveal-tw-boilerplate"
+    },
+    {
+      "url": "/leoalmig/brave-clojure"
+    }
+  ],
+  "worksfor": "ThoughtWorks",
+  "location": "Porto Alegre",
+  "fullname": "Leonardo Iglesias",
+  "website": "http://leco.rocks",
+  "avatar": "https://avatars1.githubusercontent.com/u/6754058?v=3&s=460",
+  "contribs": 81,
+  "orgs": [
+    {
+      "guanacos": "https://avatars1.githubusercontent.com/u/24192776?v=3&s=70"
+    }
+  ]
+}

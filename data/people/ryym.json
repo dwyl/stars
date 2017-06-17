@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ryym",
+  "img": "https://avatars3.githubusercontent.com/u/12684251?v=3&s=460",
+  "uid": 12684251,
+  "repos": 73,
+  "stars": 856,
+  "followers": 14,
+  "following": 46,
+  "pinned": [
+    {
+      "url": "/ryym/vim-riot"
+    },
+    {
+      "url": "/ryym/othernpm"
+    },
+    {
+      "url": "/ryym/mocha-each"
+    },
+    {
+      "url": "/ryym/babel-rewire-wrapper"
+    },
+    {
+      "url": "/ryym/dotfiles"
+    },
+    {
+      "url": "/ryym/vim-unimpaired"
+    }
+  ],
+  "worksfor": "",
+  "location": "Japan",
+  "fullname": "ryym",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/12684251?v=3&s=460",
+  "contribs": 4211,
+  "orgs": []
+}

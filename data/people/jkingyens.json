@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/jkingyens",
+  "img": "https://avatars2.githubusercontent.com/u/1118200?v=3&s=460",
+  "uid": 1118200,
+  "repos": 92,
+  "stars": 2700,
+  "followers": 82,
+  "following": 137,
+  "pinned": [
+    {
+      "url": "/jkingyens/swift-http-server"
+    },
+    {
+      "url": "/jkingyens/docker4xcode"
+    },
+    {
+      "url": "/jkingyens/b2d-sync"
+    },
+    {
+      "url": "/jkingyens/sports-stream"
+    },
+    {
+      "url": "/jkingyens/grunt-gcs"
+    },
+    {
+      "url": "/jkingyens/gcloud-node"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Jeff Kingyens",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1118200?v=3&s=460",
+  "contribs": 160,
+  "orgs": [
+    {
+      "google": "https://avatars2.githubusercontent.com/u/1342004?v=3&s=70"
+    },
+    {
+      "sessions-io": "https://avatars3.githubusercontent.com/u/12245391?v=3&s=70"
+    },
+    {
+      "ampproject": "https://avatars0.githubusercontent.com/u/14114390?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

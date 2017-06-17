@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/dolce",
+  "img": "https://avatars1.githubusercontent.com/u/2837790?v=3&s=460",
+  "uid": 2837790,
+  "repos": 13,
+  "stars": 449,
+  "followers": 101,
+  "following": 42,
+  "pinned": [
+    {
+      "url": "/dolce/iziModal"
+    },
+    {
+      "url": "/dolce/iziToast"
+    },
+    {
+      "url": "/dolce/draggable-google-modal"
+    },
+    {
+      "url": "/dolce/awesome-php"
+    },
+    {
+      "url": "/dolce/responsive-grid-form"
+    },
+    {
+      "url": "/dolce/awesome-jquery"
+    }
+  ],
+  "worksfor": "",
+  "location": "Brasil",
+  "fullname": "Marcelo Dolce",
+  "website": "http://www.marcelodolce.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/2837790?v=3&s=460",
+  "contribs": 141,
+  "orgs": []
+}

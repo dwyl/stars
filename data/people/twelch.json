@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/twelch",
+  "img": "https://avatars3.githubusercontent.com/u/81816?v=3&s=460",
+  "uid": 81816,
+  "repos": 34,
+  "stars": 97,
+  "followers": 25,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/twelch/react-mapbox-gl-seed"
+    },
+    {
+      "url": "/twelch/react-mapbox-gl-js"
+    },
+    {
+      "url": "/twelch/caribnode"
+    },
+    {
+      "url": "/twelch/kit-client-react"
+    },
+    {
+      "url": "/twelch/kit-server-hapi"
+    },
+    {
+      "url": "/twelch/play-ui-lib-browserify"
+    }
+  ],
+  "worksfor": "Dots.Connect",
+  "location": "Portland, OR",
+  "fullname": "Tim Welch",
+  "website": "http://dotsconnect.us",
+  "avatar": "https://avatars3.githubusercontent.com/u/81816?v=3&s=460",
+  "contribs": 722,
+  "orgs": []
+}

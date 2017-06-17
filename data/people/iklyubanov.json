@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/iklyubanov",
+  "img": "https://avatars2.githubusercontent.com/u/7713689?v=3&s=460",
+  "uid": 7713689,
+  "repos": 11,
+  "stars": 130,
+  "followers": 8,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/iklyubanov/AxonDistributedSagaImplementation"
+    },
+    {
+      "url": "/iklyubanov/PhoneAddressBookIS"
+    },
+    {
+      "url": "/iklyubanov/droid-simple-chat"
+    },
+    {
+      "url": "/iklyubanov/EnglishCoach"
+    },
+    {
+      "url": "/iklyubanov/tomee"
+    },
+    {
+      "url": "/iklyubanov/english-words"
+    }
+  ],
+  "worksfor": "@epam",
+  "location": "Russian Federation, Moscow",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/7713689?v=3&s=460",
+  "contribs": 6,
+  "orgs": []
+}

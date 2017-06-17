@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/ayoub-belarbi",
+  "img": "https://avatars0.githubusercontent.com/u/4719628?v=3&s=460",
+  "uid": 4719628,
+  "repos": 5,
+  "stars": 104,
+  "followers": 3,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/ayoub-belarbi/hawk"
+    },
+    {
+      "url": "/ayoub-belarbi/bootstrap"
+    },
+    {
+      "url": "/ayoub-belarbi/github-cheat-sheet"
+    },
+    {
+      "url": "/ayoub-belarbi/cv"
+    },
+    {
+      "url": "/ayoub-belarbi/obs-ci"
+    }
+  ],
+  "worksfor": "BinFlow",
+  "location": "Germany",
+  "fullname": "Ayoub Belarbi",
+  "website": "http://www.binflow.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/4719628?v=3&s=460",
+  "contribs": 278,
+  "orgs": [
+    {
+      "ClusterLabs": "https://avatars2.githubusercontent.com/u/574912?v=3&s=70"
+    }
+  ]
+}

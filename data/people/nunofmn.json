@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/nunofmn",
+  "img": "https://avatars1.githubusercontent.com/u/1160976?v=3&s=460",
+  "uid": 1160976,
+  "repos": 22,
+  "stars": 421,
+  "followers": 33,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/libp2p/js-libp2p-mdns"
+    },
+    {
+      "url": "/libp2p/js-libp2p-railing"
+    },
+    {
+      "url": "/reTHINK-project/dev-registry-domain"
+    },
+    {
+      "url": "/nunofmn/birdwatch"
+    },
+    {
+      "url": "/nunofmn/p2pbay"
+    },
+    {
+      "url": "/ipfs/js-ipfs"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Nuno Nogueira",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1160976?v=3&s=460",
+  "contribs": 315,
+  "orgs": [
+    {
+      "ipfs": "https://avatars0.githubusercontent.com/u/10536621?v=3&s=70"
+    },
+    {
+      "reTHINK-project": "https://avatars1.githubusercontent.com/u/10706644?v=3&s=70"
+    },
+    {
+      "libp2p": "https://avatars2.githubusercontent.com/u/14838238?v=3&s=70"
+    }
+  ]
+}

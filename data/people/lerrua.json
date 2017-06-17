@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/lerrua",
+  "img": "https://avatars1.githubusercontent.com/u/154603?v=3&s=460",
+  "uid": 154603,
+  "repos": 28,
+  "stars": 1600,
+  "followers": 162,
+  "following": 74,
+  "pinned": [
+    {
+      "url": "/lerrua/remote-jobs-brazil"
+    },
+    {
+      "url": "/avelino/vim-bootstrap"
+    },
+    {
+      "url": "/lerrua/Dotfiles"
+    },
+    {
+      "url": "/lerrua/tapioca-google"
+    },
+    {
+      "url": "/lerrua/tapioca-linkedin"
+    },
+    {
+      "url": "/ryanoasis/vim-devicons"
+    }
+  ],
+  "worksfor": "@social-squad",
+  "location": "Belo Horizonte, Brazil",
+  "fullname": "Igor P. Leroy",
+  "website": "http://www.lerrua.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/154603?v=3&s=460",
+  "contribs": 167,
+  "orgs": [
+    {
+      "pythonmg": "https://avatars3.githubusercontent.com/u/1778356?v=3&s=70"
+    },
+    {
+      "opps": "https://avatars0.githubusercontent.com/u/3734635?v=3&s=70"
+    },
+    {
+      "mining": "https://avatars1.githubusercontent.com/u/9921484?v=3&s=70"
+    },
+    {
+      "social-squad": "https://avatars2.githubusercontent.com/u/20007376?v=3&s=70"
+    },
+    {
+      "PyDataBH": "https://avatars1.githubusercontent.com/u/25386936?v=3&s=70"
+    }
+  ]
+}

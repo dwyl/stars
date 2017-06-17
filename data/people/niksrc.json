@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/niksrc",
+  "img": "https://avatars0.githubusercontent.com/u/12221985?v=3&s=460",
+  "uid": 12221985,
+  "repos": 43,
+  "stars": 161,
+  "followers": 21,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/niksrc/ner"
+    },
+    {
+      "url": "/niksrc/balalala"
+    },
+    {
+      "url": "/niksrc/sha1-cli"
+    },
+    {
+      "url": "/niksrc/aadhaarpay"
+    },
+    {
+      "url": "/niksrc/emp-demo"
+    },
+    {
+      "url": "/niksrc/libconf"
+    }
+  ],
+  "worksfor": "gradeup.co",
+  "location": "New Delhi, India",
+  "fullname": "Nikhil Srivastava",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/12221985?v=3&s=460",
+  "contribs": 193,
+  "orgs": [],
+  "developerprogram": true
+}

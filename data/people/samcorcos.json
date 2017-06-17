@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/samcorcos",
+  "img": "https://avatars2.githubusercontent.com/u/2626231?v=3&s=460",
+  "uid": 2626231,
+  "repos": 199,
+  "stars": 319,
+  "followers": 90,
+  "following": 36,
+  "pinned": [
+    {
+      "url": "/code-corps/stripity_stripe"
+    },
+    {
+      "url": "/azmenak/react-stripe-checkout"
+    },
+    {
+      "url": "/claudiajs/claudia-bot-builder"
+    },
+    {
+      "url": "/samcorcos/meteor-react-ionic-basic"
+    },
+    {
+      "url": "/samcorcos/campaign-hawk"
+    },
+    {
+      "url": "/samcorcos/meteor-react-ionic-tinder-4"
+    }
+  ],
+  "worksfor": "Corcos.io",
+  "location": "",
+  "fullname": "Sam Corcos",
+  "website": "http://corcos.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/2626231?v=3&s=460",
+  "contribs": 4931,
+  "orgs": [
+    {
+      "Sightline-Maps": "https://avatars1.githubusercontent.com/u/12089372?v=3&s=70"
+    },
+    {
+      "LearnPhoenix": "https://avatars0.githubusercontent.com/u/16656697?v=3&s=70"
+    },
+    {
+      "cardash": "https://avatars2.githubusercontent.com/u/19557049?v=3&s=70"
+    },
+    {
+      "POVME": "https://avatars1.githubusercontent.com/u/20071798?v=3&s=70"
+    }
+  ]
+}

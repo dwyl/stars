@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/dvalchanov",
+  "img": "https://avatars3.githubusercontent.com/u/1281720?v=3&s=460",
+  "uid": 1281720,
+  "repos": 14,
+  "stars": 230,
+  "followers": 11,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/dvalchanov/react-redux-2048"
+    },
+    {
+      "url": "/dvalchanov/closeio-mobile"
+    },
+    {
+      "url": "/dvalchanov/slide-me"
+    },
+    {
+      "url": "/dvalchanov/react-redux-starter"
+    },
+    {
+      "url": "/dvalchanov/pull-to-refresh"
+    },
+    {
+      "url": "/dvalchanov/backbone.wreqr"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Dimitar Valchanov",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1281720?v=3&s=460",
+  "contribs": 13,
+  "orgs": [
+    {
+      "aeroio": "https://avatars1.githubusercontent.com/u/1975142?v=3&s=70"
+    }
+  ]
+}

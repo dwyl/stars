@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/sean-hill",
+  "img": "https://avatars2.githubusercontent.com/u/1205866?v=3&s=460",
+  "uid": 1205866,
+  "repos": 32,
+  "stars": 109,
+  "followers": 15,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/unbill/unbill-ionic"
+    },
+    {
+      "url": "/unbill/unbill-node"
+    },
+    {
+      "url": "/sean-hill/ionic-user-auth-express"
+    },
+    {
+      "url": "/sean-hill/ionic-gulp-release"
+    },
+    {
+      "url": "/sean-hill/raspberry-pi-web-server"
+    },
+    {
+      "url": "/sean-hill/my-gists"
+    }
+  ],
+  "worksfor": "Q2",
+  "location": "Arizona",
+  "fullname": "Sean Hill",
+  "website": "http://www.seanhill.info",
+  "avatar": "https://avatars2.githubusercontent.com/u/1205866?v=3&s=460",
+  "contribs": 141,
+  "orgs": []
+}

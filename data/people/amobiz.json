@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/amobiz",
+  "img": "https://avatars0.githubusercontent.com/u/7576114?v=3&s=460",
+  "uid": 7576114,
+  "repos": 36,
+  "stars": 957,
+  "followers": 77,
+  "following": 659,
+  "pinned": [
+    {
+      "url": "/amobiz/regexgen.js"
+    },
+    {
+      "url": "/gulp-cookery/gulp-chef"
+    },
+    {
+      "url": "/amobiz/json-normalizer"
+    },
+    {
+      "url": "/amobiz/json-regulator"
+    },
+    {
+      "url": "/amobiz/globjoin"
+    },
+    {
+      "url": "/amobiz/jsOAuthChromeEx"
+    }
+  ],
+  "worksfor": "",
+  "location": "Taipei/Taiwan",
+  "fullname": "amobiz",
+  "website": "https://amobiz.github.io/",
+  "avatar": "https://avatars0.githubusercontent.com/u/7576114?v=3&s=460",
+  "contribs": 1593,
+  "orgs": [
+    {
+      "gulp-cookery": "https://avatars0.githubusercontent.com/u/16467065?v=3&s=70"
+    }
+  ]
+}

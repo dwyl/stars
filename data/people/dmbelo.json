@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/dmbelo",
+  "img": "https://avatars1.githubusercontent.com/u/7279509?v=3&s=460",
+  "uid": 7279509,
+  "repos": 10,
+  "stars": 29,
+  "followers": 0,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/dmbelo/LIDARLite_Basics"
+    },
+    {
+      "url": "/dmbelo/udacity.carnd.behavioral-cloning"
+    },
+    {
+      "url": "/dmbelo/udacity.carnd.advanced-lane-finding"
+    },
+    {
+      "url": "/dmbelo/udacity.carnd.vehicle-detection-and-tracking"
+    },
+    {
+      "url": "/dmbelo/udacity.carnd.extended-kalman-filter"
+    },
+    {
+      "url": "/dmbelo/udacity.carnd.unscented-kalman-filter"
+    }
+  ],
+  "worksfor": "",
+  "location": "San Francisco, CA",
+  "fullname": "David Belo",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/7279509?v=3&s=460",
+  "contribs": 200,
+  "orgs": []
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/bjrmatos",
+  "img": "https://avatars2.githubusercontent.com/u/4262050?v=3&s=460",
+  "uid": 4262050,
+  "repos": 185,
+  "stars": 6100,
+  "followers": 78,
+  "following": 38,
+  "pinned": [
+    {
+      "url": "/bjrmatos/electron-workers"
+    },
+    {
+      "url": "/bjrmatos/electron-html-to"
+    },
+    {
+      "url": "/bjrmatos/jsreport-electron-pdf"
+    },
+    {
+      "url": "/bjrmatos/sequelize-auto-import"
+    },
+    {
+      "url": "/bjrmatos/curso-reactjs"
+    },
+    {
+      "url": "/bjrmatos/json-schema-sugar"
+    }
+  ],
+  "worksfor": "",
+  "location": "Lima, Peru",
+  "fullname": "BJR Matos",
+  "website": "http://github.com/bjrmatos",
+  "avatar": "https://avatars2.githubusercontent.com/u/4262050?v=3&s=460",
+  "contribs": 1003,
+  "orgs": [
+    {
+      "platzi": "https://avatars2.githubusercontent.com/u/2975064?v=3&s=70"
+    },
+    {
+      "reactjs-hispano": "https://avatars2.githubusercontent.com/u/11261352?v=3&s=70"
+    }
+  ]
+}

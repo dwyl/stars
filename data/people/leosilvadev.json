@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/leosilvadev",
+  "img": "https://avatars1.githubusercontent.com/u/5465808?v=3&s=460",
+  "uid": 5465808,
+  "repos": 101,
+  "stars": 145,
+  "followers": 43,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/eclipse/vert.x"
+    },
+    {
+      "url": "/vert-x3/vertx-mysql-postgresql-client"
+    },
+    {
+      "url": "/leosilvadev/brandenburg"
+    },
+    {
+      "url": "/leosilvadev/groovy-rx-postgres-async-driver"
+    }
+  ],
+  "worksfor": "FinLeap",
+  "location": "Berlin, Germany",
+  "fullname": "Leonardo Silva",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/5465808?v=3&s=460",
+  "contribs": 249,
+  "orgs": []
+}

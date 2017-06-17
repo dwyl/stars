@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/dannychua",
+  "img": "https://avatars2.githubusercontent.com/u/1836449?v=3&s=460",
+  "uid": 1836449,
+  "repos": 8,
+  "stars": 209,
+  "followers": 5,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/dannychua/Electricity-Price-Predictor"
+    },
+    {
+      "url": "/dannychua/stockmodel"
+    },
+    {
+      "url": "/dannychua/meteoric.sh"
+    },
+    {
+      "url": "/dannychua/matching-engine"
+    },
+    {
+      "url": "/dannychua/bitcoinjs-server"
+    },
+    {
+      "url": "/dannychua/node-multi-hashing"
+    }
+  ],
+  "worksfor": "Harvard University",
+  "location": "Boston",
+  "fullname": "Danny",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1836449?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

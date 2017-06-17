@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/saviomd",
+  "img": "https://avatars1.githubusercontent.com/u/1065210?v=3&s=460",
+  "uid": 1065210,
+  "repos": 10,
+  "stars": 615,
+  "followers": 15,
+  "following": 36,
+  "pinned": [
+    {
+      "url": "/saviomd/tools-config-saviomd"
+    },
+    {
+      "url": "/saviomd/saviomd.github.io"
+    },
+    {
+      "url": "/saviomd/blog"
+    },
+    {
+      "url": "/saviomd/driblesfifa"
+    },
+    {
+      "url": "/saviomd/prototyper"
+    },
+    {
+      "url": "/saviomd/atom-config"
+    }
+  ],
+  "worksfor": "Gazeus Games",
+  "location": "Rio de Janeiro, Brazil",
+  "fullname": "Sávio Mendes",
+  "website": "http://saviomd.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1065210?v=3&s=460",
+  "contribs": 127,
+  "orgs": [
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "saviomd-beta": "https://avatars1.githubusercontent.com/u/13577261?v=3&s=70"
+    }
+  ]
+}

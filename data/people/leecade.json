@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/leecade",
+  "img": "https://avatars2.githubusercontent.com/u/533360?v=3&s=460",
+  "uid": 533360,
+  "repos": 627,
+  "stars": 1900,
+  "followers": 258,
+  "following": 72,
+  "pinned": [
+    {
+      "url": "/leecade/fe"
+    },
+    {
+      "url": "/leecade/react-native-swiper"
+    },
+    {
+      "url": "/leecade/ios-dev-flow"
+    },
+    {
+      "url": "/leecade/koa-webpack-middleware"
+    },
+    {
+      "url": "/leecade/date"
+    },
+    {
+      "url": "/leecade/caniuse_local"
+    }
+  ],
+  "worksfor": "Available for hire",
+  "location": "Hamburg, Deutschland",
+  "fullname": "斯人",
+  "website": "http://leecade.github.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/533360?v=3&s=460",
+  "contribs": 443,
+  "orgs": [
+    {
+      "big-data-visualization": "https://avatars1.githubusercontent.com/u/9847699?v=3&s=70"
+    }
+  ]
+}

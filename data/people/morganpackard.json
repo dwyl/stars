@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/morganpackard",
+  "img": "https://avatars1.githubusercontent.com/u/1010021?v=3&s=460",
+  "uid": 1010021,
+  "repos": 25,
+  "stars": 22,
+  "followers": 23,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/morganpackard/VerticalSlider"
+    },
+    {
+      "url": "/morganpackard/EZPlug"
+    },
+    {
+      "url": "/morganpackard/realtime_resampler"
+    },
+    {
+      "url": "/morganpackard/VerticalSliderBug"
+    },
+    {
+      "url": "/morganpackard/novocaine"
+    },
+    {
+      "url": "/morganpackard/TonicPerformanceTests"
+    }
+  ],
+  "worksfor": "morganpackard.com",
+  "location": "Somerville, MA, USA",
+  "fullname": "Morgan Packard",
+  "website": "https://soundcloud.com/morgan-packard",
+  "avatar": "https://avatars1.githubusercontent.com/u/1010021?v=3&s=460",
+  "contribs": 18,
+  "orgs": [
+    {
+      "kenzanmedia": "https://avatars1.githubusercontent.com/u/598663?v=3&s=70"
+    },
+    {
+      "TonicAudio": "https://avatars3.githubusercontent.com/u/4019548?v=3&s=70"
+    }
+  ]
+}

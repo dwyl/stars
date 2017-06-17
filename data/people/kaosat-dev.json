@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kaosat-dev",
+  "img": "https://avatars3.githubusercontent.com/u/623281?v=3&s=460",
+  "uid": 623281,
+  "repos": 132,
+  "stars": 1700,
+  "followers": 58,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/kaosat-dev/CoffeeSCad"
+    },
+    {
+      "url": "/kaosat-dev/socket-io"
+    },
+    {
+      "url": "/kaosat-dev/polymer-threejs"
+    },
+    {
+      "url": "/kaosat-dev/Doboz-web"
+    },
+    {
+      "url": "/usco/Jam"
+    },
+    {
+      "url": "/kaosat-dev/adafruit-i2c-pwm-driver"
+    }
+  ],
+  "worksfor": "Ultimaker/Youmagine",
+  "location": "Karlsruhe Germany",
+  "fullname": "Mark Moissette",
+  "website": "http://www.kaosat.net",
+  "avatar": "https://avatars3.githubusercontent.com/u/623281?v=3&s=460",
+  "contribs": 2673,
+  "orgs": []
+}

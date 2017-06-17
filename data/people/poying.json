@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/poying",
+  "img": "https://avatars2.githubusercontent.com/u/1190072?v=3&s=460",
+  "uid": 1190072,
+  "repos": 18,
+  "stars": 2300,
+  "followers": 100,
+  "following": 72,
+  "pinned": [
+    {
+      "url": "/poying/sloth.elm"
+    },
+    {
+      "url": "/poying/facebook-rss"
+    },
+    {
+      "url": "/poying/elm-shadow"
+    },
+    {
+      "url": "/poying/readability-api"
+    },
+    {
+      "url": "/poying/netease-course"
+    },
+    {
+      "url": "/poying/elm-style"
+    }
+  ],
+  "worksfor": "",
+  "location": "Taipei, Taiwan",
+  "fullname": "Po-Ying Chen",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1190072?v=3&s=460",
+  "contribs": 89,
+  "orgs": [
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "taiwan": "https://avatars1.githubusercontent.com/u/15975884?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

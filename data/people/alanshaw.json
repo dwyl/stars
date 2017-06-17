@@ -1,0 +1,89 @@
+{
+  "url": "https://github.com/alanshaw",
+  "img": "https://avatars3.githubusercontent.com/u/152863?v=3&s=460",
+  "uid": 152863,
+  "repos": 240,
+  "stars": 345,
+  "followers": 269,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/alanshaw/markdown-pdf"
+    },
+    {
+      "url": "/alanshaw/david"
+    },
+    {
+      "url": "/alanshaw/david-www"
+    },
+    {
+      "url": "/alanshaw/grunt-include-replace"
+    },
+    {
+      "url": "/alanshaw/grunt-markdown-pdf"
+    },
+    {
+      "url": "/alanshaw/stylist"
+    }
+  ],
+  "worksfor": "TABLEFLIP",
+  "location": "London",
+  "fullname": "Alan Shaw",
+  "website": "http://tableflip.io/",
+  "avatar": "https://avatars3.githubusercontent.com/u/152863?v=3&s=460",
+  "contribs": 755,
+  "orgs": [
+    {
+      "lnug": "https://avatars0.githubusercontent.com/u/4046959?v=3&s=70"
+    },
+    {
+      "require-lx": "https://avatars1.githubusercontent.com/u/4672751?v=3&s=70"
+    },
+    {
+      "tableflip": "https://avatars1.githubusercontent.com/u/5347145?v=3&s=70"
+    },
+    {
+      "nodeschool": "https://avatars2.githubusercontent.com/u/5437587?v=3&s=70"
+    },
+    {
+      "LXJS": "https://avatars0.githubusercontent.com/u/6461627?v=3&s=70"
+    },
+    {
+      "driift": "https://avatars3.githubusercontent.com/u/7840567?v=3&s=70"
+    },
+    {
+      "meteor-london": "https://avatars1.githubusercontent.com/u/7863151?v=3&s=70"
+    },
+    {
+      "handpipe": "https://avatars0.githubusercontent.com/u/8217239?v=3&s=70"
+    },
+    {
+      "dimsumjs": "https://avatars2.githubusercontent.com/u/8371806?v=3&s=70"
+    },
+    {
+      "protocol": "https://avatars1.githubusercontent.com/u/8771617?v=3&s=70"
+    },
+    {
+      "bowlingjs": "https://avatars1.githubusercontent.com/u/8825909?v=3&s=70"
+    },
+    {
+      "docdis": "https://avatars2.githubusercontent.com/u/10836426?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "Medialist": "https://avatars2.githubusercontent.com/u/12220890?v=3&s=70"
+    },
+    {
+      "kitmapper": "https://avatars2.githubusercontent.com/u/13317556?v=3&s=70"
+    },
+    {
+      "TheScienceMuseum": "https://avatars2.githubusercontent.com/u/16609662?v=3&s=70"
+    },
+    {
+      "cotech": "https://avatars1.githubusercontent.com/u/25925979?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

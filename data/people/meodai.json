@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/meodai",
+  "img": "https://avatars1.githubusercontent.com/u/608386?v=3&s=460",
+  "uid": 608386,
+  "repos": 40,
+  "stars": 1000,
+  "followers": 67,
+  "following": 54,
+  "pinned": [
+    {
+      "url": "/meodai/gotAnewDesignerMac"
+    },
+    {
+      "url": "/meodai/sensible"
+    },
+    {
+      "url": "/meodai/ticktack.js"
+    },
+    {
+      "url": "/meodai/mod_autoindex.oh"
+    },
+    {
+      "url": "/meodai/bonescss"
+    },
+    {
+      "url": "/meodai/dialog-size"
+    }
+  ],
+  "worksfor": "elastiq",
+  "location": "Zürich",
+  "fullname": "David Aerne",
+  "website": "http://elastiq.ch",
+  "avatar": "https://avatars1.githubusercontent.com/u/608386?v=3&s=460",
+  "contribs": 1423,
+  "orgs": [],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/hedoluna",
+  "img": "https://avatars1.githubusercontent.com/u/1106950?v=3&s=460",
+  "uid": 1106950,
+  "repos": 9,
+  "stars": 520,
+  "followers": 12,
+  "following": 74,
+  "pinned": [
+    {
+      "url": "/hedoluna/try_git"
+    },
+    {
+      "url": "/hedoluna/cppcheck"
+    },
+    {
+      "url": "/hedoluna/Contract"
+    },
+    {
+      "url": "/hedoluna/JUCE"
+    },
+    {
+      "url": "/hedoluna/android-tic-tac-toe"
+    },
+    {
+      "url": "/hedoluna/midi-shape-shifter"
+    }
+  ],
+  "worksfor": "",
+  "location": "Turin, Italy",
+  "fullname": "Orlando",
+  "website": "http://wikijava.org",
+  "avatar": "https://avatars1.githubusercontent.com/u/1106950?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

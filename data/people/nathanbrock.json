@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/nathanbrock",
+  "img": "https://avatars3.githubusercontent.com/u/851698?v=3&s=460",
+  "uid": 851698,
+  "repos": 9,
+  "stars": 387,
+  "followers": 8,
+  "following": 36,
+  "pinned": [
+    {
+      "url": "/nathanbrock/StickyChimp"
+    },
+    {
+      "url": "/nathanbrock/LawnchairSync"
+    },
+    {
+      "url": "/nathanbrock/dotfiles"
+    },
+    {
+      "url": "/nathanbrock/outline"
+    },
+    {
+      "url": "/nathanbrock/cloudplayer-scrobbler"
+    },
+    {
+      "url": "/nathanbrock/last-release-git-tag"
+    }
+  ],
+  "worksfor": "BBC",
+  "location": "Manchester, UK",
+  "fullname": "Nathan",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/851698?v=3&s=460",
+  "contribs": 1579,
+  "orgs": [
+    {
+      "bbc": "https://avatars3.githubusercontent.com/u/828722?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

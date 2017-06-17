@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/laysent",
+  "img": "https://avatars0.githubusercontent.com/u/1191606?v=3&s=460",
+  "uid": 1191606,
+  "repos": 10,
+  "stars": 335,
+  "followers": 7,
+  "following": 53,
+  "pinned": [
+    {
+      "url": "/laysent/sequenz"
+    },
+    {
+      "url": "/laysent/paramTypes"
+    },
+    {
+      "url": "/laysent/babel-plugin-transform-string-join"
+    },
+    {
+      "url": "/laysent/babel-plugin-strip-module"
+    }
+  ],
+  "worksfor": "",
+  "location": "Hangzhou,China",
+  "fullname": "LaySent",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1191606?v=3&s=460",
+  "contribs": 83,
+  "orgs": []
+}

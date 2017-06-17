@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/lex111",
+  "img": "https://avatars3.githubusercontent.com/u/4408379?v=3&s=460",
+  "uid": 4408379,
+  "repos": 121,
+  "stars": 1300,
+  "followers": 16,
+  "following": 98,
+  "pinned": [
+    {
+      "url": "/lex111/it61-rails"
+    },
+    {
+      "url": "/lex111/symfony"
+    },
+    {
+      "url": "/lex111/cerebro"
+    },
+    {
+      "url": "/lex111/phpsa"
+    },
+    {
+      "url": "/lex111/wallabag"
+    },
+    {
+      "url": "/lex111/yiipowered"
+    }
+  ],
+  "worksfor": "@worksolutions",
+  "location": "Rostov-on-Don, Russia",
+  "fullname": "Alexey Pyltsyn",
+  "website": "http://lex111.ru",
+  "avatar": "https://avatars3.githubusercontent.com/u/4408379?v=3&s=460",
+  "contribs": 513,
+  "orgs": [
+    {
+      "worksolutions": "https://avatars3.githubusercontent.com/u/4678825?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "awesomebitrix": "https://avatars3.githubusercontent.com/u/24612852?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

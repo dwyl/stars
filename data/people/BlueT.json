@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/BlueT",
+  "img": "https://avatars0.githubusercontent.com/u/51141?v=3&s=460",
+  "uid": 51141,
+  "repos": 55,
+  "stars": 537,
+  "followers": 68,
+  "following": 88,
+  "pinned": [
+    {
+      "url": "/BlueT/nearby-news"
+    },
+    {
+      "url": "/BlueT/jaipo"
+    },
+    {
+      "url": "/BlueT/acme-msdn-sputility"
+    },
+    {
+      "url": "/BlueT/p5-MojoX-Session-Store-Redis"
+    },
+    {
+      "url": "/BlueT/AnyEvent-XMLRPC"
+    },
+    {
+      "url": "/BlueT/obj-filter"
+    }
+  ],
+  "worksfor": "Ubuntu@Taiwan",
+  "location": "Puli Town, Nantou County, Taiwan",
+  "fullname": "BlueT - Matthew Lien - 練喆明",
+  "website": "http://Studio.BlueT.org",
+  "avatar": "https://avatars0.githubusercontent.com/u/51141?v=3&s=460",
+  "contribs": 298,
+  "orgs": [
+    {
+      "OpenSplash": "https://avatars3.githubusercontent.com/u/538745?v=3&s=70"
+    },
+    {
+      "perltaiwan": "https://avatars1.githubusercontent.com/u/1469038?v=3&s=70"
+    },
+    {
+      "MOLi-rocks": "https://avatars0.githubusercontent.com/u/9153748?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

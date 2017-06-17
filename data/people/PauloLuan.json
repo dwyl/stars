@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/PauloLuan",
+  "img": "https://avatars1.githubusercontent.com/u/1131963?v=3&s=460",
+  "uid": 1131963,
+  "repos": 100,
+  "stars": 217,
+  "followers": 88,
+  "following": 195,
+  "pinned": [
+    {
+      "url": "/sjcdigital/leis"
+    },
+    {
+      "url": "/PauloLuan/recursive-base64-css"
+    },
+    {
+      "url": "/PauloLuan/angular-gulp-seed"
+    },
+    {
+      "url": "/PauloLuan/node-express-seed"
+    },
+    {
+      "url": "/PauloLuan/generator-mean-modules"
+    },
+    {
+      "url": "/PauloLuan/ringo-socialauth"
+    }
+  ],
+  "worksfor": "SJCDigital",
+  "location": "São José dos Campos",
+  "fullname": "Paulo Luan",
+  "website": "http://sjcdigital.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/1131963?v=3&s=460",
+  "contribs": 226,
+  "orgs": [
+    {
+      "sjcdigital": "https://avatars0.githubusercontent.com/u/5611890?v=3&s=70"
+    },
+    {
+      "PUGVale": "https://avatars0.githubusercontent.com/u/6979182?v=3&s=70"
+    },
+    {
+      "Jug-Vale": "https://avatars0.githubusercontent.com/u/7570355?v=3&s=70"
+    },
+    {
+      "databr": "https://avatars2.githubusercontent.com/u/8595385?v=3&s=70"
+    },
+    {
+      "cultural-ubuntu": "https://avatars0.githubusercontent.com/u/12894925?v=3&s=70"
+    }
+  ]
+}

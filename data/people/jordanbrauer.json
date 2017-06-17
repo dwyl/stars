@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jordanbrauer",
+  "img": "https://avatars0.githubusercontent.com/u/18744334?v=3&s=460",
+  "uid": 18744334,
+  "repos": 33,
+  "stars": 37,
+  "followers": 7,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/jordanbrauer/jordanbrauer.github.io"
+    },
+    {
+      "url": "/jordanbrauer/udacity-neighbourhood-map"
+    },
+    {
+      "url": "/jordanbrauer/php-registry"
+    },
+    {
+      "url": "/jordanbrauer/php-router"
+    },
+    {
+      "url": "/ProjectTimato/timato-client-web"
+    },
+    {
+      "url": "/jordanbrauer/cronitor-php"
+    }
+  ],
+  "worksfor": "",
+  "location": "Canada",
+  "fullname": "Jordan Brauer",
+  "website": "https://jordanbrauer.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/18744334?v=3&s=460",
+  "contribs": 474,
+  "orgs": [
+    {
+      "ProjectTimato": "https://avatars3.githubusercontent.com/u/23005152?v=3&s=70"
+    }
+  ]
+}

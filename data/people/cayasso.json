@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/cayasso",
+  "img": "https://avatars0.githubusercontent.com/u/42518?v=3&s=460",
+  "uid": 42518,
+  "repos": 135,
+  "stars": 476,
+  "followers": 60,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/cayasso/mongo-oplog"
+    },
+    {
+      "url": "/cayasso/cacheman"
+    },
+    {
+      "url": "/cayasso/primus.io"
+    },
+    {
+      "url": "/cayasso/primus-rooms"
+    },
+    {
+      "url": "/cayasso/mongoose-cachebox"
+    },
+    {
+      "url": "/cayasso/primus-emitter"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Jonathan Brumley",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/42518?v=3&s=460",
+  "contribs": 185,
+  "orgs": [
+    {
+      "18techs": "https://avatars0.githubusercontent.com/u/4008667?v=3&s=70"
+    },
+    {
+      "easify": "https://avatars2.githubusercontent.com/u/4429812?v=3&s=70"
+    },
+    {
+      "defaultdynamics": "https://avatars3.githubusercontent.com/u/4745040?v=3&s=70"
+    }
+  ]
+}

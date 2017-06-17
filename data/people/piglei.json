@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/piglei",
+  "img": "https://avatars2.githubusercontent.com/u/731266?v=3&s=460",
+  "uid": 731266,
+  "repos": 22,
+  "stars": 863,
+  "followers": 147,
+  "following": 68,
+  "pinned": [
+    {
+      "url": "/piglei/uwsgi-sloth"
+    },
+    {
+      "url": "/piglei/fmx163"
+    },
+    {
+      "url": "/piglei/django-qiniu"
+    },
+    {
+      "url": "/piglei/nowater"
+    },
+    {
+      "url": "/piglei/nowater_web"
+    },
+    {
+      "url": "/piglei/tieba_poster"
+    }
+  ],
+  "worksfor": "Tencent",
+  "location": "ShenZhen, China",
+  "fullname": "piglei™",
+  "website": "http://www.zlovezl.cn",
+  "avatar": "https://avatars2.githubusercontent.com/u/731266?v=3&s=460",
+  "contribs": 21,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/yangwao",
+  "img": "https://avatars3.githubusercontent.com/u/5887929?v=3&s=460",
+  "uid": 5887929,
+  "repos": 253,
+  "stars": 963,
+  "followers": 42,
+  "following": 123,
+  "pinned": [
+    {
+      "url": "/yangwao/ipfs-hypercube"
+    },
+    {
+      "url": "/yangwao/awesome-offline"
+    },
+    {
+      "url": "/yangwao/hacker-conferences"
+    },
+    {
+      "url": "/yangwao/ipfs-talk"
+    },
+    {
+      "url": "/yangwao/modserv"
+    },
+    {
+      "url": "/yangwao/hypercube"
+    }
+  ],
+  "worksfor": "VFTS352.galaxy",
+  "location": "Earth",
+  "fullname": "Matej Nemček",
+  "website": "https://twitter.com/yangwao",
+  "avatar": "https://avatars3.githubusercontent.com/u/5887929?v=3&s=460",
+  "contribs": 375,
+  "orgs": [
+    {
+      "Progressbar": "https://avatars1.githubusercontent.com/u/845283?v=3&s=70"
+    }
+  ]
+}

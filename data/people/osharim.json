@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/osharim",
+  "img": "https://avatars3.githubusercontent.com/u/1836407?v=3&s=460",
+  "uid": 1836407,
+  "repos": 82,
+  "stars": 497,
+  "followers": 21,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/hpneo/gmaps"
+    },
+    {
+      "url": "/osharim/Communicate-Python-with-NodeJS-through-RabbitMQ"
+    },
+    {
+      "url": "/osharim/Generate-RSA-keys-with-a-native-algorithm"
+    },
+    {
+      "url": "/osharim/iR-control"
+    },
+    {
+      "url": "/osharim/Leslie-Lamport"
+    },
+    {
+      "url": "/osharim/Heyomar.co"
+    }
+  ],
+  "worksfor": "Béntel",
+  "location": "México",
+  "fullname": "Omar Sharim",
+  "website": "http://osharim.xyz/",
+  "avatar": "https://avatars3.githubusercontent.com/u/1836407?v=3&s=460",
+  "contribs": 72,
+  "orgs": [
+    {
+      "eventloop": "https://avatars0.githubusercontent.com/u/886919?v=3&s=70"
+    },
+    {
+      "Reistechnologies": "https://avatars1.githubusercontent.com/u/5413457?v=3&s=70"
+    },
+    {
+      "Bentelmx": "https://avatars1.githubusercontent.com/u/7761878?v=3&s=70"
+    }
+  ]
+}

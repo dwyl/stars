@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/reecube",
+  "img": "https://avatars1.githubusercontent.com/u/8499755?v=3&s=460",
+  "uid": 8499755,
+  "repos": 14,
+  "stars": 33,
+  "followers": 5,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/reecube/node-cute-file-browser"
+    },
+    {
+      "url": "/reecube/hello-phonegap"
+    },
+    {
+      "url": "/reecube/Framework7"
+    },
+    {
+      "url": "/reecube/ClearCookieAndReload"
+    },
+    {
+      "url": "/reecube/foundation"
+    },
+    {
+      "url": "/reecube/application-cross-platform-material-template"
+    }
+  ],
+  "worksfor": "ReeCube",
+  "location": "Switzerland",
+  "fullname": "Yves Riedener",
+  "website": "http://yves.reecube.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/8499755?v=3&s=460",
+  "contribs": 47,
+  "orgs": []
+}

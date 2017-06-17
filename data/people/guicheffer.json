@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/guicheffer",
+  "img": "https://avatars1.githubusercontent.com/u/5280832?v=3&s=460",
+  "uid": 5280832,
+  "repos": 20,
+  "stars": 79,
+  "followers": 27,
+  "following": 50,
+  "pinned": [
+    {
+      "url": "/guicheffer/cheffplate"
+    },
+    {
+      "url": "/guicheffer/nuketube"
+    },
+    {
+      "url": "/guicheffer/CI-frontend-monitoring"
+    },
+    {
+      "url": "/guicheffer/appolo"
+    },
+    {
+      "url": "/guicheffer/fourwheels"
+    },
+    {
+      "url": "/guicheffer/temwhats.com"
+    }
+  ],
+  "worksfor": "@VivaReal, @mahalo-media-group, @GuiaTech",
+  "location": "Sao Paulo, Brazil",
+  "fullname": "João Guilherme",
+  "website": "http://guicheffer.me/",
+  "avatar": "https://avatars1.githubusercontent.com/u/5280832?v=3&s=460",
+  "contribs": 1376,
+  "orgs": [
+    {
+      "VivaReal": "https://avatars2.githubusercontent.com/u/1659216?v=3&s=70"
+    },
+    {
+      "GuiaTech": "https://avatars0.githubusercontent.com/u/8644979?v=3&s=70"
+    },
+    {
+      "folhafront": "https://avatars2.githubusercontent.com/u/8645115?v=3&s=70"
+    },
+    {
+      "mahalo-media-group": "https://avatars0.githubusercontent.com/u/20252680?v=3&s=70"
+    }
+  ]
+}

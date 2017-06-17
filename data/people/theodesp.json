@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/theodesp",
+  "img": "https://avatars2.githubusercontent.com/u/328805?v=3&s=460",
+  "uid": 328805,
+  "repos": 55,
+  "stars": 1300,
+  "followers": 13,
+  "following": 42,
+  "pinned": [
+    {
+      "url": "/theodesp/neutrino-preset-typescript"
+    },
+    {
+      "url": "/theodesp/awesome-coding-camps"
+    },
+    {
+      "url": "/theodesp/os-utils"
+    },
+    {
+      "url": "/theodesp/rollup-starter"
+    },
+    {
+      "url": "/theodesp/alt-flow-react-example"
+    },
+    {
+      "url": "/theodesp/dotfiles"
+    }
+  ],
+  "worksfor": "Teckro",
+  "location": "",
+  "fullname": "Theofanis Despoudis",
+  "website": "https://theodespoudis.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/328805?v=3&s=460",
+  "contribs": 317,
+  "orgs": []
+}

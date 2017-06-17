@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/lucascaton",
+  "img": "https://avatars0.githubusercontent.com/u/86755?v=3&s=460",
+  "uid": 86755,
+  "repos": 110,
+  "stars": 1700,
+  "followers": 154,
+  "following": 142,
+  "pinned": [
+    {
+      "url": "/lucascaton/enumerate_it"
+    },
+    {
+      "url": "/lucascaton/vimfiles"
+    },
+    {
+      "url": "/lucascaton/massa"
+    },
+    {
+      "url": "/lucascaton/code2pdf"
+    },
+    {
+      "url": "/lucascaton/dotfiles"
+    },
+    {
+      "url": "/lucascaton/time_clock"
+    }
+  ],
+  "worksfor": "@reinteractive",
+  "location": "Brisbane, Australia",
+  "fullname": "Lucas Caton",
+  "website": "http://lucascaton.com.br/",
+  "avatar": "https://avatars0.githubusercontent.com/u/86755?v=3&s=460",
+  "contribs": 380,
+  "orgs": [
+    {
+      "guru-sp": "https://avatars0.githubusercontent.com/u/55218?v=3&s=70"
+    },
+    {
+      "git-na-pratica": "https://avatars0.githubusercontent.com/u/683679?v=3&s=70"
+    }
+  ]
+}

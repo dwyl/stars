@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/sliz1",
+  "img": "https://avatars0.githubusercontent.com/u/9660258?v=3&s=460",
+  "uid": 9660258,
+  "repos": 21,
+  "stars": 207,
+  "followers": 14,
+  "following": 98,
+  "pinned": [
+    {
+      "url": "/sliz1/rust"
+    },
+    {
+      "url": "/sliz1/servo"
+    },
+    {
+      "url": "/sliz1/braindumps"
+    },
+    {
+      "url": "/sliz1/react-fun"
+    },
+    {
+      "url": "/sliz1/speech-to-text-nodejs"
+    },
+    {
+      "url": "/sliz1/webpack-demo"
+    }
+  ],
+  "worksfor": "@tophatmonocle",
+  "location": "Toronto, Canada",
+  "fullname": "Stephen (Ziyun) Li",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/9660258?v=3&s=460",
+  "contribs": 711,
+  "orgs": []
+}

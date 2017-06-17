@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/kaelzhang",
+  "img": "https://avatars0.githubusercontent.com/u/352304?v=3&s=460",
+  "uid": 352304,
+  "repos": 334,
+  "stars": 567,
+  "followers": 200,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/kaelzhang/node-ignore"
+    },
+    {
+      "url": "/eslint/eslint"
+    },
+    {
+      "url": "/kaelzhang/shell-safe-rm"
+    },
+    {
+      "url": "/madrobby/zepto"
+    },
+    {
+      "url": "/kaelzhang/neuron.js"
+    },
+    {
+      "url": "/webpack/webpack-dev-middleware"
+    }
+  ],
+  "worksfor": "dianping.com",
+  "location": "Shanghai",
+  "fullname": "Kael Zhang",
+  "website": "http://kael.me",
+  "avatar": "https://avatars0.githubusercontent.com/u/352304?v=3&s=460",
+  "contribs": 316,
+  "orgs": [
+    {
+      "dianping-f2e": "https://avatars3.githubusercontent.com/u/4594007?v=3&s=70"
+    },
+    {
+      "cortexjs": "https://avatars1.githubusercontent.com/u/5207975?v=3&s=70"
+    },
+    {
+      "neuron-packages": "https://avatars3.githubusercontent.com/u/8044250?v=3&s=70"
+    },
+    {
+      "neuron-js": "https://avatars0.githubusercontent.com/u/14831845?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

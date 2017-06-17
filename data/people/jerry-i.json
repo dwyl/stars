@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/jerry-i",
+  "img": "https://avatars1.githubusercontent.com/u/11937539?v=3&s=460",
+  "uid": 11937539,
+  "repos": 32,
+  "stars": 602,
+  "followers": 36,
+  "following": 119,
+  "pinned": [
+    {
+      "url": "/jerry-i/meetup-events"
+    },
+    {
+      "url": "/jerry-i/v8"
+    },
+    {
+      "url": "/jerry-i/jerry-i.github.io"
+    },
+    {
+      "url": "/jerry-i/You-Dont-Know-JS"
+    },
+    {
+      "url": "/jerry-i/calendar"
+    },
+    {
+      "url": "/jerry-i/awesome-java-cn"
+    }
+  ],
+  "worksfor": "@eleme",
+  "location": "nanjing",
+  "fullname": "cotton",
+  "website": "http://jerry-i.github.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/11937539?v=3&s=460",
+  "contribs": 781,
+  "orgs": [
+    {
+      "eleme": "https://avatars3.githubusercontent.com/u/1201438?v=3&s=70"
+    },
+    {
+      "ElemeFE": "https://avatars1.githubusercontent.com/u/12810740?v=3&s=70"
+    }
+  ]
+}

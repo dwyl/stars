@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/jackkav",
+  "img": "https://avatars3.githubusercontent.com/u/3679927?v=3&s=460",
+  "uid": 3679927,
+  "repos": 54,
+  "stars": 252,
+  "followers": 16,
+  "following": 79,
+  "pinned": [
+    {
+      "url": "/jackkav/meteor-jenkins-ci"
+    },
+    {
+      "url": "/jackkav/demon.js"
+    },
+    {
+      "url": "/jackkav/lafeng"
+    },
+    {
+      "url": "/jackkav/meteor-paginator"
+    },
+    {
+      "url": "/jackkav/reactjs-list"
+    },
+    {
+      "url": "/jackkav/crows"
+    }
+  ],
+  "worksfor": "@iHealthLab",
+  "location": "Beijing",
+  "fullname": "Jack Kavanagh",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3679927?v=3&s=460",
+  "contribs": 1694,
+  "orgs": [],
+  "developerprogram": true
+}

@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/chibicode",
+  "img": "https://avatars1.githubusercontent.com/u/992008?v=3&s=460",
+  "uid": 992008,
+  "repos": 172,
+  "stars": 5800,
+  "followers": 319,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/chibicode/react-functional-css-protips"
+    },
+    {
+      "url": "/chibicode/solo"
+    }
+  ],
+  "worksfor": "EdSurge",
+  "location": "San Francisco, CA",
+  "fullname": "Shu Uesugi",
+  "website": "http://chibicode.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/992008?v=3&s=460",
+  "contribs": 2961,
+  "orgs": [
+    {
+      "edsurge": "https://avatars2.githubusercontent.com/u/2510618?v=3&s=70"
+    },
+    {
+      "coderwall-charity": "https://avatars2.githubusercontent.com/u/3080009?v=3&s=70"
+    },
+    {
+      "coderwall-forked": "https://avatars2.githubusercontent.com/u/3080402?v=3&s=70"
+    },
+    {
+      "coderwall-velociraptor": "https://avatars3.githubusercontent.com/u/3086504?v=3&s=70"
+    },
+    {
+      "coderwall-polygamous": "https://avatars2.githubusercontent.com/u/3086534?v=3&s=70"
+    },
+    {
+      "coderwall-24PullRequestsParticipant": "https://avatars0.githubusercontent.com/u/3165513?v=3&s=70"
+    },
+    {
+      "MissionBit": "https://avatars3.githubusercontent.com/u/5872193?v=3&s=70"
+    },
+    {
+      "reactfordesigners": "https://avatars3.githubusercontent.com/u/11928996?v=3&s=70"
+    }
+  ]
+}

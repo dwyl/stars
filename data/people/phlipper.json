@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/phlipper",
+  "img": "https://avatars0.githubusercontent.com/u/984?v=3&s=460",
+  "uid": 984,
+  "repos": 221,
+  "stars": 733,
+  "followers": 397,
+  "following": 76,
+  "pinned": [
+    {
+      "url": "/phlipper/chef-libqt4"
+    },
+    {
+      "url": "/phlipper/chef-postgresql"
+    },
+    {
+      "url": "/phlipper/chef-percona"
+    },
+    {
+      "url": "/phlipper/chef-monit"
+    },
+    {
+      "url": "/phlipper/markitup-rails"
+    },
+    {
+      "url": "/phlipper/chef-redis"
+    }
+  ],
+  "worksfor": "",
+  "location": "Near Lake Tahoe, CA",
+  "fullname": "Phil Cohen",
+  "website": "http://phlippers.net",
+  "avatar": "https://avatars0.githubusercontent.com/u/984?v=3&s=460",
+  "contribs": 1227,
+  "orgs": [
+    {
+      "coffeescript-cookbook": "https://avatars2.githubusercontent.com/u/774390?v=3&s=70"
+    },
+    {
+      "nko3": "https://avatars0.githubusercontent.com/u/1879198?v=3&s=70"
+    },
+    {
+      "eavesdrop": "https://avatars3.githubusercontent.com/u/2773862?v=3&s=70"
+    },
+    {
+      "mutations": "https://avatars1.githubusercontent.com/u/24485014?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

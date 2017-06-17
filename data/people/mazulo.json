@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/mazulo",
+  "img": "https://avatars1.githubusercontent.com/u/1661112?v=3&s=460",
+  "uid": 1661112,
+  "repos": 58,
+  "stars": 422,
+  "followers": 65,
+  "following": 126,
+  "pinned": [
+    {
+      "url": "/mazulo/django_groups_-_initial_steps"
+    },
+    {
+      "url": "/mazulo/how-the-web-works"
+    },
+    {
+      "url": "/mazulo/pynews_cli"
+    },
+    {
+      "url": "/mazulo/study_lab"
+    },
+    {
+      "url": "/mazulo/currency_graph"
+    },
+    {
+      "url": "/mazulo/pyvegan"
+    }
+  ],
+  "worksfor": "DunderLabs",
+  "location": "Parnaíba, BR",
+  "fullname": "Patrick Mazulo",
+  "website": "http://blog.dunderlabs.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1661112?v=3&s=460",
+  "contribs": 127,
+  "orgs": [
+    {
+      "7ws": "https://avatars3.githubusercontent.com/u/730719?v=3&s=70"
+    },
+    {
+      "pythonNordeste": "https://avatars2.githubusercontent.com/u/2926916?v=3&s=70"
+    },
+    {
+      "GrupoEasyJS": "https://avatars1.githubusercontent.com/u/9003335?v=3&s=70"
+    },
+    {
+      "dunderlabs": "https://avatars1.githubusercontent.com/u/9657452?v=3&s=70"
+    },
+    {
+      "pythonbeach": "https://avatars3.githubusercontent.com/u/13529646?v=3&s=70"
+    },
+    {
+      "help-somebody": "https://avatars2.githubusercontent.com/u/20760257?v=3&s=70"
+    }
+  ]
+}

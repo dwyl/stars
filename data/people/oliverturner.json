@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/oliverturner",
+  "img": "https://avatars3.githubusercontent.com/u/21795?v=3&s=460",
+  "uid": 21795,
+  "repos": 83,
+  "stars": 477,
+  "followers": 38,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/oliverturner/react-seed"
+    },
+    {
+      "url": "/oliverturner/babel-plugin-ignore-local-styles"
+    },
+    {
+      "url": "/oliverturner/trello-radar"
+    },
+    {
+      "url": "/oliverturner/Lille"
+    },
+    {
+      "url": "/oliverturner/reactjs-todo-example"
+    },
+    {
+      "url": "/oliverturner/sdk-javascript"
+    }
+  ],
+  "worksfor": "@Ticketmaster",
+  "location": "London, UK",
+  "fullname": "Oliver Turner",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/21795?v=3&s=460",
+  "contribs": 613,
+  "orgs": []
+}

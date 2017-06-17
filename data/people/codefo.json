@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/codefo",
+  "img": "https://avatars0.githubusercontent.com/u/59687?v=3&s=460",
+  "uid": 59687,
+  "repos": 11,
+  "stars": 252,
+  "followers": 27,
+  "following": 52,
+  "pinned": [
+    {
+      "url": "/codefo/square-month"
+    },
+    {
+      "url": "/codefo/grunt-file-generator"
+    },
+    {
+      "url": "/codefo/cfuck"
+    },
+    {
+      "url": "/codefo/interval-pebble"
+    },
+    {
+      "url": "/codefo/react-svg-identicon"
+    },
+    {
+      "url": "/codefo/shar"
+    }
+  ],
+  "worksfor": "Evil Martians",
+  "location": "St. Petersburg",
+  "fullname": "Gleb Pospelov",
+  "website": "http://codefo.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/59687?v=3&s=460",
+  "contribs": 728,
+  "orgs": [
+    {
+      "evilmartians": "https://avatars0.githubusercontent.com/u/46581?v=3&s=70"
+    }
+  ]
+}

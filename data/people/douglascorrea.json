@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/douglascorrea",
+  "img": "https://avatars1.githubusercontent.com/u/862684?v=3&s=460",
+  "uid": 862684,
+  "repos": 44,
+  "stars": 1300,
+  "followers": 43,
+  "following": 558,
+  "pinned": [
+    {
+      "url": "/douglascorrea/react-hot-redux-firebase-starter"
+    },
+    {
+      "url": "/douglascorrea/angularfire-multi-auth"
+    },
+    {
+      "url": "/douglascorrea/elm-webpack-phoenix"
+    },
+    {
+      "url": "/douglascorrea/til"
+    },
+    {
+      "url": "/douglascorrea/ng-jankenpon"
+    },
+    {
+      "url": "/douglascorrea/endpoints-proto-datastore"
+    }
+  ],
+  "worksfor": "Level4",
+  "location": "Curitiba",
+  "fullname": "Douglas Correa",
+  "website": "https://br.linkedin.com/in/douglascorrea",
+  "avatar": "https://avatars1.githubusercontent.com/u/862684?v=3&s=460",
+  "contribs": 850,
+  "orgs": [
+    {
+      "decora": "https://avatars3.githubusercontent.com/u/1574705?v=3&s=70"
+    },
+    {
+      "guru-pr": "https://avatars2.githubusercontent.com/u/1771608?v=3&s=70"
+    },
+    {
+      "Fr8org": "https://avatars0.githubusercontent.com/u/18537364?v=3&s=70"
+    },
+    {
+      "elug-pr": "https://avatars0.githubusercontent.com/u/20711273?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

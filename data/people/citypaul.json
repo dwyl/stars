@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/citypaul",
+  "img": "https://avatars2.githubusercontent.com/u/5850178?v=3&s=460",
+  "uid": 5850178,
+  "repos": 16,
+  "stars": 86,
+  "followers": 17,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/citypaul/testing-jenkins"
+    },
+    {
+      "url": "/citypaul/refactoring"
+    },
+    {
+      "url": "/citypaul/crockford-problems"
+    },
+    {
+      "url": "/citypaul/karma-test"
+    },
+    {
+      "url": "/citypaul/BB8-Commander"
+    },
+    {
+      "url": "/citypaul/microservices-view"
+    }
+  ],
+  "worksfor": "BBC Sport",
+  "location": "Manchester",
+  "fullname": "Paul Hammond",
+  "website": "http://m.bbc.co.uk/sport",
+  "avatar": "https://avatars2.githubusercontent.com/u/5850178?v=3&s=460",
+  "contribs": 2668,
+  "orgs": [
+    {
+      "bbc": "https://avatars3.githubusercontent.com/u/828722?v=3&s=70"
+    },
+    {
+      "bbc-sport": "https://avatars3.githubusercontent.com/u/5230473?v=3&s=70"
+    }
+  ]
+}

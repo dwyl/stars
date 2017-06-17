@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bahmutov",
+  "img": "https://avatars3.githubusercontent.com/u/2212006?v=3&s=460",
+  "uid": 2212006,
+  "repos": 464,
+  "stars": 408,
+  "followers": 658,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/bahmutov/code-snippets"
+    },
+    {
+      "url": "/bahmutov/next-update"
+    },
+    {
+      "url": "/bahmutov/bottle-service"
+    },
+    {
+      "url": "/bahmutov/javascript-journey"
+    },
+    {
+      "url": "/bahmutov/babel-service"
+    },
+    {
+      "url": "/bahmutov/express-service"
+    }
+  ],
+  "worksfor": "@cypress-io",
+  "location": "Boston, MA",
+  "fullname": "Gleb Bahmutov",
+  "website": "https://glebbahmutov.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/2212006?v=3&s=460",
+  "contribs": 2529,
+  "orgs": []
+}

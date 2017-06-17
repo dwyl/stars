@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/svnlto",
+  "img": "https://avatars1.githubusercontent.com/u/103989?v=3&s=460",
+  "uid": 103989,
+  "repos": 81,
+  "stars": 1800,
+  "followers": 167,
+  "following": 65,
+  "pinned": [
+    {
+      "url": "/svnlto/local-or-home-npmrc"
+    },
+    {
+      "url": "/svnlto/vertebrae"
+    },
+    {
+      "url": "/svnlto/azure-blob-store"
+    },
+    {
+      "url": "/svnlto/couchdb-all-dbs-changes"
+    },
+    {
+      "url": "/svnlto/ansible-couchdb-peruser"
+    },
+    {
+      "url": "/svnlto/hapi-pouchdb"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bali, Indonesia",
+  "fullname": "Sven Lito",
+  "website": "http://svenlito.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/103989?v=3&s=460",
+  "contribs": 1199,
+  "orgs": [
+    {
+      "hoodiehq": "https://avatars1.githubusercontent.com/u/1888826?v=3&s=70"
+    },
+    {
+      "bower": "https://avatars3.githubusercontent.com/u/3709251?v=3&s=70"
+    },
+    {
+      "wrangr": "https://avatars3.githubusercontent.com/u/5558558?v=3&s=70"
+    }
+  ]
+}

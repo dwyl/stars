@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/lucasbento",
+  "img": "https://avatars2.githubusercontent.com/u/6207220?v=3&s=460",
+  "uid": 6207220,
+  "repos": 77,
+  "stars": 3400,
+  "followers": 584,
+  "following": 1800,
+  "pinned": [
+    {
+      "url": "/graphql-community/create-graphql"
+    },
+    {
+      "url": "/lucasbento/graphql-pokemon"
+    },
+    {
+      "url": "/lucasbento/react-relay-pokemon"
+    },
+    {
+      "url": "/lucasbento/graphql-correios"
+    },
+    {
+      "url": "/lucasbento/react-tic-tac-toe"
+    },
+    {
+      "url": "/callemall/material-ui"
+    }
+  ],
+  "worksfor": "@entria",
+  "location": "",
+  "fullname": "Lucas Bento",
+  "website": "https://twitter.com/lbentosilva",
+  "avatar": "https://avatars2.githubusercontent.com/u/6207220?v=3&s=460",
+  "contribs": 4927,
+  "orgs": [
+    {
+      "callemall": "https://avatars3.githubusercontent.com/u/1262264?v=3&s=70"
+    },
+    {
+      "brandlovers": "https://avatars0.githubusercontent.com/u/14985812?v=3&s=70"
+    },
+    {
+      "react-brasil": "https://avatars3.githubusercontent.com/u/16929016?v=3&s=70"
+    },
+    {
+      "react-native-paper": "https://avatars2.githubusercontent.com/u/23157391?v=3&s=70"
+    },
+    {
+      "graphql-community": "https://avatars1.githubusercontent.com/u/25662485?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

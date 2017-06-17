@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/duhaime",
+  "img": "https://avatars2.githubusercontent.com/u/4801116?v=3&s=460",
+  "uid": 4801116,
+  "repos": 48,
+  "stars": 540,
+  "followers": 99,
+  "following": 116,
+  "pinned": [
+    {
+      "url": "/duhaime/detect_reuse"
+    },
+    {
+      "url": "/duhaime/Analyzing-Stanford-NER-Classifier-Results"
+    },
+    {
+      "url": "/duhaime/mining_the_bard"
+    },
+    {
+      "url": "/duhaime/plagiary-poets"
+    },
+    {
+      "url": "/duhaime/duhaime.github.io"
+    },
+    {
+      "url": "/duhaime/visualize-text-reuse"
+    }
+  ],
+  "worksfor": "University of Notre Dame",
+  "location": "New Haven, Connecticut",
+  "fullname": "Douglas Duhaime",
+  "website": "http://douglasduhaime.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/4801116?v=3&s=460",
+  "contribs": 3571,
+  "orgs": [
+    {
+      "wilkens-group": "https://avatars1.githubusercontent.com/u/4965429?v=3&s=70"
+    },
+    {
+      "nd-textmine": "https://avatars2.githubusercontent.com/u/9804020?v=3&s=70"
+    },
+    {
+      "YaleDHLab": "https://avatars0.githubusercontent.com/u/17452720?v=3&s=70"
+    }
+  ]
+}

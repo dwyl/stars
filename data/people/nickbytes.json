@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/nickbytes",
+  "img": "https://avatars3.githubusercontent.com/u/3009331?v=3&s=460",
+  "uid": 3009331,
+  "repos": 61,
+  "stars": 956,
+  "followers": 38,
+  "following": 144,
+  "pinned": [
+    {
+      "url": "/nickbytes/roadmap-to-js-enlightenment"
+    },
+    {
+      "url": "/nickbytes/react-twine"
+    },
+    {
+      "url": "/nickbytes/shrug"
+    },
+    {
+      "url": "/jhen0409/react-chrome-extension-boilerplate"
+    }
+  ],
+  "worksfor": "@postlight",
+  "location": "New York",
+  "fullname": "Nick Beattie",
+  "website": "http://nickbytes.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/3009331?v=3&s=460",
+  "contribs": 869,
+  "orgs": []
+}

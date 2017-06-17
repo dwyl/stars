@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/JonatanSalas",
+  "img": "https://avatars2.githubusercontent.com/u/7697196?v=3&s=460",
+  "uid": 7697196,
+  "repos": 110,
+  "stars": 2800,
+  "followers": 70,
+  "following": 197,
+  "pinned": [
+    {
+      "url": "/chennaione/sugar"
+    },
+    {
+      "url": "/BlackBoxVision/material-calendar-view"
+    },
+    {
+      "url": "/BlackBoxVision/mvp-helpers"
+    },
+    {
+      "url": "/BlackBoxVision/datetimepicker-edittext"
+    },
+    {
+      "url": "/redux-autoform/redux-autoform"
+    },
+    {
+      "url": "/BlackBoxVision/multer-storage-gridfs"
+    }
+  ],
+  "worksfor": "@SAMSistemas",
+  "location": "Buenos Aires, Argentina",
+  "fullname": "Jonatan E. Salas",
+  "website": "https://about.me/jonatansalas",
+  "avatar": "https://avatars2.githubusercontent.com/u/7697196?v=3&s=460",
+  "contribs": 2336,
+  "orgs": [
+    {
+      "BlackBoxVision": "https://avatars0.githubusercontent.com/u/17955511?v=3&s=70"
+    },
+    {
+      "redux-autoform": "https://avatars0.githubusercontent.com/u/20527600?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

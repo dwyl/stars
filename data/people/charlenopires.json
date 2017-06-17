@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/charlenopires",
+  "img": "https://avatars3.githubusercontent.com/u/1365?v=3&s=460",
+  "uid": 1365,
+  "repos": 47,
+  "stars": 8000,
+  "followers": 255,
+  "following": 4300,
+  "pinned": [
+    {
+      "url": "/charlenopires/tasks"
+    },
+    {
+      "url": "/charlenopires/learning-erlang"
+    },
+    {
+      "url": "/charlenopires/alchemist.el"
+    },
+    {
+      "url": "/charlenopires/atom-language-erlang"
+    },
+    {
+      "url": "/charlenopires/erlang-org"
+    },
+    {
+      "url": "/charlenopires/webtalk"
+    }
+  ],
+  "worksfor": "@girassolbit",
+  "location": "Amarante | PI | Brazil",
+  "fullname": "Charleno Pires",
+  "website": "http://www.girassolbit.com.br",
+  "avatar": "https://avatars3.githubusercontent.com/u/1365?v=3&s=460",
+  "contribs": 43,
+  "orgs": [
+    {
+      "girassolbit": "https://avatars2.githubusercontent.com/u/2396870?v=3&s=70"
+    },
+    {
+      "MeteorBrasil": "https://avatars2.githubusercontent.com/u/7489785?v=3&s=70"
+    },
+    {
+      "FazApp": "https://avatars0.githubusercontent.com/u/14808950?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

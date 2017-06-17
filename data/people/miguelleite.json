@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/miguelleite",
+  "img": "https://avatars1.githubusercontent.com/u/2746363?v=3&s=460",
+  "uid": 2746363,
+  "repos": 15,
+  "stars": 35,
+  "followers": 11,
+  "following": 38,
+  "pinned": [
+    {
+      "url": "/miguelleite/pentaho-platform"
+    },
+    {
+      "url": "/miguelleite/pentaho-kettle"
+    },
+    {
+      "url": "/miguelleite/sparkl"
+    },
+    {
+      "url": "/miguelleite/my-angular-app"
+    },
+    {
+      "url": "/miguelleite/ml-modal"
+    },
+    {
+      "url": "/miguelleite/Flurry"
+    }
+  ],
+  "worksfor": "Webdetails",
+  "location": "Porto, Portugal",
+  "fullname": "Miguel Leite",
+  "website": "http://www.miguelacleite.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/2746363?v=3&s=460",
+  "contribs": 454,
+  "orgs": [
+    {
+      "webdetails": "https://avatars0.githubusercontent.com/u/1167792?v=3&s=70"
+    }
+  ]
+}

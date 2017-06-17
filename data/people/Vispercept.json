@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Vispercept",
+  "img": "https://avatars0.githubusercontent.com/u/7080389?v=3&s=460",
+  "uid": 7080389,
+  "repos": 6,
+  "stars": 83,
+  "followers": 5,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/Vispercept/javascript"
+    },
+    {
+      "url": "/Vispercept/timeline"
+    },
+    {
+      "url": "/Vispercept/dynamic-config"
+    },
+    {
+      "url": "/Vispercept/funWithImages"
+    },
+    {
+      "url": "/Vispercept/.dotfiles"
+    },
+    {
+      "url": "/Vispercept/webpack-starter"
+    }
+  ],
+  "worksfor": "",
+  "location": "Germany",
+  "fullname": "Thomas König",
+  "website": "http://www.koenigthomas.de/",
+  "avatar": "https://avatars0.githubusercontent.com/u/7080389?v=3&s=460",
+  "contribs": 44,
+  "orgs": []
+}

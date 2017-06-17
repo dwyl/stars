@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/DaneEveritt",
+  "img": "https://avatars3.githubusercontent.com/u/418376?v=3&s=460",
+  "uid": 418376,
+  "repos": 13,
+  "stars": 79,
+  "followers": 19,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/Pterodactyl/Panel"
+    },
+    {
+      "url": "/Pterodactyl/Daemon"
+    },
+    {
+      "url": "/Pterodactyl/Dockerfiles"
+    },
+    {
+      "url": "/Pterodactyl/Containers"
+    },
+    {
+      "url": "/DaneEveritt/login-notifications"
+    },
+    {
+      "url": "/Pterodactyl/API"
+    }
+  ],
+  "worksfor": "@Pterodactyl",
+  "location": "United States",
+  "fullname": "Dane Everitt",
+  "website": "https://daneeveritt.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/418376?v=3&s=460",
+  "contribs": 1256,
+  "orgs": [
+    {
+      "Pterodactyl": "https://avatars0.githubusercontent.com/u/16179146?v=3&s=70"
+    }
+  ]
+}

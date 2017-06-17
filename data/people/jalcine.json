@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/jalcine",
+  "img": "https://avatars0.githubusercontent.com/u/452100?v=3&s=460",
+  "uid": 452100,
+  "repos": 58,
+  "stars": 8100,
+  "followers": 324,
+  "following": 449,
+  "pinned": [
+    {
+      "url": "/rbenv/rbenv"
+    },
+    {
+      "url": "/junegunn/vim-plug"
+    },
+    {
+      "url": "/neomake/neomake"
+    },
+    {
+      "url": "/Mauin/RxFingerprint"
+    },
+    {
+      "url": "/jalcine/cmake.vim"
+    },
+    {
+      "url": "/jalcine/vimrc"
+    }
+  ],
+  "worksfor": "@lyft",
+  "location": "Oakland, California",
+  "fullname": "Jacky Alciné",
+  "website": "https://jacky.wtf/",
+  "avatar": "https://avatars0.githubusercontent.com/u/452100?v=3&s=460",
+  "contribs": 1354,
+  "orgs": [
+    {
+      "lyft": "https://avatars2.githubusercontent.com/u/4269340?v=3&s=70"
+    },
+    {
+      "vettio": "https://avatars3.githubusercontent.com/u/6158732?v=3&s=70"
+    }
+  ]
+}

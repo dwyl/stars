@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/beatface",
+  "img": "https://avatars3.githubusercontent.com/u/8468180?v=3&s=460",
+  "uid": 8468180,
+  "repos": 48,
+  "stars": 45,
+  "followers": 26,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/beatface/dashbored"
+    },
+    {
+      "url": "/beatface/dashbored-client"
+    },
+    {
+      "url": "/beatface/newsily-capstone"
+    },
+    {
+      "url": "/beatface/node-cal"
+    },
+    {
+      "url": "/beatface/stock-portfolio"
+    }
+  ],
+  "worksfor": "@centresource",
+  "location": "Nashville, TN",
+  "fullname": "Emma Beaton",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/8468180?v=3&s=460",
+  "contribs": 1122,
+  "orgs": [
+    {
+      "centresource": "https://avatars1.githubusercontent.com/u/353087?v=3&s=70"
+    },
+    {
+      "NashvilleSoftwareSchool": "https://avatars1.githubusercontent.com/u/2388224?v=3&s=70"
+    },
+    {
+      "NSS-Cohort-11": "https://avatars0.githubusercontent.com/u/11652660?v=3&s=70"
+    }
+  ]
+}

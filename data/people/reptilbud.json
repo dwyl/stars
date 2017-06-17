@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/reptilbud",
+  "img": "https://avatars3.githubusercontent.com/u/6841511?v=3&s=460",
+  "uid": 6841511,
+  "repos": 4,
+  "stars": 4,
+  "followers": 2,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/reptilbud/coding-challenge-backend-c"
+    },
+    {
+      "url": "/reptilbud/react-basic-sample"
+    },
+    {
+      "url": "/reptilbud/hapi-swagger"
+    },
+    {
+      "url": "/reptilbud/node-consul-poc"
+    }
+  ],
+  "worksfor": "",
+  "location": "Metz (France) | Luxembourg",
+  "fullname": "Sébastien Ritz",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/6841511?v=3&s=460",
+  "contribs": 41,
+  "orgs": []
+}

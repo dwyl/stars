@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/davidbnk",
+  "img": "https://avatars2.githubusercontent.com/u/1213985?v=3&s=460",
+  "uid": 1213985,
+  "repos": 7,
+  "stars": 172,
+  "followers": 4,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/davidbnk/gitsubmoduleinfo"
+    },
+    {
+      "url": "/davidbnk/sequelize"
+    },
+    {
+      "url": "/davidbnk/joi"
+    },
+    {
+      "url": "/davidbnk/dockup"
+    },
+    {
+      "url": "/davidbnk/elm"
+    },
+    {
+      "url": "/davidbnk/cross-sqlcipher"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "David Benko",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1213985?v=3&s=460",
+  "contribs": 23,
+  "orgs": []
+}

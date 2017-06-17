@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/klingtnet",
+  "img": "https://avatars0.githubusercontent.com/u/1538057?v=3&s=460",
+  "uid": 1538057,
+  "repos": 74,
+  "stars": 1300,
+  "followers": 31,
+  "following": 34,
+  "pinned": [
+    {
+      "url": "/klingtnet/rsoundio"
+    },
+    {
+      "url": "/mholt/caddy"
+    },
+    {
+      "url": "/klingtnet/rosc"
+    },
+    {
+      "url": "/klingtnet/rb"
+    },
+    {
+      "url": "/klingtnet/dotfiles"
+    },
+    {
+      "url": "/klingtnet/ytterbium"
+    }
+  ],
+  "worksfor": "@spreadshirt",
+  "location": "Leipzig",
+  "fullname": "Andreas Linz",
+  "website": "https://klingt.net",
+  "avatar": "https://avatars0.githubusercontent.com/u/1538057?v=3&s=460",
+  "contribs": 849,
+  "orgs": [
+    {
+      "spreadshirt": "https://avatars2.githubusercontent.com/u/4557665?v=3&s=70"
+    },
+    {
+      "heartheartheart": "https://avatars1.githubusercontent.com/u/8947991?v=3&s=70"
+    }
+  ]
+}

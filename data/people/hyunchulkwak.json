@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/hyunchulkwak",
+  "img": "https://avatars0.githubusercontent.com/u/5592273?v=3&s=460",
+  "uid": 5592273,
+  "repos": 9,
+  "stars": 116,
+  "followers": 11,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/hyunchulkwak/webpack-simple-progress-plugin"
+    },
+    {
+      "url": "/hyunchulkwak/csslint"
+    },
+    {
+      "url": "/hyunchulkwak/hello-mithril"
+    },
+    {
+      "url": "/hyunchulkwak/example-react-ie7-monkeypatch"
+    }
+  ],
+  "worksfor": "Ticket Monster, Inc.",
+  "location": "South Korea",
+  "fullname": "Hyunchul Kwak",
+  "website": "http://codepen.io/hyunchulkwak",
+  "avatar": "https://avatars0.githubusercontent.com/u/5592273?v=3&s=460",
+  "contribs": 31,
+  "orgs": []
+}

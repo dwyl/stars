@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/brunopulis",
+  "img": "https://avatars3.githubusercontent.com/u/1204692?v=3&s=460",
+  "uid": 1204692,
+  "repos": 41,
+  "stars": 546,
+  "followers": 105,
+  "following": 181,
+  "pinned": [
+    {
+      "url": "/brunopulis/awesome-a11y"
+    },
+    {
+      "url": "/brunopulis/brunopulis.github.io"
+    },
+    {
+      "url": "/brunopulis/resume"
+    },
+    {
+      "url": "/brunopulis/reviews-a11y-sites"
+    },
+    {
+      "url": "/brunopulis/preachers-api"
+    },
+    {
+      "url": "/brunopulis/nasa-experiments"
+    }
+  ],
+  "worksfor": "",
+  "location": "Belo Horizonte",
+  "fullname": "Bruno Pulis",
+  "website": "http://www.brunopulis.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1204692?v=3&s=460",
+  "contribs": 375,
+  "orgs": [
+    {
+      "minasdev": "https://avatars3.githubusercontent.com/u/6109459?v=3&s=70"
+    }
+  ]
+}

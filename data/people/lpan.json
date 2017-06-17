@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/lpan",
+  "img": "https://avatars2.githubusercontent.com/u/12106903?v=3&s=460",
+  "uid": 12106903,
+  "repos": 49,
+  "stars": 215,
+  "followers": 68,
+  "following": 69,
+  "pinned": [
+    {
+      "url": "/lpan/viw"
+    },
+    {
+      "url": "/lpan/rebash"
+    },
+    {
+      "url": "/lpan/dotfiles"
+    },
+    {
+      "url": "/lpan/going-realtime"
+    },
+    {
+      "url": "/lpan/r-score-god"
+    },
+    {
+      "url": "/lpan/find-a-classroom"
+    }
+  ],
+  "worksfor": "@uniiverse",
+  "location": "Waterloo, Canada",
+  "fullname": "Lawrence Pan",
+  "website": "http://lpan.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/12106903?v=3&s=460",
+  "contribs": 912,
+  "orgs": [
+    {
+      "uniiverse": "https://avatars0.githubusercontent.com/u/866955?v=3&s=70"
+    },
+    {
+      "plotly": "https://avatars0.githubusercontent.com/u/5997976?v=3&s=70"
+    },
+    {
+      "marianopolis-robotics": "https://avatars0.githubusercontent.com/u/16170897?v=3&s=70"
+    },
+    {
+      "sexxis": "https://avatars3.githubusercontent.com/u/19377645?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

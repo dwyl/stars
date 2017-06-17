@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/pbojinov",
+  "img": "https://avatars0.githubusercontent.com/u/709616?v=3&s=460",
+  "uid": 709616,
+  "repos": 72,
+  "stars": 723,
+  "followers": 32,
+  "following": 108,
+  "pinned": [
+    {
+      "url": "/pbojinov/request-ip"
+    },
+    {
+      "url": "/pbojinov/nodeifications"
+    },
+    {
+      "url": "/pbojinov/arrow-js"
+    },
+    {
+      "url": "/pbojinov/iframe-communication"
+    },
+    {
+      "url": "/pbojinov/tappifications"
+    },
+    {
+      "url": "/pbojinov/adopt-a-burger"
+    }
+  ],
+  "worksfor": "",
+  "location": "Orange County",
+  "fullname": "Petar Bojinov",
+  "website": "http://petarb.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/709616?v=3&s=460",
+  "contribs": 97,
+  "orgs": [
+    {
+      "TAPP-TV": "https://avatars1.githubusercontent.com/u/5203912?v=3&s=70"
+    },
+    {
+      "Tekify": "https://avatars1.githubusercontent.com/u/5566389?v=3&s=70"
+    }
+  ]
+}

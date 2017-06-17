@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/JSRound",
+  "img": "https://avatars0.githubusercontent.com/u/28056029?v=3&s=460",
+  "uid": 28056029,
+  "repos": 12,
+  "stars": 6,
+  "followers": 0,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/JSRound/grocery-ls"
+    },
+    {
+      "url": "/JSRound/mocha"
+    },
+    {
+      "url": "/JSRound/learn-mocha"
+    },
+    {
+      "url": "/JSRound/hapi"
+    },
+    {
+      "url": "/JSRound/circleci-prueba"
+    },
+    {
+      "url": "/JSRound/learn-tdd"
+    }
+  ],
+  "worksfor": "@Accenture",
+  "location": "Zaragoza",
+  "fullname": "Chus Redondo",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/28056029?v=3&s=460",
+  "contribs": 17,
+  "orgs": []
+}

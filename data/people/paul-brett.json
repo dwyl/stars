@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/paul-brett",
+  "img": "https://avatars2.githubusercontent.com/u/12567689?v=3&s=460",
+  "uid": 12567689,
+  "repos": 12,
+  "stars": 25,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/paul-brett/dreampy_dns"
+    },
+    {
+      "url": "/paul-brett/homebrew-cask"
+    },
+    {
+      "url": "/paul-brett/seastar"
+    },
+    {
+      "url": "/paul-brett/bigint"
+    },
+    {
+      "url": "/paul-brett/python-xbee-demo"
+    },
+    {
+      "url": "/paul-brett/python-xbee"
+    }
+  ],
+  "worksfor": "",
+  "location": "San Francisco",
+  "fullname": "Paul Brett",
+  "website": "http://www.neotextus.net/",
+  "avatar": "https://avatars2.githubusercontent.com/u/12567689?v=3&s=460",
+  "contribs": 6,
+  "orgs": []
+}

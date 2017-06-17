@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ilyachenko",
+  "img": "https://avatars0.githubusercontent.com/u/510683?v=3&s=460",
+  "uid": 510683,
+  "repos": 26,
+  "stars": 212,
+  "followers": 2,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/ilyachenko/Functional-TypeScript"
+    },
+    {
+      "url": "/ilyachenko/task-manager"
+    },
+    {
+      "url": "/ilyachenko/maxymiser-academy"
+    },
+    {
+      "url": "/ilyachenko/bootstrap-wysiwyg"
+    },
+    {
+      "url": "/ilyachenko/cherdak-webperf-references"
+    },
+    {
+      "url": "/ilyachenko/cherdak-webperf-workshop"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ukraine",
+  "fullname": "Ilya Dyachenko",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/510683?v=3&s=460",
+  "contribs": 15,
+  "orgs": []
+}

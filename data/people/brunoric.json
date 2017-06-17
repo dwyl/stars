@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/brunoric",
+  "img": "https://avatars1.githubusercontent.com/u/526125?v=3&s=460",
+  "uid": 526125,
+  "repos": 13,
+  "stars": 280,
+  "followers": 39,
+  "following": 72,
+  "pinned": [
+    {
+      "url": "/brunoric/docker-hhvm"
+    },
+    {
+      "url": "/brunoric/docker-percona-toolkit"
+    },
+    {
+      "url": "/brunoric/git-jiratool"
+    },
+    {
+      "url": "/brunoric/track-customers"
+    },
+    {
+      "url": "/brunoric/prestissimo"
+    },
+    {
+      "url": "/brunoric/phpsp-blog-theme"
+    }
+  ],
+  "worksfor": "Smartbox Group",
+  "location": "Dublin, Ireland.",
+  "fullname": "Bruno Ricardo Siqueira",
+  "website": "http://brunoric.info",
+  "avatar": "https://avatars1.githubusercontent.com/u/526125?v=3&s=460",
+  "contribs": 45,
+  "orgs": [
+    {
+      "PHPSP": "https://avatars1.githubusercontent.com/u/305300?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "rhinolabs": "https://avatars0.githubusercontent.com/u/7861053?v=3&s=70"
+    },
+    {
+      "PHPSanca": "https://avatars3.githubusercontent.com/u/9963271?v=3&s=70"
+    },
+    {
+      "codexteam": "https://avatars3.githubusercontent.com/u/15897424?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

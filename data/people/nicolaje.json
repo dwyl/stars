@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/nicolaje",
+  "img": "https://avatars3.githubusercontent.com/u/1287229?v=3&s=460",
+  "uid": 1287229,
+  "repos": 45,
+  "stars": 67,
+  "followers": 18,
+  "following": 38,
+  "pinned": [
+    {
+      "url": "/nicolaje/reliable-slam"
+    },
+    {
+      "url": "/nicolaje/frequency-meter"
+    },
+    {
+      "url": "/nicolaje/SCIBEX"
+    },
+    {
+      "url": "/nicolaje/morse"
+    },
+    {
+      "url": "/nicolaje/moos-ivp-ciscrea"
+    },
+    {
+      "url": "/nicolaje/CtcLMI"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Jeremy Nicola",
+  "website": "http://www.jeremy-nicola.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1287229?v=3&s=460",
+  "contribs": 908,
+  "orgs": [
+    {
+      "ENSTABretagneRobotics": "https://avatars3.githubusercontent.com/u/5861098?v=3&s=70"
+    },
+    {
+      "ibex-team": "https://avatars0.githubusercontent.com/u/8067733?v=3&s=70"
+    }
+  ]
+}

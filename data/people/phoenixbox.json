@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/phoenixbox",
+  "img": "https://avatars2.githubusercontent.com/u/2892213?v=3&s=460",
+  "uid": 2892213,
+  "repos": 165,
+  "stars": 239,
+  "followers": 18,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/facebook/react-native"
+    },
+    {
+      "url": "/sprintly/sprintly-kanban"
+    },
+    {
+      "url": "/ptmt/react-native-macos"
+    },
+    {
+      "url": "/hapijs/hapi"
+    },
+    {
+      "url": "/phoenixbox/flamey"
+    },
+    {
+      "url": "/phoenixbox/FeedbackLoop-iOS"
+    }
+  ],
+  "worksfor": "BoltMail",
+  "location": "",
+  "fullname": "Shane Rogers",
+  "website": "https://phoenixbox.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/2892213?v=3&s=460",
+  "contribs": 3498,
+  "orgs": []
+}

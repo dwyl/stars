@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/fiws",
+  "img": "https://avatars3.githubusercontent.com/u/3409958?v=3&s=460",
+  "uid": 3409958,
+  "repos": 44,
+  "stars": 906,
+  "followers": 25,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/fiws/install-arch"
+    },
+    {
+      "url": "/fiws/clu"
+    },
+    {
+      "url": "/fiws/hapi-forest"
+    },
+    {
+      "url": "/fiws/sw-pack"
+    },
+    {
+      "url": "/fiws/hangupsjs"
+    },
+    {
+      "url": "/fiws/graffiti"
+    }
+  ],
+  "worksfor": "",
+  "location": "Germany",
+  "fullname": "Filip Weiss",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3409958?v=3&s=460",
+  "contribs": 191,
+  "orgs": [
+    {
+      "Andromirror": "https://avatars3.githubusercontent.com/u/5428866?v=3&s=70"
+    }
+  ]
+}

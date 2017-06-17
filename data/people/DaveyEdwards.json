@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/DaveyEdwards",
+  "img": "https://avatars2.githubusercontent.com/u/15203899?v=3&s=460",
+  "uid": 15203899,
+  "repos": 8,
+  "stars": 92,
+  "followers": 1,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/DaveyEdwards/myiworlds"
+    },
+    {
+      "url": "/DaveyEdwards/webpack-black-triangle"
+    },
+    {
+      "url": "/DaveyEdwards/react-static-boilerplate"
+    },
+    {
+      "url": "/DaveyEdwards/relay-fullstack-graffiti-mongoose"
+    },
+    {
+      "url": "/DaveyEdwards/styled-components"
+    },
+    {
+      "url": "/DaveyEdwards/myiworlds-relay-fullstack-datastore-firebase"
+    }
+  ],
+  "worksfor": "",
+  "location": "South Surrey BC",
+  "fullname": "Davey",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/15203899?v=3&s=460",
+  "contribs": 39,
+  "orgs": []
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/goblindegook",
+  "img": "https://avatars1.githubusercontent.com/u/285497?v=3&s=460",
+  "uid": 285497,
+  "repos": 68,
+  "stars": 5700,
+  "followers": 76,
+  "following": 183,
+  "pinned": [
+    {
+      "url": "/goblindegook/funny"
+    },
+    {
+      "url": "/goblindegook/littlefoot"
+    },
+    {
+      "url": "/goblindegook/generator-pacote"
+    },
+    {
+      "url": "/goblindegook/genesis-starter"
+    },
+    {
+      "url": "/goblindegook/Syllables"
+    },
+    {
+      "url": "/goblindegook/wp-cas-server"
+    }
+  ],
+  "worksfor": "@EqualExperts",
+  "location": "Lisbon, Portugal",
+  "fullname": "Luís Rodrigues",
+  "website": "https://goblindegook.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/285497?v=3&s=460",
+  "contribs": 870,
+  "orgs": [
+    {
+      "EqualExperts": "https://avatars2.githubusercontent.com/u/661706?v=3&s=70"
+    },
+    {
+      "B3ST": "https://avatars1.githubusercontent.com/u/8183633?v=3&s=70"
+    }
+  ]
+}

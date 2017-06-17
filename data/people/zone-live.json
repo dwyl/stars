@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/zone-live",
+  "img": "https://avatars2.githubusercontent.com/u/1125631?v=3&s=460",
+  "uid": 1125631,
+  "repos": 41,
+  "stars": 22,
+  "followers": 7,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/zone-live/angular-weather"
+    },
+    {
+      "url": "/zone-live/angular-boiler"
+    },
+    {
+      "url": "/zone-live/Todo-MEAN_2"
+    },
+    {
+      "url": "/zone-live/frontend-stuff"
+    },
+    {
+      "url": "/zone-live/Angular-SPA__Books"
+    }
+  ],
+  "worksfor": "Premium Minds",
+  "location": "Lisbon",
+  "fullname": "António Regadas",
+  "website": "http://hostilejourney.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1125631?v=3&s=460",
+  "contribs": 25,
+  "orgs": []
+}

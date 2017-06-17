@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/NanoMichael",
+  "img": "https://avatars3.githubusercontent.com/u/20122696?v=3&s=460",
+  "uid": 20122696,
+  "repos": 4,
+  "stars": 64,
+  "followers": 3,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/NanoMichael/cLaTeXMath"
+    },
+    {
+      "url": "/NanoMichael/cross_compile_icu4c_for_android"
+    },
+    {
+      "url": "/NanoMichael/icu_sqlite3_for_android"
+    },
+    {
+      "url": "/NanoMichael/android_sqlite3_extensions"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Nano",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/20122696?v=3&s=460",
+  "contribs": 51,
+  "orgs": []
+}

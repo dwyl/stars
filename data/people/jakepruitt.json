@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jakepruitt",
+  "img": "https://avatars3.githubusercontent.com/u/5084263?v=3&s=460",
+  "uid": 5084263,
+  "repos": 36,
+  "stars": 336,
+  "followers": 60,
+  "following": 153,
+  "pinned": [
+    {
+      "url": "/mapnik/mapnik"
+    },
+    {
+      "url": "/Project-OSRM/osrm-backend"
+    },
+    {
+      "url": "/jakepruitt/checklist"
+    },
+    {
+      "url": "/jakepruitt/hapi-to-express"
+    },
+    {
+      "url": "/jakepruitt/generator-seneca"
+    },
+    {
+      "url": "/jakepruitt/seneca-java-driver"
+    }
+  ],
+  "worksfor": "@mapbox",
+  "location": "San Francisco",
+  "fullname": "Jake Pruitt",
+  "website": "http://jakepruitt.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/5084263?v=3&s=460",
+  "contribs": 1264,
+  "orgs": []
+}

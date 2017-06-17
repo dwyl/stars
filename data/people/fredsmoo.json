@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/fredsmoo",
+  "img": "https://avatars3.githubusercontent.com/u/813577?v=3&s=460",
+  "uid": 813577,
+  "repos": 9,
+  "stars": 480,
+  "followers": 15,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/fredsmoo/podiojs"
+    },
+    {
+      "url": "/fredsmoo/woohoo"
+    },
+    {
+      "url": "/fredsmoo/podio-rb"
+    },
+    {
+      "url": "/fredsmoo/django-webpack-loader"
+    },
+    {
+      "url": "/fredsmoo/opentok-precall-test"
+    },
+    {
+      "url": "/fredsmoo/boron"
+    }
+  ],
+  "worksfor": "Podio",
+  "location": "Copenhagen, Denmark",
+  "fullname": "Daniel Pouzemski",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/813577?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

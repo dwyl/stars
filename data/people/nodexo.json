@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/nodexo",
+  "img": "https://avatars3.githubusercontent.com/u/16005127?v=3&s=460",
+  "uid": 16005127,
+  "repos": 16,
+  "stars": 8,
+  "followers": 0,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/nodexo/object-fx"
+    },
+    {
+      "url": "/nodexo/markdown-data"
+    },
+    {
+      "url": "/nodexo/depicts-whole-number"
+    },
+    {
+      "url": "/nodexo/moml"
+    },
+    {
+      "url": "/nodexo/xpipe"
+    },
+    {
+      "url": "/nodexo/upstream-proxy"
+    }
+  ],
+  "worksfor": "",
+  "location": "Hannover, Germany",
+  "fullname": "Michael Kortstiege",
+  "website": "https://nodexo.de",
+  "avatar": "https://avatars3.githubusercontent.com/u/16005127?v=3&s=460",
+  "contribs": 341,
+  "orgs": []
+}

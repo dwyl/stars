@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/she-dev",
+  "img": "https://avatars3.githubusercontent.com/u/13964550?v=3&s=460",
+  "uid": 13964550,
+  "repos": 48,
+  "stars": 386,
+  "followers": 94,
+  "following": 123,
+  "pinned": [
+    {
+      "url": "/she-dev/react-native-student-book"
+    },
+    {
+      "url": "/she-dev/react-jest-examples"
+    },
+    {
+      "url": "/react-brasil/reactconfbr-app"
+    },
+    {
+      "url": "/she-dev/intro-create-react-native-app"
+    },
+    {
+      "url": "/she-dev/today-i-liked"
+    },
+    {
+      "url": "/she-dev/react-native-horizontal-parallax"
+    }
+  ],
+  "worksfor": "@blinktrade",
+  "location": "Remote",
+  "fullname": "Heloá Meneses",
+  "website": "https://she-dev.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/13964550?v=3&s=460",
+  "contribs": 772,
+  "orgs": [
+    {
+      "blinktrade": "https://avatars3.githubusercontent.com/u/8486768?v=3&s=70"
+    },
+    {
+      "react-brasil": "https://avatars3.githubusercontent.com/u/16929016?v=3&s=70"
+    },
+    {
+      "RedBullBasement": "https://avatars0.githubusercontent.com/u/17749062?v=3&s=70"
+    }
+  ]
+}

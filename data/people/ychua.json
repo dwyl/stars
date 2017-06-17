@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/ychua",
+  "img": "https://avatars1.githubusercontent.com/u/370483?v=3&s=460",
+  "uid": 370483,
+  "repos": 3,
+  "stars": 98,
+  "followers": 0,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/SEEK-Jobs/nodejs-consumer-pact-interceptor"
+    },
+    {
+      "url": "/ngokevin/redux-raven-middleware"
+    },
+    {
+      "url": "/github-tools/github"
+    },
+    {
+      "url": "/DiUS/pactjs0"
+    },
+    {
+      "url": "/HubSpot/BuckyClient"
+    }
+  ],
+  "worksfor": "SEEK",
+  "location": "Melbourne",
+  "fullname": "Ray Hua",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/370483?v=3&s=460",
+  "contribs": 684,
+  "orgs": []
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/zce",
+  "img": "https://avatars3.githubusercontent.com/u/6166576?v=3&s=460",
+  "uid": 6166576,
+  "repos": 126,
+  "stars": 1300,
+  "followers": 862,
+  "following": 62,
+  "pinned": [
+    {
+      "url": "/zce/dashboard"
+    },
+    {
+      "url": "/zce/weapp-demo"
+    },
+    {
+      "url": "/zce/electron-boilerplate"
+    },
+    {
+      "url": "/zce/weapp-boilerplate"
+    },
+    {
+      "url": "/zce/music-player"
+    },
+    {
+      "url": "/vuejs/vue"
+    }
+  ],
+  "worksfor": "@wedn @micua",
+  "location": "Beijing, China",
+  "fullname": "汪磊",
+  "website": "http://micua.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/6166576?v=3&s=460",
+  "contribs": 3125,
+  "orgs": [
+    {
+      "wedn": "https://avatars0.githubusercontent.com/u/14136919?v=3&s=70"
+    },
+    {
+      "micua": "https://avatars0.githubusercontent.com/u/15863282?v=3&s=70"
+    },
+    {
+      "itbetter": "https://avatars2.githubusercontent.com/u/19349731?v=3&s=70"
+    }
+  ]
+}

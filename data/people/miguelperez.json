@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/miguelperez",
+  "img": "https://avatars2.githubusercontent.com/u/141042?v=3&s=460",
+  "uid": 141042,
+  "repos": 41,
+  "stars": 45,
+  "followers": 25,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/miguelperez/products_catalog"
+    },
+    {
+      "url": "/miguelperez/contable"
+    },
+    {
+      "url": "/miguelperez/number-to-words"
+    },
+    {
+      "url": "/miguelperez/ey-cloud-recipes"
+    },
+    {
+      "url": "/miguelperez/sinatra-template"
+    },
+    {
+      "url": "/miguelperez/mixpanel_ruby"
+    }
+  ],
+  "worksfor": "",
+  "location": "Barranquilla, Colombia",
+  "fullname": "Miguel",
+  "website": "http://blog.miguelperezleal.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/141042?v=3&s=460",
+  "contribs": 53,
+  "orgs": []
+}

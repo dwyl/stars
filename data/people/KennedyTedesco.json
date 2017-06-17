@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/KennedyTedesco",
+  "img": "https://avatars3.githubusercontent.com/u/999232?v=3&s=460",
+  "uid": 999232,
+  "repos": 9,
+  "stars": 723,
+  "followers": 73,
+  "following": 250,
+  "pinned": [
+    {
+      "url": "/laravel/framework"
+    },
+    {
+      "url": "/laravel/valet"
+    },
+    {
+      "url": "/laravel/laravel"
+    },
+    {
+      "url": "/KennedyTedesco/Validation"
+    },
+    {
+      "url": "/KennedyTedesco/Presenter"
+    },
+    {
+      "url": "/laravel/homestead"
+    }
+  ],
+  "worksfor": "",
+  "location": "Belo Horizonte, Brazil",
+  "fullname": "Kennedy Tedesco",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/999232?v=3&s=460",
+  "contribs": 5716,
+  "orgs": [
+    {
+      "treinaweb": "https://avatars3.githubusercontent.com/u/3636796?v=3&s=70"
+    },
+    {
+      "php-brasil": "https://avatars2.githubusercontent.com/u/5809560?v=3&s=70"
+    }
+  ]
+}

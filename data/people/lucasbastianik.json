@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/lucasbastianik",
+  "img": "https://avatars1.githubusercontent.com/u/1635231?v=3&s=460",
+  "uid": 1635231,
+  "repos": 5,
+  "stars": 162,
+  "followers": 7,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/lucasbastianik/gulp-minify-watch-livereload"
+    },
+    {
+      "url": "/lucasbastianik/restify-api-with-oauth2"
+    },
+    {
+      "url": "/lucasbastianik/angular-notys"
+    },
+    {
+      "url": "/lucasbastianik/utterson"
+    },
+    {
+      "url": "/lucasbastianik/vue-everyday-component"
+    }
+  ],
+  "worksfor": "Somar Meteorologia",
+  "location": "São Paulo",
+  "fullname": "Lucas Bastianik",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1635231?v=3&s=460",
+  "contribs": 4,
+  "orgs": [
+    {
+      "IonicBrazil": "https://avatars0.githubusercontent.com/u/12193166?v=3&s=70"
+    }
+  ]
+}

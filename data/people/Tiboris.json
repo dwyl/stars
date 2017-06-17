@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Tiboris",
+  "img": "https://avatars2.githubusercontent.com/u/14825963?v=3&s=460",
+  "uid": 14825963,
+  "repos": 27,
+  "stars": 19,
+  "followers": 5,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/Tiboris/IPP-json-to-xml"
+    },
+    {
+      "url": "/Tiboris/IOS-H2O"
+    },
+    {
+      "url": "/Tiboris/IOS-wedi"
+    },
+    {
+      "url": "/Tiboris/Code_Gen"
+    },
+    {
+      "url": "/Tiboris/IFJ-Automata"
+    },
+    {
+      "url": "/Tiboris/IPK-webclient"
+    }
+  ],
+  "worksfor": "RedHat, Inc.",
+  "location": "Brno",
+  "fullname": "Tibor Dudlák",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/14825963?v=3&s=460",
+  "contribs": 252,
+  "orgs": []
+}

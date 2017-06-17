@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/marcogbarcellos",
+  "img": "https://avatars1.githubusercontent.com/u/8717041?v=3&s=460",
+  "uid": 8717041,
+  "repos": 17,
+  "stars": 34,
+  "followers": 3,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/foam-framework/foam2"
+    },
+    {
+      "url": "/sger/RustBooks"
+    },
+    {
+      "url": "/eahefnawy/serverless-mailer"
+    },
+    {
+      "url": "/marcogbarcellos/nodejslack"
+    },
+    {
+      "url": "/nanoPayinc/nanopay-s3"
+    },
+    {
+      "url": "/marcogbarcellos/AlgorithmsAndDataStructures"
+    }
+  ],
+  "worksfor": "Nanopay",
+  "location": "",
+  "fullname": "Marco Barcellos",
+  "website": "https://www.linkedin.com/in/marco-gabriel-barcellos-53370225",
+  "avatar": "https://avatars1.githubusercontent.com/u/8717041?v=3&s=460",
+  "contribs": 103,
+  "orgs": []
+}

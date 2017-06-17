@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/vieron",
+  "img": "https://avatars0.githubusercontent.com/u/43971?v=3&s=460",
+  "uid": 43971,
+  "repos": 78,
+  "stars": 1800,
+  "followers": 131,
+  "following": 194,
+  "pinned": [
+    {
+      "url": "/vieron/svg-resizer"
+    },
+    {
+      "url": "/vieron/flexipage"
+    },
+    {
+      "url": "/vieron/react-docgen-readme"
+    },
+    {
+      "url": "/vieron/compass-img-delivery"
+    },
+    {
+      "url": "/vieron/css-docs"
+    },
+    {
+      "url": "/vieron/jquery.fullsizedCarousel"
+    }
+  ],
+  "worksfor": "New Relic",
+  "location": "Barcelona, Spain",
+  "fullname": "Javier Sánchez - Marín",
+  "website": "http://vieron.net",
+  "avatar": "https://avatars0.githubusercontent.com/u/43971?v=3&s=460",
+  "contribs": 24,
+  "orgs": [
+    {
+      "ducksboard": "https://avatars3.githubusercontent.com/u/760920?v=3&s=70"
+    }
+  ]
+}

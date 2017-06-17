@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/mizhac",
+  "img": "https://avatars1.githubusercontent.com/u/5867015?v=3&s=460",
+  "uid": 5867015,
+  "repos": 11,
+  "stars": 54,
+  "followers": 21,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/mizhac/Amtrep"
+    },
+    {
+      "url": "/mizhac/Ruteame"
+    },
+    {
+      "url": "/mizhac/CSGO-Status"
+    },
+    {
+      "url": "/mizhac/Hackler"
+    },
+    {
+      "url": "/mizhac/Devops-Bot"
+    },
+    {
+      "url": "/mizhac/geodata"
+    }
+  ],
+  "worksfor": "HackSpace Perú",
+  "location": "Lima - Perú",
+  "fullname": "Cristhian Huertos",
+  "website": "https://www.cristhian.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/5867015?v=3&s=460",
+  "contribs": 476,
+  "orgs": [
+    {
+      "HackSpacePeru": "https://avatars2.githubusercontent.com/u/6156026?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

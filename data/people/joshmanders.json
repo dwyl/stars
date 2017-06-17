@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/joshmanders",
+  "img": "https://avatars3.githubusercontent.com/u/352113?v=3&s=460",
+  "uid": 352113,
+  "repos": 4,
+  "stars": 792,
+  "followers": 71,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/moby/moby"
+    },
+    {
+      "url": "/nodejs/node"
+    },
+    {
+      "url": "/laravel/laravel"
+    },
+    {
+      "url": "/yarnpkg/yarn"
+    },
+    {
+      "url": "/dokku/dokku"
+    },
+    {
+      "url": "/caskroom/homebrew-cask"
+    }
+  ],
+  "worksfor": "@aniftyco",
+  "location": "Dubuque, Iowa, USA",
+  "fullname": "Josh Manders",
+  "website": "https://twitter.com/joshmanders",
+  "avatar": "https://avatars3.githubusercontent.com/u/352113?v=3&s=460",
+  "contribs": 531,
+  "orgs": [
+    {
+      "dokku": "https://avatars3.githubusercontent.com/u/13455795?v=3&s=70"
+    },
+    {
+      "aniftyco": "https://avatars3.githubusercontent.com/u/18599486?v=3&s=70"
+    },
+    {
+      "stackforgehq": "https://avatars1.githubusercontent.com/u/23037526?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

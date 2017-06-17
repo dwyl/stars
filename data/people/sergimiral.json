@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/sergimiral",
+  "img": "https://avatars3.githubusercontent.com/u/1785450?v=3&s=460",
+  "uid": 1785450,
+  "repos": 26,
+  "stars": 482,
+  "followers": 6,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/sergimiral/code-snippets"
+    },
+    {
+      "url": "/sergimiral/amplify"
+    },
+    {
+      "url": "/sergimiral/gh-pages-test"
+    },
+    {
+      "url": "/sergimiral/gulp-static-starter"
+    },
+    {
+      "url": "/sergimiral/beautiful-jekyll"
+    },
+    {
+      "url": "/sergimiral/HEAD"
+    }
+  ],
+  "worksfor": "@sketchrunner",
+  "location": "",
+  "fullname": "Sergi Miral",
+  "website": "http://sergimiral.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1785450?v=3&s=460",
+  "contribs": 273,
+  "orgs": [
+    {
+      "sketchrunner-org": "https://avatars3.githubusercontent.com/u/19165611?v=3&s=70"
+    }
+  ]
+}

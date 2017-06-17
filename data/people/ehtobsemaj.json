@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ehtobsemaj",
+  "img": "https://avatars3.githubusercontent.com/u/7425610?v=3&s=460",
+  "uid": 7425610,
+  "repos": 14,
+  "stars": 140,
+  "followers": 2,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/ehtobsemaj/PowerShell_Scripts"
+    },
+    {
+      "url": "/ehtobsemaj/puppet-sssd"
+    },
+    {
+      "url": "/ehtobsemaj/bash.academy"
+    },
+    {
+      "url": "/ehtobsemaj/vmdksync"
+    },
+    {
+      "url": "/ehtobsemaj/PowerCLI-Deployment"
+    },
+    {
+      "url": "/ehtobsemaj/puppet-cassandra"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "James",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/7425610?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

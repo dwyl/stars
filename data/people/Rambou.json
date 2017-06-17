@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/Rambou",
+  "img": "https://avatars2.githubusercontent.com/u/4427553?v=3&s=460",
+  "uid": 4427553,
+  "repos": 23,
+  "stars": 177,
+  "followers": 16,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/Rambou/icarus-sef-parser"
+    },
+    {
+      "url": "/Rambou/ArpAndroid"
+    },
+    {
+      "url": "/Rambou/TXT-to-Mbox"
+    },
+    {
+      "url": "/Rambou/Andro-SecHeaders"
+    },
+    {
+      "url": "/Rambou/InfoRetrievalModels"
+    },
+    {
+      "url": "/Rambou/Skip-Bo"
+    }
+  ],
+  "worksfor": "Rambou",
+  "location": "Samos, Greece",
+  "fullname": "Nikolas Bousios",
+  "website": "https://rambou.gr",
+  "avatar": "https://avatars2.githubusercontent.com/u/4427553?v=3&s=460",
+  "contribs": 479,
+  "orgs": [],
+  "developerprogram": true
+}

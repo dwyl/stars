@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/zofe",
+  "img": "https://avatars3.githubusercontent.com/u/261951?v=3&s=460",
+  "uid": 261951,
+  "repos": 16,
+  "stars": 310,
+  "followers": 47,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/zofe/rapyd-laravel"
+    },
+    {
+      "url": "/zofe/rapyd-framework"
+    },
+    {
+      "url": "/zofe/burp"
+    },
+    {
+      "url": "/zofe/deficient"
+    },
+    {
+      "url": "/zofe/masset"
+    },
+    {
+      "url": "/zofe/datagrid"
+    }
+  ],
+  "worksfor": "Axélero",
+  "location": "Italy",
+  "fullname": "Felice Ostuni",
+  "website": "http://www.feliceostuni.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/261951?v=3&s=460",
+  "contribs": 22,
+  "orgs": [
+    {
+      "axelero": "https://avatars2.githubusercontent.com/u/23403708?v=3&s=70"
+    }
+  ]
+}

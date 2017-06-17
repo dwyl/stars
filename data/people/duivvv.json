@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/duivvv",
+  "img": "https://avatars0.githubusercontent.com/u/89046?v=3&s=460",
+  "uid": 89046,
+  "repos": 27,
+  "stars": 741,
+  "followers": 72,
+  "following": 277,
+  "pinned": [
+    {
+      "url": "/duivvv/animate-value"
+    },
+    {
+      "url": "/duivvv/generator-module-boilerplate"
+    },
+    {
+      "url": "/duivvv/validate-note"
+    },
+    {
+      "url": "/duivvv/note-to-frequency"
+    },
+    {
+      "url": "/devinehowest/generator-devine-boilerplate"
+    },
+    {
+      "url": "/duivvv/api-helper"
+    }
+  ],
+  "worksfor": "@devinehowest",
+  "location": "Ghent, Belgium",
+  "fullname": "Geoffrey Dhuyvetters",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/89046?v=3&s=460",
+  "contribs": 664,
+  "orgs": [
+    {
+      "devinehowest": "https://avatars3.githubusercontent.com/u/2822842?v=3&s=70"
+    },
+    {
+      "landlocked": "https://avatars0.githubusercontent.com/u/4311959?v=3&s=70"
+    },
+    {
+      "howest": "https://avatars0.githubusercontent.com/u/4311966?v=3&s=70"
+    }
+  ]
+}

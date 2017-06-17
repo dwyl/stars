@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/alejandronanez",
+  "img": "https://avatars0.githubusercontent.com/u/464978?v=3&s=460",
+  "uid": 464978,
+  "repos": 71,
+  "stars": 762,
+  "followers": 54,
+  "following": 197,
+  "pinned": [
+    {
+      "url": "/HenrikJoreteg/hjs-webpack"
+    },
+    {
+      "url": "/react-medellin/meetup"
+    },
+    {
+      "url": "/react-medellin/components"
+    },
+    {
+      "url": "/alejandronanez/datepicker"
+    },
+    {
+      "url": "/alejandronanez/elm-bingo"
+    },
+    {
+      "url": "/alejandronanez/funfacts-swift-2"
+    }
+  ],
+  "worksfor": "Growth Acceleration Partners",
+  "location": "Colombia",
+  "fullname": "Alejandro Ñáñez Ortiz",
+  "website": "http://co.linkedin.com/in/alejandronanez/",
+  "avatar": "https://avatars0.githubusercontent.com/u/464978?v=3&s=460",
+  "contribs": 1709,
+  "orgs": [
+    {
+      "angular-medellin": "https://avatars1.githubusercontent.com/u/28227327?v=3&s=70"
+    },
+    {
+      "react-medellin": "https://avatars2.githubusercontent.com/u/28740362?v=3&s=70"
+    },
+    {
+      "curiositylab": "https://avatars1.githubusercontent.com/u/29120938?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/hisasann",
+  "img": "https://avatars1.githubusercontent.com/u/64143?v=3&s=460",
+  "uid": 64143,
+  "repos": 101,
+  "stars": 469,
+  "followers": 49,
+  "following": 45,
+  "pinned": [
+    {
+      "url": "/hisasann/AngularJSTutorial"
+    },
+    {
+      "url": "/hisasann/AVCaptureDeviceCamera"
+    },
+    {
+      "url": "/hisasann/titanium-jasmine"
+    },
+    {
+      "url": "/hisasann/Like-a-Instagram-Camera-iOS"
+    },
+    {
+      "url": "/hisasann/electron-react-redux-boilerplate"
+    },
+    {
+      "url": "/hisasann/electron-various-tutorials"
+    }
+  ],
+  "worksfor": "teamLab",
+  "location": "tokyo / underground",
+  "fullname": "Yoshiyuki Hisamatsu",
+  "website": "http://hisasann.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/64143?v=3&s=460",
+  "contribs": 108,
+  "orgs": [
+    {
+      "team-lab": "https://avatars1.githubusercontent.com/u/2704981?v=3&s=70"
+    }
+  ]
+}

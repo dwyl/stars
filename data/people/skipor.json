@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/skipor",
+  "img": "https://avatars2.githubusercontent.com/u/4019825?v=3&s=460",
+  "uid": 4019825,
+  "repos": 37,
+  "stars": 84,
+  "followers": 3,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/yandex/pandora"
+    },
+    {
+      "url": "/skipor/SInGe"
+    },
+    {
+      "url": "/mitchellh/mapstructure"
+    },
+    {
+      "url": "/baranov1ch/connect-sdch"
+    },
+    {
+      "url": "/uber-go/zap"
+    },
+    {
+      "url": "/skipor/goenv"
+    }
+  ],
+  "worksfor": "@yandex",
+  "location": "Russia, St.Peterburg",
+  "fullname": "Vladimir Skipor",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/4019825?v=3&s=460",
+  "contribs": 149,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/fibo",
+  "img": "https://avatars1.githubusercontent.com/u/176730?v=3&s=460",
+  "uid": 176730,
+  "repos": 112,
+  "stars": 1100,
+  "followers": 66,
+  "following": 57,
+  "pinned": [
+    {
+      "url": "/fibo/algebra"
+    },
+    {
+      "url": "/fibo/flow-view"
+    },
+    {
+      "url": "/fibo/dflow"
+    },
+    {
+      "url": "/fibo/games-of-life"
+    },
+    {
+      "url": "/fibo/vvvv-patches"
+    },
+    {
+      "url": "/fibo/strict-mode"
+    }
+  ],
+  "worksfor": "@Beintoo",
+  "location": "Milan",
+  "fullname": "Gianluca Casati",
+  "website": "http://g14n.info",
+  "avatar": "https://avatars1.githubusercontent.com/u/176730?v=3&s=460",
+  "contribs": 6217,
+  "orgs": [
+    {
+      "Beintoo": "https://avatars3.githubusercontent.com/u/635720?v=3&s=70"
+    }
+  ]
+}

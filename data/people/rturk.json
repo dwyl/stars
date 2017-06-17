@@ -1,0 +1,28 @@
+{
+  "url": "https://github.com/rturk",
+  "img": "https://avatars2.githubusercontent.com/u/2236950?v=3&s=460",
+  "uid": 2236950,
+  "repos": 26,
+  "stars": 1400,
+  "followers": 42,
+  "following": 325,
+  "pinned": [
+    {
+      "url": "/rturk/koa-error-slack"
+    },
+    {
+      "url": "/rturk/koa-error-aws-sns"
+    }
+  ],
+  "worksfor": "",
+  "location": "Sao paulo",
+  "fullname": "Rafael Turk",
+  "website": "https://twitter.com/rafaturk",
+  "avatar": "https://avatars2.githubusercontent.com/u/2236950?v=3&s=460",
+  "contribs": 1586,
+  "orgs": [
+    {
+      "entria": "https://avatars3.githubusercontent.com/u/23662721?v=3&s=70"
+    }
+  ]
+}

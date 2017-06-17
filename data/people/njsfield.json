@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/njsfield",
+  "img": "https://avatars3.githubusercontent.com/u/16468314?v=3&s=460",
+  "uid": 16468314,
+  "repos": 56,
+  "stars": 29,
+  "followers": 28,
+  "following": 37,
+  "pinned": [
+    {
+      "url": "/njsfield/Nearest-Asteroids-Elm"
+    },
+    {
+      "url": "/njsfield/mysite"
+    },
+    {
+      "url": "/njsfield/chess"
+    },
+    {
+      "url": "/njsfield/elm-fac-shrine"
+    },
+    {
+      "url": "/njsfield/penguins"
+    },
+    {
+      "url": "/njsfield/elm-websocket-chat"
+    }
+  ],
+  "worksfor": "@FAC9 @codingforeveryone",
+  "location": "London, UK",
+  "fullname": "Nick Field",
+  "website": "http://nickfield.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/16468314?v=3&s=460",
+  "contribs": 2286,
+  "orgs": []
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/rouzazari",
+  "img": "https://avatars1.githubusercontent.com/u/11428213?v=3&s=460",
+  "uid": 11428213,
+  "repos": 6,
+  "stars": 38,
+  "followers": 1,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/pandas-dev/pandas"
+    },
+    {
+      "url": "/rouzazari/Flask-WhooshAlchemy"
+    },
+    {
+      "url": "/rouzazari/celery-demo"
+    },
+    {
+      "url": "/rouzazari/fuzzyflask"
+    }
+  ],
+  "worksfor": "",
+  "location": "Los Angeles and Orange County, California",
+  "fullname": "Rouz Azari",
+  "website": "http://projects.rouzazari.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/11428213?v=3&s=460",
+  "contribs": 868,
+  "orgs": []
+}

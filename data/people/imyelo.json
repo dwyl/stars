@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/imyelo",
+  "img": "https://avatars0.githubusercontent.com/u/2399123?v=3&s=460",
+  "uid": 2399123,
+  "repos": 104,
+  "stars": 1300,
+  "followers": 37,
+  "following": 94,
+  "pinned": [
+    {
+      "url": "/imyelo/wechat-payment"
+    },
+    {
+      "url": "/imyelo/toDataURL"
+    },
+    {
+      "url": "/imyelo/gulp-duojs"
+    },
+    {
+      "url": "/imyelo/grunt-wait-server"
+    },
+    {
+      "url": "/imyelo/inCharset"
+    },
+    {
+      "url": "/imyelo/hosts-parser"
+    }
+  ],
+  "worksfor": "Maizuo | Soda",
+  "location": "Shenzhen",
+  "fullname": "yelo",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/2399123?v=3&s=460",
+  "contribs": 50,
+  "orgs": [
+    {
+      "NGA-webapp": "https://avatars3.githubusercontent.com/u/7076521?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

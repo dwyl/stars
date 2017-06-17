@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/hufeng",
+  "img": "https://avatars1.githubusercontent.com/u/533008?v=3&s=460",
+  "uid": 533008,
+  "repos": 46,
+  "stars": 945,
+  "followers": 126,
+  "following": 83,
+  "pinned": [
+    {
+      "url": "/hufeng/BaiduMapKit"
+    },
+    {
+      "url": "/hufeng/rn-china-region-picker"
+    },
+    {
+      "url": "/hufeng/node-jsonrpc-dubbo"
+    },
+    {
+      "url": "/hufeng/iThink"
+    },
+    {
+      "url": "/hufeng/plume2"
+    },
+    {
+      "url": "/hufeng/iflux2-validator-demo"
+    }
+  ],
+  "worksfor": "千米网(qianmi.com)",
+  "location": "中国南京",
+  "fullname": "胡锋",
+  "website": "http://hufeng.github.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/533008?v=3&s=460",
+  "contribs": 105,
+  "orgs": [
+    {
+      "tea-js": "https://avatars2.githubusercontent.com/u/12756620?v=3&s=70"
+    }
+  ]
+}

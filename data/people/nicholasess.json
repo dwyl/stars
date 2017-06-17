@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/nicholasess",
+  "img": "https://avatars1.githubusercontent.com/u/3238901?v=3&s=460",
+  "uid": 3238901,
+  "repos": 83,
+  "stars": 58,
+  "followers": 64,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/nicholasess/post-nodejs-mysql"
+    },
+    {
+      "url": "/nicholasess/metatags"
+    },
+    {
+      "url": "/nicholasess/node-correios"
+    },
+    {
+      "url": "/nicholasess/ebook-nodejs-neo4j"
+    },
+    {
+      "url": "/nicholasess/angular-auth-example"
+    },
+    {
+      "url": "/nicholasess/mean-ecommerce"
+    }
+  ],
+  "worksfor": "@welearnit",
+  "location": "Brasil",
+  "fullname": "Nicholas Eduardo",
+  "website": "http://www.welearnit.co",
+  "avatar": "https://avatars1.githubusercontent.com/u/3238901?v=3&s=460",
+  "contribs": 29,
+  "orgs": [
+    {
+      "NodeJS-Brasil": "https://avatars0.githubusercontent.com/u/5559027?v=3&s=70"
+    },
+    {
+      "cerebrobr": "https://avatars2.githubusercontent.com/u/6580108?v=3&s=70"
+    },
+    {
+      "angularbrasil": "https://avatars1.githubusercontent.com/u/6827365?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/drudge",
+  "img": "https://avatars0.githubusercontent.com/u/72890?v=3&s=460",
+  "uid": 72890,
+  "repos": 90,
+  "stars": 910,
+  "followers": 131,
+  "following": 105,
+  "pinned": [
+    {
+      "url": "/drudge/passport-facebook-token"
+    },
+    {
+      "url": "/drudge/mongoose-timestamp"
+    },
+    {
+      "url": "/drudge/mongoose-findorcreate"
+    },
+    {
+      "url": "/drudge/node-gpg"
+    },
+    {
+      "url": "/drudge/node-keychain"
+    },
+    {
+      "url": "/drudge/node-sosumi"
+    }
+  ],
+  "worksfor": "@twec",
+  "location": "NY USA",
+  "fullname": "Nicholas Penree",
+  "website": "http://penree.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/72890?v=3&s=460",
+  "contribs": 70,
+  "orgs": [
+    {
+      "csscomb": "https://avatars1.githubusercontent.com/u/1645795?v=3&s=70"
+    },
+    {
+      "emvc": "https://avatars2.githubusercontent.com/u/19731446?v=3&s=70"
+    },
+    {
+      "twec": "https://avatars3.githubusercontent.com/u/22939461?v=3&s=70"
+    }
+  ]
+}

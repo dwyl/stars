@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/mikechau",
+  "img": "https://avatars1.githubusercontent.com/u/2453159?v=3&s=460",
+  "uid": 2453159,
+  "repos": 120,
+  "stars": 630,
+  "followers": 92,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/mikechau/react-primer-draft"
+    },
+    {
+      "url": "/mikechau/eslint-config-mc"
+    },
+    {
+      "url": "/mikechau/sri-stats-webpack-plugin"
+    },
+    {
+      "url": "/mikechau/sprockets-stats-webpack-plugin"
+    },
+    {
+      "url": "/mikechau/webpack-custom-stats-patch"
+    }
+  ],
+  "worksfor": "Whitnell Analytics",
+  "location": "Chicago, IL",
+  "fullname": "Mike Chau",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/2453159?v=3&s=460",
+  "contribs": 1513,
+  "orgs": [
+    {
+      "uberarchitects": "https://avatars1.githubusercontent.com/u/7411855?v=3&s=70"
+    },
+    {
+      "umbralgroup": "https://avatars0.githubusercontent.com/u/7411905?v=3&s=70"
+    },
+    {
+      "hi5space": "https://avatars2.githubusercontent.com/u/12781683?v=3&s=70"
+    },
+    {
+      "whitnell-analytics": "https://avatars0.githubusercontent.com/u/19142791?v=3&s=70"
+    }
+  ]
+}

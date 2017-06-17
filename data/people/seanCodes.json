@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/seanCodes",
+  "img": "https://avatars2.githubusercontent.com/u/1609890?v=3&s=460",
+  "uid": 1609890,
+  "repos": 14,
+  "stars": 57,
+  "followers": 13,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/seanCodes/diagnostics.css"
+    },
+    {
+      "url": "/seanCodes/holder"
+    },
+    {
+      "url": "/seanCodes/bootstrap"
+    },
+    {
+      "url": "/seanCodes/prism"
+    },
+    {
+      "url": "/seanCodes/jsbin"
+    },
+    {
+      "url": "/seanCodes/cdnjs"
+    }
+  ],
+  "worksfor": "LinkedIn",
+  "location": "San Francisco Bay Area",
+  "fullname": "Sean Juarez",
+  "website": "http://seanjuarez.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1609890?v=3&s=460",
+  "contribs": 1089,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/luisuzai",
+  "img": "https://avatars3.githubusercontent.com/u/16120632?v=3&s=460",
+  "uid": 16120632,
+  "repos": 8,
+  "stars": 13,
+  "followers": 15,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/luisuzai/mnc-trabalhos"
+    },
+    {
+      "url": "/luisuzai/POII"
+    },
+    {
+      "url": "/luisuzai/site-fixxers-and-snippets"
+    },
+    {
+      "url": "/luisuzai/AlgorithmVisualizer"
+    },
+    {
+      "url": "/luisuzai/Git-Minicurso"
+    },
+    {
+      "url": "/luisuzai/AppTransurb-Ltia"
+    }
+  ],
+  "worksfor": "@ltiaunesp",
+  "location": "",
+  "fullname": "Luis Uzai",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/16120632?v=3&s=460",
+  "contribs": 180,
+  "orgs": [
+    {
+      "ltiaunesp": "https://avatars0.githubusercontent.com/u/15327988?v=3&s=70"
+    }
+  ]
+}

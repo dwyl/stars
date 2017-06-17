@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kaimies",
+  "img": "https://avatars2.githubusercontent.com/u/15252288?v=3&s=460",
+  "uid": 15252288,
+  "repos": 42,
+  "stars": 114,
+  "followers": 1,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/kaimies/elm-stamps"
+    },
+    {
+      "url": "/kaimies/elm-etch-a-sketch"
+    },
+    {
+      "url": "/kaimies/intellij-settings"
+    },
+    {
+      "url": "/kaimies/udacity-fsnd-project-1-movie-trailer-website"
+    },
+    {
+      "url": "/kaimies/udacity-fsnd-project-2-tournament-results"
+    },
+    {
+      "url": "/kaimies/CleanCodeCaseStudy"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bonn, Germany",
+  "fullname": "Kai Mies",
+  "website": "https://edgecube.de",
+  "avatar": "https://avatars2.githubusercontent.com/u/15252288?v=3&s=460",
+  "contribs": 225,
+  "orgs": []
+}

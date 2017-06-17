@@ -1,0 +1,113 @@
+{
+  "url": "https://github.com/andrew",
+  "img": "https://avatars3.githubusercontent.com/u/1060?v=3&s=460",
+  "uid": 1060,
+  "repos": 244,
+  "stars": 5900,
+  "followers": 1400,
+  "following": 3000,
+  "pinned": [
+    {
+      "url": "/librariesio/libraries.io"
+    },
+    {
+      "url": "/librariesio/bibliothecary"
+    },
+    {
+      "url": "/24pullrequests/24pullrequests"
+    },
+    {
+      "url": "/octobox/octobox"
+    },
+    {
+      "url": "/sass/node-sass"
+    },
+    {
+      "url": "/splitrb/split"
+    }
+  ],
+  "worksfor": "@librariesio",
+  "location": "Somerset, UK",
+  "fullname": "Andrew Nesbitt",
+  "website": "https://libraries.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/1060?v=3&s=460",
+  "contribs": 10493,
+  "orgs": [
+    {
+      "sass": "https://avatars1.githubusercontent.com/u/317889?v=3&s=70"
+    },
+    {
+      "Homebrew": "https://avatars1.githubusercontent.com/u/1503512?v=3&s=70"
+    },
+    {
+      "railsgirls": "https://avatars0.githubusercontent.com/u/1641104?v=3&s=70"
+    },
+    {
+      "nodecopter": "https://avatars1.githubusercontent.com/u/2601574?v=3&s=70"
+    },
+    {
+      "CodeMontageHQ": "https://avatars2.githubusercontent.com/u/3221894?v=3&s=70"
+    },
+    {
+      "lnug": "https://avatars0.githubusercontent.com/u/4046959?v=3&s=70"
+    },
+    {
+      "railsgirlslondon": "https://avatars1.githubusercontent.com/u/4087082?v=3&s=70"
+    },
+    {
+      "tableflip": "https://avatars1.githubusercontent.com/u/5347145?v=3&s=70"
+    },
+    {
+      "hubot-scripts": "https://avatars2.githubusercontent.com/u/5367660?v=3&s=70"
+    },
+    {
+      "sushijs": "https://avatars1.githubusercontent.com/u/6209470?v=3&s=70"
+    },
+    {
+      "dawgs": "https://avatars0.githubusercontent.com/u/6399002?v=3&s=70"
+    },
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    },
+    {
+      "Makerland": "https://avatars0.githubusercontent.com/u/6742169?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "24pullrequests": "https://avatars2.githubusercontent.com/u/7920922?v=3&s=70"
+    },
+    {
+      "SICPDistilled": "https://avatars0.githubusercontent.com/u/8573970?v=3&s=70"
+    },
+    {
+      "bathruby": "https://avatars0.githubusercontent.com/u/8813242?v=3&s=70"
+    },
+    {
+      "PubHack": "https://avatars3.githubusercontent.com/u/8841379?v=3&s=70"
+    },
+    {
+      "osscommunity": "https://avatars1.githubusercontent.com/u/10533414?v=3&s=70"
+    },
+    {
+      "librariesio": "https://avatars0.githubusercontent.com/u/11243589?v=3&s=70"
+    },
+    {
+      "splitrb": "https://avatars1.githubusercontent.com/u/11708074?v=3&s=70"
+    },
+    {
+      "dependencyci": "https://avatars1.githubusercontent.com/u/16631473?v=3&s=70"
+    },
+    {
+      "sustainers": "https://avatars3.githubusercontent.com/u/24555914?v=3&s=70"
+    },
+    {
+      "octobox": "https://avatars2.githubusercontent.com/u/24639960?v=3&s=70"
+    },
+    {
+      "ossfriday": "https://avatars3.githubusercontent.com/u/24840298?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

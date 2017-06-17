@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/gtallen1187",
+  "img": "https://avatars3.githubusercontent.com/u/4712768?v=3&s=460",
+  "uid": 4712768,
+  "repos": 21,
+  "stars": 222,
+  "followers": 68,
+  "following": 71,
+  "pinned": [
+    {
+      "url": "/gtallen1187/gtallen1187.github.io"
+    },
+    {
+      "url": "/gtallen1187/uber-trip-script"
+    },
+    {
+      "url": "/gtallen1187/postgrest"
+    }
+  ],
+  "worksfor": "TellusLabs",
+  "location": "Boston, MA, USA",
+  "fullname": "Greg Allen",
+  "website": "http://gregallen.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/4712768?v=3&s=460",
+  "contribs": 708,
+  "orgs": [
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "HealthAPI": "https://avatars1.githubusercontent.com/u/12204754?v=3&s=70"
+    },
+    {
+      "boston-consulting-group": "https://avatars2.githubusercontent.com/u/12668326?v=3&s=70"
+    },
+    {
+      "telluslabs": "https://avatars3.githubusercontent.com/u/18247618?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

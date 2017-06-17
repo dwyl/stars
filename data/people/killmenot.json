@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/killmenot",
+  "img": "https://avatars0.githubusercontent.com/u/119337?v=3&s=460",
+  "uid": 119337,
+  "repos": 47,
+  "stars": 1700,
+  "followers": 47,
+  "following": 153,
+  "pinned": [
+    {
+      "url": "/killmenot/nodemailer-postmark-transport"
+    },
+    {
+      "url": "/killmenot/nodemailer-trap-plugin"
+    },
+    {
+      "url": "/killmenot/valid-data-url"
+    },
+    {
+      "url": "/killmenot/parse-data-url"
+    },
+    {
+      "url": "/killmenot/webtoolkit.md5"
+    },
+    {
+      "url": "/killmenot/kicker-rating"
+    }
+  ],
+  "worksfor": "@intspirit",
+  "location": "Russian Federation, Taganrog",
+  "fullname": "Alexey Kucherenko",
+  "website": "https://twitter.com/ki11menot",
+  "avatar": "https://avatars0.githubusercontent.com/u/119337?v=3&s=460",
+  "contribs": 44,
+  "orgs": [
+    {
+      "coderwall-charity": "https://avatars2.githubusercontent.com/u/3080009?v=3&s=70"
+    },
+    {
+      "intspirit": "https://avatars0.githubusercontent.com/u/4033393?v=3&s=70"
+    },
+    {
+      "TaganCoding": "https://avatars2.githubusercontent.com/u/15731712?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

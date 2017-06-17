@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/mrinalwadhwa",
+  "img": "https://avatars2.githubusercontent.com/u/159583?v=3&s=460",
+  "uid": 159583,
+  "repos": 31,
+  "stars": 604,
+  "followers": 45,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/mrinalwadhwa/excov"
+    },
+    {
+      "url": "/mrinalwadhwa/excov_reporter_console"
+    },
+    {
+      "url": "/mrinalwadhwa/excov_reporter_html"
+    },
+    {
+      "url": "/mrinalwadhwa/excov_example"
+    },
+    {
+      "url": "/mrinalwadhwa/erlang-bcrypt"
+    },
+    {
+      "url": "/mrinalwadhwa/.system"
+    }
+  ],
+  "worksfor": "Fybr",
+  "location": "",
+  "fullname": "Mrinal Wadhwa",
+  "website": "http://twitter.com/mrinal",
+  "avatar": "https://avatars2.githubusercontent.com/u/159583?v=3&s=460",
+  "contribs": 299,
+  "orgs": [
+    {
+      "apache": "https://avatars2.githubusercontent.com/u/47359?v=3&s=70"
+    },
+    {
+      "fybr-tech": "https://avatars2.githubusercontent.com/u/11382090?v=3&s=70"
+    }
+  ]
+}

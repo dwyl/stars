@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/z4o4z",
+  "img": "https://avatars2.githubusercontent.com/u/9130301?v=3&s=460",
+  "uid": 9130301,
+  "repos": 11,
+  "stars": 126,
+  "followers": 10,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/storybooks/storybook"
+    },
+    {
+      "url": "/z4o4z/vk-music"
+    },
+    {
+      "url": "/monterosalondon/react-native-parallax-scroll"
+    },
+    {
+      "url": "/z4o4z/storybook-addon-events"
+    },
+    {
+      "url": "/monterosalondon/react-native-elastic-stack"
+    },
+    {
+      "url": "/z4o4z/es6-store"
+    }
+  ],
+  "worksfor": "monterosa.co",
+  "location": "Belarus",
+  "fullname": "Evgeny Zaytsev",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/9130301?v=3&s=460",
+  "contribs": 465,
+  "orgs": [
+    {
+      "storybooks": "https://avatars2.githubusercontent.com/u/22632046?v=3&s=70"
+    },
+    {
+      "monterosalondon": "https://avatars3.githubusercontent.com/u/29028070?v=3&s=70"
+    }
+  ]
+}

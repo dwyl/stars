@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/lean",
+  "img": "https://avatars1.githubusercontent.com/u/1163315?v=3&s=460",
+  "uid": 1163315,
+  "repos": 4,
+  "stars": 84,
+  "followers": 9,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/lean/phaser-es6-webpack"
+    },
+    {
+      "url": "/lean/absolute-json"
+    },
+    {
+      "url": "/lean/frontend-stack"
+    },
+    {
+      "url": "/lean/absolute-ajax"
+    }
+  ],
+  "worksfor": "",
+  "location": "Tandil, Buenos Aires, Argentina",
+  "fullname": "Leandro Cabrera",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1163315?v=3&s=460",
+  "contribs": 8,
+  "orgs": []
+}

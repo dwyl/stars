@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/denji",
+  "img": "https://avatars2.githubusercontent.com/u/3759759?v=3&s=460",
+  "uid": 3759759,
+  "repos": 1200,
+  "stars": 16200,
+  "followers": 131,
+  "following": 368,
+  "pinned": [
+    {
+      "url": "/denji/awesome-http-benchmark"
+    },
+    {
+      "url": "/denji/golang-tls"
+    },
+    {
+      "url": "/denji/nginx-tuning"
+    },
+    {
+      "url": "/denji/vim-config-frontend"
+    },
+    {
+      "url": "/denji/REMath"
+    },
+    {
+      "url": "/denji/LimeChat"
+    }
+  ],
+  "worksfor": "",
+  "location": "Kiyv, UA",
+  "fullname": "Denis Denisov",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/3759759?v=3&s=460",
+  "contribs": 381,
+  "orgs": [
+    {
+      "Homebrew": "https://avatars1.githubusercontent.com/u/1503512?v=3&s=70"
+    },
+    {
+      "nginx-modules": "https://avatars0.githubusercontent.com/u/7256896?v=3&s=70"
+    },
+    {
+      "closure-gun": "https://avatars3.githubusercontent.com/u/13443085?v=3&s=70"
+    },
+    {
+      "fisherman": "https://avatars1.githubusercontent.com/u/17060082?v=3&s=70"
+    }
+  ]
+}

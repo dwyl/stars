@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/v12",
+  "img": "https://avatars1.githubusercontent.com/u/1483691?v=3&s=460",
+  "uid": 1483691,
+  "repos": 13,
+  "stars": 1100,
+  "followers": 10,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/v12/node-vk-api"
+    },
+    {
+      "url": "/v12/electron-vk-auth-demo"
+    },
+    {
+      "url": "/v12/m3u-parser"
+    },
+    {
+      "url": "/v12/fast-crc32"
+    },
+    {
+      "url": "/v12/nginx-boilerplate"
+    },
+    {
+      "url": "/v12/nginx-bp-light"
+    }
+  ],
+  "worksfor": "",
+  "location": "Manchester, UK",
+  "fullname": "Nikita Khomyakov",
+  "website": "https://krtn.eu/",
+  "avatar": "https://avatars1.githubusercontent.com/u/1483691?v=3&s=460",
+  "contribs": 75,
+  "orgs": [
+    {
+      "react-bootstrap": "https://avatars1.githubusercontent.com/u/6853419?v=3&s=70"
+    }
+  ]
+}

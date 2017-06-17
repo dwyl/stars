@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/jeyraof",
+  "img": "https://avatars1.githubusercontent.com/u/2032880?v=3&s=460",
+  "uid": 2032880,
+  "repos": 43,
+  "stars": 2700,
+  "followers": 83,
+  "following": 78,
+  "pinned": [
+    {
+      "url": "/jeyraof/awesome-kimchi"
+    },
+    {
+      "url": "/jeyraof/favorite"
+    },
+    {
+      "url": "/jeyraof/naver-cafe-viewer"
+    },
+    {
+      "url": "/jeyraof/naver-shopping-parser"
+    },
+    {
+      "url": "/jeyraof/flask-protein"
+    },
+    {
+      "url": "/jeyraof/react-renderer"
+    }
+  ],
+  "worksfor": "",
+  "location": "Seoul",
+  "fullname": "Jaeyoung Lee",
+  "website": "http://monodiary.net/",
+  "avatar": "https://avatars1.githubusercontent.com/u/2032880?v=3&s=460",
+  "contribs": 95,
+  "orgs": [
+    {
+      "ltbl": "https://avatars3.githubusercontent.com/u/763107?v=3&s=70"
+    },
+    {
+      "pythonkr": "https://avatars0.githubusercontent.com/u/3192767?v=3&s=70"
+    },
+    {
+      "MrLeeTeam": "https://avatars0.githubusercontent.com/u/4747393?v=3&s=70"
+    },
+    {
+      "reactkr": "https://avatars0.githubusercontent.com/u/9114161?v=3&s=70"
+    },
+    {
+      "rust-kr": "https://avatars2.githubusercontent.com/u/10530291?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

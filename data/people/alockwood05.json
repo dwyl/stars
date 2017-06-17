@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/alockwood05",
+  "img": "https://avatars3.githubusercontent.com/u/1720699?v=3&s=460",
+  "uid": 1720699,
+  "repos": 9,
+  "stars": 33,
+  "followers": 4,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/alockwood05/angular-quickdate"
+    },
+    {
+      "url": "/alockwood05/.vim"
+    },
+    {
+      "url": "/alockwood05/angular-async-script-directive"
+    },
+    {
+      "url": "/alockwood05/json-schema-faker"
+    },
+    {
+      "url": "/alockwood05/react-widgets"
+    },
+    {
+      "url": "/alockwood05/hapi-require-https"
+    }
+  ],
+  "worksfor": "",
+  "location": "San Francisco",
+  "fullname": "Alex",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1720699?v=3&s=460",
+  "contribs": 20,
+  "orgs": []
+}

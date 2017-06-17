@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/ur5us",
+  "img": "https://avatars3.githubusercontent.com/u/453776?v=3&s=460",
+  "uid": 453776,
+  "repos": 27,
+  "stars": 1600,
+  "followers": 36,
+  "following": 136,
+  "pinned": [
+    {
+      "url": "/ur5us/clojure-lounge-example"
+    },
+    {
+      "url": "/ur5us/rvm-site"
+    },
+    {
+      "url": "/ur5us/demo"
+    },
+    {
+      "url": "/ur5us/homebrew-versions"
+    },
+    {
+      "url": "/ur5us/middleman-guides"
+    },
+    {
+      "url": "/ur5us/webos-quick-install"
+    }
+  ],
+  "worksfor": "Unfolding Web",
+  "location": "Auckland, NZ",
+  "fullname": "Juri Hahn",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/453776?v=3&s=460",
+  "contribs": 3,
+  "orgs": [
+    {
+      "phxdevices": "https://avatars2.githubusercontent.com/u/2407336?v=3&s=70"
+    },
+    {
+      "nzruby": "https://avatars3.githubusercontent.com/u/3580563?v=3&s=70"
+    },
+    {
+      "RailsGirlsAuckland": "https://avatars2.githubusercontent.com/u/7110793?v=3&s=70"
+    }
+  ]
+}

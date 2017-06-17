@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/john2x",
+  "img": "https://avatars3.githubusercontent.com/u/332885?v=3&s=460",
+  "uid": 332885,
+  "repos": 79,
+  "stars": 298,
+  "followers": 46,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/john2x/flatui.vim"
+    },
+    {
+      "url": "/john2x/flatui-theme.el"
+    },
+    {
+      "url": "/john2x/plan9-theme.el"
+    },
+    {
+      "url": "/john2x/solarized-pygment"
+    },
+    {
+      "url": "/john2x/photomosaic"
+    },
+    {
+      "url": "/john2x/nameframe"
+    }
+  ],
+  "worksfor": "Collabspot",
+  "location": "Cebu, Philippines",
+  "fullname": "John Louis Del Rosario",
+  "website": "http://john2x.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/332885?v=3&s=460",
+  "contribs": 1657,
+  "orgs": [
+    {
+      "collabspot": "https://avatars1.githubusercontent.com/u/998563?v=3&s=70"
+    }
+  ]
+}

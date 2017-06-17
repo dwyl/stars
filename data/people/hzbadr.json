@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/hzbadr",
+  "img": "https://avatars2.githubusercontent.com/u/1521383?v=3&s=460",
+  "uid": 1521383,
+  "repos": 35,
+  "stars": 51,
+  "followers": 19,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/hzbadr/django-filter"
+    },
+    {
+      "url": "/hzbadr/ruby-meta"
+    },
+    {
+      "url": "/hzbadr/bootstrap-daterangepicker"
+    },
+    {
+      "url": "/hzbadr/ruby_meta_programming"
+    },
+    {
+      "url": "/hzbadr/snowplow"
+    },
+    {
+      "url": "/hzbadr/private_course"
+    }
+  ],
+  "worksfor": "BadrIT",
+  "location": "Alexandria, Egypt",
+  "fullname": "Hassan Zaki",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1521383?v=3&s=460",
+  "contribs": 98,
+  "orgs": []
+}

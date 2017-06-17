@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/waitingkuo",
+  "img": "https://avatars1.githubusercontent.com/u/1100923?v=3&s=460",
+  "uid": 1100923,
+  "repos": 161,
+  "stars": 1800,
+  "followers": 51,
+  "following": 36,
+  "pinned": [
+    {
+      "url": "/tensorflow/tensorflow"
+    },
+    {
+      "url": "/kubernetes/kubernetes"
+    },
+    {
+      "url": "/twitter/heron"
+    },
+    {
+      "url": "/jupyterlab/jupyterlab"
+    },
+    {
+      "url": "/jupyter/docker-stacks"
+    },
+    {
+      "url": "/PuerkitoBio/fetchbot"
+    }
+  ],
+  "worksfor": "",
+  "location": "Taipei, Taiwan",
+  "fullname": "Wei-Ting Kuo",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1100923?v=3&s=460",
+  "contribs": 147,
+  "orgs": []
+}

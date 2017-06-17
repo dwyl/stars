@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/gregaubs",
+  "img": "https://avatars1.githubusercontent.com/u/10707415?v=3&s=460",
+  "uid": 10707415,
+  "repos": 13,
+  "stars": 4,
+  "followers": 24,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/gregaubs/foundry-matrix-blog"
+    },
+    {
+      "url": "/gregaubs/pulltest"
+    },
+    {
+      "url": "/gregaubs/conflictdemo"
+    },
+    {
+      "url": "/gregaubs/conflictdemo2"
+    },
+    {
+      "url": "/gregaubs/hello-npm-gregaubs"
+    },
+    {
+      "url": "/gregaubs/blogjsmon"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/10707415?v=3&s=460",
+  "contribs": 1,
+  "orgs": [
+    {
+      "ideaq": "https://avatars3.githubusercontent.com/u/6831072?v=3&s=70"
+    },
+    {
+      "foundersandcoders": "https://avatars1.githubusercontent.com/u/9970257?v=3&s=70"
+    },
+    {
+      "foundry-matrix": "https://avatars2.githubusercontent.com/u/10707841?v=3&s=70"
+    },
+    {
+      "docdis": "https://avatars2.githubusercontent.com/u/10836426?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/teles",
+  "img": "https://avatars2.githubusercontent.com/u/762639?v=3&s=460",
+  "uid": 762639,
+  "repos": 51,
+  "stars": 319,
+  "followers": 91,
+  "following": 51,
+  "pinned": [
+    {
+      "url": "/frontpressorg/frontpress"
+    },
+    {
+      "url": "/teles/awesome-ideas"
+    },
+    {
+      "url": "/teles/pure-css-parallel-park"
+    },
+    {
+      "url": "/teles/teles.github.io"
+    },
+    {
+      "url": "/iloveblogs/guest-post"
+    },
+    {
+      "url": "/teles/awesome-repository-starter"
+    }
+  ],
+  "worksfor": "Viva Decora",
+  "location": "São Paulo",
+  "fullname": "Teles",
+  "website": "http://www.jotateles.com.br",
+  "avatar": "https://avatars2.githubusercontent.com/u/762639?v=3&s=460",
+  "contribs": 1971,
+  "orgs": [
+    {
+      "VivaReal": "https://avatars2.githubusercontent.com/u/1659216?v=3&s=70"
+    },
+    {
+      "vivadecora": "https://avatars3.githubusercontent.com/u/11411622?v=3&s=70"
+    },
+    {
+      "frontpressorg": "https://avatars2.githubusercontent.com/u/20207467?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/eterna2",
+  "img": "https://avatars0.githubusercontent.com/u/1248825?v=3&s=460",
+  "uid": 1248825,
+  "repos": 31,
+  "stars": 245,
+  "followers": 6,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/HiveOSS-Dockers/s3fs"
+    },
+    {
+      "url": "/PolymerVis/deck-gl"
+    },
+    {
+      "url": "/PolymerVis/mapbox-gl"
+    },
+    {
+      "url": "/datagovsg/polymer-notebook"
+    }
+  ],
+  "worksfor": "@datagovsg",
+  "location": "Singapore",
+  "fullname": "Eterna2",
+  "website": "http://www.eterna2.net",
+  "avatar": "https://avatars0.githubusercontent.com/u/1248825?v=3&s=460",
+  "contribs": 655,
+  "orgs": []
+}

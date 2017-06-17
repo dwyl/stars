@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/lobo",
+  "img": "https://avatars1.githubusercontent.com/u/575750?v=3&s=460",
+  "uid": 575750,
+  "repos": 66,
+  "stars": 980,
+  "followers": 57,
+  "following": 188,
+  "pinned": [
+    {
+      "url": "/lobo/parser-of-C-declarations"
+    },
+    {
+      "url": "/lobo/smaz"
+    },
+    {
+      "url": "/lobo/craigscraper"
+    },
+    {
+      "url": "/lobo/util"
+    },
+    {
+      "url": "/lobo/domaincli"
+    },
+    {
+      "url": "/lobo/pyrdiostream"
+    }
+  ],
+  "worksfor": "",
+  "location": "Planet Earth",
+  "fullname": "Daniel Lobo",
+  "website": "http://lobo.github.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/575750?v=3&s=460",
+  "contribs": 432,
+  "orgs": [
+    {
+      "auth0": "https://avatars3.githubusercontent.com/u/2824157?v=3&s=70"
+    },
+    {
+      "cran-io": "https://avatars1.githubusercontent.com/u/6199353?v=3&s=70"
+    }
+  ]
+}

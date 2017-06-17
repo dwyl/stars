@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/jhare",
+  "img": "https://avatars2.githubusercontent.com/u/1005091?v=3&s=460",
+  "uid": 1005091,
+  "repos": 96,
+  "stars": 36,
+  "followers": 11,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/jhare/waffles-tutorial"
+    },
+    {
+      "url": "/jhare/jhare-eslint-config"
+    },
+    {
+      "url": "/jhare/RaddestShellDefaults"
+    },
+    {
+      "url": "/TeamDeepcrow/bangers-and-hash"
+    },
+    {
+      "url": "/jhare/bearded-octo-sansa"
+    },
+    {
+      "url": "/jhare/demonjs"
+    }
+  ],
+  "worksfor": "Team Deepcrow",
+  "location": "The roost of a truly ancient deepcrow.",
+  "fullname": "Joe Hare @JoeHareDotOrg",
+  "website": "http://joehare.org",
+  "avatar": "https://avatars2.githubusercontent.com/u/1005091?v=3&s=460",
+  "contribs": 44,
+  "orgs": [
+    {
+      "TeamDeepcrow": "https://avatars3.githubusercontent.com/u/1216990?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

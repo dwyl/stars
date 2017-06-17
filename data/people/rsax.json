@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/rsax",
+  "img": "https://avatars1.githubusercontent.com/u/2637450?v=3&s=460",
+  "uid": 2637450,
+  "repos": 44,
+  "stars": 7,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/rsax/node-rfc"
+    },
+    {
+      "url": "/rsax/nw.js"
+    },
+    {
+      "url": "/rsax/amd-three.js"
+    },
+    {
+      "url": "/rsax/webgl-terrain"
+    },
+    {
+      "url": "/rsax/Photo-Sphere-Viewer"
+    },
+    {
+      "url": "/rsax/webvr-polyfill"
+    }
+  ],
+  "worksfor": "@plasmout",
+  "location": "Monterrey, México.",
+  "fullname": "Ramiro Sandoval",
+  "website": "http://www.plasmout.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/2637450?v=3&s=460",
+  "contribs": 425,
+  "orgs": []
+}

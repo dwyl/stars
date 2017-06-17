@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/bash",
+  "img": "https://avatars0.githubusercontent.com/u/4602612?v=3&s=460",
+  "uid": 4602612,
+  "repos": 57,
+  "stars": 642,
+  "followers": 26,
+  "following": 84,
+  "pinned": [
+    {
+      "url": "/bash/radium"
+    },
+    {
+      "url": "/bash/coop-rust"
+    },
+    {
+      "url": "/bash/vector"
+    },
+    {
+      "url": "/timetabio/Ink"
+    },
+    {
+      "url": "/bash/dotfiles"
+    },
+    {
+      "url": "/bash/coop-web"
+    }
+  ],
+  "worksfor": "",
+  "location": "Switzerland",
+  "fullname": "Ruben Schmidmeister",
+  "website": "https://www.rubys.ninja/",
+  "avatar": "https://avatars0.githubusercontent.com/u/4602612?v=3&s=460",
+  "contribs": 4278,
+  "orgs": [
+    {
+      "hipstercoders": "https://avatars1.githubusercontent.com/u/20645628?v=3&s=70"
+    },
+    {
+      "timetabio": "https://avatars3.githubusercontent.com/u/21082612?v=3&s=70"
+    },
+    {
+      "MyelinAI": "https://avatars3.githubusercontent.com/u/25252713?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

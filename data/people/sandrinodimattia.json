@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/sandrinodimattia",
+  "img": "https://avatars1.githubusercontent.com/u/655409?v=3&s=460",
+  "uid": 655409,
+  "repos": 107,
+  "stars": 1700,
+  "followers": 73,
+  "following": 63,
+  "pinned": [
+    {
+      "url": "/sandrinodimattia/RedDog"
+    },
+    {
+      "url": "/sandrinodimattia/Articles"
+    },
+    {
+      "url": "/sandrinodimattia/WindowsAzure-IPAddressRestriction"
+    },
+    {
+      "url": "/sandrinodimattia/gitbook-express-auth0-boilerplate"
+    },
+    {
+      "url": "/sandrinodimattia/WindowsAzure-PassiveFTPinVM"
+    },
+    {
+      "url": "/sandrinodimattia/EventHubsDemo"
+    }
+  ],
+  "worksfor": "Auth0",
+  "location": "Belgium, Brussels",
+  "fullname": "Sandrino Di Mattia",
+  "website": "http://sandrinodimattia.net",
+  "avatar": "https://avatars1.githubusercontent.com/u/655409?v=3&s=460",
+  "contribs": 936,
+  "orgs": [
+    {
+      "auth0": "https://avatars3.githubusercontent.com/u/2824157?v=3&s=70"
+    },
+    {
+      "auth0-customers": "https://avatars3.githubusercontent.com/u/12984283?v=3&s=70"
+    },
+    {
+      "auth0-extensions": "https://avatars2.githubusercontent.com/u/18216588?v=3&s=70"
+    }
+  ]
+}

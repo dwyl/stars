@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/napsternxg",
+  "img": "https://avatars3.githubusercontent.com/u/112678?v=3&s=460",
+  "uid": 112678,
+  "repos": 132,
+  "stars": 299,
+  "followers": 79,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/napsternxg/TwitterNER"
+    },
+    {
+      "url": "/napsternxg/DeepSequenceClassification"
+    },
+    {
+      "url": "/napsternxg/deepwalk_keras_igraph"
+    },
+    {
+      "url": "/napsternxg/ReadLater"
+    },
+    {
+      "url": "/napsternxg/awesome-scholarly-data-analysis"
+    },
+    {
+      "url": "/napsternxg/Novelty"
+    }
+  ],
+  "worksfor": "University of Illinois at Urbana Champaign",
+  "location": "Urbana, Illinois, USA",
+  "fullname": "Shubhanshu Mishra",
+  "website": "http://shubhanshu.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/112678?v=3&s=460",
+  "contribs": 283,
+  "orgs": []
+}

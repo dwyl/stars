@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/DFurnes",
+  "img": "https://avatars0.githubusercontent.com/u/583202?v=3&s=460",
+  "uid": 583202,
+  "repos": 29,
+  "stars": 176,
+  "followers": 17,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/DFurnes/hey"
+    },
+    {
+      "url": "/DFurnes/fender"
+    },
+    {
+      "url": "/DFurnes/sasslint"
+    },
+    {
+      "url": "/DFurnes/sasstree"
+    },
+    {
+      "url": "/DFurnes/doge-bookmarklet"
+    },
+    {
+      "url": "/DFurnes/purer"
+    }
+  ],
+  "worksfor": "DoSomething.org",
+  "location": "New York, NY",
+  "fullname": "David Furnes",
+  "website": "http://www.dfurnes.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/583202?v=3&s=460",
+  "contribs": 2676,
+  "orgs": [
+    {
+      "DoSomething": "https://avatars2.githubusercontent.com/u/731685?v=3&s=70"
+    }
+  ]
+}

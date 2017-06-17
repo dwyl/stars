@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/codemouse",
+  "img": "https://avatars1.githubusercontent.com/u/909339?v=3&s=460",
+  "uid": 909339,
+  "repos": 12,
+  "stars": 126,
+  "followers": 7,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/codemouse/raindrop"
+    },
+    {
+      "url": "/codemouse/hapi-fox"
+    },
+    {
+      "url": "/codemouse/errors-node"
+    },
+    {
+      "url": "/codemouse/hapi-errors"
+    },
+    {
+      "url": "/codemouse/hapi-heartbeat2"
+    },
+    {
+      "url": "/codemouse/good-hapi-rollbar"
+    }
+  ],
+  "worksfor": "Cybric",
+  "location": "Boston, MA",
+  "fullname": "Brian Sodano",
+  "website": "http://codemouse.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/909339?v=3&s=460",
+  "contribs": 2345,
+  "orgs": []
+}

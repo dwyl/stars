@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/arjendk",
+  "img": "https://avatars0.githubusercontent.com/u/1440330?v=3&s=460",
+  "uid": 1440330,
+  "repos": 3,
+  "stars": 30,
+  "followers": 2,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/arjendk/cartodb20"
+    },
+    {
+      "url": "/arjendk/tileserver-php"
+    },
+    {
+      "url": "/arjendk/shapefile-js"
+    }
+  ],
+  "worksfor": "",
+  "location": "Utrecht, The Netherlands",
+  "fullname": "Arjen de Korte",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1440330?v=3&s=460",
+  "contribs": 430,
+  "orgs": []
+}

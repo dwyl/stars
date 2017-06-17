@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bang-equal",
+  "img": "https://avatars0.githubusercontent.com/u/15361945?v=3&s=460",
+  "uid": 15361945,
+  "repos": 7,
+  "stars": 39,
+  "followers": 0,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/bang-equal/aspnetcore-xplatform-minimal-api"
+    },
+    {
+      "url": "/bang-equal/LeosBeautySalon"
+    },
+    {
+      "url": "/bang-equal/Excel-Macro-Masterfile-Datafile-FindMatches"
+    },
+    {
+      "url": "/bang-equal/aspnetcore-api-jwt-identity"
+    },
+    {
+      "url": "/bang-equal/BangEqual-Server"
+    },
+    {
+      "url": "/bang-equal/BangEqual-Client"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Bang Equal",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/15361945?v=3&s=460",
+  "contribs": 23,
+  "orgs": []
+}

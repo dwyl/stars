@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/trabus",
+  "img": "https://avatars2.githubusercontent.com/u/324797?v=3&s=460",
+  "uid": 324797,
+  "repos": 57,
+  "stars": 653,
+  "followers": 33,
+  "following": 27,
+  "pinned": [
+    {
+      "url": "/trabus/ember-cli-podify"
+    },
+    {
+      "url": "/trabus/addon-examples"
+    },
+    {
+      "url": "/trabus/markdown-it-terminal"
+    },
+    {
+      "url": "/trabus/ember-cli-mv"
+    },
+    {
+      "url": "/trabus/ember-cli-rename"
+    },
+    {
+      "url": "/trabus/BCSite"
+    }
+  ],
+  "worksfor": "",
+  "location": "Seattle",
+  "fullname": "Jake Bixby",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/324797?v=3&s=460",
+  "contribs": 81,
+  "orgs": []
+}

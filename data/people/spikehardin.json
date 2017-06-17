@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/spikehardin",
+  "img": "https://avatars1.githubusercontent.com/u/123073?v=3&s=460",
+  "uid": 123073,
+  "repos": 6,
+  "stars": 91,
+  "followers": 1,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/spikehardin/hapi-auth-jsonwebtoken"
+    },
+    {
+      "url": "/spikehardin/hapi-jwt-auth"
+    },
+    {
+      "url": "/spikehardin/webvr-boilerplate"
+    },
+    {
+      "url": "/spikehardin/hapi-react-starter-kit"
+    },
+    {
+      "url": "/spikehardin/hanx.js"
+    },
+    {
+      "url": "/spikehardin/generator-gulp-angular"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Scott Hardin",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/123073?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

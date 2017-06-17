@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/bartvanremortele",
+  "img": "https://avatars0.githubusercontent.com/u/424370?v=3&s=460",
+  "uid": 424370,
+  "repos": 47,
+  "stars": 390,
+  "followers": 8,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/bartvanremortele/CrudGeneratorBundle"
+    },
+    {
+      "url": "/bartvanremortele/freelance-box"
+    },
+    {
+      "url": "/bartvanremortele/my-hottowel-boilerplate"
+    },
+    {
+      "url": "/bartvanremortele/teamwork-kanban"
+    },
+    {
+      "url": "/bartvanremortele/users"
+    },
+    {
+      "url": "/bartvanremortele/CakePHP-FileUpload-Plugin"
+    }
+  ],
+  "worksfor": "Van Remortele ICT",
+  "location": "Sint-Niklaas, Belgium",
+  "fullname": "Bart Van Remortele",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/424370?v=3&s=460",
+  "contribs": 1261,
+  "orgs": [
+    {
+      "Tribeforce": "https://avatars0.githubusercontent.com/u/1258203?v=3&s=70"
+    }
+  ]
+}

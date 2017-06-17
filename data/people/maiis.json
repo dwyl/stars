@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/maiis",
+  "img": "https://avatars0.githubusercontent.com/u/23975?v=3&s=460",
+  "uid": 23975,
+  "repos": 37,
+  "stars": 720,
+  "followers": 22,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/maiis/grunt-tomcat"
+    },
+    {
+      "url": "/maiis/bolt"
+    },
+    {
+      "url": "/maiis/FontDetect"
+    },
+    {
+      "url": "/maiis/jquery-textfill"
+    },
+    {
+      "url": "/maiis/node-quickthumb"
+    },
+    {
+      "url": "/maiis/urturn-expressions"
+    }
+  ],
+  "worksfor": "@zip-ch",
+  "location": "Lausanne",
+  "fullname": "Emmanuel Vuigner",
+  "website": "http://maiis.me",
+  "avatar": "https://avatars0.githubusercontent.com/u/23975?v=3&s=460",
+  "contribs": 1073,
+  "orgs": [
+    {
+      "zip-ch": "https://avatars3.githubusercontent.com/u/17590958?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

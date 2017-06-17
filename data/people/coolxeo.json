@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/coolxeo",
+  "img": "https://avatars1.githubusercontent.com/u/200202?v=3&s=460",
+  "uid": 200202,
+  "repos": 22,
+  "stars": 1400,
+  "followers": 29,
+  "following": 35,
+  "pinned": [
+    {
+      "url": "/coolxeo/technical-presentations"
+    },
+    {
+      "url": "/coolxeo/instalocal"
+    },
+    {
+      "url": "/coolxeo/hapi"
+    },
+    {
+      "url": "/coolxeo/slate"
+    },
+    {
+      "url": "/coolxeo/buttercoin"
+    },
+    {
+      "url": "/coolxeo/FinanceSocket"
+    }
+  ],
+  "worksfor": "TransferWise",
+  "location": "London",
+  "fullname": "Daniel Garcia Acosta",
+  "website": "http://www.webprograma.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/200202?v=3&s=460",
+  "contribs": 6,
+  "orgs": []
+}

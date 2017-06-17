@@ -1,0 +1,61 @@
+{
+  "url": "https://github.com/Antonhansel",
+  "img": "https://avatars3.githubusercontent.com/u/4123811?v=3&s=460",
+  "uid": 4123811,
+  "repos": 53,
+  "stars": 145,
+  "followers": 30,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/callemall/material-ui"
+    },
+    {
+      "url": "/ReactTraining/react-router"
+    },
+    {
+      "url": "/Antonhansel/nodejs-restify-redis-mongo-boilerplate"
+    },
+    {
+      "url": "/erikras/react-redux-universal-hot-example"
+    },
+    {
+      "url": "/puckel/docker-airflow"
+    },
+    {
+      "url": "/mgesmundo/restify-session"
+    }
+  ],
+  "worksfor": "Edenbeat",
+  "location": "San Diego, CA - Paris, France",
+  "fullname": "AntonHansel",
+  "website": "http://www.antoninribeaud.fr",
+  "avatar": "https://avatars3.githubusercontent.com/u/4123811?v=3&s=460",
+  "contribs": 1231,
+  "orgs": [
+    {
+      "L8RMedia": "https://avatars1.githubusercontent.com/u/74264?v=3&s=70"
+    },
+    {
+      "AnyFetch": "https://avatars3.githubusercontent.com/u/3952848?v=3&s=70"
+    },
+    {
+      "fhacktory": "https://avatars3.githubusercontent.com/u/5315628?v=3&s=70"
+    },
+    {
+      "Moonshot-OpenCity": "https://avatars2.githubusercontent.com/u/8708851?v=3&s=70"
+    },
+    {
+      "EdenBeat": "https://avatars0.githubusercontent.com/u/10060434?v=3&s=70"
+    },
+    {
+      "GoAlfred": "https://avatars3.githubusercontent.com/u/18063474?v=3&s=70"
+    },
+    {
+      "TUBOT": "https://avatars3.githubusercontent.com/u/19827017?v=3&s=70"
+    },
+    {
+      "IncredibleData": "https://avatars3.githubusercontent.com/u/19958622?v=3&s=70"
+    }
+  ]
+}

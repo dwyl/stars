@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/cvillerm",
+  "img": "https://avatars2.githubusercontent.com/u/9128625?v=3&s=460",
+  "uid": 9128625,
+  "repos": 7,
+  "stars": 21,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/cvillerm/hapi-auth-jwt2"
+    },
+    {
+      "url": "/cvillerm/hello-world"
+    },
+    {
+      "url": "/cvillerm/SSLCertificateChecker-PhoneGap-Plugin"
+    },
+    {
+      "url": "/cvillerm/cordova-HTTP"
+    },
+    {
+      "url": "/cvillerm/hapi-auth-basic"
+    },
+    {
+      "url": "/cvillerm/bell"
+    }
+  ],
+  "worksfor": "",
+  "location": "Grenoble, France",
+  "fullname": "Claude Villermain",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/9128625?v=3&s=460",
+  "contribs": 9,
+  "orgs": []
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/vyorkin",
+  "img": "https://avatars0.githubusercontent.com/u/988849?v=3&s=460",
+  "uid": 988849,
+  "repos": 23,
+  "stars": 7000,
+  "followers": 76,
+  "following": 164,
+  "pinned": [
+    {
+      "url": "/vyorkin/most-koans"
+    },
+    {
+      "url": "/vyorkin-personal/d"
+    },
+    {
+      "url": "/vyorkin-play/kal"
+    },
+    {
+      "url": "/vyorkin-play/microx"
+    },
+    {
+      "url": "/vyorkin/schizo"
+    },
+    {
+      "url": "/vyorkin/hindley-milner"
+    }
+  ],
+  "worksfor": "",
+  "location": "::1/128",
+  "fullname": "Vasiliy Yorkin",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/988849?v=3&s=460",
+  "contribs": 485,
+  "orgs": [
+    {
+      "vyorkin-personal": "https://avatars0.githubusercontent.com/u/16165210?v=3&s=70"
+    },
+    {
+      "vyorkin-forks": "https://avatars3.githubusercontent.com/u/16165213?v=3&s=70"
+    },
+    {
+      "vyorkin-archive": "https://avatars0.githubusercontent.com/u/16165222?v=3&s=70"
+    },
+    {
+      "vyorkin-play": "https://avatars2.githubusercontent.com/u/16165328?v=3&s=70"
+    },
+    {
+      "shitjs": "https://avatars2.githubusercontent.com/u/20270963?v=3&s=70"
+    },
+    {
+      "crowdbrew": "https://avatars1.githubusercontent.com/u/23739956?v=3&s=70"
+    }
+  ]
+}

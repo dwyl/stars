@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/kristerkari",
+  "img": "https://avatars2.githubusercontent.com/u/993108?v=3&s=460",
+  "uid": 993108,
+  "repos": 48,
+  "stars": 2600,
+  "followers": 75,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/kristerkari/normalize.scss"
+    },
+    {
+      "url": "/kristerkari/stylelint-scss"
+    },
+    {
+      "url": "/kristerkari/karma-bdd-using"
+    },
+    {
+      "url": "/kristerkari/nanoScrollerJS"
+    },
+    {
+      "url": "/kristerkari/placekeeper"
+    }
+  ],
+  "worksfor": "",
+  "location": "Helsinki, Finland",
+  "fullname": "Krister Kari",
+  "website": "http://twitter.com/kristerkari",
+  "avatar": "https://avatars2.githubusercontent.com/u/993108?v=3&s=460",
+  "contribs": 532,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/schettino",
+  "img": "https://avatars0.githubusercontent.com/u/7825467?v=3&s=460",
+  "uid": 7825467,
+  "repos": 15,
+  "stars": 121,
+  "followers": 2,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/schettino/ui-uploader"
+    },
+    {
+      "url": "/schettino/docker-letsencrypt-nginx-proxy-companion"
+    },
+    {
+      "url": "/schettino/dokku-ec2-setup"
+    },
+    {
+      "url": "/schettino/rethink-backup"
+    },
+    {
+      "url": "/schettino/poxim"
+    },
+    {
+      "url": "/schettino/react-material-admin-template"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Matheus Schettino",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/7825467?v=3&s=460",
+  "contribs": 12,
+  "orgs": []
+}

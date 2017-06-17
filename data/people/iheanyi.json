@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/iheanyi",
+  "img": "https://avatars2.githubusercontent.com/u/956631?v=3&s=460",
+  "uid": 956631,
+  "repos": 126,
+  "stars": 4700,
+  "followers": 397,
+  "following": 213,
+  "pinned": [
+    {
+      "url": "/iheanyi/speakers-who-want-a-platform"
+    },
+    {
+      "url": "/iheanyi/bandcamp-dl"
+    },
+    {
+      "url": "/iheanyi/facebook-page-unliker"
+    },
+    {
+      "url": "/iheanyi/ember-cli-deploy-digitalocean"
+    },
+    {
+      "url": "/iheanyi/ClassSearch"
+    },
+    {
+      "url": "/iheanyi/bandcamp-go"
+    }
+  ],
+  "worksfor": "@digitalocean",
+  "location": "Brooklyn, NY",
+  "fullname": "Iheanyi Ekechukwu",
+  "website": "http://www.iheanyi.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/956631?v=3&s=460",
+  "contribs": 550,
+  "orgs": [],
+  "developerprogram": true
+}

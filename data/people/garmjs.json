@@ -1,0 +1,35 @@
+{
+  "url": "https://github.com/garmjs",
+  "img": "https://avatars3.githubusercontent.com/u/5017156?v=3&s=460",
+  "uid": 5017156,
+  "repos": 117,
+  "stars": 425,
+  "followers": 18,
+  "following": 82,
+  "pinned": [
+    {
+      "url": "/garmjs/react"
+    },
+    {
+      "url": "/garmjs/redux"
+    },
+    {
+      "url": "/garmjs/jest"
+    },
+    {
+      "url": "/garmjs/styled-components"
+    }
+  ],
+  "worksfor": "",
+  "location": "Prishtine",
+  "fullname": "Armend Gashi",
+  "website": "http://twitter.com/garmjs",
+  "avatar": "https://avatars3.githubusercontent.com/u/5017156?v=3&s=460",
+  "contribs": 73,
+  "orgs": [
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

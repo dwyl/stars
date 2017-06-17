@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/mpfeil",
+  "img": "https://avatars2.githubusercontent.com/u/2471172?v=3&s=460",
+  "uid": 2471172,
+  "repos": 53,
+  "stars": 519,
+  "followers": 26,
+  "following": 83,
+  "pinned": [
+    {
+      "url": "/sensebox/openSenseMap"
+    },
+    {
+      "url": "/sensebox/openSenseMap-API"
+    },
+    {
+      "url": "/sensebox/angular-opensensemap"
+    },
+    {
+      "url": "/mpfeil/alexa-fussball-sprueche"
+    },
+    {
+      "url": "/mpfeil/qualitySCHU"
+    },
+    {
+      "url": "/mpfeil/ILS"
+    }
+  ],
+  "worksfor": "@sensebox",
+  "location": "Münster",
+  "fullname": "Matthias Pfeil",
+  "website": "http://sensebox.de",
+  "avatar": "https://avatars2.githubusercontent.com/u/2471172?v=3&s=460",
+  "contribs": 699,
+  "orgs": [
+    {
+      "lodum": "https://avatars2.githubusercontent.com/u/3219843?v=3&s=70"
+    },
+    {
+      "sensebox": "https://avatars0.githubusercontent.com/u/7080570?v=3&s=70"
+    }
+  ]
+}

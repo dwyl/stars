@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/codematix",
+  "img": "https://avatars1.githubusercontent.com/u/8013222?v=3&s=460",
+  "uid": 8013222,
+  "repos": 36,
+  "stars": 241,
+  "followers": 9,
+  "following": 57,
+  "pinned": [
+    {
+      "url": "/intuitivcloud/signalman"
+    },
+    {
+      "url": "/intuitivcloud/confix"
+    },
+    {
+      "url": "/circuitbox/circuitbox"
+    },
+    {
+      "url": "/intuitivcloud/paqs"
+    },
+    {
+      "url": "/intuitivcloud/purl"
+    },
+    {
+      "url": "/intuitivcloud/egress"
+    }
+  ],
+  "worksfor": "intuitivcloud Systems",
+  "location": "",
+  "fullname": "Ranganath Kini",
+  "website": "http://blog.codematix.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/8013222?v=3&s=460",
+  "contribs": 86,
+  "orgs": [
+    {
+      "circuitbox": "https://avatars2.githubusercontent.com/u/6650750?v=3&s=70"
+    }
+  ]
+}

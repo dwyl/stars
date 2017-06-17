@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/KingScooty",
+  "img": "https://avatars0.githubusercontent.com/u/610869?v=3&s=460",
+  "uid": 610869,
+  "repos": 44,
+  "stars": 932,
+  "followers": 40,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/KingScooty/slushie"
+    },
+    {
+      "url": "/KingScooty/sass-easing"
+    },
+    {
+      "url": "/KingScooty/node-express-3.0-html5-boilerplate"
+    },
+    {
+      "url": "/KingScooty/html5-deploy-via-capistrano"
+    },
+    {
+      "url": "/KingScooty/0x88.js"
+    },
+    {
+      "url": "/KingScooty/django-boilerplate"
+    }
+  ],
+  "worksfor": "Wildflame Studios",
+  "location": "Manchester, UK",
+  "fullname": "Scotty Vernon",
+  "website": "http://wildflame.co.uk",
+  "avatar": "https://avatars0.githubusercontent.com/u/610869?v=3&s=460",
+  "contribs": 194,
+  "orgs": [
+    {
+      "BBCConnectedStudio": "https://avatars0.githubusercontent.com/u/2707325?v=3&s=70"
+    },
+    {
+      "designmodo": "https://avatars0.githubusercontent.com/u/3756424?v=3&s=70"
+    },
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    },
+    {
+      "Wildflame": "https://avatars2.githubusercontent.com/u/7568034?v=3&s=70"
+    },
+    {
+      "VRManchester": "https://avatars3.githubusercontent.com/u/16672022?v=3&s=70"
+    }
+  ]
+}

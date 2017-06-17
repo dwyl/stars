@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/joshy",
+  "img": "https://avatars2.githubusercontent.com/u/170219?v=3&s=460",
+  "uid": 170219,
+  "repos": 45,
+  "stars": 30,
+  "followers": 2,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/joshy/meta"
+    },
+    {
+      "url": "/joshy/hexclock"
+    },
+    {
+      "url": "/joshy/joshy.github.io"
+    },
+    {
+      "url": "/joshy/elm-css-color-guess-game"
+    }
+  ],
+  "worksfor": "Universitätsspital Basel",
+  "location": "Basel",
+  "fullname": "Joshy Cyriac",
+  "website": "https://twitter.com/irrwitz",
+  "avatar": "https://avatars2.githubusercontent.com/u/170219?v=3&s=460",
+  "contribs": 360,
+  "orgs": []
+}

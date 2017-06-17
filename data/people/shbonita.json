@@ -1,0 +1,28 @@
+{
+  "url": "https://github.com/shbonita",
+  "img": "https://avatars3.githubusercontent.com/u/1062232?v=3&s=460",
+  "uid": 1062232,
+  "repos": 2,
+  "stars": 242,
+  "followers": 16,
+  "following": 25,
+  "pinned": [
+    {
+      "url": "/shbonita/shbonita.github.io"
+    },
+    {
+      "url": "/shbonita/tdd-java-example-junit"
+    }
+  ],
+  "worksfor": "YSU",
+  "location": "Youngstown",
+  "fullname": "Bonita Sharif",
+  "website": "http://www.csis.ysu.edu/~bsharif",
+  "avatar": "https://avatars3.githubusercontent.com/u/1062232?v=3&s=460",
+  "contribs": 592,
+  "orgs": [
+    {
+      "ysuacm": "https://avatars3.githubusercontent.com/u/2784301?v=3&s=70"
+    }
+  ]
+}

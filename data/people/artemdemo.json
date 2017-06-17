@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/artemdemo",
+  "img": "https://avatars2.githubusercontent.com/u/5621750?v=3&s=460",
+  "uid": 5621750,
+  "repos": 77,
+  "stars": 35,
+  "followers": 37,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/artemdemo/morphing-carousel-ionic"
+    },
+    {
+      "url": "/artemdemo/wordpress-restapi-angular2"
+    },
+    {
+      "url": "/artemdemo/frontend-interview-questions"
+    },
+    {
+      "url": "/artemdemo/react-webpack-starter"
+    },
+    {
+      "url": "/artemdemo/angular2-todo"
+    },
+    {
+      "url": "/artemdemo/store-app"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Artem Demo",
+  "website": "http://bit.do/artemdemo-about",
+  "avatar": "https://avatars2.githubusercontent.com/u/5621750?v=3&s=460",
+  "contribs": 885,
+  "orgs": []
+}

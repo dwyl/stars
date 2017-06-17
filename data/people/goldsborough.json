@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/goldsborough",
+  "img": "https://avatars2.githubusercontent.com/u/6429851?v=3&s=460",
+  "uid": 6429851,
+  "repos": 48,
+  "stars": 421,
+  "followers": 190,
+  "following": 126,
+  "pinned": [
+    {
+      "url": "/goldsborough/clang-expand"
+    },
+    {
+      "url": "/goldsborough/lru-cache"
+    },
+    {
+      "url": "/goldsborough/ig"
+    },
+    {
+      "url": "/goldsborough/AVR-DHT11"
+    },
+    {
+      "url": "/goldsborough/ipc-bench"
+    },
+    {
+      "url": "/goldsborough/latexpp"
+    }
+  ],
+  "worksfor": "Facebook",
+  "location": "London, UK",
+  "fullname": "Peter Goldsborough",
+  "website": "http://www.goldsborough.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/6429851?v=3&s=460",
+  "contribs": 1491,
+  "orgs": []
+}

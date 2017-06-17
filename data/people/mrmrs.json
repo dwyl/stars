@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/mrmrs",
+  "img": "https://avatars1.githubusercontent.com/u/1748143?v=3&s=460",
+  "uid": 1748143,
+  "repos": 245,
+  "stars": 192,
+  "followers": 1800,
+  "following": 72,
+  "pinned": [
+    {
+      "url": "/mrmrs/colors"
+    },
+    {
+      "url": "/tachyons-css/tachyons"
+    },
+    {
+      "url": "/cssstats/cssstats"
+    },
+    {
+      "url": "/mrmrs/pesticide"
+    },
+    {
+      "url": "/mrmrs/fluidity"
+    },
+    {
+      "url": "/mrmrs/mnml"
+    }
+  ],
+  "worksfor": "@c8r",
+  "location": "London",
+  "fullname": "Adam Morse",
+  "website": "http://mrmrs.cc",
+  "avatar": "https://avatars1.githubusercontent.com/u/1748143?v=3&s=460",
+  "contribs": 4464,
+  "orgs": [
+    {
+      "cssstats": "https://avatars2.githubusercontent.com/u/11130808?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "tachyons-css": "https://avatars3.githubusercontent.com/u/15205635?v=3&s=70"
+    },
+    {
+      "c8r": "https://avatars2.githubusercontent.com/u/19245838?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/samcus",
+  "img": "https://avatars3.githubusercontent.com/u/14907938?v=3&s=460",
+  "uid": 14907938,
+  "repos": 20,
+  "stars": 373,
+  "followers": 3,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/samcus/vagrantfiles"
+    },
+    {
+      "url": "/samcus/sigmafy"
+    },
+    {
+      "url": "/samcus/clearbit-logo"
+    },
+    {
+      "url": "/samcus/sammygriddy"
+    },
+    {
+      "url": "/samcus/front-end-boilerplate"
+    },
+    {
+      "url": "/samcus/gulp-js-base64"
+    }
+  ],
+  "worksfor": "UnitedHealth Group",
+  "location": "Boston, MA",
+  "fullname": "Samuel Custer",
+  "website": "https://samcus.co",
+  "avatar": "https://avatars3.githubusercontent.com/u/14907938?v=3&s=460",
+  "contribs": 87,
+  "orgs": []
+}

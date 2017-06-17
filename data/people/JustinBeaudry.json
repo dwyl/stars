@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/JustinBeaudry",
+  "img": "https://avatars2.githubusercontent.com/u/686771?v=3&s=460",
+  "uid": 686771,
+  "repos": 115,
+  "stars": 1100,
+  "followers": 23,
+  "following": 116,
+  "pinned": [
+    {
+      "url": "/JustinBeaudry/pcm"
+    },
+    {
+      "url": "/JustinBeaudry/molecule"
+    },
+    {
+      "url": "/JustinBeaudry/angular-qs"
+    },
+    {
+      "url": "/JustinBeaudry/SegmentIO-Brightscript"
+    },
+    {
+      "url": "/JustinBeaudry/validate.js"
+    },
+    {
+      "url": "/JustinBeaudry/javascript"
+    }
+  ],
+  "worksfor": "creativeLIVE",
+  "location": "San Francisco, CA",
+  "fullname": "Justin Beaudry",
+  "website": "http://justinbeaudry.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/686771?v=3&s=460",
+  "contribs": 1805,
+  "orgs": [
+    {
+      "creativelive": "https://avatars0.githubusercontent.com/u/3044901?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

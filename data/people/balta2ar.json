@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/balta2ar",
+  "img": "https://avatars0.githubusercontent.com/u/340676?v=3&s=460",
+  "uid": 340676,
+  "repos": 33,
+  "stars": 1300,
+  "followers": 38,
+  "following": 58,
+  "pinned": [
+    {
+      "url": "/balta2ar/discrete-optimization-001"
+    },
+    {
+      "url": "/balta2ar/algorithmicthink-001"
+    },
+    {
+      "url": "/balta2ar/srs-toolbelt"
+    },
+    {
+      "url": "/balta2ar/conky-tutu"
+    },
+    {
+      "url": "/balta2ar/2048bot"
+    },
+    {
+      "url": "/balta2ar/manuscript-dl"
+    }
+  ],
+  "worksfor": "",
+  "location": "Moscow",
+  "fullname": "Yuri Bochkarev",
+  "website": "https://balta2ar.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/340676?v=3&s=460",
+  "contribs": 283,
+  "orgs": [
+    {
+      "coursera-dl": "https://avatars0.githubusercontent.com/u/5588942?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://github.com/podviaznikov",
+  "img": "https://avatars1.githubusercontent.com/u/429706?v=3&s=460",
+  "uid": 429706,
+  "repos": 157,
+  "stars": 4200,
+  "followers": 217,
+  "following": 2600,
+  "pinned": [
+    {
+      "url": "/hashobject/perun"
+    },
+    {
+      "url": "/Runnable/ponos"
+    },
+    {
+      "url": "/hashobject/jarkeeper.com"
+    },
+    {
+      "url": "/hashobject/sitemap"
+    },
+    {
+      "url": "/hashobject/blog.hashobject.com"
+    },
+    {
+      "url": "/hashobject/lifelines"
+    }
+  ],
+  "worksfor": "Runnable",
+  "location": "San Francisco",
+  "fullname": "Anton Podviaznikov",
+  "website": "http://podviaznikov.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/429706?v=3&s=460",
+  "contribs": 496,
+  "orgs": [
+    {
+      "recursecenter": "https://avatars2.githubusercontent.com/u/1085202?v=3&s=70"
+    },
+    {
+      "CodeNow": "https://avatars3.githubusercontent.com/u/2335750?v=3&s=70"
+    },
+    {
+      "Runnable": "https://avatars1.githubusercontent.com/u/2828361?v=3&s=70"
+    },
+    {
+      "hashobject": "https://avatars0.githubusercontent.com/u/4522707?v=3&s=70"
+    },
+    {
+      "gitrun": "https://avatars2.githubusercontent.com/u/4529950?v=3&s=70"
+    },
+    {
+      "asm-products": "https://avatars0.githubusercontent.com/u/6548361?v=3&s=70"
+    },
+    {
+      "openrada": "https://avatars3.githubusercontent.com/u/8975775?v=3&s=70"
+    },
+    {
+      "ReactWeek": "https://avatars1.githubusercontent.com/u/11040183?v=3&s=70"
+    }
+  ]
+}

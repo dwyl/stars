@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/chrisvfritz",
+  "img": "https://avatars1.githubusercontent.com/u/2327556?v=3&s=460",
+  "uid": 2327556,
+  "repos": 123,
+  "stars": 162,
+  "followers": 326,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/vuejs/vuejs.org"
+    },
+    {
+      "url": "/vuejs/vue-migration-helper"
+    },
+    {
+      "url": "/vuejs/eslint-plugin-vue"
+    },
+    {
+      "url": "/vuejs/eslint-config-vue"
+    },
+    {
+      "url": "/chrisvfritz/vue-2.0-simple-routing-example"
+    },
+    {
+      "url": "/chrisvfritz/vue-ssr-demo-simple"
+    }
+  ],
+  "worksfor": "",
+  "location": "Lansing, MI",
+  "fullname": "Chris Fritz",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/2327556?v=3&s=460",
+  "contribs": 2492,
+  "orgs": [
+    {
+      "vuejs": "https://avatars2.githubusercontent.com/u/6128107?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

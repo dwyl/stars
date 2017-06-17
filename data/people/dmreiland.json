@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/dmreiland",
+  "img": "https://avatars3.githubusercontent.com/u/10335?v=3&s=460",
+  "uid": 10335,
+  "repos": 335,
+  "stars": 355,
+  "followers": 4,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/dmreiland/solutionslog"
+    },
+    {
+      "url": "/dmreiland/vim-puppet"
+    },
+    {
+      "url": "/dmreiland/s3"
+    },
+    {
+      "url": "/dmreiland/sd-agent"
+    },
+    {
+      "url": "/dmreiland/test"
+    },
+    {
+      "url": "/dmreiland/stack-hammer-test"
+    }
+  ],
+  "worksfor": "UnixSherpa.com",
+  "location": "Minneapolis, MN",
+  "fullname": "Dan Reiland",
+  "website": "http://www.unixsherpa.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/10335?v=3&s=460",
+  "contribs": 79,
+  "orgs": []
+}

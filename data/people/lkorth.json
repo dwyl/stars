@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/lkorth",
+  "img": "https://avatars2.githubusercontent.com/u/1163999?v=3&s=460",
+  "uid": 1163999,
+  "repos": 59,
+  "stars": 833,
+  "followers": 67,
+  "following": 43,
+  "pinned": [
+    {
+      "url": "/lkorth/device-automator"
+    },
+    {
+      "url": "/lkorth/php-gcm"
+    },
+    {
+      "url": "/lkorth/php-form-builder-class"
+    },
+    {
+      "url": "/card-io/card.io-Android-source"
+    },
+    {
+      "url": "/lkorth/auto-fi"
+    },
+    {
+      "url": "/lkorth/screen-notifications"
+    }
+  ],
+  "worksfor": "Braintree",
+  "location": "",
+  "fullname": "Luke Korth",
+  "website": "http://lukekorth.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1163999?v=3&s=460",
+  "contribs": 1188,
+  "orgs": []
+}

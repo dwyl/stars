@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/elfelrandcor",
+  "img": "https://avatars1.githubusercontent.com/u/1535876?v=3&s=460",
+  "uid": 1535876,
+  "repos": 15,
+  "stars": 1300,
+  "followers": 27,
+  "following": 37,
+  "pinned": [
+    {
+      "url": "/elfelrandcor/public_platform"
+    },
+    {
+      "url": "/elfelrandcor/Ghost"
+    },
+    {
+      "url": "/elfelrandcor/bjobs"
+    },
+    {
+      "url": "/elfelrandcor/logger"
+    },
+    {
+      "url": "/elfelrandcor/PasswordKeeperApp"
+    },
+    {
+      "url": "/elfelrandcor/phantom-render-stream"
+    }
+  ],
+  "worksfor": "@worksolutions",
+  "location": "",
+  "fullname": "Juriy Panasevich",
+  "website": "http://brainstorage.me/elfelrandcor",
+  "avatar": "https://avatars1.githubusercontent.com/u/1535876?v=3&s=460",
+  "contribs": 488,
+  "orgs": [
+    {
+      "worksolutions": "https://avatars3.githubusercontent.com/u/4678825?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/jamesfiltness",
+  "img": "https://avatars3.githubusercontent.com/u/7085314?v=3&s=460",
+  "uid": 7085314,
+  "repos": 10,
+  "stars": 42,
+  "followers": 5,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/jamesfiltness/Tuneify"
+    },
+    {
+      "url": "/jamesfiltness/musicbrainz-elasticsearch"
+    },
+    {
+      "url": "/jamesfiltness/tuneify-python"
+    },
+    {
+      "url": "/jamesfiltness/universal-react-redux-react-router-boilerplate"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "James Filtness",
+  "website": "http://lnked.in/jamesf",
+  "avatar": "https://avatars3.githubusercontent.com/u/7085314?v=3&s=460",
+  "contribs": 489,
+  "orgs": []
+}

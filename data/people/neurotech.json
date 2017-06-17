@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/neurotech",
+  "img": "https://avatars3.githubusercontent.com/u/373026?v=3&s=460",
+  "uid": 373026,
+  "repos": 38,
+  "stars": 320,
+  "followers": 19,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/neurotech/canvas-api"
+    },
+    {
+      "url": "/neurotech/node-edumate"
+    },
+    {
+      "url": "/neurotech/spanner"
+    },
+    {
+      "url": "/neurotech/pg-micrologger"
+    },
+    {
+      "url": "/neurotech/canvas-data-warehouse"
+    },
+    {
+      "url": "/neurotech/rosebank-canvas"
+    }
+  ],
+  "worksfor": "",
+  "location": "Orange, Australia",
+  "fullname": "Tim Douglas",
+  "website": "http://timdouglas.co",
+  "avatar": "https://avatars3.githubusercontent.com/u/373026?v=3&s=460",
+  "contribs": 926,
+  "orgs": []
+}

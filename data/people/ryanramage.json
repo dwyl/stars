@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/ryanramage",
+  "img": "https://avatars0.githubusercontent.com/u/795834?v=3&s=460",
+  "uid": 795834,
+  "repos": 259,
+  "stars": 1100,
+  "followers": 63,
+  "following": 71,
+  "pinned": [
+    {
+      "url": "/ryanramage/docker-build-run-push"
+    },
+    {
+      "url": "/ryanramage/miki"
+    },
+    {
+      "url": "/ryanramage/couchapp-takeout"
+    },
+    {
+      "url": "/ryanramage/couch-audio-recorder"
+    },
+    {
+      "url": "/ryanramage/voxel-audio"
+    },
+    {
+      "url": "/ryanramage/couchdb-jsonselect"
+    }
+  ],
+  "worksfor": "",
+  "location": "Edmonton, AB, Canada",
+  "fullname": "Ryan Ramage",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/795834?v=3&s=460",
+  "contribs": 64,
+  "orgs": [
+    {
+      "kanso": "https://avatars0.githubusercontent.com/u/631888?v=3&s=70"
+    },
+    {
+      "datacitizen": "https://avatars3.githubusercontent.com/u/1738246?v=3&s=70"
+    },
+    {
+      "eckoit": "https://avatars0.githubusercontent.com/u/1848573?v=3&s=70"
+    },
+    {
+      "garden20": "https://avatars2.githubusercontent.com/u/2236285?v=3&s=70"
+    },
+    {
+      "voxel": "https://avatars0.githubusercontent.com/u/4636888?v=3&s=70"
+    },
+    {
+      "TruHome": "https://avatars1.githubusercontent.com/u/21093799?v=3&s=70"
+    }
+  ]
+}

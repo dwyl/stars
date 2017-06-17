@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/gibex",
+  "img": "https://avatars0.githubusercontent.com/u/922533?v=3&s=460",
+  "uid": 922533,
+  "repos": 27,
+  "stars": 72,
+  "followers": 1,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/gibex/accounts-entry"
+    },
+    {
+      "url": "/gibex/meteor-discourse-sso"
+    },
+    {
+      "url": "/gibex/meteor-unify"
+    },
+    {
+      "url": "/gibex/image-uploads"
+    },
+    {
+      "url": "/gibex/meteor-pages"
+    },
+    {
+      "url": "/gibex/meteor-reactive-ace"
+    }
+  ],
+  "worksfor": "NewNectar",
+  "location": "Bucharest, RO",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/922533?v=3&s=460",
+  "contribs": 38,
+  "orgs": []
+}

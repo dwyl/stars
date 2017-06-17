@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/ruben1",
+  "img": "https://avatars2.githubusercontent.com/u/4315770?v=3&s=460",
+  "uid": 4315770,
+  "repos": 60,
+  "stars": 216,
+  "followers": 68,
+  "following": 157,
+  "pinned": [
+    {
+      "url": "/ruben1/web-components"
+    },
+    {
+      "url": "/ruben1/ruben1.github.io"
+    },
+    {
+      "url": "/ruben1/hackathon"
+    },
+    {
+      "url": "/ruben1/mockr"
+    },
+    {
+      "url": "/ruben1/Pathlete"
+    },
+    {
+      "url": "/ruben1/news-board"
+    }
+  ],
+  "worksfor": "HubSpot",
+  "location": "Dublin",
+  "fullname": "Ruben Vicario Gonzalez",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/4315770?v=3&s=460",
+  "contribs": 16,
+  "orgs": [
+    {
+      "fablabbcn": "https://avatars1.githubusercontent.com/u/1260741?v=3&s=70"
+    },
+    {
+      "MildHawk": "https://avatars3.githubusercontent.com/u/10642599?v=3&s=70"
+    },
+    {
+      "radiant-persimmons": "https://avatars3.githubusercontent.com/u/10946592?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

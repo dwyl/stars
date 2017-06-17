@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/fredguile",
+  "img": "https://avatars0.githubusercontent.com/u/209813?v=3&s=460",
+  "uid": 209813,
+  "repos": 10,
+  "stars": 123,
+  "followers": 26,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/fredguile/react-redux-es2015-starter-kit"
+    },
+    {
+      "url": "/fredguile/ng2-md-datatable"
+    },
+    {
+      "url": "/fredguile/docker-php-lsyncd"
+    },
+    {
+      "url": "/Sample-Hold/SimpleSpectrumAnalyzer"
+    },
+    {
+      "url": "/Sample-Hold/SimpleEmptyAudioEffect"
+    },
+    {
+      "url": "/Sample-Hold/LaunchPlayMIDIEffect"
+    }
+  ],
+  "worksfor": "@neta-io",
+  "location": "Berlin, Germany",
+  "fullname": "Fred Ghilini",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/209813?v=3&s=460",
+  "contribs": 1724,
+  "orgs": [
+    {
+      "Sample-Hold": "https://avatars2.githubusercontent.com/u/5576348?v=3&s=70"
+    }
+  ]
+}

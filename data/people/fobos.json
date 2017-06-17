@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/fobos",
+  "img": "https://avatars0.githubusercontent.com/u/372529?v=3&s=460",
+  "uid": 372529,
+  "repos": 33,
+  "stars": 221,
+  "followers": 34,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/fobos/elm-weather"
+    },
+    {
+      "url": "/fobos/openedu-lisp"
+    },
+    {
+      "url": "/fobos/create-elm-app"
+    },
+    {
+      "url": "/fobos/nconf"
+    },
+    {
+      "url": "/fobos/elm-dice"
+    },
+    {
+      "url": "/fobos/mostly-adequate-guide"
+    }
+  ],
+  "worksfor": "@yandex",
+  "location": "Novosibirsk",
+  "fullname": "Alexander Biryukov",
+  "website": "https://twitter.com/illbullet",
+  "avatar": "https://avatars0.githubusercontent.com/u/372529?v=3&s=460",
+  "contribs": 96,
+  "orgs": []
+}

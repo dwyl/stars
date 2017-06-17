@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/rengokantai",
+  "img": "https://avatars2.githubusercontent.com/u/4312036?v=3&s=460",
+  "uid": 4312036,
+  "repos": 739,
+  "stars": 2500,
+  "followers": 16,
+  "following": 40,
+  "pinned": [
+    {
+      "url": "/Microsoft/vscode"
+    },
+    {
+      "url": "/mongodb/node-mongodb-native"
+    },
+    {
+      "url": "/timjacobi/angular2-education"
+    },
+    {
+      "url": "/ddollar/foreman"
+    },
+    {
+      "url": "/firebase/emberfire"
+    },
+    {
+      "url": "/getify/You-Dont-Know-JS"
+    }
+  ],
+  "worksfor": "Youvisit",
+  "location": "Wuhu/Tianjin,China→NYC",
+  "fullname": "Hernan Y.Ke",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/4312036?v=3&s=460",
+  "contribs": 2177,
+  "orgs": [
+    {
+      "interviewdiscussion": "https://avatars2.githubusercontent.com/u/26933138?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

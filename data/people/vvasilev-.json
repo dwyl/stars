@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/vvasilev-",
+  "img": "https://avatars2.githubusercontent.com/u/1783033?v=3&s=460",
+  "uid": 1783033,
+  "repos": 8,
+  "stars": 2200,
+  "followers": 35,
+  "following": 114,
+  "pinned": [
+    {
+      "url": "/2createStudio/postcss-sprites"
+    },
+    {
+      "url": "/Automattic/wp-calypso"
+    },
+    {
+      "url": "/casesandberg/react-color"
+    },
+    {
+      "url": "/vvasilev-/fullscreener"
+    },
+    {
+      "url": "/Automattic/wp-calypso-bootstrap"
+    },
+    {
+      "url": "/2createStudio/gulp-image-to-rule"
+    }
+  ],
+  "worksfor": "@2createStudio",
+  "location": "Varna, Bulgaria",
+  "fullname": "Viktor Vasilev",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1783033?v=3&s=460",
+  "contribs": 122,
+  "orgs": [
+    {
+      "2createStudio": "https://avatars1.githubusercontent.com/u/6463957?v=3&s=70"
+    },
+    {
+      "WordPress-Varna": "https://avatars0.githubusercontent.com/u/15332824?v=3&s=70"
+    }
+  ]
+}

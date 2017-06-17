@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/codetrash",
+  "img": "https://avatars0.githubusercontent.com/u/3906229?v=3&s=460",
+  "uid": 3906229,
+  "repos": 62,
+  "stars": 3,
+  "followers": 52,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/codetrash/rest-crud"
+    },
+    {
+      "url": "/codetrash/nodecrud"
+    },
+    {
+      "url": "/codetrash/nodemonkey"
+    },
+    {
+      "url": "/codetrash/sismar"
+    },
+    {
+      "url": "/codetrash/hapi-project"
+    },
+    {
+      "url": "/codetrash/codetrash.github.io"
+    }
+  ],
+  "worksfor": "PT. Solusi Data Pratama",
+  "location": "Indonesia",
+  "fullname": "Budy",
+  "website": "http://teknosains.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/3906229?v=3&s=460",
+  "contribs": 20,
+  "orgs": []
+}

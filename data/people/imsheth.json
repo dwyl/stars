@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/imsheth",
+  "img": "https://avatars3.githubusercontent.com/u/1313158?v=3&s=460",
+  "uid": 1313158,
+  "repos": 21,
+  "stars": 502,
+  "followers": 19,
+  "following": 85,
+  "pinned": [
+    {
+      "url": "/imsheth/shethvironment"
+    },
+    {
+      "url": "/imsheth/angular-ui-router-oclazyload-requirejs"
+    },
+    {
+      "url": "/imsheth/Self-Hosted-GPS-Tracker"
+    },
+    {
+      "url": "/imsheth/GujaratiLexicon-extension"
+    },
+    {
+      "url": "/imsheth/font-kalapi"
+    },
+    {
+      "url": "/imsheth/fonts-rekha"
+    }
+  ],
+  "worksfor": "Knex Inc.",
+  "location": "Ahmedabad",
+  "fullname": "Ishan Sheth",
+  "website": "http://www.imsheth.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1313158?v=3&s=460",
+  "contribs": 59,
+  "orgs": [
+    {
+      "FooBaroda": "https://avatars1.githubusercontent.com/u/7358922?v=3&s=70"
+    },
+    {
+      "msuca": "https://avatars2.githubusercontent.com/u/10907531?v=3&s=70"
+    },
+    {
+      "msu-casa": "https://avatars0.githubusercontent.com/u/14885492?v=3&s=70"
+    },
+    {
+      "byteprophecy": "https://avatars2.githubusercontent.com/u/19819722?v=3&s=70"
+    }
+  ]
+}

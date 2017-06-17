@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Ksisky",
+  "img": "https://avatars1.githubusercontent.com/u/16511346?v=3&s=460",
+  "uid": 16511346,
+  "repos": 10,
+  "stars": 15,
+  "followers": 3,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/Ksisky/learning-code"
+    },
+    {
+      "url": "/Ksisky/zork-py"
+    },
+    {
+      "url": "/Ksisky/Airports"
+    },
+    {
+      "url": "/Ksisky/prankcall"
+    },
+    {
+      "url": "/Ksisky/websites"
+    },
+    {
+      "url": "/Ksisky/PyGithub"
+    }
+  ],
+  "worksfor": "",
+  "location": "Boston",
+  "fullname": "Kevin Sisk",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/16511346?v=3&s=460",
+  "contribs": 21,
+  "orgs": [
+    {
+      "snowdayapp": "https://avatars1.githubusercontent.com/u/18471362?v=3&s=70"
+    }
+  ]
+}

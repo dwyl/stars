@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/OskarKlintrot",
+  "img": "https://avatars3.githubusercontent.com/u/6783879?v=3&s=460",
+  "uid": 6783879,
+  "repos": 17,
+  "stars": 112,
+  "followers": 6,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/OskarKlintrot/Offline-First-React-And-Redux-Boilerplate"
+    },
+    {
+      "url": "/OskarKlintrot/react-huge-apps-typescript"
+    },
+    {
+      "url": "/beanloop/tscomp"
+    },
+    {
+      "url": "/Certaincy/minimal-keystone-typescript"
+    },
+    {
+      "url": "/OskarKlintrot/Resources"
+    },
+    {
+      "url": "/OskarKlintrot/figurkoder.se"
+    }
+  ],
+  "worksfor": "@Certaincy",
+  "location": "Gothenburg, Sweden",
+  "fullname": "Oskar Klintrot",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/6783879?v=3&s=460",
+  "contribs": 346,
+  "orgs": [
+    {
+      "Certaincy": "https://avatars0.githubusercontent.com/u/24519850?v=3&s=70"
+    }
+  ]
+}

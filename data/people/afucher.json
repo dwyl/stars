@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/afucher",
+  "img": "https://avatars0.githubusercontent.com/u/3756185?v=3&s=460",
+  "uid": 3756185,
+  "repos": 43,
+  "stars": 75,
+  "followers": 16,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/afucher/FileStorage"
+    },
+    {
+      "url": "/afucher/yaip"
+    },
+    {
+      "url": "/afucher/nodemoney"
+    },
+    {
+      "url": "/afucher/Truffle"
+    },
+    {
+      "url": "/afucher/seq-pg-json"
+    },
+    {
+      "url": "/afucher/hapi-pg-cookie-auth"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Arthur Fücher",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/3756185?v=3&s=460",
+  "contribs": 300,
+  "orgs": [
+    {
+      "PadawanTeam": "https://avatars3.githubusercontent.com/u/23645834?v=3&s=70"
+    }
+  ]
+}

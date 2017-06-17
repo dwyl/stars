@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/Erkaman",
+  "img": "https://avatars1.githubusercontent.com/u/602313?v=3&s=460",
+  "uid": 602313,
+  "repos": 54,
+  "stars": 518,
+  "followers": 121,
+  "following": 120,
+  "pinned": [
+    {
+      "url": "/Erkaman/regl-cnn"
+    },
+    {
+      "url": "/Erkaman/wireframe-world"
+    },
+    {
+      "url": "/Erkaman/gl-water2d"
+    },
+    {
+      "url": "/Erkaman/cute-deferred-shading"
+    },
+    {
+      "url": "/Erkaman/glsl-godrays"
+    },
+    {
+      "url": "/Erkaman/gl-catmull-clark"
+    }
+  ],
+  "worksfor": "Chalmers University of Technology",
+  "location": "Sweden, Gothenburg",
+  "fullname": "Eric Arnebäck",
+  "website": "https://erkaman.github.io/",
+  "avatar": "https://avatars1.githubusercontent.com/u/602313?v=3&s=460",
+  "contribs": 1503,
+  "orgs": [
+    {
+      "stackgl": "https://avatars3.githubusercontent.com/u/6663448?v=3&s=70"
+    },
+    {
+      "glisy": "https://avatars0.githubusercontent.com/u/18121595?v=3&s=70"
+    },
+    {
+      "regl-project": "https://avatars0.githubusercontent.com/u/21343594?v=3&s=70"
+    }
+  ]
+}

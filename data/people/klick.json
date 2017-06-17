@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/klick",
+  "img": "https://avatars3.githubusercontent.com/u/250655?v=3&s=460",
+  "uid": 250655,
+  "repos": 25,
+  "stars": 191,
+  "followers": 2,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/klick/bootstrap"
+    },
+    {
+      "url": "/klick/Skeleton"
+    },
+    {
+      "url": "/klick/image-picker"
+    },
+    {
+      "url": "/klick/hammer.js"
+    },
+    {
+      "url": "/klick/jekyll-prism-plugin"
+    },
+    {
+      "url": "/klick/antwort"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Marcus Scheller",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/250655?v=3&s=460",
+  "contribs": 11,
+  "orgs": []
+}

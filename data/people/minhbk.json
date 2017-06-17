@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/minhbk",
+  "img": "https://avatars0.githubusercontent.com/u/15139618?v=3&s=460",
+  "uid": 15139618,
+  "repos": 16,
+  "stars": 4,
+  "followers": 1,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/minhbk/LearnSpark"
+    },
+    {
+      "url": "/minhbk/Compiler-Construction"
+    },
+    {
+      "url": "/foodsky/foodsky"
+    },
+    {
+      "url": "/minhbk/Computer-Architecture"
+    },
+    {
+      "url": "/minhbk/Dictionary"
+    },
+    {
+      "url": "/minhbk/Neovim-configuration"
+    }
+  ],
+  "worksfor": "Hanoi University of Science and Technology",
+  "location": "Hanoi",
+  "fullname": "Nguyễn Trí Minh",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/15139618?v=3&s=460",
+  "contribs": 125,
+  "orgs": []
+}

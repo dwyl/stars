@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/mazouri",
+  "img": "https://avatars1.githubusercontent.com/u/10293229?v=3&s=460",
+  "uid": 10293229,
+  "repos": 249,
+  "stars": 297,
+  "followers": 5,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/mazouri/AndroidTools"
+    },
+    {
+      "url": "/mazouri/android-mvp-kotlin"
+    },
+    {
+      "url": "/mazouri/EasyAlertDialog"
+    },
+    {
+      "url": "/mazouri/android-state-button"
+    },
+    {
+      "url": "/mazouri/ContactSearch"
+    },
+    {
+      "url": "/mazouri/android-mvp"
+    }
+  ],
+  "worksfor": "LeEco",
+  "location": "Beijing",
+  "fullname": "wangdongdong",
+  "website": "http://blog.csdn.net/dongdong230",
+  "avatar": "https://avatars1.githubusercontent.com/u/10293229?v=3&s=460",
+  "contribs": 315,
+  "orgs": [],
+  "developerprogram": true
+}

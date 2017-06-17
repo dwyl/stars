@@ -1,0 +1,61 @@
+{
+  "url": "https://github.com/tjwebb",
+  "img": "https://avatars2.githubusercontent.com/u/1009114?v=3&s=460",
+  "uid": 1009114,
+  "repos": 141,
+  "stars": 365,
+  "followers": 318,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/trailsjs/trails"
+    },
+    {
+      "url": "/tj/n"
+    },
+    {
+      "url": "/mapnik/mapnik"
+    },
+    {
+      "url": "/waterlinejs/postgresql-adapter"
+    },
+    {
+      "url": "/balderdashy/sails"
+    },
+    {
+      "url": "/tjwebb/graphql-knex-resolver"
+    }
+  ],
+  "worksfor": "@langateam",
+  "location": "Norfolk VA",
+  "fullname": "Travis Webb",
+  "website": "https://www.langa.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/1009114?v=3&s=460",
+  "contribs": 1549,
+  "orgs": [
+    {
+      "beerjs": "https://avatars0.githubusercontent.com/u/4584318?v=3&s=70"
+    },
+    {
+      "logistify": "https://avatars0.githubusercontent.com/u/5562442?v=3&s=70"
+    },
+    {
+      "norfolkjs": "https://avatars1.githubusercontent.com/u/5777723?v=3&s=70"
+    },
+    {
+      "sushijs": "https://avatars1.githubusercontent.com/u/6209470?v=3&s=70"
+    },
+    {
+      "hashpanel": "https://avatars3.githubusercontent.com/u/8763913?v=3&s=70"
+    },
+    {
+      "trailsjs": "https://avatars2.githubusercontent.com/u/15969634?v=3&s=70"
+    },
+    {
+      "langateam": "https://avatars1.githubusercontent.com/u/16507775?v=3&s=70"
+    },
+    {
+      "morecobol": "https://avatars3.githubusercontent.com/u/27633624?v=3&s=70"
+    }
+  ]
+}

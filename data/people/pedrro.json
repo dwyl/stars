@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/pedrro",
+  "img": "https://avatars2.githubusercontent.com/u/4137355?v=3&s=460",
+  "uid": 4137355,
+  "repos": 28,
+  "stars": 295,
+  "followers": 45,
+  "following": 63,
+  "pinned": [
+    {
+      "url": "/ThoughtWorksInc/guia-de-desenvolvimento-tecnico"
+    },
+    {
+      "url": "/ThoughtWorksInc/registrolivre"
+    },
+    {
+      "url": "/VamosJuntas/vamosjuntas"
+    },
+    {
+      "url": "/pedrro/TodoList"
+    },
+    {
+      "url": "/pedrro/FrisbyAPITest"
+    },
+    {
+      "url": "/pedrro/ConsumerContractTestingJS"
+    }
+  ],
+  "worksfor": "@ThoughtWorksInc",
+  "location": "Porto Alegre, RS - Brazil",
+  "fullname": "Pedro Henrique",
+  "website": "https://www.linkedin.com/in/pedrohenrique1",
+  "avatar": "https://avatars2.githubusercontent.com/u/4137355?v=3&s=460",
+  "contribs": 170,
+  "orgs": [
+    {
+      "ThoughtWorksInc": "https://avatars0.githubusercontent.com/u/168376?v=3&s=70"
+    },
+    {
+      "aceleradora-TW": "https://avatars3.githubusercontent.com/u/18720656?v=3&s=70"
+    }
+  ]
+}

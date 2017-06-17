@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/devfacet",
+  "img": "https://avatars1.githubusercontent.com/u/965295?v=3&s=460",
+  "uid": 965295,
+  "repos": 19,
+  "stars": 407,
+  "followers": 35,
+  "following": 50,
+  "pinned": [
+    {
+      "url": "/devfacet/natsboard"
+    },
+    {
+      "url": "/devfacet/gocli"
+    },
+    {
+      "url": "/devfacet/weather"
+    },
+    {
+      "url": "/devfacet/iptocountry"
+    },
+    {
+      "url": "/devfacet/mws-product"
+    },
+    {
+      "url": "/devfacet/seneca-nats-transport"
+    }
+  ],
+  "worksfor": "@knockaway",
+  "location": "MA, USA",
+  "fullname": "Fatih Cetinkaya",
+  "website": "http://devfacet.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/965295?v=3&s=460",
+  "contribs": 1649,
+  "orgs": [
+    {
+      "knockaway": "https://avatars1.githubusercontent.com/u/13203677?v=3&s=70"
+    },
+    {
+      "pubfood": "https://avatars1.githubusercontent.com/u/15350598?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jmstout",
+  "img": "https://avatars3.githubusercontent.com/u/817658?v=3&s=460",
+  "uid": 817658,
+  "repos": 12,
+  "stars": 1500,
+  "followers": 13,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/jmstout/react-native-viewport-units"
+    },
+    {
+      "url": "/jmstout/react-native-TouchableSetActive"
+    },
+    {
+      "url": "/jmstout/rn-drawer"
+    },
+    {
+      "url": "/jmstout/stream-handbook"
+    },
+    {
+      "url": "/jmstout/gulp"
+    },
+    {
+      "url": "/jmstout/dgeni-packages"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Jeff Stout",
+  "website": "http://jmstout.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/817658?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

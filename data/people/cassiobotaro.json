@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/cassiobotaro",
+  "img": "https://avatars0.githubusercontent.com/u/3127847?v=3&s=460",
+  "uid": 3127847,
+  "repos": 46,
+  "stars": 920,
+  "followers": 152,
+  "following": 162,
+  "pinned": [
+    {
+      "url": "/cassiobotaro/vimbook"
+    },
+    {
+      "url": "/avelino/vim-bootstrap"
+    },
+    {
+      "url": "/cassiobotaro/60-days-of-go"
+    },
+    {
+      "url": "/cassiobotaro/dotfiles"
+    },
+    {
+      "url": "/cassiobotaro/cassiobotaro.github.io"
+    },
+    {
+      "url": "/cassiobotaro/awesome-python-modules-as-script"
+    }
+  ],
+  "worksfor": "@nuveo",
+  "location": "Belo Horizonte",
+  "fullname": "Cássio Botaro",
+  "website": "http://cassiobotaro.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/3127847?v=3&s=460",
+  "contribs": 1224,
+  "orgs": [
+    {
+      "pythonmg": "https://avatars3.githubusercontent.com/u/1778356?v=3&s=70"
+    },
+    {
+      "pythonhub": "https://avatars2.githubusercontent.com/u/4424071?v=3&s=70"
+    },
+    {
+      "nuveo": "https://avatars0.githubusercontent.com/u/16190545?v=3&s=70"
+    }
+  ]
+}

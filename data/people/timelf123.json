@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/timelf123",
+  "img": "https://avatars3.githubusercontent.com/u/2816999?v=3&s=460",
+  "uid": 2816999,
+  "repos": 88,
+  "stars": 1300,
+  "followers": 19,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/linnovate/mean"
+    },
+    {
+      "url": "/snowplow/snowplow"
+    },
+    {
+      "url": "/angulartics/angulartics"
+    },
+    {
+      "url": "/sixpack/sixpack-js"
+    },
+    {
+      "url": "/angulartics/angulartics-google-analytics"
+    },
+    {
+      "url": "/angulartics/angulartics2"
+    }
+  ],
+  "worksfor": "contrib @ideawake @angulartics @linnovate",
+  "location": "",
+  "fullname": "Tim Elfelt",
+  "website": "https://timelfelt.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/2816999?v=3&s=460",
+  "contribs": 915,
+  "orgs": []
+}

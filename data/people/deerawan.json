@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/deerawan",
+  "img": "https://avatars2.githubusercontent.com/u/1243921?v=3&s=460",
+  "uid": 1243921,
+  "repos": 110,
+  "stars": 53,
+  "followers": 33,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/deerawan/yii2-advanced-api"
+    },
+    {
+      "url": "/deerawan/vscode-dash"
+    },
+    {
+      "url": "/deerawan/docker-yii2-ci"
+    },
+    {
+      "url": "/deerawan/vscode-hasher"
+    },
+    {
+      "url": "/deerawan/vscode-hapijs-snippets"
+    },
+    {
+      "url": "/deerawan/vscode-faker"
+    }
+  ],
+  "worksfor": "Invoice2go",
+  "location": "Sydney, Australia",
+  "fullname": "Budi Irawan",
+  "website": "http://budiirawan.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1243921?v=3&s=460",
+  "contribs": 375,
+  "orgs": [
+    {
+      "invoice2go": "https://avatars2.githubusercontent.com/u/443182?v=3&s=70"
+    }
+  ]
+}

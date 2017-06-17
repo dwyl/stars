@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/dolymood",
+  "img": "https://avatars1.githubusercontent.com/u/2121554?v=3&s=460",
+  "uid": 2121554,
+  "repos": 233,
+  "stars": 1200,
+  "followers": 95,
+  "following": 110,
+  "pinned": [
+    {
+      "url": "/dolymood/AngularLearning"
+    },
+    {
+      "url": "/dolymood/date-time-picker"
+    },
+    {
+      "url": "/dolymood/angular-example"
+    },
+    {
+      "url": "/dolymood/angular-delegate-event"
+    },
+    {
+      "url": "/dolymood/learning-angular"
+    },
+    {
+      "url": "/dolymood/aisvg2sprite"
+    }
+  ],
+  "worksfor": "",
+  "location": "Beijing, China",
+  "fullname": "doly mood",
+  "website": "http://aijc.net",
+  "avatar": "https://avatars1.githubusercontent.com/u/2121554?v=3&s=460",
+  "contribs": 225,
+  "orgs": [
+    {
+      "mobile-router": "https://avatars3.githubusercontent.com/u/14199430?v=3&s=70"
+    },
+    {
+      "image-components": "https://avatars2.githubusercontent.com/u/14199874?v=3&s=70"
+    }
+  ]
+}

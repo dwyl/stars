@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/fabiodamasceno",
+  "img": "https://avatars1.githubusercontent.com/u/1590195?v=3&s=460",
+  "uid": 1590195,
+  "repos": 10,
+  "stars": 108,
+  "followers": 8,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/fabiodamasceno/vscode-console-wrapper"
+    },
+    {
+      "url": "/fabiodamasceno/hoverboard"
+    },
+    {
+      "url": "/fabiodamasceno/workshop-wordpress-php-experience"
+    },
+    {
+      "url": "/fabiodamasceno/Computer-Graphics-Algorithms"
+    },
+    {
+      "url": "/fabiodamasceno/materialize"
+    },
+    {
+      "url": "/fabiodamasceno/browserify-love-demo"
+    }
+  ],
+  "worksfor": "",
+  "location": "São Paulo",
+  "fullname": "Fábio Damasceno",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1590195?v=3&s=460",
+  "contribs": 25,
+  "orgs": []
+}

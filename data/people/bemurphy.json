@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/bemurphy",
+  "img": "https://avatars2.githubusercontent.com/u/124661?v=3&s=460",
+  "uid": 124661,
+  "repos": 167,
+  "stars": 238,
+  "followers": 33,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/bemurphy/rushover"
+    },
+    {
+      "url": "/bemurphy/human_seconds"
+    },
+    {
+      "url": "/bemurphy/das_catalog"
+    },
+    {
+      "url": "/bemurphy/acts_as_optionable"
+    },
+    {
+      "url": "/bemurphy/rack-header-key"
+    },
+    {
+      "url": "/bemurphy/minitest-mongoid"
+    }
+  ],
+  "worksfor": "Kajabi",
+  "location": "Irvine, CA",
+  "fullname": "Brendon Murphy",
+  "website": "http://www.techfreak.net",
+  "avatar": "https://avatars2.githubusercontent.com/u/124661?v=3&s=460",
+  "contribs": 4189,
+  "orgs": [
+    {
+      "ocrb": "https://avatars2.githubusercontent.com/u/702998?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/MaximAbramchuck",
+  "img": "https://avatars0.githubusercontent.com/u/5942002?v=3&s=460",
+  "uid": 5942002,
+  "repos": 25,
+  "stars": 1400,
+  "followers": 309,
+  "following": 157,
+  "pinned": [
+    {
+      "url": "/MaximAbramchuck/awesome-interview-questions"
+    },
+    {
+      "url": "/MaximAbramchuck/ruby-telegram-bot-starter-kit"
+    },
+    {
+      "url": "/MaximAbramchuck/ionic-gulp-es6-starter-kit"
+    },
+    {
+      "url": "/MaximAbramchuck/awesome-boilerplate"
+    },
+    {
+      "url": "/MaximAbramchuck/rails3-csrf-patcher"
+    },
+    {
+      "url": "/brunch/brunch"
+    }
+  ],
+  "worksfor": "Botcube @BotCube",
+  "location": "Minsk, Belarus",
+  "fullname": "Maxim Abramchuk",
+  "website": "https://botcube.co/",
+  "avatar": "https://avatars0.githubusercontent.com/u/5942002?v=3&s=460",
+  "contribs": 2021,
+  "orgs": [
+    {
+      "rubyroidlabs": "https://avatars2.githubusercontent.com/u/5137565?v=3&s=70"
+    },
+    {
+      "AngularClass": "https://avatars1.githubusercontent.com/u/11602678?v=3&s=70"
+    },
+    {
+      "BotCube": "https://avatars3.githubusercontent.com/u/25101965?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

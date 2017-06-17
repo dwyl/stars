@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/mrmayfield",
+  "img": "https://avatars0.githubusercontent.com/u/7200471?v=3&s=460",
+  "uid": 7200471,
+  "repos": 66,
+  "stars": 3400,
+  "followers": 152,
+  "following": 488,
+  "pinned": [
+    {
+      "url": "/mrmayfield/realtimechess"
+    },
+    {
+      "url": "/mrmayfield/localbitcoins-node"
+    },
+    {
+      "url": "/tinderjs/tinder-desktop"
+    },
+    {
+      "url": "/tinderjs/tinderjs"
+    },
+    {
+      "url": "/mrmayfield/bitcoin"
+    },
+    {
+      "url": "/mrmayfield/diaspora"
+    }
+  ],
+  "worksfor": "Head Of Engineering at @autolotto",
+  "location": "Vancouver, BC",
+  "fullname": "Anthony Mayfield",
+  "website": "http://twitter.com/a_mayfield_",
+  "avatar": "https://avatars0.githubusercontent.com/u/7200471?v=3&s=460",
+  "contribs": 987,
+  "orgs": [
+    {
+      "node-schedule": "https://avatars1.githubusercontent.com/u/15573747?v=3&s=70"
+    },
+    {
+      "realtimechess": "https://avatars3.githubusercontent.com/u/16457482?v=3&s=70"
+    },
+    {
+      "tinderjs": "https://avatars2.githubusercontent.com/u/17691195?v=3&s=70"
+    },
+    {
+      "backuprepos": "https://avatars0.githubusercontent.com/u/17968227?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

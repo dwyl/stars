@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/elado",
+  "img": "https://avatars3.githubusercontent.com/u/51488?v=3&s=460",
+  "uid": 51488,
+  "repos": 91,
+  "stars": 683,
+  "followers": 65,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/elado/jastor"
+    },
+    {
+      "url": "/elado/reuse-promise"
+    },
+    {
+      "url": "/elado/isotope"
+    },
+    {
+      "url": "/elado/lodash-bound"
+    },
+    {
+      "url": "/elado/class-private-method-decorator"
+    },
+    {
+      "url": "/elado/kaching"
+    }
+  ],
+  "worksfor": "",
+  "location": "San Francisco",
+  "fullname": "Elad Ossadon",
+  "website": "http://elad.ossadon.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/51488?v=3&s=460",
+  "contribs": 79,
+  "orgs": [
+    {
+      "tigerconnect": "https://avatars0.githubusercontent.com/u/14131718?v=3&s=70"
+    }
+  ]
+}

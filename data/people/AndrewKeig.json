@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/AndrewKeig",
+  "img": "https://avatars2.githubusercontent.com/u/62837?v=3&s=460",
+  "uid": 62837,
+  "repos": 56,
+  "stars": 464,
+  "followers": 54,
+  "following": 77,
+  "pinned": [
+    {
+      "url": "/AndrewKeig/express-validation"
+    },
+    {
+      "url": "/AndrewKeig/protractor-cucumber"
+    },
+    {
+      "url": "/AndrewKeig/advanced-express-application-development"
+    },
+    {
+      "url": "/AndrewKeig/node-plates"
+    },
+    {
+      "url": "/AndrewKeig/rabbitmq-messaging-application-development"
+    },
+    {
+      "url": "/AndrewKeig/react-speech"
+    }
+  ],
+  "worksfor": "airasoul",
+  "location": "London, UK",
+  "fullname": "Andrew Keig",
+  "website": "http://blog.airasoul.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/62837?v=3&s=460",
+  "contribs": 8,
+  "orgs": []
+}

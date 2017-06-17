@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/zokeber",
+  "img": "https://avatars2.githubusercontent.com/u/2593840?v=3&s=460",
+  "uid": 2593840,
+  "repos": 24,
+  "stars": 1800,
+  "followers": 74,
+  "following": 76,
+  "pinned": [
+    {
+      "url": "/zokeber/supervisor-systemd"
+    },
+    {
+      "url": "/zokeber/argentina-json"
+    },
+    {
+      "url": "/zokeber/docker-mongodb"
+    },
+    {
+      "url": "/zokeber/docker-centos"
+    },
+    {
+      "url": "/zokeber/venezuela-json"
+    },
+    {
+      "url": "/zokeber/DeleteRundeckExecutions"
+    }
+  ],
+  "worksfor": "@wenance",
+  "location": "Buenos Aires, Argentina",
+  "fullname": "Daniel AL Monagas",
+  "website": "http://www.neuronadicta.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/2593840?v=3&s=460",
+  "contribs": 53,
+  "orgs": [
+    {
+      "RouteAtlas": "https://avatars3.githubusercontent.com/u/5271119?v=3&s=70"
+    }
+  ]
+}

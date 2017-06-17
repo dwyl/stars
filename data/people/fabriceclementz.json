@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/fabriceclementz",
+  "img": "https://avatars2.githubusercontent.com/u/1771483?v=3&s=460",
+  "uid": 1771483,
+  "repos": 34,
+  "stars": 181,
+  "followers": 4,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/fabriceclementz/clarifai-php"
+    },
+    {
+      "url": "/fabriceclementz/imagga-php"
+    },
+    {
+      "url": "/SDV-Plurimedia/laravel-endpoint"
+    }
+  ],
+  "worksfor": "http://sdv.fr/",
+  "location": "Strasbourg",
+  "fullname": "Fabrice Clementz",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1771483?v=3&s=460",
+  "contribs": 80,
+  "orgs": []
+}

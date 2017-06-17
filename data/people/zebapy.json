@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/zebapy",
+  "img": "https://avatars0.githubusercontent.com/u/2199845?v=3&s=460",
+  "uid": 2199845,
+  "repos": 30,
+  "stars": 1000,
+  "followers": 12,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/zebapy/react-apollo-starter"
+    },
+    {
+      "url": "/zebapy/create-react-app-parse-redux"
+    },
+    {
+      "url": "/zebapy/react-gulp-emails"
+    },
+    {
+      "url": "/zebapy/react-redux-parse-server"
+    },
+    {
+      "url": "/fateseal/react-mtg-playtester"
+    },
+    {
+      "url": "/zebapy/zebapy.github.io"
+    }
+  ],
+  "worksfor": "@middlebury",
+  "location": "Vermont, US",
+  "fullname": "Zeb Pykosz",
+  "website": "http://zeb.codes",
+  "avatar": "https://avatars0.githubusercontent.com/u/2199845?v=3&s=460",
+  "contribs": 4098,
+  "orgs": [
+    {
+      "middlebury": "https://avatars1.githubusercontent.com/u/722333?v=3&s=70"
+    }
+  ]
+}

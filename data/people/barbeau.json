@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/barbeau",
+  "img": "https://avatars0.githubusercontent.com/u/928045?v=3&s=460",
+  "uid": 928045,
+  "repos": 31,
+  "stars": 369,
+  "followers": 64,
+  "following": 89,
+  "pinned": [
+    {
+      "url": "/OneBusAway/onebusaway-android"
+    },
+    {
+      "url": "/CUTR-at-USF/OpenTripPlanner-for-Android"
+    },
+    {
+      "url": "/barbeau/gpstest"
+    },
+    {
+      "url": "/OneBusAway/onebusaway-alexa"
+    },
+    {
+      "url": "/CUTR-at-USF/usf-mobullity"
+    },
+    {
+      "url": "/OneBusAway/onebusaway-client-library"
+    }
+  ],
+  "worksfor": "@CUTR-at-USF",
+  "location": "Tampa, Fl",
+  "fullname": "Sean Barbeau",
+  "website": "http://www.linkedin.com/in/seanbarbeau/",
+  "avatar": "https://avatars0.githubusercontent.com/u/928045?v=3&s=460",
+  "contribs": 1454,
+  "orgs": [
+    {
+      "CUTR-at-USF": "https://avatars1.githubusercontent.com/u/1372220?v=3&s=70"
+    },
+    {
+      "OneBusAway": "https://avatars3.githubusercontent.com/u/1428806?v=3&s=70"
+    },
+    {
+      "Hillsborough-Transit-Authority": "https://avatars0.githubusercontent.com/u/5141739?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/rafaelmotta",
+  "img": "https://avatars2.githubusercontent.com/u/446731?v=3&s=460",
+  "uid": 446731,
+  "repos": 29,
+  "stars": 767,
+  "followers": 18,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/rafaelmotta/bematech-printer"
+    },
+    {
+      "url": "/rafaelmotta/polyfills"
+    },
+    {
+      "url": "/rafaelmotta/ratchet"
+    },
+    {
+      "url": "/rafaelmotta/connect-js"
+    },
+    {
+      "url": "/rafaelmotta/requirejs-plugins"
+    },
+    {
+      "url": "/rafaelmotta/phonegap-start"
+    }
+  ],
+  "worksfor": "",
+  "location": "Florianópolis - Brasil",
+  "fullname": "Rafael Michels Motta",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/446731?v=3&s=460",
+  "contribs": 130,
+  "orgs": [],
+  "developerprogram": true
+}

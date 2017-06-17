@@ -1,0 +1,59 @@
+{
+  "url": "https://github.com/joelpurra",
+  "img": "https://avatars3.githubusercontent.com/u/1398544?v=3&s=460",
+  "uid": 1398544,
+  "repos": 88,
+  "stars": 928,
+  "followers": 71,
+  "following": 612,
+  "pinned": [
+    {
+      "url": "/joelpurra/gitslave"
+    },
+    {
+      "url": "/getdnsapi/getdns-node"
+    },
+    {
+      "url": "/joelpurra/jqnpm"
+    },
+    {
+      "url": "/engineerapart/TheRemoteFreelancer"
+    },
+    {
+      "url": "/joelpurra/xmouse-controls"
+    },
+    {
+      "url": "/joelpurra/jquery-mutation-summary"
+    }
+  ],
+  "worksfor": "joelpurra.com",
+  "location": "",
+  "fullname": "Joel Purra",
+  "website": "https://joelpurra.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/1398544?v=3&s=460",
+  "contribs": 1172,
+  "orgs": [
+    {
+      "TorontoDotNetHackers": "https://avatars2.githubusercontent.com/u/1680463?v=3&s=70"
+    },
+    {
+      "thoughtaboutyou": "https://avatars0.githubusercontent.com/u/5609615?v=3&s=70"
+    },
+    {
+      "Skjutsgruppen": "https://avatars3.githubusercontent.com/u/10048911?v=3&s=70"
+    },
+    {
+      "jqnpm": "https://avatars1.githubusercontent.com/u/10350118?v=3&s=70"
+    },
+    {
+      "jqpm": "https://avatars2.githubusercontent.com/u/10358569?v=3&s=70"
+    },
+    {
+      "meddelare": "https://avatars2.githubusercontent.com/u/13166436?v=3&s=70"
+    },
+    {
+      "CodeControlio": "https://avatars0.githubusercontent.com/u/26620245?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

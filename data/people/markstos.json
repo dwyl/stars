@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/markstos",
+  "img": "https://avatars0.githubusercontent.com/u/25829?v=3&s=460",
+  "uid": 25829,
+  "repos": 201,
+  "stars": 729,
+  "followers": 98,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/lorenwest/node-config"
+    },
+    {
+      "url": "/HubSpot/vex"
+    },
+    {
+      "url": "/jekyll/jekyll"
+    },
+    {
+      "url": "/lodash/lodash"
+    },
+    {
+      "url": "/Automattic/mongoose"
+    },
+    {
+      "url": "/yarnpkg/yarn"
+    }
+  ],
+  "worksfor": "@RideAmigosCorp",
+  "location": "Bloomington, Indiana, USA",
+  "fullname": "Mark Stosberg",
+  "website": "http://mark.stosberg.com/",
+  "avatar": "https://avatars0.githubusercontent.com/u/25829?v=3&s=460",
+  "contribs": 1121,
+  "orgs": [
+    {
+      "RideAmigosCorp": "https://avatars1.githubusercontent.com/u/486480?v=3&s=70"
+    }
+  ]
+}

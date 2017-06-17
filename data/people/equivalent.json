@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/equivalent",
+  "img": "https://avatars3.githubusercontent.com/u/721990?v=3&s=460",
+  "uid": 721990,
+  "repos": 131,
+  "stars": 112,
+  "followers": 24,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/equivalent/scrapbook2"
+    },
+    {
+      "url": "/equivalent/docker_rails_aws_elasticbeanstalk_demmo_app"
+    },
+    {
+      "url": "/equivalent/dummy-sinatra-puma-socket-docker-app"
+    },
+    {
+      "url": "/equivalent/elixir_phoenix_docker_postgres_example"
+    },
+    {
+      "url": "/equivalent/inputs"
+    },
+    {
+      "url": "/equivalent/simple_listener"
+    }
+  ],
+  "worksfor": "Pobble",
+  "location": "London",
+  "fullname": "Tomas Valent",
+  "website": "http://www.eq8.eu",
+  "avatar": "https://avatars3.githubusercontent.com/u/721990?v=3&s=460",
+  "contribs": 664,
+  "orgs": []
+}

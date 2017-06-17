@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/onesuper",
+  "img": "https://avatars0.githubusercontent.com/u/977633?v=3&s=460",
+  "uid": 977633,
+  "repos": 44,
+  "stars": 969,
+  "followers": 133,
+  "following": 146,
+  "pinned": [
+    {
+      "url": "/onesuper/pandasticsearch"
+    },
+    {
+      "url": "/appnexus/pyrobuf"
+    },
+    {
+      "url": "/aliyun/aliyun-odps-jdbc"
+    },
+    {
+      "url": "/brianmhess/cassandra-loader"
+    },
+    {
+      "url": "/onesuper/weakpoint"
+    },
+    {
+      "url": "/ACSAlab/olive"
+    }
+  ],
+  "worksfor": "",
+  "location": "China",
+  "fullname": "Cheng Yichao",
+  "website": "http://blog.chengyichao.info",
+  "avatar": "https://avatars0.githubusercontent.com/u/977633?v=3&s=460",
+  "contribs": 1471,
+  "orgs": [
+    {
+      "aliyun": "https://avatars1.githubusercontent.com/u/941070?v=3&s=70"
+    },
+    {
+      "ACSAlab": "https://avatars1.githubusercontent.com/u/9349750?v=3&s=70"
+    }
+  ]
+}

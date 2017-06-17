@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/traducer",
+  "img": "https://avatars0.githubusercontent.com/u/17633005?v=3&s=460",
+  "uid": 17633005,
+  "repos": 15,
+  "stars": 23,
+  "followers": 7,
+  "following": 12,
+  "pinned": [
+    {
+      "url": "/traducer/hypernews"
+    },
+    {
+      "url": "/traducer/browserify-livereload"
+    },
+    {
+      "url": "/traducer/.files"
+    },
+    {
+      "url": "/traducer/field-test"
+    },
+    {
+      "url": "/traducer/react-gameOfLife"
+    },
+    {
+      "url": "/traducer/uvote"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "http://traducer.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/17633005?v=3&s=460",
+  "contribs": 160,
+  "orgs": []
+}

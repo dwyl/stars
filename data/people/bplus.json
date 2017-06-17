@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bplus",
+  "img": "https://avatars3.githubusercontent.com/u/50766?v=3&s=460",
+  "uid": 50766,
+  "repos": 22,
+  "stars": 366,
+  "followers": 6,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/phpredis/phpredis"
+    },
+    {
+      "url": "/bplus/botkit"
+    },
+    {
+      "url": "/bplus/easy-peasy-bot"
+    },
+    {
+      "url": "/bplus/elasticsearch-php"
+    },
+    {
+      "url": "/bplus/imgurme"
+    },
+    {
+      "url": "/bplus/mybot"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Bryan Nelson",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/50766?v=3&s=460",
+  "contribs": 41,
+  "orgs": []
+}

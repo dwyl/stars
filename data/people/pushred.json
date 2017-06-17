@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/pushred",
+  "img": "https://avatars0.githubusercontent.com/u/431435?v=3&s=460",
+  "uid": 431435,
+  "repos": 26,
+  "stars": 1000,
+  "followers": 18,
+  "following": 25,
+  "pinned": [
+    {
+      "url": "/pushred/pushred.co"
+    },
+    {
+      "url": "/solidusjs/metadata"
+    },
+    {
+      "url": "/sparkartgroup/gulp-markdown-to-json"
+    }
+  ],
+  "worksfor": "push the red button",
+  "location": "brooklyn, ny",
+  "fullname": "Eric Lanehart",
+  "website": "http://pushred.co",
+  "avatar": "https://avatars0.githubusercontent.com/u/431435?v=3&s=460",
+  "contribs": 1626,
+  "orgs": [
+    {
+      "sparkartgroup": "https://avatars3.githubusercontent.com/u/408717?v=3&s=70"
+    },
+    {
+      "immunityproject": "https://avatars1.githubusercontent.com/u/5643103?v=3&s=70"
+    },
+    {
+      "blocks": "https://avatars2.githubusercontent.com/u/6106365?v=3&s=70"
+    },
+    {
+      "solidusjs": "https://avatars2.githubusercontent.com/u/6485189?v=3&s=70"
+    },
+    {
+      "storytellerhq": "https://avatars0.githubusercontent.com/u/6537337?v=3&s=70"
+    },
+    {
+      "tenthousandgear": "https://avatars2.githubusercontent.com/u/26633681?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/crash21",
+  "img": "https://avatars2.githubusercontent.com/u/3415953?v=3&s=460",
+  "uid": 3415953,
+  "repos": 3,
+  "stars": 6,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/crash21/embedded-directive"
+    },
+    {
+      "url": "/crash21/FOSUserBundle"
+    },
+    {
+      "url": "/crash21/clicker"
+    }
+  ],
+  "worksfor": "",
+  "location": "Greece",
+  "fullname": "Nick Doulgeridis",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/3415953?v=3&s=460",
+  "contribs": 12,
+  "orgs": [
+    {
+      "choobs": "https://avatars3.githubusercontent.com/u/11093446?v=3&s=70"
+    }
+  ]
+}

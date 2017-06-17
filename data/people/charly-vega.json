@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/charly-vega",
+  "img": "https://avatars2.githubusercontent.com/u/7302872?v=3&s=460",
+  "uid": 7302872,
+  "repos": 14,
+  "stars": 178,
+  "followers": 5,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/docker/for-aws"
+    },
+    {
+      "url": "/beta-uy/dotfiles"
+    },
+    {
+      "url": "/charly-vega/geofire-js"
+    },
+    {
+      "url": "/charly-vega/oh-my-zsh"
+    }
+  ],
+  "worksfor": "Beta Labs",
+  "location": "Montevideo, Uruguay",
+  "fullname": "Carlos Vega Meyer",
+  "website": "http://beta.uy",
+  "avatar": "https://avatars2.githubusercontent.com/u/7302872?v=3&s=460",
+  "contribs": 83,
+  "orgs": []
+}

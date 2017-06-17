@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/emilypriddy",
+  "img": "https://avatars3.githubusercontent.com/u/2358620?v=3&s=460",
+  "uid": 2358620,
+  "repos": 30,
+  "stars": 82,
+  "followers": 8,
+  "following": 42,
+  "pinned": [
+    {
+      "url": "/emilypriddy/myrepo"
+    },
+    {
+      "url": "/emilypriddy/dotfiles"
+    },
+    {
+      "url": "/emilypriddy/setup"
+    },
+    {
+      "url": "/emilypriddy/bitstarter"
+    },
+    {
+      "url": "/emilypriddy/drush"
+    },
+    {
+      "url": "/emilypriddy/zengrids"
+    }
+  ],
+  "worksfor": "@Headstorm-Studios",
+  "location": "OKC, Oklahoma",
+  "fullname": "Emily Priddy",
+  "website": "http://www.headstormstudios.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/2358620?v=3&s=460",
+  "contribs": 371,
+  "orgs": [
+    {
+      "Headstorm-Studios": "https://avatars1.githubusercontent.com/u/12550290?v=3&s=70"
+    }
+  ]
+}

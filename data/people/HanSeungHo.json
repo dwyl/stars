@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/HanSeungHo",
+  "img": "https://avatars1.githubusercontent.com/u/1525529?v=3&s=460",
+  "uid": 1525529,
+  "repos": 65,
+  "stars": 326,
+  "followers": 13,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/HanSeungHo/git-guide"
+    },
+    {
+      "url": "/HanSeungHo/typing"
+    },
+    {
+      "url": "/HanSeungHo/pinkpink"
+    },
+    {
+      "url": "/HanSeungHo/nforge4"
+    },
+    {
+      "url": "/HanSeungHo/node-neo4j-template"
+    },
+    {
+      "url": "/HanSeungHo/rinker"
+    }
+  ],
+  "worksfor": "Emmental",
+  "location": "Korea",
+  "fullname": "artishan",
+  "website": "http://hansh.kr",
+  "avatar": "https://avatars1.githubusercontent.com/u/1525529?v=3&s=460",
+  "contribs": 3,
+  "orgs": [
+    {
+      "artishan": "https://avatars2.githubusercontent.com/u/10021573?v=3&s=70"
+    }
+  ]
+}

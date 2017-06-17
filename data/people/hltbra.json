@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/hltbra",
+  "img": "https://avatars0.githubusercontent.com/u/61387?v=3&s=460",
+  "uid": 61387,
+  "repos": 65,
+  "stars": 350,
+  "followers": 232,
+  "following": 111,
+  "pinned": [
+    {
+      "url": "/hltbra/pip"
+    },
+    {
+      "url": "/cloudtools/troposphere"
+    },
+    {
+      "url": "/boto/boto3"
+    },
+    {
+      "url": "/hltbra/thc"
+    },
+    {
+      "url": "/hltbra/strftime-nginx-module"
+    },
+    {
+      "url": "/hltbra/should-dsl"
+    }
+  ],
+  "worksfor": "Yipit",
+  "location": "New York, NY",
+  "fullname": "Hugo Lopes Tavares",
+  "website": "http://blog.hltbra.net",
+  "avatar": "https://avatars0.githubusercontent.com/u/61387?v=3&s=460",
+  "contribs": 1157,
+  "orgs": [
+    {
+      "Yipit": "https://avatars0.githubusercontent.com/u/320154?v=3&s=70"
+    },
+    {
+      "cobrateam": "https://avatars3.githubusercontent.com/u/403905?v=3&s=70"
+    },
+    {
+      "nsi-iff": "https://avatars0.githubusercontent.com/u/498186?v=3&s=70"
+    },
+    {
+      "pypa": "https://avatars3.githubusercontent.com/u/647025?v=3&s=70"
+    }
+  ]
+}

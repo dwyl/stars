@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/MofeLee",
+  "img": "https://avatars2.githubusercontent.com/u/5069410?v=3&s=460",
+  "uid": 5069410,
+  "repos": 252,
+  "stars": 3100,
+  "followers": 48,
+  "following": 128,
+  "pinned": [
+    {
+      "url": "/sindresorhus/awesome-nodejs"
+    },
+    {
+      "url": "/redux-saga/redux-saga"
+    },
+    {
+      "url": "/storybooks/storybook"
+    },
+    {
+      "url": "/johnpapa/angular-styleguide"
+    },
+    {
+      "url": "/MofeLee/how-to-fxxk-gfw"
+    },
+    {
+      "url": "/webpack/webpack-dev-middleware"
+    }
+  ],
+  "worksfor": "",
+  "location": "Shanghai, China",
+  "fullname": "",
+  "website": "http://www.mofe.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/5069410?v=3&s=460",
+  "contribs": 211,
+  "orgs": [],
+  "developerprogram": true
+}

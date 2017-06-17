@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/rodowi",
+  "img": "https://avatars1.githubusercontent.com/u/705860?v=3&s=460",
+  "uid": 705860,
+  "repos": 141,
+  "stars": 1200,
+  "followers": 169,
+  "following": 106,
+  "pinned": [
+    {
+      "url": "/mapbox/mbview"
+    },
+    {
+      "url": "/rodowi/unmapped"
+    },
+    {
+      "url": "/rodowi/marco"
+    },
+    {
+      "url": "/rodowi/mapscan"
+    },
+    {
+      "url": "/rodowi/Paparazzo.js"
+    },
+    {
+      "url": "/rodowi/json-to-geo"
+    }
+  ],
+  "worksfor": "Miroculus",
+  "location": "origin of replication",
+  "fullname": "RDLF3",
+  "website": "http://wilhel.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/705860?v=3&s=460",
+  "contribs": 2446,
+  "orgs": [
+    {
+      "CodeandoMexico": "https://avatars3.githubusercontent.com/u/2940113?v=3&s=70"
+    },
+    {
+      "osmlab": "https://avatars0.githubusercontent.com/u/3856374?v=3&s=70"
+    },
+    {
+      "mxabierto": "https://avatars0.githubusercontent.com/u/6219557?v=3&s=70"
+    },
+    {
+      "miroculus": "https://avatars2.githubusercontent.com/u/9137459?v=3&s=70"
+    },
+    {
+      "procurement-analytics": "https://avatars0.githubusercontent.com/u/13034762?v=3&s=70"
+    }
+  ]
+}

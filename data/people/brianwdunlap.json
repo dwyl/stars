@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/brianwdunlap",
+  "img": "https://avatars2.githubusercontent.com/u/5806866?v=3&s=460",
+  "uid": 5806866,
+  "repos": 6,
+  "stars": 228,
+  "followers": 2,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/brianwdunlap/akka-patterns"
+    },
+    {
+      "url": "/brianwdunlap/github-for-developers-7"
+    },
+    {
+      "url": "/brianwdunlap/incubator-geode"
+    },
+    {
+      "url": "/brianwdunlap/spring-cloud-services-labs"
+    },
+    {
+      "url": "/brianwdunlap/app-config"
+    },
+    {
+      "url": "/brianwdunlap/hello"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Brian Dunlap",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/5806866?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

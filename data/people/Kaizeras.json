@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/Kaizeras",
+  "img": "https://avatars2.githubusercontent.com/u/6340189?v=3&s=460",
+  "uid": 6340189,
+  "repos": 33,
+  "stars": 159,
+  "followers": 82,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/Centroida/ng4-breadcrumbs"
+    },
+    {
+      "url": "/Kaizeras/react-rails-tutorial"
+    },
+    {
+      "url": "/Kaizeras/rails-jwt-auth-tutorial"
+    },
+    {
+      "url": "/pluralsight/guides"
+    },
+    {
+      "url": "/Kaizeras/ngx-redux-app"
+    },
+    {
+      "url": "/Kaizeras/ngx-redux-ui-management-recipes"
+    }
+  ],
+  "worksfor": "@Centroida",
+  "location": "Sofia, Bulgaria",
+  "fullname": "Hristo Georgiev",
+  "website": "http://www.centroida.co",
+  "avatar": "https://avatars2.githubusercontent.com/u/6340189?v=3&s=460",
+  "contribs": 688,
+  "orgs": [],
+  "developerprogram": true
+}

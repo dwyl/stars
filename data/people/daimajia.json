@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/daimajia",
+  "img": "https://avatars3.githubusercontent.com/u/2503423?v=3&s=460",
+  "uid": 2503423,
+  "repos": 62,
+  "stars": 2900,
+  "followers": 17200,
+  "following": 238,
+  "pinned": [
+    {
+      "url": "/daimajia/AndroidSwipeLayout"
+    },
+    {
+      "url": "/daimajia/AndroidViewAnimations"
+    },
+    {
+      "url": "/daimajia/AndroidImageSlider"
+    },
+    {
+      "url": "/daimajia/NumberProgressBar"
+    },
+    {
+      "url": "/daimajia/AndroidViewHover"
+    },
+    {
+      "url": "/daimajia/AnimationEasingFunctions"
+    }
+  ],
+  "worksfor": "Beijing Normal University",
+  "location": "Beijing, China",
+  "fullname": "代码家",
+  "website": "https://weibo.com/daimajia",
+  "avatar": "https://avatars3.githubusercontent.com/u/2503423?v=3&s=460",
+  "contribs": 67,
+  "orgs": [],
+  "developerprogram": true
+}

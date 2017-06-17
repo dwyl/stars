@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/mcchrish",
+  "img": "https://avatars1.githubusercontent.com/u/7200153?v=3&s=460",
+  "uid": 7200153,
+  "repos": 38,
+  "stars": 1200,
+  "followers": 14,
+  "following": 71,
+  "pinned": [
+    {
+      "url": "/mcchrish/feathers-objection"
+    },
+    {
+      "url": "/feathersjs/feathers"
+    },
+    {
+      "url": "/mcchrish/hyperterm-gruvbox-dark"
+    },
+    {
+      "url": "/mcchrish/fountain.vim"
+    },
+    {
+      "url": "/mcchrish/dotfiles"
+    }
+  ],
+  "worksfor": "@trysteve",
+  "location": "Philippines",
+  "fullname": "Michael Chris Lopez",
+  "website": "http://notmichaelchris.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/7200153?v=3&s=460",
+  "contribs": 1972,
+  "orgs": []
+}

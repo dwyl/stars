@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/showzyl",
+  "img": "https://avatars2.githubusercontent.com/u/5888264?v=3&s=460",
+  "uid": 5888264,
+  "repos": 16,
+  "stars": 113,
+  "followers": 37,
+  "following": 158,
+  "pinned": [
+    {
+      "url": "/showzyl/koa2-boilerplate"
+    },
+    {
+      "url": "/showzyl/crawler"
+    },
+    {
+      "url": "/showzyl/resume"
+    },
+    {
+      "url": "/showzyl/think_blog"
+    },
+    {
+      "url": "/showzyl/my_gulp_study"
+    },
+    {
+      "url": "/showzyl/my_algorithm_study"
+    }
+  ],
+  "worksfor": "Mobvista",
+  "location": "beijing",
+  "fullname": "梨子o",
+  "website": "http://showzyl.github.io/resume/",
+  "avatar": "https://avatars2.githubusercontent.com/u/5888264?v=3&s=460",
+  "contribs": 367,
+  "orgs": []
+}

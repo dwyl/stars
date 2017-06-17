@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/lorenzomar",
+  "img": "https://avatars2.githubusercontent.com/u/612386?v=3&s=460",
+  "uid": 612386,
+  "repos": 18,
+  "stars": 441,
+  "followers": 18,
+  "following": 61,
+  "pinned": [
+    {
+      "url": "/lorenzomar/knackhq-php-client"
+    },
+    {
+      "url": "/lorenzomar/zend-hydrator-utilities"
+    },
+    {
+      "url": "/lorenzomar/phpclean"
+    },
+    {
+      "url": "/lorenzomar/WP-Prism"
+    },
+    {
+      "url": "/lorenzomar/lorenzomar.github.io"
+    },
+    {
+      "url": "/lorenzomar/doctrine-sortable-collections"
+    }
+  ],
+  "worksfor": "Dotadv srl",
+  "location": "italy",
+  "fullname": "Lorenzo",
+  "website": "http://www.dotadv.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/612386?v=3&s=460",
+  "contribs": 26,
+  "orgs": [
+    {
+      "BugNabber": "https://avatars2.githubusercontent.com/u/6141310?v=3&s=70"
+    }
+  ]
+}

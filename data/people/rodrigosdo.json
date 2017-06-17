@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/rodrigosdo",
+  "img": "https://avatars2.githubusercontent.com/u/317730?v=3&s=460",
+  "uid": 317730,
+  "repos": 4,
+  "stars": 679,
+  "followers": 12,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/rodrigosdo/rodrigosdo.github.com"
+    },
+    {
+      "url": "/rodrigosdo/javascript-patterns"
+    },
+    {
+      "url": "/rodrigosdo/laravel4-starter-kit"
+    },
+    {
+      "url": "/rodrigosdo/steno"
+    }
+  ],
+  "worksfor": "Hotel Urbano",
+  "location": "Rio de Janeiro, Brazil",
+  "fullname": "Rodrigo Oliveira",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/317730?v=3&s=460",
+  "contribs": 858,
+  "orgs": [
+    {
+      "HotelUrbano": "https://avatars3.githubusercontent.com/u/7063040?v=3&s=70"
+    },
+    {
+      "myvalet": "https://avatars1.githubusercontent.com/u/20386653?v=3&s=70"
+    }
+  ]
+}

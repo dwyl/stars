@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/zcei",
+  "img": "https://avatars2.githubusercontent.com/u/1705507?v=3&s=460",
+  "uid": 1705507,
+  "repos": 34,
+  "stars": 912,
+  "followers": 26,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/zcei/standard-readme"
+    },
+    {
+      "url": "/shoreditch-ops/artillery"
+    },
+    {
+      "url": "/yarnpkg/yarn"
+    },
+    {
+      "url": "/itaylor/redux-socket.io"
+    },
+    {
+      "url": "/tgriesser/knex"
+    },
+    {
+      "url": "/AtomLinter/linter-eslint"
+    }
+  ],
+  "worksfor": "@contentful",
+  "location": "Berlin",
+  "fullname": "Stephan Schneider",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1705507?v=3&s=460",
+  "contribs": 705,
+  "orgs": [
+    {
+      "contentful": "https://avatars0.githubusercontent.com/u/472182?v=3&s=70"
+    },
+    {
+      "availy": "https://avatars0.githubusercontent.com/u/26187615?v=3&s=70"
+    }
+  ]
+}

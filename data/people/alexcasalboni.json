@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/alexcasalboni",
+  "img": "https://avatars2.githubusercontent.com/u/2457588?v=3&s=460",
+  "uid": 2457588,
+  "repos": 33,
+  "stars": 925,
+  "followers": 38,
+  "following": 65,
+  "pinned": [
+    {
+      "url": "/alexcasalboni/aws-lambda-power-tuning"
+    },
+    {
+      "url": "/alexcasalboni/serverless-starter-python"
+    },
+    {
+      "url": "/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics"
+    },
+    {
+      "url": "/alexcasalboni/sw-delta-python"
+    },
+    {
+      "url": "/alexcasalboni/GenemuFormBundle"
+    },
+    {
+      "url": "/alexcasalboni/OneToManyMixedMapping"
+    }
+  ],
+  "worksfor": "@cloudacademy",
+  "location": "Como, Italy",
+  "fullname": "Alex Casalboni",
+  "website": "https://blog.alexcasalboni.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/2457588?v=3&s=460",
+  "contribs": 160,
+  "orgs": []
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/ishan-marikar",
+  "img": "https://avatars3.githubusercontent.com/u/7364188?v=3&s=460",
+  "uid": 7364188,
+  "repos": 108,
+  "stars": 1200,
+  "followers": 52,
+  "following": 232,
+  "pinned": [
+    {
+      "url": "/ishan-marikar/dialog-router-api"
+    },
+    {
+      "url": "/ishan-marikar/dialog-data-meter"
+    },
+    {
+      "url": "/ishan-marikar/ideamart.js"
+    },
+    {
+      "url": "/ishan-marikar/movie-notifier-sri-lanka"
+    },
+    {
+      "url": "/ishan-marikar/irc-user-map"
+    },
+    {
+      "url": "/ishan-marikar/katha"
+    }
+  ],
+  "worksfor": "@spacewa-lk",
+  "location": "Colombo",
+  "fullname": "Ishan 'Fishy' Marikar",
+  "website": "http://blog.imarikar.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/7364188?v=3&s=460",
+  "contribs": 80,
+  "orgs": [
+    {
+      "CodeLanka": "https://avatars1.githubusercontent.com/u/7319254?v=3&s=70"
+    },
+    {
+      "CMBJS": "https://avatars3.githubusercontent.com/u/7328360?v=3&s=70"
+    },
+    {
+      "relief-lk": "https://avatars1.githubusercontent.com/u/19583586?v=3&s=70"
+    },
+    {
+      "CabbageApps": "https://avatars3.githubusercontent.com/u/25284523?v=3&s=70"
+    },
+    {
+      "spacewa-lk": "https://avatars0.githubusercontent.com/u/26666681?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

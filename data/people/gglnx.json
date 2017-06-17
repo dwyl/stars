@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/gglnx",
+  "img": "https://avatars0.githubusercontent.com/u/23519?v=3&s=460",
+  "uid": 23519,
+  "repos": 35,
+  "stars": 1200,
+  "followers": 46,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/podlove/podlove-publisher"
+    },
+    {
+      "url": "/gglnx/d64-lsr-stopper"
+    },
+    {
+      "url": "/gglnx/generator-kesselblech-fe"
+    },
+    {
+      "url": "/gglnx/grunt-php"
+    },
+    {
+      "url": "/sendezentrum/attendee-profile"
+    }
+  ],
+  "worksfor": "@ressourcenmangel",
+  "location": "Berlin, Germany",
+  "fullname": "Dennis Morhardt",
+  "website": "https://www.dennismorhardt.de",
+  "avatar": "https://avatars0.githubusercontent.com/u/23519?v=3&s=460",
+  "contribs": 62,
+  "orgs": [
+    {
+      "podlove": "https://avatars3.githubusercontent.com/u/1937991?v=3&s=70"
+    },
+    {
+      "ressourcenmangel": "https://avatars2.githubusercontent.com/u/1963811?v=3&s=70"
+    },
+    {
+      "sendezentrum": "https://avatars2.githubusercontent.com/u/18244864?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

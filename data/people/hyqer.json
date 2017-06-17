@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/hyqer",
+  "img": "https://avatars0.githubusercontent.com/u/127784?v=3&s=460",
+  "uid": 127784,
+  "repos": 26,
+  "stars": 391,
+  "followers": 6,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/hyqer/guilesstwitter"
+    },
+    {
+      "url": "/hyqer/kafka-forwarder"
+    },
+    {
+      "url": "/hyqer/audiomix"
+    },
+    {
+      "url": "/hyqer/sphinxsearch"
+    },
+    {
+      "url": "/hyqer/microbarclient"
+    },
+    {
+      "url": "/hyqer/pyspread"
+    }
+  ],
+  "worksfor": "musical.ly",
+  "location": "shanghai",
+  "fullname": "eking he",
+  "website": "http://www.rmbback.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/127784?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

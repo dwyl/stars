@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/auser",
+  "img": "https://avatars1.githubusercontent.com/u/529?v=3&s=460",
+  "uid": 529,
+  "repos": 279,
+  "stars": 1100,
+  "followers": 742,
+  "following": 168,
+  "pinned": [
+    {
+      "url": "/auser/poolparty"
+    },
+    {
+      "url": "/auser/alice"
+    },
+    {
+      "url": "/auser/ng-newsletter-beginner-series"
+    },
+    {
+      "url": "/auser/beehive"
+    },
+    {
+      "url": "/auser/wonderland"
+    },
+    {
+      "url": "/auser/cloudfoundry-quickstart"
+    }
+  ],
+  "worksfor": "FullStack.io",
+  "location": "San Francisco, CA",
+  "fullname": "Ari",
+  "website": "http://willcodeforfoo.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/529?v=3&s=460",
+  "contribs": 1078,
+  "orgs": [
+    {
+      "sinatra": "https://avatars0.githubusercontent.com/u/8312?v=3&s=70"
+    },
+    {
+      "saltstack-formulas": "https://avatars3.githubusercontent.com/u/4683350?v=3&s=70"
+    },
+    {
+      "fullstackreact": "https://avatars0.githubusercontent.com/u/16674738?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

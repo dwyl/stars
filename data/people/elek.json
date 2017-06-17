@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/elek",
+  "img": "https://avatars2.githubusercontent.com/u/170549?v=3&s=460",
+  "uid": 170549,
+  "repos": 125,
+  "stars": 238,
+  "followers": 24,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/elek/bigdata-docker"
+    },
+    {
+      "url": "/elek/ruby-epub"
+    },
+    {
+      "url": "/elek/puploadr"
+    },
+    {
+      "url": "/elek/docker-hadoop"
+    },
+    {
+      "url": "/elek/ec2build"
+    },
+    {
+      "url": "/elek/s3-maven-wagon"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Elek, Márton",
+  "website": "http://blog.anzix.net",
+  "avatar": "https://avatars2.githubusercontent.com/u/170549?v=3&s=460",
+  "contribs": 670,
+  "orgs": [
+    {
+      "tilosradio": "https://avatars0.githubusercontent.com/u/3742059?v=3&s=70"
+    }
+  ]
+}

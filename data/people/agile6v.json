@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/agile6v",
+  "img": "https://avatars1.githubusercontent.com/u/2017491?v=3&s=460",
+  "uid": 2017491,
+  "repos": 52,
+  "stars": 1700,
+  "followers": 60,
+  "following": 303,
+  "pinned": [
+    {
+      "url": "/agile6v/awesome-nginx"
+    },
+    {
+      "url": "/agile6v/ngx_cache_viewer"
+    },
+    {
+      "url": "/agile6v/ngx_http_fastdfs_module"
+    },
+    {
+      "url": "/agile6v/ngx_http_store_plusplus"
+    },
+    {
+      "url": "/agile6v/ngx_consistent_hash"
+    },
+    {
+      "url": "/agile6v/my-shell-tool"
+    }
+  ],
+  "worksfor": "",
+  "location": "Beijing, China",
+  "fullname": "agile6v",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/2017491?v=3&s=460",
+  "contribs": 59,
+  "orgs": [
+    {
+      "nginx-modules": "https://avatars0.githubusercontent.com/u/7256896?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/hellosze",
+  "img": "https://avatars1.githubusercontent.com/u/872389?v=3&s=460",
+  "uid": 872389,
+  "repos": 12,
+  "stars": 36,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/hellosze/jquery.mtz.monthpicker"
+    },
+    {
+      "url": "/hellosze/task-keeper"
+    },
+    {
+      "url": "/hellosze/apps-tutorial"
+    },
+    {
+      "url": "/hellosze/runblr"
+    },
+    {
+      "url": "/hellosze/photoswipe-wizard"
+    },
+    {
+      "url": "/hellosze/hellosze.github.io"
+    }
+  ],
+  "worksfor": "hello sze",
+  "location": "new york city, new york",
+  "fullname": "sze chan",
+  "website": "http://www.hello-sze.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/872389?v=3&s=460",
+  "contribs": 22,
+  "orgs": []
+}

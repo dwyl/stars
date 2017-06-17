@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/lucaslago",
+  "img": "https://avatars0.githubusercontent.com/u/10089668?v=3&s=460",
+  "uid": 10089668,
+  "repos": 46,
+  "stars": 292,
+  "followers": 27,
+  "following": 60,
+  "pinned": [
+    {
+      "url": "/lucaslago/node"
+    },
+    {
+      "url": "/ThoughtWorksInc/registrolivre"
+    },
+    {
+      "url": "/lucaslago/yada"
+    },
+    {
+      "url": "/lucaslago/clojure-examples"
+    },
+    {
+      "url": "/lucaslago/catnap"
+    },
+    {
+      "url": "/lucaslago/mongodb-scaling-example"
+    }
+  ],
+  "worksfor": "",
+  "location": "Porto Alegre, Brazil",
+  "fullname": "Lucas Lago",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/10089668?v=3&s=460",
+  "contribs": 755,
+  "orgs": [],
+  "developerprogram": true
+}

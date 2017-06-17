@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/wildcard",
+  "img": "https://avatars1.githubusercontent.com/u/2939405?v=3&s=460",
+  "uid": 2939405,
+  "repos": 42,
+  "stars": 935,
+  "followers": 19,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/wildcard/ReCaptcha-ASP.NET-MVC"
+    },
+    {
+      "url": "/wildcard/syncthing"
+    },
+    {
+      "url": "/wildcard/CouchPotatoServer"
+    },
+    {
+      "url": "/wildcard/CouchPotato-Custom-Plugins"
+    },
+    {
+      "url": "/wildcard/mageplus"
+    },
+    {
+      "url": "/wildcard/ShirtThropyNode"
+    }
+  ],
+  "worksfor": "iAngels",
+  "location": "Israel",
+  "fullname": "Kobi Kadosh",
+  "website": "http://kobi.kadosh.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/2939405?v=3&s=460",
+  "contribs": 10,
+  "orgs": [
+    {
+      "iangels": "https://avatars1.githubusercontent.com/u/5307495?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

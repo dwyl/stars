@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/paulvi",
+  "img": "https://avatars0.githubusercontent.com/u/1614482?v=3&s=460",
+  "uid": 1614482,
+  "repos": 335,
+  "stars": 1400,
+  "followers": 83,
+  "following": 62,
+  "pinned": [
+    {
+      "url": "/paulvi/eclipse-node-ide"
+    },
+    {
+      "url": "/paulvi/freecol-android"
+    },
+    {
+      "url": "/paulvi/NashornSandbox"
+    },
+    {
+      "url": "/paulvi/blog"
+    },
+    {
+      "url": "/paulvi/orion.client"
+    },
+    {
+      "url": "/paulvi/displayclasses"
+    }
+  ],
+  "worksfor": "SZJUG.github.io",
+  "location": "Shenzhen, China",
+  "fullname": "Paul Verest",
+  "website": "http://www.nodeclipse.org/",
+  "avatar": "https://avatars0.githubusercontent.com/u/1614482?v=3&s=460",
+  "contribs": 489,
+  "orgs": [
+    {
+      "Nodeclipse": "https://avatars3.githubusercontent.com/u/3231311?v=3&s=70"
+    },
+    {
+      "funshion": "https://avatars3.githubusercontent.com/u/3860508?v=3&s=70"
+    },
+    {
+      "Eclipse-DemoCamps": "https://avatars3.githubusercontent.com/u/4016531?v=3&s=70"
+    },
+    {
+      "Eclipse-China": "https://avatars2.githubusercontent.com/u/4425351?v=3&s=70"
+    }
+  ]
+}

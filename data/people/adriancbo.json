@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/adriancbo",
+  "img": "https://avatars3.githubusercontent.com/u/7862699?v=3&s=460",
+  "uid": 7862699,
+  "repos": 80,
+  "stars": 1500,
+  "followers": 16,
+  "following": 37,
+  "pinned": [
+    {
+      "url": "/adriancbo/meteor-chalk"
+    },
+    {
+      "url": "/adriancbo/json-formatter"
+    },
+    {
+      "url": "/adriancbo/dragula"
+    },
+    {
+      "url": "/adriancbo/wekan"
+    },
+    {
+      "url": "/adriancbo/jQuery-ui-Slider-Pips"
+    },
+    {
+      "url": "/adriancbo/awesome-nodejs"
+    }
+  ],
+  "worksfor": "@Monotype",
+  "location": "New York, NY",
+  "fullname": "Adrian Carballo",
+  "website": "http://adriancarballo.link",
+  "avatar": "https://avatars3.githubusercontent.com/u/7862699?v=3&s=460",
+  "contribs": 924,
+  "orgs": []
+}

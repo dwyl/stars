@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/savinash47",
+  "img": "https://avatars0.githubusercontent.com/u/12984029?v=3&s=460",
+  "uid": 12984029,
+  "repos": 13,
+  "stars": 80,
+  "followers": 0,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/savinash47/react-redux-jwt-auth-flow-and-user-session-using-redis"
+    },
+    {
+      "url": "/savinash47/openstack-doc-tools"
+    },
+    {
+      "url": "/savinash47/TODO-APP"
+    },
+    {
+      "url": "/savinash47/Chat-App-Using-Socket-io"
+    },
+    {
+      "url": "/savinash47/Turtle-Graphics"
+    },
+    {
+      "url": "/savinash47/Student-Information-System"
+    }
+  ],
+  "worksfor": "@lifelock",
+  "location": "Sunnyvale, California",
+  "fullname": "Avinash Sharma",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/12984029?v=3&s=460",
+  "contribs": 21,
+  "orgs": []
+}

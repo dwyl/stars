@@ -1,0 +1,29 @@
+{
+  "url": "https://github.com/fmmrtns",
+  "img": "https://avatars2.githubusercontent.com/u/1145375?v=3&s=460",
+  "uid": 1145375,
+  "repos": 13,
+  "stars": 198,
+  "followers": 24,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/fmmrtns/chip8"
+    },
+    {
+      "url": "/servo/servo"
+    }
+  ],
+  "worksfor": "blended.io",
+  "location": "Barcelona",
+  "fullname": "Fernando Martins",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1145375?v=3&s=460",
+  "contribs": 904,
+  "orgs": [
+    {
+      "blended": "https://avatars1.githubusercontent.com/u/6770629?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

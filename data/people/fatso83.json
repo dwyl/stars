@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/fatso83",
+  "img": "https://avatars2.githubusercontent.com/u/618076?v=3&s=460",
+  "uid": 618076,
+  "repos": 71,
+  "stars": 214,
+  "followers": 26,
+  "following": 50,
+  "pinned": [
+    {
+      "url": "/fatso83/grunt-penthouse"
+    },
+    {
+      "url": "/fatso83/grunt-codekit"
+    },
+    {
+      "url": "/fatso83/amazon_fiona"
+    },
+    {
+      "url": "/fatso83/hubic-init-script"
+    },
+    {
+      "url": "/fatso83/node-redis-dist-job-queue"
+    },
+    {
+      "url": "/fatso83/Code-Snippets"
+    }
+  ],
+  "worksfor": "@makingwaves",
+  "location": "Oslo, Norway",
+  "fullname": "Carl-Erik Kopseng",
+  "website": "http://kopseng.no",
+  "avatar": "https://avatars2.githubusercontent.com/u/618076?v=3&s=460",
+  "contribs": 1622,
+  "orgs": []
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/iamphill",
+  "img": "https://avatars1.githubusercontent.com/u/741068?v=3&s=460",
+  "uid": 741068,
+  "repos": 29,
+  "stars": 399,
+  "followers": 42,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/iamphill/Bootstrap-Offcanvas"
+    },
+    {
+      "url": "/iamphill/Tweetsie"
+    },
+    {
+      "url": "/iamphill/trello-card"
+    },
+    {
+      "url": "/iamphill/ama"
+    }
+  ],
+  "worksfor": "@gitlabhq",
+  "location": "Liverpool, UK",
+  "fullname": "Phil Hughes",
+  "website": "https://iamphill.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/741068?v=3&s=460",
+  "contribs": 1244,
+  "orgs": [
+    {
+      "gitlabhq": "https://avatars1.githubusercontent.com/u/1086321?v=3&s=70"
+    },
+    {
+      "troupe": "https://avatars3.githubusercontent.com/u/4264183?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/madhuakula",
+  "img": "https://avatars0.githubusercontent.com/u/6764192?v=3&s=460",
+  "uid": 6764192,
+  "repos": 24,
+  "stars": 3300,
+  "followers": 124,
+  "following": 260,
+  "pinned": [
+    {
+      "url": "/makash/linux-container-security-docs"
+    },
+    {
+      "url": "/appsecco/alldaydevops-aism"
+    },
+    {
+      "url": "/appsecco/defcon24-infra-monitoring-workshop"
+    },
+    {
+      "url": "/appsecco/docker-data-science-toolbox"
+    },
+    {
+      "url": "/devsecops/awesome-devsecops"
+    },
+    {
+      "url": "/madhuakula/wincmdfu"
+    }
+  ],
+  "worksfor": "@appsecco",
+  "location": "Bangalore",
+  "fullname": "Madhu Akula",
+  "website": "http://www.madhuakula.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/6764192?v=3&s=460",
+  "contribs": 242,
+  "orgs": [
+    {
+      "oneops": "https://avatars2.githubusercontent.com/u/1897270?v=3&s=70"
+    },
+    {
+      "devsecops": "https://avatars3.githubusercontent.com/u/7269806?v=3&s=70"
+    },
+    {
+      "ubercoolsec": "https://avatars0.githubusercontent.com/u/12966831?v=3&s=70"
+    },
+    {
+      "Hack-with-Github": "https://avatars2.githubusercontent.com/u/18143746?v=3&s=70"
+    },
+    {
+      "appsecco": "https://avatars3.githubusercontent.com/u/19403939?v=3&s=70"
+    }
+  ]
+}

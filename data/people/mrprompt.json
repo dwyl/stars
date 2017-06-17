@@ -1,0 +1,59 @@
+{
+  "url": "https://github.com/mrprompt",
+  "img": "https://avatars2.githubusercontent.com/u/166088?v=3&s=460",
+  "uid": 166088,
+  "repos": 100,
+  "stars": 1400,
+  "followers": 184,
+  "following": 461,
+  "pinned": [
+    {
+      "url": "/mrprompt/Cielo"
+    },
+    {
+      "url": "/SilexFriends/Di"
+    },
+    {
+      "url": "/mrprompt/silex-api-skel"
+    },
+    {
+      "url": "/mrprompt/queroumaloja-api"
+    },
+    {
+      "url": "/mrprompt/deploybot-cli"
+    },
+    {
+      "url": "/mrprompt/deploybot-sdk"
+    }
+  ],
+  "worksfor": "@BeeTech-global",
+  "location": "Florianópolis - SC",
+  "fullname": "Thiago Paes",
+  "website": "http://www.mrprompt.com.br",
+  "avatar": "https://avatars2.githubusercontent.com/u/166088?v=3&s=460",
+  "contribs": 893,
+  "orgs": [
+    {
+      "PHPSC": "https://avatars2.githubusercontent.com/u/1852195?v=3&s=70"
+    },
+    {
+      "scdevsummit": "https://avatars1.githubusercontent.com/u/16921073?v=3&s=70"
+    },
+    {
+      "training-center": "https://avatars3.githubusercontent.com/u/18053262?v=3&s=70"
+    },
+    {
+      "webemsegundos": "https://avatars0.githubusercontent.com/u/18388570?v=3&s=70"
+    },
+    {
+      "SilexFriends": "https://avatars0.githubusercontent.com/u/19843774?v=3&s=70"
+    },
+    {
+      "NerdAprendiz": "https://avatars0.githubusercontent.com/u/19850479?v=3&s=70"
+    },
+    {
+      "BeeTech-global": "https://avatars2.githubusercontent.com/u/22686446?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

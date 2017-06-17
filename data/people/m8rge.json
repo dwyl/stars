@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/m8rge",
+  "img": "https://avatars1.githubusercontent.com/u/575777?v=3&s=460",
+  "uid": 575777,
+  "repos": 39,
+  "stars": 131,
+  "followers": 10,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/m8rge/cwebsocket"
+    },
+    {
+      "url": "/m8rge/lumicode"
+    },
+    {
+      "url": "/m8rge/vkClient"
+    },
+    {
+      "url": "/m8rge/docwrite"
+    },
+    {
+      "url": "/m8rge/Yii-Conditional-Validator"
+    },
+    {
+      "url": "/m8rge/sync-player-server"
+    }
+  ],
+  "worksfor": "E96.ru",
+  "location": "Ekaterinburg, Russia",
+  "fullname": "Andrey",
+  "website": "http://aputilov.ru",
+  "avatar": "https://avatars1.githubusercontent.com/u/575777?v=3&s=460",
+  "contribs": 39,
+  "orgs": []
+}

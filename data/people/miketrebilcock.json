@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/miketrebilcock",
+  "img": "https://avatars2.githubusercontent.com/u/1905325?v=3&s=460",
+  "uid": 1905325,
+  "repos": 36,
+  "stars": 118,
+  "followers": 4,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/miketrebilcock/js-gpiozero"
+    },
+    {
+      "url": "/miketrebilcock/js-pigpio"
+    },
+    {
+      "url": "/DuchyDefibrillators/CabinetMonitor"
+    },
+    {
+      "url": "/miketrebilcock/ttc1"
+    },
+    {
+      "url": "/DuchyDefibrillators/cabinet-dashboard"
+    },
+    {
+      "url": "/miketrebilcock/CordovaCabinetMonitor"
+    }
+  ],
+  "worksfor": "",
+  "location": "Cornwall, UK",
+  "fullname": "Mike Trebilcock",
+  "website": "http://cornishdev.wordpress.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1905325?v=3&s=460",
+  "contribs": 496,
+  "orgs": [
+    {
+      "CodeClubCornwall": "https://avatars0.githubusercontent.com/u/10671628?v=3&s=70"
+    }
+  ]
+}

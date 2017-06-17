@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jackfranklin",
+  "img": "https://avatars3.githubusercontent.com/u/193238?v=3&s=460",
+  "uid": 193238,
+  "repos": 250,
+  "stars": 1600,
+  "followers": 741,
+  "following": 89,
+  "pinned": [
+    {
+      "url": "/jackfranklin/gulp-load-plugins"
+    },
+    {
+      "url": "/jackfranklin/the-refactoring-tales"
+    },
+    {
+      "url": "/jackfranklin/universal-react-example"
+    },
+    {
+      "url": "/jackfranklin/remote-data-js"
+    },
+    {
+      "url": "/jackfranklin/dotfiles"
+    },
+    {
+      "url": "/jackfranklin/elmplayground"
+    }
+  ],
+  "worksfor": "Songkick",
+  "location": "London",
+  "fullname": "Jack Franklin",
+  "website": "http://www.jackfranklin.co.uk",
+  "avatar": "https://avatars3.githubusercontent.com/u/193238?v=3&s=460",
+  "contribs": 2462,
+  "orgs": [
+    {
+      "Heisenbergjs": "https://avatars1.githubusercontent.com/u/3332764?v=3&s=70"
+    }
+  ]
+}

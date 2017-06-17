@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/veggiemonk",
+  "img": "https://avatars2.githubusercontent.com/u/5487021?v=3&s=460",
+  "uid": 5487021,
+  "repos": 74,
+  "stars": 235,
+  "followers": 86,
+  "following": 102,
+  "pinned": [
+    {
+      "url": "/veggiemonk/awesome-docker"
+    },
+    {
+      "url": "/veggiemonk/awesome"
+    },
+    {
+      "url": "/veggiemonk/ansible-ohmyzsh"
+    },
+    {
+      "url": "/veggiemonk/ansible-dotfiles"
+    },
+    {
+      "url": "/veggiemonk/boilerplate-jspm-mithril-jsx-sass"
+    },
+    {
+      "url": "/veggiemonk/dotfiles"
+    }
+  ],
+  "worksfor": "Unity Technologies Finland",
+  "location": "Helsinki, Finland",
+  "fullname": "Julien Bisconti",
+  "website": "http://about.me/julienbisconti",
+  "avatar": "https://avatars2.githubusercontent.com/u/5487021?v=3&s=460",
+  "contribs": 773,
+  "orgs": []
+}

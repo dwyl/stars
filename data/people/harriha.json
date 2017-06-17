@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/harriha",
+  "img": "https://avatars2.githubusercontent.com/u/101693?v=3&s=460",
+  "uid": 101693,
+  "repos": 22,
+  "stars": 515,
+  "followers": 18,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/harriha/responsivepx"
+    },
+    {
+      "url": "/harriha/infodisplay"
+    },
+    {
+      "url": "/harriha/another-js-template-benchmark"
+    },
+    {
+      "url": "/harriha/iphone-style-checkboxes"
+    },
+    {
+      "url": "/harriha/DippaEditorTest"
+    },
+    {
+      "url": "/harriha/reveal.js"
+    }
+  ],
+  "worksfor": "Futurice",
+  "location": "Helsinki, Finland",
+  "fullname": "Harri Hälikkä",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/101693?v=3&s=460",
+  "contribs": 88,
+  "orgs": [
+    {
+      "futurice": "https://avatars2.githubusercontent.com/u/852157?v=3&s=70"
+    }
+  ]
+}

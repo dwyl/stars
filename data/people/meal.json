@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/meal",
+  "img": "https://avatars2.githubusercontent.com/u/101297?v=3&s=460",
+  "uid": 101297,
+  "repos": 22,
+  "stars": 111,
+  "followers": 23,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/meal/pyfix"
+    },
+    {
+      "url": "/meal/makerland-meetup"
+    },
+    {
+      "url": "/meal/dotfiles"
+    },
+    {
+      "url": "/meal/OXNet"
+    },
+    {
+      "url": "/meal/linux-sdk-products"
+    },
+    {
+      "url": "/meal/makethings"
+    }
+  ],
+  "worksfor": "@EnyukaStudio",
+  "location": "Warsaw, Poland",
+  "fullname": "Mateusz Kozak",
+  "website": "http://mkozak.pl",
+  "avatar": "https://avatars2.githubusercontent.com/u/101297?v=3&s=460",
+  "contribs": 2063,
+  "orgs": [
+    {
+      "unamohq": "https://avatars0.githubusercontent.com/u/1252887?v=3&s=70"
+    },
+    {
+      "EnyukaStudio": "https://avatars3.githubusercontent.com/u/1557928?v=3&s=70"
+    },
+    {
+      "Makerland": "https://avatars0.githubusercontent.com/u/6742169?v=3&s=70"
+    },
+    {
+      "mesu-im": "https://avatars2.githubusercontent.com/u/6848503?v=3&s=70"
+    }
+  ]
+}

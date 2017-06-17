@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/carloscasalar",
+  "img": "https://avatars1.githubusercontent.com/u/6154549?v=3&s=460",
+  "uid": 6154549,
+  "repos": 34,
+  "stars": 350,
+  "followers": 15,
+  "following": 27,
+  "pinned": [
+    {
+      "url": "/carloscasalar/docker-sqlplus"
+    },
+    {
+      "url": "/carloscasalar/rgt-oracle-xe-11g"
+    },
+    {
+      "url": "/carloscasalar/sqlPlusToolBox"
+    },
+    {
+      "url": "/carloscasalar/compose-nodejs-oraclexe"
+    },
+    {
+      "url": "/carloscasalar/alloy"
+    },
+    {
+      "url": "/carloscasalar/alloy_fugitive"
+    }
+  ],
+  "worksfor": "",
+  "location": "Spain",
+  "fullname": "Carlos Castillo",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/6154549?v=3&s=460",
+  "contribs": 289,
+  "orgs": []
+}

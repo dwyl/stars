@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/Phonbopit",
+  "img": "https://avatars1.githubusercontent.com/u/1855019?v=3&s=460",
+  "uid": 1855019,
+  "repos": 263,
+  "stars": 1000,
+  "followers": 165,
+  "following": 93,
+  "pinned": [
+    {
+      "url": "/Phonbopit/ghostahoy"
+    },
+    {
+      "url": "/Phonbopit/30-android-libraries-in-30-days"
+    },
+    {
+      "url": "/Phonbopit/hello-github"
+    },
+    {
+      "url": "/Phonbopit/hapi-auth-jwt-example"
+    },
+    {
+      "url": "/Phonbopit/github-labels"
+    },
+    {
+      "url": "/Phonbopit/node-x-angular"
+    }
+  ],
+  "worksfor": "@Devahoy",
+  "location": "Bangkok, Thailand",
+  "fullname": "Chai Phonbopit",
+  "website": "http://devahoy.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1855019?v=3&s=460",
+  "contribs": 3372,
+  "orgs": [],
+  "developerprogram": true
+}

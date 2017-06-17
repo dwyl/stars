@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/moacirosa",
+  "img": "https://avatars3.githubusercontent.com/u/166778?v=3&s=460",
+  "uid": 166778,
+  "repos": 10,
+  "stars": 381,
+  "followers": 60,
+  "following": 36,
+  "pinned": [
+    {
+      "url": "/moacirosa/git-current-contributors"
+    },
+    {
+      "url": "/moacirosa/awesome-kids"
+    },
+    {
+      "url": "/moacirosa/canileave"
+    },
+    {
+      "url": "/moacirosa/vim"
+    },
+    {
+      "url": "/moacirosa/contributing"
+    },
+    {
+      "url": "/moacirosa/phpcs-pear-cakephp"
+    }
+  ],
+  "worksfor": "",
+  "location": "Florianópolis, Brazil",
+  "fullname": "Moacir Rosa",
+  "website": "http://moacir.me",
+  "avatar": "https://avatars3.githubusercontent.com/u/166778?v=3&s=460",
+  "contribs": 7,
+  "orgs": [
+    {
+      "HackThursday": "https://avatars0.githubusercontent.com/u/1883279?v=3&s=70"
+    }
+  ]
+}

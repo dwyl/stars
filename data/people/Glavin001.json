@@ -1,0 +1,89 @@
+{
+  "url": "https://github.com/Glavin001",
+  "img": "https://avatars0.githubusercontent.com/u/1885333?v=3&s=460",
+  "uid": 1885333,
+  "repos": 375,
+  "stars": 4000,
+  "followers": 303,
+  "following": 336,
+  "pinned": [
+    {
+      "url": "/Glavin001/atom-beautify"
+    },
+    {
+      "url": "/Glavin001/GitLab-Pages"
+    },
+    {
+      "url": "/Unibeautify/unibeautify"
+    },
+    {
+      "url": "/Glavin001/graphql-sequelize-crud"
+    },
+    {
+      "url": "/Glavin001/react-hot-ts"
+    },
+    {
+      "url": "/Glavin001/IssueBot"
+    }
+  ],
+  "worksfor": "Software Developer for @lixar",
+  "location": "Halifax, Nova Scotia, Canada",
+  "fullname": "Glavin Wiechert",
+  "website": "https://ca.linkedin.com/in/glavin",
+  "avatar": "https://avatars0.githubusercontent.com/u/1885333?v=3&s=460",
+  "contribs": 822,
+  "orgs": [
+    {
+      "facebook": "https://avatars0.githubusercontent.com/u/69631?v=3&s=70"
+    },
+    {
+      "mozilla": "https://avatars2.githubusercontent.com/u/131524?v=3&s=70"
+    },
+    {
+      "influxdata": "https://avatars1.githubusercontent.com/u/5713248?v=3&s=70"
+    },
+    {
+      "SMUCSM": "https://avatars1.githubusercontent.com/u/6344209?v=3&s=70"
+    },
+    {
+      "Coders-Classroom": "https://avatars1.githubusercontent.com/u/6352102?v=3&s=70"
+    },
+    {
+      "Streamlyne": "https://avatars2.githubusercontent.com/u/6363227?v=3&s=70"
+    },
+    {
+      "SMUhackaweek": "https://avatars1.githubusercontent.com/u/7317205?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "Glavin-CS-Major": "https://avatars2.githubusercontent.com/u/8738361?v=3&s=70"
+    },
+    {
+      "smuos": "https://avatars1.githubusercontent.com/u/8740759?v=3&s=70"
+    },
+    {
+      "Donna-ai": "https://avatars1.githubusercontent.com/u/11376771?v=3&s=70"
+    },
+    {
+      "OpenSMU": "https://avatars2.githubusercontent.com/u/11826243?v=3&s=70"
+    },
+    {
+      "HackStack": "https://avatars0.githubusercontent.com/u/12023790?v=3&s=70"
+    },
+    {
+      "GThingsHub": "https://avatars2.githubusercontent.com/u/12305293?v=3&s=70"
+    },
+    {
+      "Skilltapper": "https://avatars2.githubusercontent.com/u/13323087?v=3&s=70"
+    },
+    {
+      "LootbagInc": "https://avatars0.githubusercontent.com/u/19273149?v=3&s=70"
+    },
+    {
+      "Unibeautify": "https://avatars3.githubusercontent.com/u/21251312?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/jpwiddy",
+  "img": "https://avatars1.githubusercontent.com/u/5892147?v=3&s=460",
+  "uid": 5892147,
+  "repos": 10,
+  "stars": 210,
+  "followers": 31,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/ng-bootstrap/ng-bootstrap"
+    },
+    {
+      "url": "/jpwiddy/iOS7-BarcodeScanner"
+    },
+    {
+      "url": "/jpwiddy/iOS_Blur-View"
+    },
+    {
+      "url": "/jpwiddy/TesseractOCR_iOS7-Sample"
+    },
+    {
+      "url": "/jpwiddy/iOS7-Lockscreen"
+    },
+    {
+      "url": "/jpwiddy/NgDotNetCore"
+    }
+  ],
+  "worksfor": "IFS World",
+  "location": "Milwaukee, WI",
+  "fullname": "Jake Widmer",
+  "website": "http://jakewidmer.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/5892147?v=3&s=460",
+  "contribs": 283,
+  "orgs": [
+    {
+      "BusTicker": "https://avatars2.githubusercontent.com/u/7411232?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "TrukSpot": "https://avatars3.githubusercontent.com/u/12791035?v=3&s=70"
+    }
+  ]
+}

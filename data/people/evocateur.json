@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/evocateur",
+  "img": "https://avatars3.githubusercontent.com/u/5605?v=3&s=460",
+  "uid": 5605,
+  "repos": 104,
+  "stars": 493,
+  "followers": 51,
+  "following": 38,
+  "pinned": [
+    {
+      "url": "/evocateur/js-beautify"
+    },
+    {
+      "url": "/evocateur/shrinkwarp"
+    },
+    {
+      "url": "/evocateur/wp-facebox"
+    },
+    {
+      "url": "/evocateur/race"
+    },
+    {
+      "url": "/evocateur/coldfusion-tmbundle"
+    },
+    {
+      "url": "/evocateur/donor-list"
+    }
+  ],
+  "worksfor": "Zillow",
+  "location": "Seattle, WA",
+  "fullname": "Daniel Stockman",
+  "website": "http://evocateur.org/",
+  "avatar": "https://avatars3.githubusercontent.com/u/5605?v=3&s=460",
+  "contribs": 321,
+  "orgs": [
+    {
+      "zillow": "https://avatars0.githubusercontent.com/u/476233?v=3&s=70"
+    },
+    {
+      "lerna": "https://avatars2.githubusercontent.com/u/19333396?v=3&s=70"
+    }
+  ]
+}

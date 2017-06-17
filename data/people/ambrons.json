@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ambrons",
+  "img": "https://avatars2.githubusercontent.com/u/1403700?v=3&s=460",
+  "uid": 1403700,
+  "repos": 32,
+  "stars": 35,
+  "followers": 10,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/ambrons/bls-gov-proxy"
+    },
+    {
+      "url": "/ambrons/es6-angular-example"
+    },
+    {
+      "url": "/ambrons/html5-game"
+    },
+    {
+      "url": "/ambrons/ziptastic-jquery-plugin"
+    },
+    {
+      "url": "/ambrons/gulp-confidence"
+    },
+    {
+      "url": "/ambrons/rejoice"
+    }
+  ],
+  "worksfor": "ADAC - Solutions, LLC.",
+  "location": "Atlanta, GA",
+  "fullname": "Adam Brons",
+  "website": "http://www.adambrons.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1403700?v=3&s=460",
+  "contribs": 24,
+  "orgs": []
+}

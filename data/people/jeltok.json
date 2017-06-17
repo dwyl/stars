@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jeltok",
+  "img": "https://avatars2.githubusercontent.com/u/1056801?v=3&s=460",
+  "uid": 1056801,
+  "repos": 22,
+  "stars": 473,
+  "followers": 4,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/jeltok/hapi-socket"
+    },
+    {
+      "url": "/jeltok/geb-example-gradle"
+    },
+    {
+      "url": "/jeltok/grails-etl"
+    },
+    {
+      "url": "/jeltok/good-http-gelf"
+    },
+    {
+      "url": "/jeltok/itextexample1"
+    },
+    {
+      "url": "/jeltok/mean"
+    }
+  ],
+  "worksfor": "",
+  "location": "Canada",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1056801?v=3&s=460",
+  "contribs": 7,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bjornlarus",
+  "img": "https://avatars3.githubusercontent.com/u/917281?v=3&s=460",
+  "uid": 917281,
+  "repos": 9,
+  "stars": 83,
+  "followers": 4,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/bjornlarus/apis"
+    },
+    {
+      "url": "/bjornlarus/tag-it"
+    },
+    {
+      "url": "/bjornlarus/bla.is"
+    },
+    {
+      "url": "/bjornlarus/less-triangle"
+    },
+    {
+      "url": "/bjornlarus/es6-promise"
+    },
+    {
+      "url": "/bjornlarus/crud-express-mongo"
+    }
+  ],
+  "worksfor": "That guy",
+  "location": "Reykjavik",
+  "fullname": "Björn Lárus Arnórsson",
+  "website": "http://www.bla.is",
+  "avatar": "https://avatars3.githubusercontent.com/u/917281?v=3&s=460",
+  "contribs": 26,
+  "orgs": []
+}

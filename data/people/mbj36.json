@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/mbj36",
+  "img": "https://avatars2.githubusercontent.com/u/9936881?v=3&s=460",
+  "uid": 9936881,
+  "repos": 47,
+  "stars": 325,
+  "followers": 132,
+  "following": 66,
+  "pinned": [
+    {
+      "url": "/openMF/community-app"
+    },
+    {
+      "url": "/mbj36/awesome-service-workers"
+    },
+    {
+      "url": "/Parbhat/Python-Pedia"
+    },
+    {
+      "url": "/smvdu/sfd-smvdu"
+    },
+    {
+      "url": "/mbj36/open-event-orga-server"
+    },
+    {
+      "url": "/mbj36/Tour-of-Heroes-Angular-2"
+    }
+  ],
+  "worksfor": "@openMF",
+  "location": "Jammu",
+  "fullname": "Mohit kumar Bajoria",
+  "website": "http://mohitbajoria.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/9936881?v=3&s=460",
+  "contribs": 325,
+  "orgs": [
+    {
+      "smvdu": "https://avatars1.githubusercontent.com/u/1404496?v=3&s=70"
+    },
+    {
+      "openMF": "https://avatars2.githubusercontent.com/u/3473607?v=3&s=70"
+    },
+    {
+      "exambaba": "https://avatars3.githubusercontent.com/u/16269849?v=3&s=70"
+    },
+    {
+      "OpenGenus": "https://avatars2.githubusercontent.com/u/18506046?v=3&s=70"
+    },
+    {
+      "OpenSourceHelpCommunity": "https://avatars2.githubusercontent.com/u/23719480?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

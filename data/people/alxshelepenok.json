@@ -1,0 +1,35 @@
+{
+  "url": "https://github.com/alxshelepenok",
+  "img": "https://avatars2.githubusercontent.com/u/8599449?v=3&s=460",
+  "uid": 8599449,
+  "repos": 23,
+  "stars": 479,
+  "followers": 15,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/alxshelepenok/gatsby-starter-lumen"
+    },
+    {
+      "url": "/alxshelepenok/notifier"
+    },
+    {
+      "url": "/alxshelepenok/urlshortener"
+    },
+    {
+      "url": "/alxshelepenok/nginx-varnish-wordpress"
+    }
+  ],
+  "worksfor": "",
+  "location": "Belarus, Minsk",
+  "fullname": "A. Shelepenok",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/8599449?v=3&s=460",
+  "contribs": 86,
+  "orgs": [
+    {
+      "gatsbyjs": "https://avatars0.githubusercontent.com/u/12551863?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

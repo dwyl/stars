@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ccnokes",
+  "img": "https://avatars2.githubusercontent.com/u/1610343?v=3&s=460",
+  "uid": 1610343,
+  "repos": 26,
+  "stars": 231,
+  "followers": 6,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/ccnokes/react-toggle-display"
+    },
+    {
+      "url": "/ccnokes/electron-tutorials"
+    },
+    {
+      "url": "/ccnokes/electron-local-crash-reporter"
+    },
+    {
+      "url": "/ccnokes/chrome-network-errors"
+    },
+    {
+      "url": "/ccnokes/SimpleStateMachine"
+    },
+    {
+      "url": "/ccnokes/html-snapshotter"
+    }
+  ],
+  "worksfor": "",
+  "location": "Utah",
+  "fullname": "Cameron Nokes",
+  "website": "https://cameronnokes.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1610343?v=3&s=460",
+  "contribs": 109,
+  "orgs": []
+}

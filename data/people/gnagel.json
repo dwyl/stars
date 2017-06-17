@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/gnagel",
+  "img": "https://avatars3.githubusercontent.com/u/619921?v=3&s=460",
+  "uid": 619921,
+  "repos": 331,
+  "stars": 703,
+  "followers": 17,
+  "following": 116,
+  "pinned": [
+    {
+      "url": "/gnagel/redux-ab-test"
+    },
+    {
+      "url": "/gnagel/go-geohash"
+    },
+    {
+      "url": "/gnagel/greeks"
+    },
+    {
+      "url": "/gnagel/node-geohash-cpp"
+    },
+    {
+      "url": "/gnagel/bench"
+    },
+    {
+      "url": "/gnagel/kickscraper"
+    }
+  ],
+  "worksfor": "Mercury Wireless Software, LLC",
+  "location": "New York, NY",
+  "fullname": "G Nagel",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/619921?v=3&s=460",
+  "contribs": 76,
+  "orgs": [
+    {
+      "blinkhealth": "https://avatars2.githubusercontent.com/u/8333017?v=3&s=70"
+    },
+    {
+      "ctrl-alt-p": "https://avatars3.githubusercontent.com/u/14031165?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}
