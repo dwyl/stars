@@ -18,9 +18,11 @@ dirs.forEach(function (repo) {
       var rows = data.split('\n');
       if(rows.length > 0) {
         var lines = rows.map(function (row) {
-          var col = row.split(',');
-          if(col[0] && col[0].length > 0) {
-            return '' + col[0] + ',dwyl,' + repo + ',' + col[1];
+          if(row.length > 0) {
+            var col = row.split(',');
+            if(col[0] && col[0].length > 0) {
+              return '' + col[0] + ',dwyl,' + repo + ',' + col[1];
+            }
           }
           return;
         }).filter(function (n) { return n != undefined }); // remove blanks
