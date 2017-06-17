@@ -158,7 +158,9 @@ and has a timestamp.
 
 ### Run it Locally
 
-
+```
+npm install && npm run create && npm run seed && npm start
+```
 
 ### Heroku
 
@@ -174,7 +176,7 @@ and a handful of
 To set up your app Environment Variables follow the instructions:
 https://github.com/dwyl/stars/issues/4
 
-Go to: 
+Go to:
 
 
 ## Further reading

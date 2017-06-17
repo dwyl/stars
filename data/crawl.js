@@ -8,16 +8,16 @@ var mkdirp = require('mkdirp');
 var TIMESTAMP = Date.now();
 var GURL = 'https://github.com/';
 var BASE_DIR = path.resolve('./', 'data') + '/';
-console.log('BASE_DIR:', BASE_DIR );
-var NEXT_PAGE_LIST = BASE_DIR + '___next_page.txt';
+// console.log('BASE_DIR:', BASE_DIR );
+var NEXT_PAGE_LIST = BASE_DIR + '_next_page.txt';
 fs.openSync(NEXT_PAGE_LIST, 'a') // "touch" file to ensure it exists
 
 var ORG = 'dwyl/';
 gs(ORG, process_org_page);
 
-var INTERVAL = setInterval(function(){
-  crawl_next();
-}, 500);
+var INTERVAL = setInterval(function() {
+  crawl_next(); // keep on crawling ...
+}, 1000);
 
 function process_org_page(err, data) {
   if(data && data.entries) {
@@ -38,15 +38,17 @@ function crawl_next() {
   fs.readFile(NEXT_PAGE_LIST, 'utf8', function (err, data) {
     if (err) {
       console.log(err);
+      return;
     } else {
       var urls = data.split('\n');
       if(urls.length > 0) {
         var url = urls[0]
+        console.log(url)
         var linesExceptFirst = data.split('\n').slice(1).join('\n');
         fs.writeFile(NEXT_PAGE_LIST, linesExceptFirst);
       } else {
         clearInterval(INTERVAL); // stop cralwing!
-        return;
+        process.exit();
       }
     }
     if(url.indexOf('/dwyl?') > -1) { // org page
@@ -59,7 +61,7 @@ function crawl_next() {
 }
 
 function stars(url) {
-  if(url.indxeOf('https') === -1) {
+  if(url.indexOf('https') === -1) {
     var DATA_DIR = path.normalize(BASE_DIR + url); // repository
     mkdirp.sync(DATA_DIR); // ensure the dir exists
   }
@@ -67,7 +69,7 @@ function stars(url) {
   var p = ['stargazers', 'watchers'];
   // console.log('url.indexOf(p[0]) === -1 ', url.indexOf(p[0]))
   if(url.indexOf(p[0]) === -1 && url.indexOf(p[1]) === -1 ) { // url is base repo
-    console.log('>>> ' + url)
+    // console.log('>>> ' + url)
     p.forEach(function(page) {
       gs(url + '/' + page, process_results); // start crawling stargazers
     })
@@ -78,10 +80,12 @@ function stars(url) {
 }
 
 function process_results(err, data) {
-  if (err) { return console.log(err); }
+  if (err) {
+    console.log(err);
+    return;
+  }
   write_lines(data);
   if(data.next_page) {
-    // gs(data.next_page, process_results);
     return save_next_page(data.next_page);
   }
 }
@@ -125,6 +129,6 @@ function write_lines(data) {
       console.log('wrote ' + data.entries.length + ' lines to: ' + filepath);
     });
   } else {
-    console.log('no new faces')
+    // console.log('no new faces')
   }
 }
