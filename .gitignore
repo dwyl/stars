@@ -38,3 +38,4 @@ jspm_packages
 
 .env
 .DS_Store
+data/img/*
