@@ -20,14 +20,14 @@
     "test": "npm run create && npm run coverage",
     "lint": "node_modules/.bin/goodparts ./",
     "lint:fix": "bin/cmd.js . --fix",
-    "dev": "PORT=8000 node_modules/.bin/nodemon server.js",
+    "local": "node_modules/.bin/live-server --port=8000",
     "start": "node server.js"
   },
   "devDependencies": {
     "goodparts": "^1.2.1",
     "istanbul": "^0.4.5",
+    "live-server": "^1.2.0",
     "nock": "^9.0.2",
-    "nodemon": "^1.11.0",
     "tap-spec": "^4.1.1",
     "tape": "^4.6.0"
   },
