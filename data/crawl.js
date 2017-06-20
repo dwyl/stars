@@ -34,11 +34,17 @@ function process_org_page(err, data) {
   }
 }
 
+function end (err) {
+  console.log(err);
+  clearInterval(INTERVAL);
+  setTimeout(process.exit, 2000);
+}
+
+
 function crawl_next() {
   fs.readFile(NEXT_PAGE_LIST, 'utf8', function (err, data) {
     if (err) {
-      console.log(err);
-      return;
+      return end(err);
     } else {
       var urls = data.split('\n');
       if(urls.length > 0) {
@@ -81,8 +87,7 @@ function stars(url) {
 
 function process_results(err, data) {
   if (err) {
-    console.log(err);
-    return;
+    return end(err);
   }
   write_lines(data);
   if(data.next_page) {
