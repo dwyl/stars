@@ -14,6 +14,10 @@
   "scripts": {
     "create": "node test/_create_table.js",
     "crawl": "node data/crawl.js",
+    "combine": "node data/combine.js",
+    "unique": "node data/unique.js",
+    "learners": "node data/unique_learners.js",
+    "all": "npm run crawl && npm run combine && npm run unique",
     "seed": "node data/seed.js",
     "coverage": "PORT=8000 istanbul cover ./node_modules/tape/bin/tape ./test/*.test.js  | node_modules/tap-spec/bin/cmd.js",
     "fast": "PORT=8000 tape test/index.js test/**/*.test.js",

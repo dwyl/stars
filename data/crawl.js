@@ -17,7 +17,7 @@ gs(ORG, process_org_page);
 
 var INTERVAL = setInterval(function() {
   crawl_next(); // keep on crawling ...
-}, 1000);
+}, 500);
 
 function process_org_page(err, data) {
   if(data && data.entries) {

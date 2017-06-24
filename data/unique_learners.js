@@ -5,6 +5,7 @@ var BASE_DIR = path.resolve('./', 'data') + '/';
 var DWYL_DIR = path.resolve(BASE_DIR, 'dwyl')
 var COMBINED = path.resolve(BASE_DIR, 'stargazers.csv');
 var UNIQUE = path.resolve(BASE_DIR, 'unique_learners.csv');
+// fs.unlinkSync(UNIQUE) // delete the previous file before starting
 
 fs.readFile(COMBINED, 'utf8', function (err, data) {
   var count = {};
@@ -28,10 +29,14 @@ fs.readFile(COMBINED, 'utf8', function (err, data) {
           }
         }
       })
+
       // console.log(count);
-      var lines = Object.keys(count).map(function (k) {
+      var lines = Object.keys(count)
+      .sort((a, b) => count[b] - count[a])
+      .map(function (k) {
         return k + ',' + count[k];
       });
+      console.log(lines);
       fs.appendFile(UNIQUE, lines.join('\n') + '\n', function (err, data) {
         if (err) {
           console.log(err);

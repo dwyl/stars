@@ -4,6 +4,8 @@ var path = require('path');
 var BASE_DIR = path.resolve('./', 'data') + '/';
 var DWYL_DIR = path.resolve(BASE_DIR, 'dwyl')
 var COMBINED = path.resolve(BASE_DIR, 'stargazers.csv');
+fs.unlinkSync(COMBINED) // delete the previous file before starting
+
 // read the data/dwyl directory
 var dirs = fs.readdirSync(DWYL_DIR);
 console.log(dirs.length)

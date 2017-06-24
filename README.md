@@ -30,10 +30,10 @@ for discovering interesting Open Source projects on GitHub.
 
 Counting :star: helps us _know_ if the
 [learning materials](https://github.com/dwyl/the-book)
-we are producing are _useful_ to other people. <br />
-_Encouraging_ people :star: our projects is _important_,
-and you can help us with if you aren't already... <br />
-because the more people :star: things the more it will help
+we are producing are _useful_ to other people.<sup>1</sup> <br />
+_Encouraging_ people to :star: our projects is _important_ for "_exposure_",
+and is **_you_ can help us** with if you aren't already... <br />
+The more people :star: dwyl repos the more it will help
 their friends/followers to _discover_ our _useful_ projects/content.
 
 ### _Discover_ Interesting _People_
@@ -86,37 +86,66 @@ However other "_power users_" :star: _many_ things ... e.g:
 https://github.com/feross?tab=stars&q=summer
 ![feross-starred-dwyl-summer](https://cloud.githubusercontent.com/assets/194400/21963386/ab524a90-db31-11e6-81c8-66c4b4b762e4.png)
 
+<!--
 ### _So What...?_
 
-We think it would be _interesting_ to _test_ the ***hypothesis***: <br />
-The more _active_ a person is in the **Open Source _Community_**
+We think it would be _interesting_ to _test_ the following ***hypothesis***: <br />
+
+> The more _active_ a person is in the **Open Source _Community_**
 the more projects they will :star: on GitHub.
 
-For _example_ [Eddie](https://github.com/eddiejaoude) :heart: who is a
-[_highly active **Open Source Advocate**_](https://twitter.com/eddiejaoude/status/800440665528303620)
-has quite a few hundred :star:
-![eddie-has-464-stars](https://cloud.githubusercontent.com/assets/194400/21963503/1b792bf2-db34-11e6-8030-aa61e805c542.png)
-
-Could the number of :star: a person has be an _indicator_
-of [**_future_ success**](https://youtu.be/zHlpWokiduk?t=48s) ? <br />
+And _subsequently_: could the number of :star: a person has
+be an _indicator_ of [**_future_ success**](https://youtu.be/zHlpWokiduk?t=48s) ? <br />
 i.e. _could_ we _discover_ a "_talented_" ***new*** person by charting
 their :star: activity?
 
+-->
 
 ### (_Immediate_) "Research Question"
 
 The immediate question we are _going_ to answer with this project is:
 
 ```SQL
-how many destinct people have found our code useful
+how many distinct people have found dwyl code/tutorials useful
 ```
 
+The answer is:
+
+See "how" section below for _exactly_ how this number is derived.
 
 
 ## _How?_
 
 How would _you_ go about tackling this challenge...?
 
+### Scripts?
+
+We wrote a few scripts to fetch the data from GitHub:
+
+> You will need `node.js` installed on your computer,
+if you don't _already_ have it, go to: https://nodejs.org/en/download/
+
+Run the following commands:
+```
+npm install     # install dependencies
+npm run crawl   # crawls all pages on dwyl's github for stargazers
+npm run combine # combines all stargazers into
+npm run unique  # tallies how many unique people have starred a dwyl repo
+npm run learners # just the people who have starred a learn-x repo
+```
+
+***or*** run a single command:
+
+```
+npm run all
+```
+
+The _output_ will be 4 files:
++ `stargazers.csv` - the list of all repos and people who have starred them
++ `unique.csv` - unique people that have starred _any_ dwyl repo
++ `unique_learners.csv` - unique people who have starred a `learn-x` repo
+
+<!--
 
 ### GitHub API
 
@@ -132,7 +161,6 @@ https://developer.github.com/v3/users/#get-a-single-user
 + Your: https://developer.github.com/v3/repos/#list-your-repositories
 + Specific User: https://developer.github.com/v3/repos/#list-user-repositories
 + Organisation: https://developer.github.com/v3/repos/#list-organization-repositories
-
 
 
 
@@ -152,15 +180,30 @@ We will require the following (SQL) tables to be defined to store the data:
 
 This is a "lookup" table that references two rows in other tables
 and has a timestamp.
+-->
 
 
-## Deployment
 
 ### Run it Locally
 
 ```
-npm install && npm run create && npm run seed && npm start
+npm install && npm run local
 ```
+
+You should see something like this:
+
+
+## Sorting the Profile Images by Color
+
+
+
+### Step 1: Get Profiles for All People!
+
+### 
+
+### Step 3
+
+<!-- ## Deployment
 
 ### Heroku
 
@@ -171,13 +214,14 @@ and a handful of
 
 ![heroku-environment-variables](https://cloud.githubusercontent.com/assets/194400/21965926/43e90e2c-db61-11e6-98b2-ac906dea17cb.png)
 
-> Don't worry, these aren't the "_real_" Environment variables.
+> Don't worry, these aren't thyoue "_real_" Environment variables.
 ([_duh!_](https://github.com/dwyl/learn-security)) <br />
 To set up your app Environment Variables follow the instructions:
 https://github.com/dwyl/stars/issues/4
 
 Go to:
 
+ -->
 
 ## Further reading
 
@@ -189,3 +233,13 @@ discuss at: https://github.com/dwyl/hq/issues/149
 > _**P.S**: we **prefer** counting the
 [**other** type stars](https://github.com/dwyl/stars/issues/2),
 but for now this is a **great start**_. :wink:
+
+<sup>1</sup><small>Note: while dwyl's
+["mission"](https://github.com/dwyl/start-here/blob/master/manifesto.md)
+is _not_ simply to produce good learning materials,
+we think that _having_ good learning tutorials is _essential_
+for our mission! If _other people_ find our tutorials _useful_
+and they _contribute_ to _improving_ them, then ***everyone benefits***
+not just the members of the dwyl team building the dwyl
+["_product_"](https://github.com/dwyl/product-roadmap) **#WinWin**
+</small>
