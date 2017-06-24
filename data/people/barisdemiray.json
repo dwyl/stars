@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/barisdemiray",
+  "img": "https://avatars3.githubusercontent.com/u/2464842?v=3&s=460",
+  "uid": 2464842,
+  "repos": 6,
+  "stars": 89,
+  "followers": 0,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/barisdemiray/opencv2ffmpeg"
+    },
+    {
+      "url": "/barisdemiray/boost-asio-examples"
+    },
+    {
+      "url": "/barisdemiray/cppcheck"
+    },
+    {
+      "url": "/barisdemiray/bottle.paws.de"
+    },
+    {
+      "url": "/barisdemiray/gst-rtsp-server"
+    },
+    {
+      "url": "/barisdemiray/papillon-plugins"
+    }
+  ],
+  "worksfor": "",
+  "location": "Nice, France",
+  "fullname": "Baris Demiray",
+  "website": "http://www.barisdemiray.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/2464842?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

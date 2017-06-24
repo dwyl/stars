@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/suddi",
+  "img": "https://avatars3.githubusercontent.com/u/1018433?v=3&s=460",
+  "uid": 1018433,
+  "repos": 38,
+  "stars": 262,
+  "followers": 35,
+  "following": 109,
+  "pinned": [
+    {
+      "url": "/suddi/suddi.github.io"
+    },
+    {
+      "url": "/suddi/knightwatcherbot"
+    },
+    {
+      "url": "/suddi/3DSlantRelief"
+    },
+    {
+      "url": "/suddi/tweetindex-android"
+    },
+    {
+      "url": "/suddi/node-object-to-object-mapper"
+    },
+    {
+      "url": "/suddi/load-directory"
+    }
+  ],
+  "worksfor": "",
+  "location": "Hong Kong",
+  "fullname": "Sudharshan Ravindran",
+  "website": "https://suddi.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/1018433?v=3&s=460",
+  "contribs": 3208,
+  "orgs": [
+    {
+      "PythonLabs": "https://avatars1.githubusercontent.com/u/2216930?v=3&s=70"
+    },
+    {
+      "nixplay": "https://avatars0.githubusercontent.com/u/7044731?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/leotm",
+  "img": "https://avatars1.githubusercontent.com/u/1881059?v=3&s=460",
+  "uid": 1881059,
+  "repos": 76,
+  "stars": 226,
+  "followers": 14,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/leotm/hackajob.co-HTML-CSS-challenge"
+    },
+    {
+      "url": "/leotm/ud989-todo-app"
+    },
+    {
+      "url": "/Robert923/vscode-start-git-bash"
+    },
+    {
+      "url": "/leotm/100-days-of-code"
+    },
+    {
+      "url": "/leotm/php-html-parser"
+    },
+    {
+      "url": "/leotm/traffic-light-server-status"
+    }
+  ],
+  "worksfor": "@rndsquare",
+  "location": "Vaasa, Suomi",
+  "fullname": "LeoTM",
+  "website": "http://netsca.pe",
+  "avatar": "https://avatars1.githubusercontent.com/u/1881059?v=3&s=460",
+  "contribs": 744,
+  "orgs": [
+    {
+      "rndsquare": "https://avatars0.githubusercontent.com/u/18142711?v=3&s=70"
+    }
+  ]
+}

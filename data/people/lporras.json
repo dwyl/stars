@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/lporras",
+  "img": "https://avatars0.githubusercontent.com/u/232293?v=3&s=460",
+  "uid": 232293,
+  "repos": 60,
+  "stars": 172,
+  "followers": 96,
+  "following": 283,
+  "pinned": [
+    {
+      "url": "/lporras/jasmine-fixtures-generator"
+    },
+    {
+      "url": "/lporras/Notes"
+    },
+    {
+      "url": "/lporras/backboneRails_Presentation"
+    },
+    {
+      "url": "/lporras/torquebox-example-gallery"
+    },
+    {
+      "url": "/lporras/gadm_geojson"
+    },
+    {
+      "url": "/lporras/nosql-presentation"
+    }
+  ],
+  "worksfor": "http://www.speakup.as/",
+  "location": "Santiago Chile",
+  "fullname": "Luis Porras",
+  "website": "http://noderscast.com/#/",
+  "avatar": "https://avatars0.githubusercontent.com/u/232293?v=3&s=460",
+  "contribs": 53,
+  "orgs": [
+    {
+      "RubyBAQ": "https://avatars2.githubusercontent.com/u/1837365?v=3&s=70"
+    }
+  ]
+}

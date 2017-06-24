@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/brant-hwang",
+  "img": "https://avatars2.githubusercontent.com/u/2221139?v=3&s=460",
+  "uid": 2221139,
+  "repos": 43,
+  "stars": 136,
+  "followers": 43,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/brant-hwang/spring-boot-social-example"
+    },
+    {
+      "url": "/brant-hwang/spring-cloud-aws-example"
+    },
+    {
+      "url": "/brant-hwang/spring-logback-slack-notification-example"
+    },
+    {
+      "url": "/brant-hwang/springboot-postgresql94-hibernate5-example"
+    },
+    {
+      "url": "/brant-hwang/spring-boot-jdbc-proxy-example"
+    },
+    {
+      "url": "/brant-hwang/electron-node-java-example"
+    }
+  ],
+  "worksfor": "CHEQUER Inc.",
+  "location": "Seoul Korea",
+  "fullname": "Brant",
+  "website": "http://blog.chequer.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/2221139?v=3&s=460",
+  "contribs": 1305,
+  "orgs": [
+    {
+      "axisj": "https://avatars1.githubusercontent.com/u/5885104?v=3&s=70"
+    },
+    {
+      "ax5ui": "https://avatars0.githubusercontent.com/u/16002119?v=3&s=70"
+    },
+    {
+      "axboot": "https://avatars1.githubusercontent.com/u/18319668?v=3&s=70"
+    },
+    {
+      "chequer-io": "https://avatars1.githubusercontent.com/u/21003518?v=3&s=70"
+    }
+  ]
+}

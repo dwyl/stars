@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/mjstahl",
+  "img": "https://avatars2.githubusercontent.com/u/212726?v=3&s=460",
+  "uid": 212726,
+  "repos": 36,
+  "stars": 274,
+  "followers": 25,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/mjstahl/soma-prototype"
+    },
+    {
+      "url": "/mjstahl/es6-starter-kit"
+    },
+    {
+      "url": "/mjstahl/shuteye.co"
+    },
+    {
+      "url": "/mjstahl/SpieChartMarker.js"
+    },
+    {
+      "url": "/mjstahl/g.spie.js"
+    },
+    {
+      "url": "/mjstahl/practical-common-lisp"
+    }
+  ],
+  "worksfor": "",
+  "location": "Savannah, GA",
+  "fullname": "Mark Stahl",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/212726?v=3&s=460",
+  "contribs": 136,
+  "orgs": [
+    {
+      "bitovi": "https://avatars1.githubusercontent.com/u/2782656?v=3&s=70"
+    },
+    {
+      "donejs": "https://avatars0.githubusercontent.com/u/8229389?v=3&s=70"
+    },
+    {
+      "stealjs": "https://avatars0.githubusercontent.com/u/10838945?v=3&s=70"
+    },
+    {
+      "canjs": "https://avatars2.githubusercontent.com/u/11798761?v=3&s=70"
+    }
+  ]
+}

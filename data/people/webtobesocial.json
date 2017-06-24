@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/webtobesocial",
+  "img": "https://avatars2.githubusercontent.com/u/7386680?v=3&s=460",
+  "uid": 7386680,
+  "repos": 4,
+  "stars": 949,
+  "followers": 16,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/webtobesocial/bootstrap-sass"
+    },
+    {
+      "url": "/webtobesocial/codefor.de"
+    },
+    {
+      "url": "/webtobesocial/kitaHamburg"
+    },
+    {
+      "url": "/webtobesocial/sass-guidelines"
+    }
+  ],
+  "worksfor": "",
+  "location": "Hamburg, Germany",
+  "fullname": "Aurelius Wendelken",
+  "website": "http://twitter.com/webtobesocial",
+  "avatar": "https://avatars2.githubusercontent.com/u/7386680?v=3&s=460",
+  "contribs": 1,
+  "orgs": [
+    {
+      "baby-click": "https://avatars1.githubusercontent.com/u/11373949?v=3&s=70"
+    },
+    {
+      "mediahackday": "https://avatars1.githubusercontent.com/u/11584726?v=3&s=70"
+    }
+  ]
+}

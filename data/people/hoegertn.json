@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/hoegertn",
+  "img": "https://avatars1.githubusercontent.com/u/1287829?v=3&s=460",
+  "uid": 1287829,
+  "repos": 12,
+  "stars": 89,
+  "followers": 22,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/hoegertn/s3-backup-windows"
+    },
+    {
+      "url": "/hoegertn/restdoc-java-server"
+    },
+    {
+      "url": "/hoegertn/restdoc-renderer"
+    },
+    {
+      "url": "/hoegertn/redmine-releasenotes"
+    },
+    {
+      "url": "/hoegertn/oauth.net"
+    },
+    {
+      "url": "/hoegertn/redmine-maven-plugin"
+    }
+  ],
+  "worksfor": "Taimos GmbH",
+  "location": "Reichenbach an der Fils, Germany",
+  "fullname": "Thorsten Hoeger",
+  "website": "http://www.hoegertn.de",
+  "avatar": "https://avatars1.githubusercontent.com/u/1287829?v=3&s=460",
+  "contribs": 414,
+  "orgs": [
+    {
+      "taimos": "https://avatars3.githubusercontent.com/u/1290287?v=3&s=70"
+    },
+    {
+      "hoegernet": "https://avatars0.githubusercontent.com/u/1293386?v=3&s=70"
+    },
+    {
+      "RestDoc": "https://avatars3.githubusercontent.com/u/1645734?v=3&s=70"
+    },
+    {
+      "ndjson": "https://avatars0.githubusercontent.com/u/4949316?v=3&s=70"
+    }
+  ]
+}

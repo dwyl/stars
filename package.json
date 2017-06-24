@@ -1,6 +1,6 @@
 {
   "name": "github-stars",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "No more counting dollars, we'll be counting stars > https://youtu.be/hT_nvWreIhg?t=15s",
   "repository": {
     "type": "git",
@@ -12,27 +12,41 @@
   },
   "homepage": "https://github.com/dwyl/goodparts#readme",
   "scripts": {
+    "create": "node test/_create_table.js",
+    "crawl": "node data/crawl.js",
+    "combine": "node data/combine.js",
+    "unique": "node data/unique.js",
+    "learners": "node data/unique_learners.js",
+    "people": "node data/people.js",
+    "avatars": "node data/download_avatars.js",
+    "all": "npm run crawl && npm run combine && npm run unique && npm run people && npm run avatars",
+    "coverage": "PORT=8000 istanbul cover ./node_modules/tape/bin/tape ./test/*.test.js  | node_modules/tap-spec/bin/cmd.js",
     "fast": "PORT=8000 tape test/index.js test/**/*.test.js",
-    "test": "PORT=8000 istanbul cover tape test/index.js test/**/*.test.js",
+    "test": "npm run create && npm run coverage",
     "lint": "node_modules/.bin/goodparts ./",
     "lint:fix": "bin/cmd.js . --fix",
-    "dev": "PORT=8000 node_modules/.bin/nodemon server.js",
+    "local": "node_modules/.bin/live-server --port=8000",
     "start": "node server.js"
   },
   "devDependencies": {
     "goodparts": "^1.2.1",
     "istanbul": "^0.4.5",
+    "live-server": "^1.2.0",
     "nock": "^9.0.2",
-    "nodemon": "^1.11.0",
+    "request": "^2.81.0",
+    "tap-spec": "^4.1.1",
     "tape": "^4.6.0"
   },
   "dependencies": {
-    "env2": "^2.1.1",
-    "hapi": "^16.1.0",
+    "env2": "^2.2.0",
+    "github-scraper": "^4.6.0",
+    "hapi": "^16.4.3",
     "hapi-auth-github": "^2.0.0",
     "hapi-postgres-connection": "^6.1.0",
-    "inert": "^4.1.0",
-    "jsonwebtoken": "^7.2.1",
-    "wreck": "^10.0.0"
+    "inert": "^4.2.0",
+    "jsonwebtoken": "^7.4.1",
+    "mkdirp": "^0.5.1",
+    "pg": "^6.1.2",
+    "wreck": "^12.2.2"
   }
 }

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/clamstew",
+  "img": "https://avatars3.githubusercontent.com/u/4318715?v=3&s=460",
+  "uid": 4318715,
+  "repos": 146,
+  "stars": 1000,
+  "followers": 44,
+  "following": 76,
+  "pinned": [
+    {
+      "url": "/clamstew/mandrill-tutorial"
+    },
+    {
+      "url": "/clamstew/ng-dynamic-title"
+    },
+    {
+      "url": "/clamstew/backbone-todo-app"
+    },
+    {
+      "url": "/clamstew/mks-chrome-theme"
+    },
+    {
+      "url": "/clamstew/timer"
+    },
+    {
+      "url": "/clamstew/activity-board"
+    }
+  ],
+  "worksfor": "@rosettastone",
+  "location": "Austin, TX",
+  "fullname": "Clay Stewart",
+  "website": "http://www.linkedin.com/in/claystewart",
+  "avatar": "https://avatars3.githubusercontent.com/u/4318715?v=3&s=460",
+  "contribs": 1238,
+  "orgs": [
+    {
+      "makersquare": "https://avatars2.githubusercontent.com/u/4218375?v=3&s=70"
+    }
+  ]
+}

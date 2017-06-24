@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/tenub",
+  "img": "https://avatars3.githubusercontent.com/u/1896007?v=3&s=460",
+  "uid": 1896007,
+  "repos": 32,
+  "stars": 33,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/tenub/amxmodx-build"
+    },
+    {
+      "url": "/tenub/amxmodx-plugin-eventsemitter"
+    },
+    {
+      "url": "/tenub/amxmodx-plugin-webcommands"
+    },
+    {
+      "url": "/tenub/probability.js"
+    },
+    {
+      "url": "/tenub/valve-server-query"
+    },
+    {
+      "url": "/tenub/wordpos"
+    }
+  ],
+  "worksfor": "",
+  "location": "Atlanta, GA",
+  "fullname": "Joseph Chrzan",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1896007?v=3&s=460",
+  "contribs": 17,
+  "orgs": []
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/adamkowalczyk",
+  "img": "https://avatars2.githubusercontent.com/u/8276508?v=3&s=460",
+  "uid": 8276508,
+  "repos": 32,
+  "stars": 11,
+  "followers": 16,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/adamkowalczyk/cv"
+    },
+    {
+      "url": "/adamkowalczyk/twitterapp"
+    },
+    {
+      "url": "/adamkowalczyk/modal"
+    },
+    {
+      "url": "/adamkowalczyk/ruby-the-hard-way"
+    },
+    {
+      "url": "/adamkowalczyk/project_euler"
+    },
+    {
+      "url": "/adamkowalczyk/ruby_koans"
+    }
+  ],
+  "worksfor": "",
+  "location": "United Kingdom",
+  "fullname": "Adam Kowalczyk",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/8276508?v=3&s=460",
+  "contribs": 14,
+  "orgs": [
+    {
+      "photocrowd": "https://avatars1.githubusercontent.com/u/3294752?v=3&s=70"
+    },
+    {
+      "codependentfc": "https://avatars1.githubusercontent.com/u/10707320?v=3&s=70"
+    },
+    {
+      "AKSJ": "https://avatars2.githubusercontent.com/u/11927936?v=3&s=70"
+    }
+  ]
+}

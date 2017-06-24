@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/icecreammatt",
+  "img": "https://avatars1.githubusercontent.com/u/1154569?v=3&s=460",
+  "uid": 1154569,
+  "repos": 91,
+  "stars": 2100,
+  "followers": 40,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/icecreammatt/hugo-gallery"
+    },
+    {
+      "url": "/icecreammatt/dotfiles"
+    },
+    {
+      "url": "/icecreammatt/gopherwink"
+    },
+    {
+      "url": "/icecreammatt/server-setup"
+    },
+    {
+      "url": "/icecreammatt/gopherwink-frontend"
+    },
+    {
+      "url": "/icecreammatt/flask-empty"
+    }
+  ],
+  "worksfor": "",
+  "location": "/usr/local/bin/brrrrrtttt",
+  "fullname": "Matt Carrier",
+  "website": "https://mattcarrier.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1154569?v=3&s=460",
+  "contribs": 46,
+  "orgs": [
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/eljobe",
+  "img": "https://avatars3.githubusercontent.com/u/679924?v=3&s=460",
+  "uid": 679924,
+  "repos": 29,
+  "stars": 13,
+  "followers": 13,
+  "following": 45,
+  "pinned": [
+    {
+      "url": "/gradle/gradle"
+    },
+    {
+      "url": "/facebook/buck"
+    },
+    {
+      "url": "/openmastery/tools"
+    },
+    {
+      "url": "/eljobe/eljobe.github.io"
+    },
+    {
+      "url": "/eljobe/experiments"
+    },
+    {
+      "url": "/eljobe/teamcity-slack"
+    }
+  ],
+  "worksfor": "@gradle",
+  "location": "Green Cove Springs, FL",
+  "fullname": "Pepper Lebeck-Jobe",
+  "website": "http://pepperspages.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/679924?v=3&s=460",
+  "contribs": 1156,
+  "orgs": [
+    {
+      "gradle": "https://avatars2.githubusercontent.com/u/124156?v=3&s=70"
+    }
+  ]
+}

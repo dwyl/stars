@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/nerdymax",
+  "img": "https://avatars1.githubusercontent.com/u/17245726?v=3&s=460",
+  "uid": 17245726,
+  "repos": 4,
+  "stars": 4,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/nerdymax/redux-snippet"
+    },
+    {
+      "url": "/nerdymax/SwipeImageView"
+    },
+    {
+      "url": "/nerdymax/CustomImageView"
+    },
+    {
+      "url": "/nerdymax/ZoomImageView"
+    }
+  ],
+  "worksfor": "",
+  "location": "Frankfurt, Germany",
+  "fullname": "Maximilian Bosch",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/17245726?v=3&s=460",
+  "contribs": 23,
+  "orgs": []
+}

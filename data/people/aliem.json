@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/aliem",
+  "img": "https://avatars0.githubusercontent.com/u/38418?v=3&s=460",
+  "uid": 38418,
+  "repos": 47,
+  "stars": 597,
+  "followers": 39,
+  "following": 40,
+  "pinned": [
+    {
+      "url": "/aliem/node-jst"
+    },
+    {
+      "url": "/aliem/chatty"
+    },
+    {
+      "url": "/aliem/urlify"
+    },
+    {
+      "url": "/aliem/libnss_devenv"
+    },
+    {
+      "url": "/aliem/facebox"
+    },
+    {
+      "url": "/aliem/chomp"
+    }
+  ],
+  "worksfor": "@frenzart",
+  "location": "LDN|UK / AQ|IT / AMS|NL",
+  "fullname": "Lorenzo Giuliani",
+  "website": "http://frenzart.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/38418?v=3&s=460",
+  "contribs": 208,
+  "orgs": []
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/metame",
+  "img": "https://avatars2.githubusercontent.com/u/5567561?v=3&s=460",
+  "uid": 5567561,
+  "repos": 17,
+  "stars": 199,
+  "followers": 5,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/metame/infinite-lake"
+    },
+    {
+      "url": "/metame/rust-book"
+    },
+    {
+      "url": "/metame/api-auth-scaffold"
+    },
+    {
+      "url": "/metame/cackle-chat"
+    },
+    {
+      "url": "/metame/mongoCertification"
+    },
+    {
+      "url": "/metame/tdd-blog"
+    }
+  ],
+  "worksfor": "The meta Method",
+  "location": "United States",
+  "fullname": "Michael J Erwin",
+  "website": "http://stackoverflow.com/story/me",
+  "avatar": "https://avatars2.githubusercontent.com/u/5567561?v=3&s=460",
+  "contribs": 917,
+  "orgs": [
+    {
+      "dulles": "https://avatars3.githubusercontent.com/u/7516425?v=3&s=70"
+    },
+    {
+      "Data4Democracy": "https://avatars0.githubusercontent.com/u/24680571?v=3&s=70"
+    }
+  ]
+}

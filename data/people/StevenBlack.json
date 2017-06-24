@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/StevenBlack",
+  "img": "https://avatars0.githubusercontent.com/u/80144?v=3&s=460",
+  "uid": 80144,
+  "repos": 95,
+  "stars": 677,
+  "followers": 169,
+  "following": 103,
+  "pinned": [
+    {
+      "url": "/StevenBlack/hosts"
+    },
+    {
+      "url": "/StevenBlack/store.js"
+    },
+    {
+      "url": "/StevenBlack/envLib"
+    },
+    {
+      "url": "/StevenBlack/jekyll-modern-business"
+    },
+    {
+      "url": "/StevenBlack/VFP"
+    },
+    {
+      "url": "/StevenBlack/hooks-and-anchors"
+    }
+  ],
+  "worksfor": "",
+  "location": "Kingston, Ontario, Canada",
+  "fullname": "Steven Black",
+  "website": "http://stevenblack.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/80144?v=3&s=460",
+  "contribs": 3271,
+  "orgs": [
+    {
+      "QueensSailing": "https://avatars3.githubusercontent.com/u/3095488?v=3&s=70"
+    },
+    {
+      "foxfile": "https://avatars2.githubusercontent.com/u/12163451?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

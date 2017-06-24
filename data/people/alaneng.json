@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/alaneng",
+  "img": "https://avatars0.githubusercontent.com/u/1672800?v=3&s=460",
+  "uid": 1672800,
+  "repos": 6,
+  "stars": 29,
+  "followers": 8,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/alaneng/ds"
+    },
+    {
+      "url": "/alaneng/abtest"
+    },
+    {
+      "url": "/alaneng/ebrown"
+    },
+    {
+      "url": "/alaneng/alaneng.github.io"
+    },
+    {
+      "url": "/alaneng/nvd3"
+    },
+    {
+      "url": "/alaneng/react-starter"
+    }
+  ],
+  "worksfor": "Stitch Fix",
+  "location": "San Francisco, CA",
+  "fullname": "Alan Eng",
+  "website": "http://linkedin.com/in/alanfaieng",
+  "avatar": "https://avatars0.githubusercontent.com/u/1672800?v=3&s=460",
+  "contribs": 108,
+  "orgs": [
+    {
+      "stitchfix": "https://avatars0.githubusercontent.com/u/1749260?v=3&s=70"
+    }
+  ]
+}

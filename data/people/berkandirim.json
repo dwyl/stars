@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/berkandirim",
+  "img": "https://avatars0.githubusercontent.com/u/10062328?v=3&s=460",
+  "uid": 10062328,
+  "repos": 15,
+  "stars": 163,
+  "followers": 11,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/berkandirim/jquery-listswap"
+    },
+    {
+      "url": "/berkandirim/frontend-horror"
+    },
+    {
+      "url": "/berkandirim/gerzek"
+    },
+    {
+      "url": "/berkandirim/berkandirim.github.io"
+    },
+    {
+      "url": "/berkandirim/htmlmag"
+    },
+    {
+      "url": "/berkandirim/jekyll-uxrocket"
+    }
+  ],
+  "worksfor": "Gordion",
+  "location": "Istanbul",
+  "fullname": "Berkan Dirim",
+  "website": "http://www.dirim.co",
+  "avatar": "https://avatars0.githubusercontent.com/u/10062328?v=3&s=460",
+  "contribs": 48,
+  "orgs": [
+    {
+      "uxrocket": "https://avatars1.githubusercontent.com/u/9591419?v=3&s=70"
+    }
+  ]
+}

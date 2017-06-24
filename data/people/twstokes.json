@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/twstokes",
+  "img": "https://avatars0.githubusercontent.com/u/2092798?v=3&s=460",
+  "uid": 2092798,
+  "repos": 10,
+  "stars": 148,
+  "followers": 4,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/twstokes/herpderp"
+    },
+    {
+      "url": "/twstokes/garage-pi"
+    },
+    {
+      "url": "/twstokes/door_detect"
+    },
+    {
+      "url": "/twstokes/arduino-plasma-ball"
+    },
+    {
+      "url": "/twstokes/healthdata_influx"
+    },
+    {
+      "url": "/twstokes/arduino-gyrocube"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Tanner Stokes",
+  "website": "https://www.tannr.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/2092798?v=3&s=460",
+  "contribs": 435,
+  "orgs": []
+}

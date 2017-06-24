@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/bitjson",
+  "img": "https://avatars2.githubusercontent.com/u/904007?v=3&s=460",
+  "uid": 904007,
+  "repos": 127,
+  "stars": 848,
+  "followers": 77,
+  "following": 54,
+  "pinned": [
+    {
+      "url": "/bitauth/bitauth2017"
+    },
+    {
+      "url": "/bitpay/cordova-plugin-qrscanner"
+    },
+    {
+      "url": "/bitpay/copay"
+    },
+    {
+      "url": "/bitjson/wip"
+    },
+    {
+      "url": "/bitjson/typescript-starter"
+    },
+    {
+      "url": "/bitjson/bitscript"
+    }
+  ],
+  "worksfor": "BitPay",
+  "location": "Atlanta, GA",
+  "fullname": "Jason Dreyzehner",
+  "website": "https://twitter.com/bitjson",
+  "avatar": "https://avatars2.githubusercontent.com/u/904007?v=3&s=460",
+  "contribs": 1221,
+  "orgs": [
+    {
+      "bitpay": "https://avatars3.githubusercontent.com/u/2554930?v=3&s=70"
+    },
+    {
+      "bitauth": "https://avatars2.githubusercontent.com/u/25286349?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/vrcsix",
+  "img": "https://avatars1.githubusercontent.com/u/1703924?v=3&s=460",
+  "uid": 1703924,
+  "repos": 135,
+  "stars": 36,
+  "followers": 5,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/vrcsix/python-websocket"
+    },
+    {
+      "url": "/vrcsix/redmine_irc_notifications"
+    },
+    {
+      "url": "/vrcsix/cltwitter"
+    },
+    {
+      "url": "/vrcsix/ruby-treemap"
+    },
+    {
+      "url": "/vrcsix/nintendont"
+    },
+    {
+      "url": "/vrcsix/pacbuild"
+    }
+  ],
+  "worksfor": "@autocom, @wowgroup",
+  "location": "Trollhättan",
+  "fullname": "Martin Häger",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1703924?v=3&s=460",
+  "contribs": 223,
+  "orgs": [
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    },
+    {
+      "autocom": "https://avatars1.githubusercontent.com/u/7070457?v=3&s=70"
+    },
+    {
+      "wowgroup": "https://avatars1.githubusercontent.com/u/14840216?v=3&s=70"
+    }
+  ]
+}

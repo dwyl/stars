@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/calmdev",
+  "img": "https://avatars2.githubusercontent.com/u/461249?v=3&s=460",
+  "uid": 461249,
+  "repos": 2,
+  "stars": 691,
+  "followers": 23,
+  "following": 498,
+  "pinned": [
+    {
+      "url": "/GitbookIO/gitbook"
+    },
+    {
+      "url": "/codemirror/CodeMirror"
+    },
+    {
+      "url": "/hapijs/hapi"
+    },
+    {
+      "url": "/lalitkapoor/github-changes"
+    },
+    {
+      "url": "/egoist/biu"
+    },
+    {
+      "url": "/Daplie/greenlock-express"
+    }
+  ],
+  "worksfor": "",
+  "location": "FL",
+  "fullname": "Levi Lewis",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/461249?v=3&s=460",
+  "contribs": 371,
+  "orgs": [
+    {
+      "nodewrite": "https://avatars2.githubusercontent.com/u/20865333?v=3&s=70"
+    },
+    {
+      "sliplife": "https://avatars3.githubusercontent.com/u/26578705?v=3&s=70"
+    }
+  ]
+}

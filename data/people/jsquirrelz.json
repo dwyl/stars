@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jsquirrelz",
+  "img": "https://avatars0.githubusercontent.com/u/1252612?v=3&s=460",
+  "uid": 1252612,
+  "repos": 8,
+  "stars": 202,
+  "followers": 14,
+  "following": 33,
+  "pinned": [
+    {
+      "url": "/jsquirrelz/storm-kube"
+    },
+    {
+      "url": "/jsquirrelz/DC-Tech-People"
+    },
+    {
+      "url": "/jsquirrelz/spinnakr-generic-ds"
+    },
+    {
+      "url": "/jsquirrelz/rgeo-activerecord"
+    },
+    {
+      "url": "/jsquirrelz/pry-rails"
+    },
+    {
+      "url": "/jsquirrelz/docker-compose-rails-dev-example"
+    }
+  ],
+  "worksfor": "",
+  "location": "Washington, D.C",
+  "fullname": "Justin Searles",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1252612?v=3&s=460",
+  "contribs": 492,
+  "orgs": [
+    {
+      "Ventureboard": "https://avatars3.githubusercontent.com/u/2086476?v=3&s=70"
+    }
+  ]
+}

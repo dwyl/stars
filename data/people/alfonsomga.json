@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/alfonsomga",
+  "img": "https://avatars2.githubusercontent.com/u/9363272?v=3&s=460",
+  "uid": 9363272,
+  "repos": 4,
+  "stars": 638,
+  "followers": 10,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/alfonsomga/symfony.demo.on.roids"
+    },
+    {
+      "url": "/gimler/symfony-rest-edition"
+    },
+    {
+      "url": "/mitchellh/vagrant"
+    },
+    {
+      "url": "/segmentio/nightmare"
+    },
+    {
+      "url": "/symfony/symfony-demo"
+    },
+    {
+      "url": "/mps-youtube/mps-youtube"
+    }
+  ],
+  "worksfor": "???",
+  "location": "Madrid, Spain.",
+  "fullname": "Alfonso ~",
+  "website": "https://twitter.com/alfonsomga_",
+  "avatar": "https://avatars2.githubusercontent.com/u/9363272?v=3&s=460",
+  "contribs": 19,
+  "orgs": []
+}

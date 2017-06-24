@@ -1,0 +1,34 @@
+{
+  "url": "https://github.com/penemue",
+  "img": "https://avatars0.githubusercontent.com/u/4507691?v=3&s=460",
+  "uid": 4507691,
+  "repos": 5,
+  "stars": 112,
+  "followers": 22,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/JetBrains/xodus"
+    },
+    {
+      "url": "/penemue/keap"
+    },
+    {
+      "url": "/penemue/xodus-entity-browser"
+    },
+    {
+      "url": "/penemue/modular-arithmetik"
+    }
+  ],
+  "worksfor": "@JetBrains",
+  "location": "St. Petersburg, Russia",
+  "fullname": "Vyacheslav Lukianov",
+  "website": "https://twitter.com/penemuew",
+  "avatar": "https://avatars0.githubusercontent.com/u/4507691?v=3&s=460",
+  "contribs": 531,
+  "orgs": [
+    {
+      "JetBrains": "https://avatars2.githubusercontent.com/u/878437?v=3&s=70"
+    }
+  ]
+}

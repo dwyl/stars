@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/mundizzle",
+  "img": "https://avatars0.githubusercontent.com/u/1226055?v=3&s=460",
+  "uid": 1226055,
+  "repos": 16,
+  "stars": 2800,
+  "followers": 35,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/mundizzle/scratchpad"
+    },
+    {
+      "url": "/mundizzle/style-guide-generator"
+    },
+    {
+      "url": "/mundizzle/development-environment"
+    },
+    {
+      "url": "/mundizzle/component-library"
+    },
+    {
+      "url": "/mundizzle/mundizzle.github.io"
+    },
+    {
+      "url": "/mundizzle/cli-tool"
+    }
+  ],
+  "worksfor": "TandemSeven",
+  "location": "Oakland, CA",
+  "fullname": "Mundi Morgado",
+  "website": "https://twitter.com/mundizzle",
+  "avatar": "https://avatars0.githubusercontent.com/u/1226055?v=3&s=460",
+  "contribs": 1025,
+  "orgs": [
+    {
+      "TandemSeven": "https://avatars2.githubusercontent.com/u/1226102?v=3&s=70"
+    }
+  ]
+}

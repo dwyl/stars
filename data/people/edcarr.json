@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/edcarr",
+  "img": "https://avatars1.githubusercontent.com/u/4009967?v=3&s=460",
+  "uid": 4009967,
+  "repos": 3,
+  "stars": 27,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/edcarr/node-redis-url-shortener"
+    },
+    {
+      "url": "/edcarr/react-boilerplate"
+    },
+    {
+      "url": "/edcarr/angular-boilerplate"
+    }
+  ],
+  "worksfor": "@zzish",
+  "location": "London",
+  "fullname": "Ed Carr",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/4009967?v=3&s=460",
+  "contribs": 52,
+  "orgs": []
+}

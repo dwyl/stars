@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/hross",
+  "img": "https://avatars2.githubusercontent.com/u/166143?v=3&s=460",
+  "uid": 166143,
+  "repos": 38,
+  "stars": 83,
+  "followers": 12,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/hross/office-ui-fabric-react"
+    },
+    {
+      "url": "/hross/Charity-Campaign"
+    },
+    {
+      "url": "/hross/TheHollow"
+    },
+    {
+      "url": "/hross/stock-info-downloader"
+    },
+    {
+      "url": "/hross/BombsAway"
+    },
+    {
+      "url": "/hross/alarmbrew"
+    }
+  ],
+  "worksfor": "Microsoft",
+  "location": "",
+  "fullname": "Ross Brodbeck",
+  "website": "http://blog.hross.net",
+  "avatar": "https://avatars2.githubusercontent.com/u/166143?v=3&s=460",
+  "contribs": 49,
+  "orgs": [
+    {
+      "project-performance": "https://avatars2.githubusercontent.com/u/1084838?v=3&s=70"
+    }
+  ]
+}

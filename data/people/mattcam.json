@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/mattcam",
+  "img": "https://avatars2.githubusercontent.com/u/3451548?v=3&s=460",
+  "uid": 3451548,
+  "repos": 6,
+  "stars": 310,
+  "followers": 22,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/mattcam/Salesforce-Marketing-Cloud-Developer-Edition-Recipes"
+    },
+    {
+      "url": "/mattcam/mustread-nodejs"
+    },
+    {
+      "url": "/mattcam/awesome-developer-stuff"
+    },
+    {
+      "url": "/mattcam/hubot"
+    },
+    {
+      "url": "/mattcam/hubot-twitter-userstream"
+    },
+    {
+      "url": "/mattcam/journey-builder-custom-hello-world"
+    }
+  ],
+  "worksfor": "",
+  "location": "Melbourne, AU",
+  "fullname": "matt cameron",
+  "website": "http://www.mattcameron.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/3451548?v=3&s=460",
+  "contribs": 144,
+  "orgs": [
+    {
+      "sfmcdg": "https://avatars1.githubusercontent.com/u/23431953?v=3&s=70"
+    }
+  ]
+}

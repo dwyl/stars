@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/pierr",
+  "img": "https://avatars1.githubusercontent.com/u/286966?v=3&s=460",
+  "uid": 286966,
+  "repos": 71,
+  "stars": 260,
+  "followers": 19,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/pierr/react"
+    },
+    {
+      "url": "/KleeGroup/focus-components"
+    },
+    {
+      "url": "/KleeGroup/focus-core"
+    },
+    {
+      "url": "/get-focus/focus-graph"
+    },
+    {
+      "url": "/pierr/redux"
+    }
+  ],
+  "worksfor": "",
+  "location": "Paris",
+  "fullname": "Pierre Besson",
+  "website": "http://pierr.github.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/286966?v=3&s=460",
+  "contribs": 335,
+  "orgs": [
+    {
+      "SelectivelyTeam": "https://avatars1.githubusercontent.com/u/17044391?v=3&s=70"
+    }
+  ]
+}

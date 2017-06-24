@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/xhs",
+  "img": "https://avatars3.githubusercontent.com/u/10380759?v=3&s=460",
+  "uid": 10380759,
+  "repos": 16,
+  "stars": 5900,
+  "followers": 27,
+  "following": 95,
+  "pinned": [
+    {
+      "url": "/xhs/librtcdc"
+    },
+    {
+      "url": "/xhs/gortcdc"
+    },
+    {
+      "url": "/xhs/shoutd"
+    },
+    {
+      "url": "/xhs/WebPocket"
+    },
+    {
+      "url": "/xhs/webrtc-experiments"
+    },
+    {
+      "url": "/xhs/sockjs-erlang"
+    }
+  ],
+  "worksfor": "Quzhao Networks",
+  "location": "Beijing",
+  "fullname": "Xiaohan Song",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/10380759?v=3&s=460",
+  "contribs": 299,
+  "orgs": [
+    {
+      "xonnect": "https://avatars1.githubusercontent.com/u/10380768?v=3&s=70"
+    },
+    {
+      "zhaozhaolife": "https://avatars2.githubusercontent.com/u/17672893?v=3&s=70"
+    }
+  ]
+}

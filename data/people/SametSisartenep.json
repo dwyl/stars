@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/SametSisartenep",
+  "img": "https://avatars3.githubusercontent.com/u/6894991?v=3&s=460",
+  "uid": 6894991,
+  "repos": 81,
+  "stars": 1200,
+  "followers": 24,
+  "following": 57,
+  "pinned": [
+    {
+      "url": "/SametSisartenep/gpg-public-key"
+    },
+    {
+      "url": "/SametSisartenep/showip"
+    },
+    {
+      "url": "/SametSisartenep/void-grsec-linux"
+    },
+    {
+      "url": "/SametSisartenep/montk"
+    },
+    {
+      "url": "/SametSisartenep/pinit"
+    },
+    {
+      "url": "/SametSisartenep/cgo"
+    }
+  ],
+  "worksfor": "Antares Labs",
+  "location": "Alicante, Spain",
+  "fullname": "Rodrigo González López",
+  "website": "https://sametsisartenep.crabdance.com/about",
+  "avatar": "https://avatars3.githubusercontent.com/u/6894991?v=3&s=460",
+  "contribs": 165,
+  "orgs": [
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    },
+    {
+      "node-es": "https://avatars2.githubusercontent.com/u/10998348?v=3&s=70"
+    },
+    {
+      "bubbles-team": "https://avatars3.githubusercontent.com/u/11247827?v=3&s=70"
+    }
+  ]
+}

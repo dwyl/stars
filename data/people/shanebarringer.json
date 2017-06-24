@@ -1,0 +1,61 @@
+{
+  "url": "https://github.com/shanebarringer",
+  "img": "https://avatars1.githubusercontent.com/u/6509923?v=3&s=460",
+  "uid": 6509923,
+  "repos": 100,
+  "stars": 24,
+  "followers": 52,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/shanebarringer/node-repl-with-babel-support"
+    },
+    {
+      "url": "/tddbin/tddbin-frontend"
+    },
+    {
+      "url": "/shanebarringer/battle_royal"
+    },
+    {
+      "url": "/shanebarringer/class_challenges"
+    },
+    {
+      "url": "/shanebarringer/js_calculator"
+    },
+    {
+      "url": "/shanebarringer/starwars_opening_crawl"
+    }
+  ],
+  "worksfor": "The Home Depot",
+  "location": "United States",
+  "fullname": "Shane Barringer",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/6509923?v=3&s=460",
+  "contribs": 1186,
+  "orgs": [
+    {
+      "ttsFall2015": "https://avatars2.githubusercontent.com/u/15382981?v=3&s=70"
+    },
+    {
+      "ttsJavaScriptApps": "https://avatars0.githubusercontent.com/u/16745961?v=3&s=70"
+    },
+    {
+      "code-immersion-winter-2016": "https://avatars0.githubusercontent.com/u/16746040?v=3&s=70"
+    },
+    {
+      "tts-code-immersion-pt-spring-2016": "https://avatars1.githubusercontent.com/u/18268093?v=3&s=70"
+    },
+    {
+      "tts-code-immersion-clt-pt-summer-2016": "https://avatars1.githubusercontent.com/u/20327444?v=3&s=70"
+    },
+    {
+      "ttsJavaScriptAppDevelopmentSummer16": "https://avatars3.githubusercontent.com/u/20503387?v=3&s=70"
+    },
+    {
+      "tts-fall-2016-code-immersion": "https://avatars0.githubusercontent.com/u/22302176?v=3&s=70"
+    },
+    {
+      "NextLevelRails-winter-2016": "https://avatars2.githubusercontent.com/u/23296994?v=3&s=70"
+    }
+  ]
+}

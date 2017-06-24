@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/thinkstylestudio",
+  "img": "https://avatars1.githubusercontent.com/u/322368?v=3&s=460",
+  "uid": 322368,
+  "repos": 223,
+  "stars": 680,
+  "followers": 9,
+  "following": 65,
+  "pinned": [
+    {
+      "url": "/10up/Engineering-Best-Practices"
+    },
+    {
+      "url": "/thinkstylestudio/DesignPatternsPHP"
+    },
+    {
+      "url": "/thinkstylestudio/CMB2"
+    },
+    {
+      "url": "/thinkstylestudio/cmb2-metabox-generator"
+    },
+    {
+      "url": "/ebrehault/resurrectio"
+    },
+    {
+      "url": "/thinkstylestudio/gravity-forms-data"
+    }
+  ],
+  "worksfor": "Think Style Studio",
+  "location": "Abbotsford BC, Canada",
+  "fullname": "Theron Smith",
+  "website": "http://thinkstylestudio.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/322368?v=3&s=460",
+  "contribs": 512,
+  "orgs": []
+}

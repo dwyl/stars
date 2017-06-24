@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/xouabita",
+  "img": "https://avatars3.githubusercontent.com/u/1368129?v=3&s=460",
+  "uid": 1368129,
+  "repos": 44,
+  "stars": 1000,
+  "followers": 15,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/xouabita/dinosaurAI"
+    },
+    {
+      "url": "/xouabita/little-soundcloud-visualizer"
+    },
+    {
+      "url": "/xouabita/mongorito-tcomb"
+    },
+    {
+      "url": "/xouabita/get-video-info"
+    },
+    {
+      "url": "/xouabita/redux-coffee-boilerplate"
+    },
+    {
+      "url": "/xouabita/tornado-chat"
+    }
+  ],
+  "worksfor": "",
+  "location": "Versailles",
+  "fullname": "Alexandre ABITA",
+  "website": "http://xouabita.me",
+  "avatar": "https://avatars3.githubusercontent.com/u/1368129?v=3&s=460",
+  "contribs": 946,
+  "orgs": [
+    {
+      "RinseIO": "https://avatars2.githubusercontent.com/u/1393823?v=3&s=70"
+    },
+    {
+      "EpiMac": "https://avatars1.githubusercontent.com/u/16761264?v=3&s=70"
+    }
+  ]
+}

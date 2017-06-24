@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/dailepro",
+  "img": "https://avatars3.githubusercontent.com/u/12345613?v=3&s=460",
+  "uid": 12345613,
+  "repos": 21,
+  "stars": 11,
+  "followers": 0,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/dailepro/learn-mobx"
+    },
+    {
+      "url": "/dailepro/javascript"
+    },
+    {
+      "url": "/dailepro/data-science"
+    },
+    {
+      "url": "/dailepro/You-Dont-Know-JS"
+    },
+    {
+      "url": "/dailepro/reflections"
+    },
+    {
+      "url": "/dailepro/recipes"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ho Chi Minh City",
+  "fullname": "Nguyen Quoc Dai Le",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/12345613?v=3&s=460",
+  "contribs": 82,
+  "orgs": []
+}

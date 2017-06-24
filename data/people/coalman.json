@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/coalman",
+  "img": "https://avatars0.githubusercontent.com/u/2391600?v=3&s=460",
+  "uid": 2391600,
+  "repos": 26,
+  "stars": 651,
+  "followers": 20,
+  "following": 42,
+  "pinned": [
+    {
+      "url": "/coalman/tott-gulpjs"
+    },
+    {
+      "url": "/coalman/blessed-life"
+    },
+    {
+      "url": "/coalman/rainbow"
+    },
+    {
+      "url": "/coalman/coalman.github.io"
+    },
+    {
+      "url": "/coalman/phaser-boilerplate"
+    },
+    {
+      "url": "/coalman/unc_hack_snake"
+    }
+  ],
+  "worksfor": "",
+  "location": "Chapel Hill, NC",
+  "fullname": "Michael Coleman",
+  "website": "http://coalman.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/2391600?v=3&s=460",
+  "contribs": 34,
+  "orgs": [
+    {
+      "htmllint": "https://avatars2.githubusercontent.com/u/8569651?v=3&s=70"
+    }
+  ]
+}

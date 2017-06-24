@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jeffreypriebe",
+  "img": "https://avatars3.githubusercontent.com/u/1160097?v=3&s=460",
+  "uid": 1160097,
+  "repos": 25,
+  "stars": 166,
+  "followers": 9,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/keystonejs/keystone"
+    },
+    {
+      "url": "/jeffreypriebe/KindleClippings"
+    },
+    {
+      "url": "/jeffreypriebe/LuceneExport"
+    },
+    {
+      "url": "/jeffreypriebe/winston-dynamodb"
+    }
+  ],
+  "worksfor": "",
+  "location": "USA",
+  "fullname": "Jeffrey Priebe",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1160097?v=3&s=460",
+  "contribs": 319,
+  "orgs": [
+    {
+      "oneshot": "https://avatars0.githubusercontent.com/u/8726824?v=3&s=70"
+    },
+    {
+      "nodeconf": "https://avatars0.githubusercontent.com/u/10212540?v=3&s=70"
+    },
+    {
+      "santacruzjs": "https://avatars0.githubusercontent.com/u/12356855?v=3&s=70"
+    }
+  ]
+}

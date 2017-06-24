@@ -1,0 +1,28 @@
+{
+  "url": "https://github.com/bdart",
+  "img": "https://avatars1.githubusercontent.com/u/4836770?v=3&s=460",
+  "uid": 4836770,
+  "repos": 17,
+  "stars": 174,
+  "followers": 7,
+  "following": 46,
+  "pinned": [
+    {
+      "url": "/Massagio/docker-hhvm-nginx-data-only"
+    },
+    {
+      "url": "/bothackBerlin/bothack-data-server"
+    }
+  ],
+  "worksfor": "massagio",
+  "location": "Berlin",
+  "fullname": "Daniel",
+  "website": "http://dfiebig.de",
+  "avatar": "https://avatars1.githubusercontent.com/u/4836770?v=3&s=460",
+  "contribs": 1958,
+  "orgs": [
+    {
+      "Massagio": "https://avatars2.githubusercontent.com/u/14752599?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/shoebmogal",
+  "img": "https://avatars3.githubusercontent.com/u/969104?v=3&s=460",
+  "uid": 969104,
+  "repos": 7,
+  "stars": 498,
+  "followers": 9,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/shoebmogal/markov-guess"
+    },
+    {
+      "url": "/shoebmogal/Search-engine"
+    },
+    {
+      "url": "/shoebmogal/Digit-Recognition"
+    },
+    {
+      "url": "/shoebmogal/proxygen"
+    },
+    {
+      "url": "/shoebmogal/react-native-nw-react-calculator"
+    },
+    {
+      "url": "/shoebmogal/redux-auth"
+    }
+  ],
+  "worksfor": "eBay-PayPal",
+  "location": "Boston,MA",
+  "fullname": "Shoeb Ahmed Mogal",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/969104?v=3&s=460",
+  "contribs": 334,
+  "orgs": []
+}

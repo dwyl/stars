@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/countable",
+  "img": "https://avatars2.githubusercontent.com/u/933719?v=3&s=460",
+  "uid": 933719,
+  "repos": 45,
+  "stars": 509,
+  "followers": 16,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/countable/node-dogecoin"
+    },
+    {
+      "url": "/countable/js-fdf"
+    },
+    {
+      "url": "/countable/dogelet"
+    },
+    {
+      "url": "/countable/games4doge-contest"
+    },
+    {
+      "url": "/countable/aop.js"
+    },
+    {
+      "url": "/countable/webgl-sail"
+    }
+  ],
+  "worksfor": "Countable Web",
+  "location": "Vancouver, BC",
+  "fullname": "Clark Van Oyen",
+  "website": "http://countable.ca",
+  "avatar": "https://avatars2.githubusercontent.com/u/933719?v=3&s=460",
+  "contribs": 348,
+  "orgs": [
+    {
+      "countable-web": "https://avatars3.githubusercontent.com/u/1578551?v=3&s=70"
+    }
+  ]
+}

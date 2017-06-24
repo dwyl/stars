@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/albertonieto",
+  "img": "https://avatars1.githubusercontent.com/u/5978156?v=3&s=460",
+  "uid": 5978156,
+  "repos": 8,
+  "stars": 22,
+  "followers": 2,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/albertonieto/udacity-html5-gamedev"
+    },
+    {
+      "url": "/albertonieto/StreetFighter"
+    },
+    {
+      "url": "/albertonieto/Space-Shooter"
+    },
+    {
+      "url": "/albertonieto/1HourJS"
+    },
+    {
+      "url": "/albertonieto/Voting-System"
+    },
+    {
+      "url": "/albertonieto/laravel-5-boilerplate"
+    }
+  ],
+  "worksfor": "",
+  "location": "Amsterdam",
+  "fullname": "Alberto Nieto",
+  "website": "http://www.albertonieto.info",
+  "avatar": "https://avatars1.githubusercontent.com/u/5978156?v=3&s=460",
+  "contribs": 10,
+  "orgs": []
+}

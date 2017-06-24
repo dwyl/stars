@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/luciopaiva",
+  "img": "https://avatars2.githubusercontent.com/u/6631859?v=3&s=460",
+  "uid": 6631859,
+  "repos": 50,
+  "stars": 58,
+  "followers": 8,
+  "following": 27,
+  "pinned": [
+    {
+      "url": "/luciopaiva/base64"
+    },
+    {
+      "url": "/luciopaiva/ingresso"
+    },
+    {
+      "url": "/luciopaiva/particles"
+    },
+    {
+      "url": "/luciopaiva/salario"
+    },
+    {
+      "url": "/luciopaiva/synthesizer"
+    }
+  ],
+  "worksfor": "Zwift",
+  "location": "Rio de Janeiro, Brazil",
+  "fullname": "Lucio Paiva",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/6631859?v=3&s=460",
+  "contribs": 182,
+  "orgs": [
+    {
+      "hypermindr": "https://avatars1.githubusercontent.com/u/12546302?v=3&s=70"
+    }
+  ]
+}

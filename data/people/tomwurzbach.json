@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/tomwurzbach",
+  "img": "https://avatars2.githubusercontent.com/u/7717616?v=3&s=460",
+  "uid": 7717616,
+  "repos": 4,
+  "stars": 3,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/tomwurzbach/controller-authenticated-action"
+    },
+    {
+      "url": "/tomwurzbach/phaxio-php"
+    },
+    {
+      "url": "/tomwurzbach/brickftp-plsql"
+    },
+    {
+      "url": "/tomwurzbach/auth0-angular"
+    }
+  ],
+  "worksfor": "LifeSouth / Hemanexus / AWSnerd",
+  "location": "",
+  "fullname": "Tom Wurzbach",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/7717616?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

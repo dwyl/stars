@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/luduvigo",
+  "img": "https://avatars0.githubusercontent.com/u/1569913?v=3&s=460",
+  "uid": 1569913,
+  "repos": 16,
+  "stars": 93,
+  "followers": 8,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/luduvigo/app-blog-code"
+    },
+    {
+      "url": "/luduvigo/desperate-scripts"
+    },
+    {
+      "url": "/luduvigo/prog-competition-template"
+    },
+    {
+      "url": "/luduvigo/bitstarter"
+    },
+    {
+      "url": "/luduvigo/assemblycoins"
+    },
+    {
+      "url": "/luduvigo/justlearnscala"
+    }
+  ],
+  "worksfor": "@Honula",
+  "location": "Lisbon",
+  "fullname": "Paolo Antonio Rossi",
+  "website": "http://www.luduvigo.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1569913?v=3&s=460",
+  "contribs": 2,
+  "orgs": [
+    {
+      "coderwall-python": "https://avatars2.githubusercontent.com/u/3086352?v=3&s=70"
+    },
+    {
+      "coderwall-polygamous": "https://avatars2.githubusercontent.com/u/3086534?v=3&s=70"
+    },
+    {
+      "asm-products": "https://avatars0.githubusercontent.com/u/6548361?v=3&s=70"
+    },
+    {
+      "Honula": "https://avatars0.githubusercontent.com/u/25369797?v=3&s=70"
+    }
+  ]
+}

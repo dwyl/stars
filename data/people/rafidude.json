@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/rafidude",
+  "img": "https://avatars3.githubusercontent.com/u/9640?v=3&s=460",
+  "uid": 9640,
+  "repos": 44,
+  "stars": 1100,
+  "followers": 7,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/rafidude/RubyDesignPatterns"
+    },
+    {
+      "url": "/rafidude/Samples"
+    },
+    {
+      "url": "/rafidude/Workflows_Temp"
+    },
+    {
+      "url": "/rafidude/sample_app"
+    },
+    {
+      "url": "/rafidude/refinerycms"
+    },
+    {
+      "url": "/rafidude/sinatra"
+    }
+  ],
+  "worksfor": "AgileSense LLC",
+  "location": "Dallas, TX",
+  "fullname": "Rafi Dudekula",
+  "website": "http://www.AgileSense.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/9640?v=3&s=460",
+  "contribs": 575,
+  "orgs": []
+}

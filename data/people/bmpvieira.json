@@ -1,0 +1,70 @@
+{
+  "url": "https://github.com/bmpvieira",
+  "img": "https://avatars1.githubusercontent.com/u/263386?v=3&s=460",
+  "uid": 263386,
+  "repos": 146,
+  "stars": 1300,
+  "followers": 154,
+  "following": 271,
+  "pinned": [
+    {
+      "url": "/bmpvieira/simple-corsproxy"
+    },
+    {
+      "url": "/bmpvieira/heroku-dat-template"
+    },
+    {
+      "url": "/bmpvieira/python101"
+    },
+    {
+      "url": "/bmpvieira/gulp-reveal"
+    },
+    {
+      "url": "/bmpvieira/Dockerfiles"
+    },
+    {
+      "url": "/bmpvieira/cobig2"
+    }
+  ],
+  "worksfor": "Queen Mary Uni. of London",
+  "location": "London",
+  "fullname": "Bruno Vieira",
+  "website": "http://bmpvieira.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/263386?v=3&s=460",
+  "contribs": 260,
+  "orgs": [
+    {
+      "CoBiG2": "https://avatars3.githubusercontent.com/u/2109092?v=3&s=70"
+    },
+    {
+      "lnug": "https://avatars0.githubusercontent.com/u/4046959?v=3&s=70"
+    },
+    {
+      "biojs": "https://avatars0.githubusercontent.com/u/5148092?v=3&s=70"
+    },
+    {
+      "bionode": "https://avatars3.githubusercontent.com/u/6466584?v=3&s=70"
+    },
+    {
+      "DNAdigestOrg": "https://avatars3.githubusercontent.com/u/7217193?v=3&s=70"
+    },
+    {
+      "wurmlab": "https://avatars3.githubusercontent.com/u/7633927?v=3&s=70"
+    },
+    {
+      "bioweb": "https://avatars3.githubusercontent.com/u/8373885?v=3&s=70"
+    },
+    {
+      "orbio": "https://avatars0.githubusercontent.com/u/8807231?v=3&s=70"
+    },
+    {
+      "biojupyter": "https://avatars3.githubusercontent.com/u/8821584?v=3&s=70"
+    },
+    {
+      "SBCSnicholsLab": "https://avatars2.githubusercontent.com/u/10727678?v=3&s=70"
+    },
+    {
+      "mozfellows-hack": "https://avatars2.githubusercontent.com/u/28148502?v=3&s=70"
+    }
+  ]
+}

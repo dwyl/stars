@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/FreakDev",
+  "img": "https://avatars0.githubusercontent.com/u/187670?v=3&s=460",
+  "uid": 187670,
+  "repos": 23,
+  "stars": 102,
+  "followers": 29,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/FreakDev/reactjs-cordova-betaseries-app"
+    },
+    {
+      "url": "/FreakDev/HTML5-Star-Soccer"
+    },
+    {
+      "url": "/FreakDev/websocket-quizz"
+    },
+    {
+      "url": "/FreakDev/PhoneGap-Android-HTML5-WebSocket"
+    }
+  ],
+  "worksfor": "",
+  "location": "Paris - France",
+  "fullname": "Mathias DESLOGES",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/187670?v=3&s=460",
+  "contribs": 73,
+  "orgs": [
+    {
+      "centurion-project": "https://avatars1.githubusercontent.com/u/400248?v=3&s=70"
+    },
+    {
+      "YellowJS": "https://avatars2.githubusercontent.com/u/1633260?v=3&s=70"
+    }
+  ]
+}

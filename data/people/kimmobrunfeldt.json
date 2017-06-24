@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/kimmobrunfeldt",
+  "img": "https://avatars1.githubusercontent.com/u/1232405?v=3&s=460",
+  "uid": 1232405,
+  "repos": 140,
+  "stars": 1900,
+  "followers": 237,
+  "following": 74,
+  "pinned": [
+    {
+      "url": "/kimmobrunfeldt/progressbar.js"
+    },
+    {
+      "url": "/kimmobrunfeldt/concurrently"
+    },
+    {
+      "url": "/kimmobrunfeldt/chokidar-cli"
+    },
+    {
+      "url": "/kimmobrunfeldt/git-hours"
+    },
+    {
+      "url": "/kimmobrunfeldt/football-score-detector"
+    },
+    {
+      "url": "/kimmobrunfeldt/dont-copy-paste-this-frontend-template"
+    }
+  ],
+  "worksfor": "@futurice",
+  "location": "Finland",
+  "fullname": "Kimmo Brunfeldt",
+  "website": "https://twitter.com/kimmobrunfeldt",
+  "avatar": "https://avatars1.githubusercontent.com/u/1232405?v=3&s=460",
+  "contribs": 1518,
+  "orgs": [
+    {
+      "futurice": "https://avatars2.githubusercontent.com/u/852157?v=3&s=70"
+    },
+    {
+      "opensourcedesign": "https://avatars2.githubusercontent.com/u/4183553?v=3&s=70"
+    },
+    {
+      "DesignOpen": "https://avatars1.githubusercontent.com/u/5356407?v=3&s=70"
+    },
+    {
+      "apex": "https://avatars2.githubusercontent.com/u/10543471?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

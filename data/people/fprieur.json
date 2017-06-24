@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/fprieur",
+  "img": "https://avatars2.githubusercontent.com/u/243898?v=3&s=460",
+  "uid": 243898,
+  "repos": 108,
+  "stars": 140,
+  "followers": 9,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/fprieur/docker-casperjs"
+    },
+    {
+      "url": "/fprieur/docker-jenkins"
+    },
+    {
+      "url": "/fprieur/docker-ngrok"
+    },
+    {
+      "url": "/fprieur/miniswarm"
+    },
+    {
+      "url": "/fprieur/webwatch"
+    }
+  ],
+  "worksfor": "",
+  "location": "Montreal",
+  "fullname": "Fred Prieur",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/243898?v=3&s=460",
+  "contribs": 305,
+  "orgs": [
+    {
+      "VilledeMontreal": "https://avatars3.githubusercontent.com/u/6012942?v=3&s=70"
+    }
+  ]
+}

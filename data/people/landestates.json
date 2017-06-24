@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/landestates",
+  "img": "https://avatars0.githubusercontent.com/u/20159720?v=3&s=460",
+  "uid": 20159720,
+  "repos": 5,
+  "stars": 22,
+  "followers": 1,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/authinking/heroku-stripe-checkout"
+    },
+    {
+      "url": "/landestates/landestates.github.io"
+    },
+    {
+      "url": "/landestates/github.io"
+    },
+    {
+      "url": "/landestates/heroku-stripe-checkout"
+    }
+  ],
+  "worksfor": "",
+  "location": "Seattle",
+  "fullname": "Real Estates Properties North America",
+  "website": "http://www.landestates.net",
+  "avatar": "https://avatars0.githubusercontent.com/u/20159720?v=3&s=460",
+  "contribs": 429,
+  "orgs": []
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/BobStein",
+  "img": "https://avatars1.githubusercontent.com/u/4650454?v=3&s=460",
+  "uid": 4650454,
+  "repos": 5,
+  "stars": 6,
+  "followers": 0,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/BobStein/qiki"
+    },
+    {
+      "url": "/BobStein/qiki-python"
+    },
+    {
+      "url": "/BobStein/number-playground"
+    },
+    {
+      "url": "/BobStein/qiki-javascript"
+    },
+    {
+      "url": "/BobStein/fliki"
+    }
+  ],
+  "worksfor": "VisiBone",
+  "location": "Lyme, NH, US",
+  "fullname": "Bob Stein",
+  "website": "http://bobste.in/",
+  "avatar": "https://avatars1.githubusercontent.com/u/4650454?v=3&s=460",
+  "contribs": 13,
+  "orgs": []
+}

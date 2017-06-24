@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/sampotts",
+  "img": "https://avatars1.githubusercontent.com/u/719092?v=3&s=460",
+  "uid": 719092,
+  "repos": 9,
+  "stars": 273,
+  "followers": 56,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/sampotts/plyr"
+    },
+    {
+      "url": "/sampotts/rangetouch"
+    },
+    {
+      "url": "/sampotts/shr"
+    },
+    {
+      "url": "/TTLabs/EvaporateJS"
+    },
+    {
+      "url": "/bebraw/colorjoe"
+    },
+    {
+      "url": "/Selz/jquery.selz"
+    }
+  ],
+  "worksfor": "@Selz",
+  "location": "Sydney, Australia",
+  "fullname": "Sam Potts",
+  "website": "http://sampotts.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/719092?v=3&s=460",
+  "contribs": 4012,
+  "orgs": [
+    {
+      "Selz": "https://avatars2.githubusercontent.com/u/5273825?v=3&s=70"
+    }
+  ]
+}

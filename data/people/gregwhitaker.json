@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/gregwhitaker",
+  "img": "https://avatars0.githubusercontent.com/u/6044860?v=3&s=460",
+  "uid": 6044860,
+  "repos": 57,
+  "stars": 147,
+  "followers": 13,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/gregwhitaker/catnap"
+    },
+    {
+      "url": "/gregwhitaker/reactivesocket-channel-example"
+    },
+    {
+      "url": "/gregwhitaker/sns-durable-example"
+    },
+    {
+      "url": "/gregwhitaker/ratpack-reactivestreams-example"
+    },
+    {
+      "url": "/gregwhitaker/gradle-gitignore-plugin"
+    },
+    {
+      "url": "/gregwhitaker/gradle-flatbuffers-plugin"
+    }
+  ],
+  "worksfor": "@netifi",
+  "location": "Portland, OR",
+  "fullname": "Greg Whitaker",
+  "website": "http://stackoverflow.com/users/73446/gwhitake",
+  "avatar": "https://avatars0.githubusercontent.com/u/6044860?v=3&s=460",
+  "contribs": 1170,
+  "orgs": [
+    {
+      "spinnaker": "https://avatars1.githubusercontent.com/u/7634182?v=3&s=70"
+    },
+    {
+      "ignitr-oss": "https://avatars0.githubusercontent.com/u/12139479?v=3&s=70"
+    },
+    {
+      "netifi": "https://avatars2.githubusercontent.com/u/24930316?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/Shipow",
+  "img": "https://avatars2.githubusercontent.com/u/976175?v=3&s=460",
+  "uid": 976175,
+  "repos": 136,
+  "stars": 778,
+  "followers": 464,
+  "following": 4400,
+  "pinned": [
+    {
+      "url": "/Shipow/searchstone"
+    },
+    {
+      "url": "/Shipow/searchbox"
+    },
+    {
+      "url": "/algolia/instantsearch.js"
+    },
+    {
+      "url": "/algolia/places"
+    },
+    {
+      "url": "/algolia/algoliasearch-wordpress"
+    },
+    {
+      "url": "/algolia/github-awesome-autocomplete"
+    }
+  ],
+  "worksfor": "UX Devsigner @algolia",
+  "location": "Paris – SF",
+  "fullname": "Kevin Granger",
+  "website": "https://medium.com/@Kevin_Granger",
+  "avatar": "https://avatars2.githubusercontent.com/u/976175?v=3&s=460",
+  "contribs": 637,
+  "orgs": [
+    {
+      "algolia": "https://avatars3.githubusercontent.com/u/2034458?v=3&s=70"
+    },
+    {
+      "HearthSim": "https://avatars3.githubusercontent.com/u/11226219?v=3&s=70"
+    },
+    {
+      "instantsearch": "https://avatars2.githubusercontent.com/u/15661200?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

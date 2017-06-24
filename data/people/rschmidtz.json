@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/rschmidtz",
+  "img": "https://avatars2.githubusercontent.com/u/10736011?v=3&s=460",
+  "uid": 10736011,
+  "repos": 68,
+  "stars": 58,
+  "followers": 8,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/rschmidtz/flask-projects"
+    },
+    {
+      "url": "/rschmidtz/dockerfiles"
+    },
+    {
+      "url": "/rschmidtz/cloudformation-templates"
+    },
+    {
+      "url": "/rschmidtz/awsScripts"
+    },
+    {
+      "url": "/rschmidtz/cinema_microservices"
+    },
+    {
+      "url": "/rschmidtz/flaskbook"
+    }
+  ],
+  "worksfor": "NuvOps",
+  "location": "Washington, D.C.",
+  "fullname": "Libert R Schmidt",
+  "website": "https://libert.xyz",
+  "avatar": "https://avatars2.githubusercontent.com/u/10736011?v=3&s=460",
+  "contribs": 256,
+  "orgs": []
+}

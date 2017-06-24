@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/rajathans",
+  "img": "https://avatars2.githubusercontent.com/u/4061556?v=3&s=460",
+  "uid": 4061556,
+  "repos": 29,
+  "stars": 47,
+  "followers": 4,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/rajathans/rajathans.github.io"
+    },
+    {
+      "url": "/rajathans/edx-ng"
+    },
+    {
+      "url": "/rajathans/blueprint"
+    },
+    {
+      "url": "/rajathans/phpmyadmin"
+    }
+  ],
+  "worksfor": "@bfrs",
+  "location": "New Delhi",
+  "fullname": "Rajat Hans",
+  "website": "http://rajathans.me/",
+  "avatar": "https://avatars2.githubusercontent.com/u/4061556?v=3&s=460",
+  "contribs": 3379,
+  "orgs": [
+    {
+      "bfrs": "https://avatars1.githubusercontent.com/u/17469529?v=3&s=70"
+    },
+    {
+      "fossbrew": "https://avatars0.githubusercontent.com/u/29504364?v=3&s=70"
+    }
+  ]
+}

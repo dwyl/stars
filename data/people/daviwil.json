@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/daviwil",
+  "img": "https://avatars1.githubusercontent.com/u/79405?v=3&s=460",
+  "uid": 79405,
+  "repos": 39,
+  "stars": 1200,
+  "followers": 177,
+  "following": 145,
+  "pinned": [
+    {
+      "url": "/PowerShell/vscode-powershell"
+    },
+    {
+      "url": "/PowerShell/PowerShellEditorServices"
+    },
+    {
+      "url": "/PowerShell/Plaster"
+    },
+    {
+      "url": "/Microsoft/vscode"
+    }
+  ],
+  "worksfor": "Microsoft",
+  "location": "Seattle, WA",
+  "fullname": "David Wilson",
+  "website": "http://twitter.com/daviwil",
+  "avatar": "https://avatars1.githubusercontent.com/u/79405?v=3&s=460",
+  "contribs": 1237,
+  "orgs": [
+    {
+      "Microsoft": "https://avatars0.githubusercontent.com/u/6154722?v=3&s=70"
+    },
+    {
+      "PowerShell": "https://avatars2.githubusercontent.com/u/11524380?v=3&s=70"
+    },
+    {
+      "psconfeu": "https://avatars0.githubusercontent.com/u/18654627?v=3&s=70"
+    }
+  ]
+}

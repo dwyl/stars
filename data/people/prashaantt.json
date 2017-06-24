@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/prashaantt",
+  "img": "https://avatars1.githubusercontent.com/u/390540?v=3&s=460",
+  "uid": 390540,
+  "repos": 48,
+  "stars": 358,
+  "followers": 16,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/prashaantt/node-tdd"
+    },
+    {
+      "url": "/prashaantt/tiny-orm"
+    },
+    {
+      "url": "/prashaantt/hapi-webpack-dev-middleware"
+    },
+    {
+      "url": "/vandemataramlib/vml-web"
+    },
+    {
+      "url": "/vandemataramlib/vml"
+    }
+  ],
+  "worksfor": "@EqualExperts",
+  "location": "Pune",
+  "fullname": "Prashant Tiwari",
+  "website": "https://twitter.com/prashaantt",
+  "avatar": "https://avatars1.githubusercontent.com/u/390540?v=3&s=460",
+  "contribs": 434,
+  "orgs": [
+    {
+      "EqualExperts": "https://avatars2.githubusercontent.com/u/661706?v=3&s=70"
+    },
+    {
+      "alarisprime": "https://avatars3.githubusercontent.com/u/1409733?v=3&s=70"
+    },
+    {
+      "revealinghour": "https://avatars3.githubusercontent.com/u/3198005?v=3&s=70"
+    },
+    {
+      "doothings": "https://avatars1.githubusercontent.com/u/4882912?v=3&s=70"
+    },
+    {
+      "tah-io": "https://avatars0.githubusercontent.com/u/8686164?v=3&s=70"
+    },
+    {
+      "vandemataramlib": "https://avatars2.githubusercontent.com/u/19726168?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

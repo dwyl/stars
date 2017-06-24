@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/walling",
+  "img": "https://avatars3.githubusercontent.com/u/31546?v=3&s=460",
+  "uid": 31546,
+  "repos": 45,
+  "stars": 138,
+  "followers": 36,
+  "following": 40,
+  "pinned": [
+    {
+      "url": "/walling/unorm"
+    },
+    {
+      "url": "/walling/node-rsvg"
+    },
+    {
+      "url": "/walling/geo-distance"
+    },
+    {
+      "url": "/walling/gulp-raml2html"
+    },
+    {
+      "url": "/walling/xregexp"
+    },
+    {
+      "url": "/walling/Function.create.js"
+    }
+  ],
+  "worksfor": "BOOK A TIGER",
+  "location": "Berlin",
+  "fullname": "Bjarke Walling",
+  "website": "https://www.bjarkewalling.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/31546?v=3&s=460",
+  "contribs": 187,
+  "orgs": [
+    {
+      "digroli": "https://avatars3.githubusercontent.com/u/934882?v=3&s=70"
+    }
+  ]
+}

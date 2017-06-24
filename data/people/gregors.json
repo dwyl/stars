@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/gregors",
+  "img": "https://avatars0.githubusercontent.com/u/755230?v=3&s=460",
+  "uid": 755230,
+  "repos": 104,
+  "stars": 490,
+  "followers": 28,
+  "following": 36,
+  "pinned": [
+    {
+      "url": "/gregors/rickshaw"
+    },
+    {
+      "url": "/gregors/mysql_rake_tasks"
+    },
+    {
+      "url": "/gregors/boilerpipe-ruby"
+    },
+    {
+      "url": "/gregors/nltk-ruby"
+    },
+    {
+      "url": "/gregors/graphml2json"
+    },
+    {
+      "url": "/gregors/Kanban-Backlog-Manager"
+    }
+  ],
+  "worksfor": "",
+  "location": "Chattanooga, TN",
+  "fullname": "Gregory Ostermayr",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/755230?v=3&s=460",
+  "contribs": 355,
+  "orgs": []
+}

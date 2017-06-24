@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/decadecity",
+  "img": "https://avatars3.githubusercontent.com/u/1311389?v=3&s=460",
+  "uid": 1311389,
+  "repos": 37,
+  "stars": 30,
+  "followers": 9,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/decadecity/css-specificity-map"
+    },
+    {
+      "url": "/decadecity/decade_city.js"
+    },
+    {
+      "url": "/decadecity/AWStats-Enhancements"
+    },
+    {
+      "url": "/decadecity/profile"
+    },
+    {
+      "url": "/decadecity/X-Futurama-Firefox-extension"
+    },
+    {
+      "url": "/decadecity/browser-debug"
+    }
+  ],
+  "worksfor": "Deacde City",
+  "location": "Edinburgh",
+  "fullname": "Orde Saunders",
+  "website": "https://decadecity.net/",
+  "avatar": "https://avatars3.githubusercontent.com/u/1311389?v=3&s=460",
+  "contribs": 686,
+  "orgs": [
+    {
+      "web-matters": "https://avatars0.githubusercontent.com/u/28002285?v=3&s=70"
+    }
+  ]
+}

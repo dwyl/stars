@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/palpen",
+  "img": "https://avatars3.githubusercontent.com/u/9051141?v=3&s=460",
+  "uid": 9051141,
+  "repos": 23,
+  "stars": 24,
+  "followers": 2,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/palpen/grades_sum_stats"
+    },
+    {
+      "url": "/palpen/git_workflow"
+    },
+    {
+      "url": "/palpen/bashstrap"
+    },
+    {
+      "url": "/palpen/wage_calculator"
+    },
+    {
+      "url": "/palpen/dotfiles"
+    },
+    {
+      "url": "/palpen/palpen_articles"
+    }
+  ],
+  "worksfor": "",
+  "location": "Toronto, ON",
+  "fullname": "Palermo Penano",
+  "website": "http://ppenano.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/9051141?v=3&s=460",
+  "contribs": 243,
+  "orgs": []
+}

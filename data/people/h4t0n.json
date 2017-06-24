@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/h4t0n",
+  "img": "https://avatars3.githubusercontent.com/u/13604122?v=3&s=460",
+  "uid": 13604122,
+  "repos": 20,
+  "stars": 65,
+  "followers": 23,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/h4t0n/odin"
+    },
+    {
+      "url": "/h4t0n/nodejs-4-lts-openshift"
+    },
+    {
+      "url": "/h4t0n/rest-bac"
+    },
+    {
+      "url": "/h4t0n/socket.io-redis-appsample"
+    },
+    {
+      "url": "/h4t0n/mongoose-idexists"
+    },
+    {
+      "url": "/h4t0n/fast-tweet"
+    }
+  ],
+  "worksfor": "",
+  "location": "Pisa, Italy",
+  "fullname": "Andrea Tarquini",
+  "website": "http://blog.h4t0n.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/13604122?v=3&s=460",
+  "contribs": 28,
+  "orgs": []
+}

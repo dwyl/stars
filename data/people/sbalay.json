@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/sbalay",
+  "img": "https://avatars1.githubusercontent.com/u/1928544?v=3&s=460",
+  "uid": 1928544,
+  "repos": 37,
+  "stars": 459,
+  "followers": 8,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/sbalay/react-native-redux-form-example"
+    },
+    {
+      "url": "/sbalay/github-code-review-time-tracker-extension"
+    },
+    {
+      "url": "/sbalay/wrotest"
+    },
+    {
+      "url": "/sbalay/sudoku-backtracker"
+    },
+    {
+      "url": "/sbalay/node-chat-with-socket.io"
+    },
+    {
+      "url": "/sbalay/tadp2015"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Sebastián Balay",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1928544?v=3&s=460",
+  "contribs": 485,
+  "orgs": []
+}

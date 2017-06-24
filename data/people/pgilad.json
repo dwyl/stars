@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/pgilad",
+  "img": "https://avatars2.githubusercontent.com/u/4533329?v=3&s=460",
+  "uid": 4533329,
+  "repos": 51,
+  "stars": 1200,
+  "followers": 53,
+  "following": 61,
+  "pinned": [
+    {
+      "url": "/pgilad/leasot"
+    },
+    {
+      "url": "/pgilad/gulp-todo"
+    },
+    {
+      "url": "/pgilad/gulp-sitemap"
+    },
+    {
+      "url": "/pgilad/check-constants"
+    },
+    {
+      "url": "/pgilad/dotfiles"
+    },
+    {
+      "url": "/pgilad/vim-react-proptypes-snippets"
+    }
+  ],
+  "worksfor": "@Blazemeter",
+  "location": "Tel Aviv, Israel",
+  "fullname": "Gilad Peleg",
+  "website": "http://www.giladpeleg.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/4533329?v=3&s=460",
+  "contribs": 2049,
+  "orgs": [
+    {
+      "Blazemeter": "https://avatars2.githubusercontent.com/u/1841717?v=3&s=70"
+    },
+    {
+      "AmpersandJS": "https://avatars1.githubusercontent.com/u/6932645?v=3&s=70"
+    }
+  ]
+}

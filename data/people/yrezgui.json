@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/yrezgui",
+  "img": "https://avatars0.githubusercontent.com/u/1113976?v=3&s=460",
+  "uid": 1113976,
+  "repos": 145,
+  "stars": 1700,
+  "followers": 116,
+  "following": 82,
+  "pinned": [
+    {
+      "url": "/yrezgui/meowth-ios"
+    },
+    {
+      "url": "/yrezgui/kodigon"
+    },
+    {
+      "url": "/yrezgui/ionic-rocket"
+    },
+    {
+      "url": "/yrezgui/flouss"
+    },
+    {
+      "url": "/yrezgui/android-nfc-rfid"
+    },
+    {
+      "url": "/yrezgui/AngularJS-Learning"
+    }
+  ],
+  "worksfor": "IBM Watson",
+  "location": "London, UK",
+  "fullname": "Yacine Rezgui",
+  "website": "http://www.yrezgui.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1113976?v=3&s=460",
+  "contribs": 426,
+  "orgs": [
+    {
+      "coderwall-bear": "https://avatars2.githubusercontent.com/u/3079819?v=3&s=70"
+    },
+    {
+      "coderwall-charity": "https://avatars2.githubusercontent.com/u/3080009?v=3&s=70"
+    },
+    {
+      "coderwall-forked": "https://avatars2.githubusercontent.com/u/3080402?v=3&s=70"
+    },
+    {
+      "coderwall-polygamous": "https://avatars2.githubusercontent.com/u/3086534?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "watson-developer-cloud": "https://avatars3.githubusercontent.com/u/10017763?v=3&s=70"
+    }
+  ]
+}

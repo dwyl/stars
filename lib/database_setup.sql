@@ -22,6 +22,7 @@ INSERT INTO people (email, name, password)
   )
   EXCEPT
   SELECT email, name, password FROM people;
+
 /* sessions */
 CREATE TABLE IF NOT EXISTS sessions (
   session_id VARCHAR(36),

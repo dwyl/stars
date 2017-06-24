@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/LearningNerd",
+  "img": "https://avatars0.githubusercontent.com/u/1555022?v=3&s=460",
+  "uid": 1555022,
+  "repos": 35,
+  "stars": 342,
+  "followers": 142,
+  "following": 71,
+  "pinned": [
+    {
+      "url": "/LearningNerd/30DaysOfWebDev"
+    },
+    {
+      "url": "/LearningNerd/relative-pitch-trainer"
+    },
+    {
+      "url": "/LearningNerd/learningGIS"
+    },
+    {
+      "url": "/LearningNerd/js-hack-assembler"
+    },
+    {
+      "url": "/LearningNerd/now"
+    },
+    {
+      "url": "/LearningNerd/sento-child"
+    }
+  ],
+  "worksfor": "@LearnTeachCode",
+  "location": "Los Angeles",
+  "fullname": "Liz Krane",
+  "website": "http://www.learningnerd.com/",
+  "avatar": "https://avatars0.githubusercontent.com/u/1555022?v=3&s=460",
+  "contribs": 596,
+  "orgs": [
+    {
+      "LearnTeachCode": "https://avatars2.githubusercontent.com/u/11639041?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

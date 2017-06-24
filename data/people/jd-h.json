@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/jd-h",
+  "img": "https://avatars0.githubusercontent.com/u/23288655?v=3&s=460",
+  "uid": 23288655,
+  "repos": 52,
+  "stars": 268,
+  "followers": 2,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/jd-h/styleguide"
+    },
+    {
+      "url": "/jd-h/flickity"
+    },
+    {
+      "url": "/jd-h/docs-developer-blog"
+    },
+    {
+      "url": "/jd-h/WebFundamentals"
+    },
+    {
+      "url": "/jd-h/free-programming-books"
+    },
+    {
+      "url": "/jd-h/guides"
+    }
+  ],
+  "worksfor": "@ionncom",
+  "location": "Dallas, TX",
+  "fullname": "Damian Hakert",
+  "website": "https://twitter.com/damianh",
+  "avatar": "https://avatars0.githubusercontent.com/u/23288655?v=3&s=460",
+  "contribs": 83,
+  "orgs": [],
+  "developerprogram": true
+}

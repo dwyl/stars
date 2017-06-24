@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/tiborsaas",
+  "img": "https://avatars2.githubusercontent.com/u/342688?v=3&s=460",
+  "uid": 342688,
+  "repos": 32,
+  "stars": 489,
+  "followers": 55,
+  "following": 104,
+  "pinned": [
+    {
+      "url": "/tiborsaas/unique-gradient-generator"
+    },
+    {
+      "url": "/tiborsaas/node-resume"
+    },
+    {
+      "url": "/tiborsaas/iScaffold"
+    },
+    {
+      "url": "/tiborsaas/craft-starter"
+    },
+    {
+      "url": "/tiborsaas/webmidi-vj"
+    },
+    {
+      "url": "/tiborsaas/experiments"
+    }
+  ],
+  "worksfor": "@greenfox-academy",
+  "location": "Budapest, Hungary",
+  "fullname": "Tibor Szász",
+  "website": "http://tibor.szasz.hu",
+  "avatar": "https://avatars2.githubusercontent.com/u/342688?v=3&s=460",
+  "contribs": 549,
+  "orgs": [
+    {
+      "greenfox-academy": "https://avatars2.githubusercontent.com/u/14247612?v=3&s=70"
+    }
+  ]
+}

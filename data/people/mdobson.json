@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/mdobson",
+  "img": "https://avatars1.githubusercontent.com/u/934320?v=3&s=460",
+  "uid": 934320,
+  "repos": 223,
+  "stars": 502,
+  "followers": 36,
+  "following": 42,
+  "pinned": [
+    {
+      "url": "/mdobson/apigee-app-services-books-start"
+    },
+    {
+      "url": "/mdobson/SHMKit"
+    },
+    {
+      "url": "/mdobson/casper-child-scraper"
+    },
+    {
+      "url": "/mdobson/python-spam-module"
+    },
+    {
+      "url": "/mdobson/training"
+    },
+    {
+      "url": "/mdobson/node-pebble"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ann Arbor Michigan",
+  "fullname": "Matthew Dobson",
+  "website": "http://mdobson.github.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/934320?v=3&s=460",
+  "contribs": 648,
+  "orgs": [],
+  "developerprogram": true
+}

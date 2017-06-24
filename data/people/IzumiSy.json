@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/IzumiSy",
+  "img": "https://avatars1.githubusercontent.com/u/982850?v=3&s=460",
+  "uid": 982850,
+  "repos": 31,
+  "stars": 650,
+  "followers": 49,
+  "following": 70,
+  "pinned": [
+    {
+      "url": "/IzumiSy/chat-frontend"
+    },
+    {
+      "url": "/IzumiSy/chat-api-server"
+    },
+    {
+      "url": "/IzumiSy/Favpic"
+    },
+    {
+      "url": "/IzumiSy/dotfiles"
+    },
+    {
+      "url": "/k0kubun/Nocturn"
+    },
+    {
+      "url": "/IzumiSy/mathcalc"
+    }
+  ],
+  "worksfor": "Musashi University",
+  "location": "Tokyo, Japan",
+  "fullname": "Seiya IZUMI",
+  "website": "http://izumisy-tech.hatenablog.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/982850?v=3&s=460",
+  "contribs": 6006,
+  "orgs": [
+    {
+      "boilerplate-garage": "https://avatars3.githubusercontent.com/u/16857222?v=3&s=70"
+    }
+  ]
+}

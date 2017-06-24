@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/doxakis",
+  "img": "https://avatars1.githubusercontent.com/u/5766482?v=3&s=460",
+  "uid": 5766482,
+  "repos": 12,
+  "stars": 869,
+  "followers": 10,
+  "following": 62,
+  "pinned": [
+    {
+      "url": "/doxakis/MailBody"
+    },
+    {
+      "url": "/doxakis/Generate-DbContext"
+    },
+    {
+      "url": "/doxakis/Generic-SQL-Audit-Trail"
+    },
+    {
+      "url": "/doxakis/GitToCsv"
+    },
+    {
+      "url": "/doxakis/morejs"
+    },
+    {
+      "url": "/doxakis/Youtube-dl-WinGui"
+    }
+  ],
+  "worksfor": "",
+  "location": "Montréal",
+  "fullname": "Philip Doxakis",
+  "website": "https://doxakis.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/5766482?v=3&s=460",
+  "contribs": 352,
+  "orgs": [
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    }
+  ]
+}

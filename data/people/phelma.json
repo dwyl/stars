@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/phelma",
+  "img": "https://avatars3.githubusercontent.com/u/4057948?v=3&s=460",
+  "uid": 4057948,
+  "repos": 59,
+  "stars": 1200,
+  "followers": 21,
+  "following": 93,
+  "pinned": [
+    {
+      "url": "/phelma/generator-webpack-starter"
+    },
+    {
+      "url": "/phelma/google-image-suggestions"
+    },
+    {
+      "url": "/phelma/is-child"
+    },
+    {
+      "url": "/phelma/snake"
+    },
+    {
+      "url": "/miromannino/Justified-Gallery"
+    },
+    {
+      "url": "/phelma/random-user-agent"
+    }
+  ],
+  "worksfor": "@pimloc",
+  "location": "London",
+  "fullname": "Phil Helm",
+  "website": "http://phelm.co.uk",
+  "avatar": "https://avatars3.githubusercontent.com/u/4057948?v=3&s=460",
+  "contribs": 1038,
+  "orgs": [
+    {
+      "autographer": "https://avatars2.githubusercontent.com/u/783802?v=3&s=70"
+    },
+    {
+      "pimloc": "https://avatars0.githubusercontent.com/u/17049739?v=3&s=70"
+    }
+  ]
+}

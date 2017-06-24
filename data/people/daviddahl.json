@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/daviddahl",
+  "img": "https://avatars2.githubusercontent.com/u/23880?v=3&s=460",
+  "uid": 23880,
+  "repos": 74,
+  "stars": 686,
+  "followers": 55,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/daviddahl/domcrypt"
+    },
+    {
+      "url": "/daviddahl/web-crypto-ideas"
+    },
+    {
+      "url": "/daviddahl/rCache"
+    },
+    {
+      "url": "/daviddahl/moz-presentations"
+    },
+    {
+      "url": "/daviddahl/nulltxt"
+    },
+    {
+      "url": "/daviddahl/workspace"
+    }
+  ],
+  "worksfor": "",
+  "location": "The Southeastern Quadrant",
+  "fullname": "David Dahl",
+  "website": "http://nulltxt.se",
+  "avatar": "https://avatars2.githubusercontent.com/u/23880?v=3&s=460",
+  "contribs": 148,
+  "orgs": [
+    {
+      "Crypton": "https://avatars3.githubusercontent.com/u/9341818?v=3&s=70"
+    }
+  ]
+}

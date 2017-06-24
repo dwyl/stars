@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/nickleefly",
+  "img": "https://avatars2.githubusercontent.com/u/1024773?v=3&s=460",
+  "uid": 1024773,
+  "repos": 70,
+  "stars": 1200,
+  "followers": 44,
+  "following": 225,
+  "pinned": [
+    {
+      "url": "/nickleefly/swipe"
+    },
+    {
+      "url": "/nickleefly/level-todo"
+    },
+    {
+      "url": "/nickleefly/node-lcm"
+    },
+    {
+      "url": "/nickleefly/modulename"
+    },
+    {
+      "url": "/dominictarr/npmd"
+    },
+    {
+      "url": "/kubernetes/kubernetes.github.io"
+    }
+  ],
+  "worksfor": "",
+  "location": "Shanghai",
+  "fullname": "Xiuyu Li",
+  "website": "http://nickleefly.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/1024773?v=3&s=460",
+  "contribs": 618,
+  "orgs": [
+    {
+      "apex": "https://avatars2.githubusercontent.com/u/10543471?v=3&s=70"
+    }
+  ]
+}

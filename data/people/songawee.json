@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/songawee",
+  "img": "https://avatars0.githubusercontent.com/u/434885?v=3&s=460",
+  "uid": 434885,
+  "repos": 78,
+  "stars": 40,
+  "followers": 30,
+  "following": 59,
+  "pinned": [
+    {
+      "url": "/songawee/px_to_rem"
+    },
+    {
+      "url": "/songawee/angular2_code_splitting"
+    },
+    {
+      "url": "/songawee/timer_queue"
+    },
+    {
+      "url": "/songawee/markov-chain"
+    },
+    {
+      "url": "/songawee/webpack_html5"
+    },
+    {
+      "url": "/songawee/webpack-entry-stats-plugin"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Dennis Johnson",
+  "website": "http://www.songawee.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/434885?v=3&s=460",
+  "contribs": 352,
+  "orgs": []
+}

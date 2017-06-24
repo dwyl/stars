@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/johnrjj",
+  "img": "https://avatars1.githubusercontent.com/u/1103963?v=3&s=460",
+  "uid": 1103963,
+  "repos": 27,
+  "stars": 1000,
+  "followers": 14,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/UltimateSoftware/ng6-cli"
+    },
+    {
+      "url": "/johnrjj/lambda-images"
+    },
+    {
+      "url": "/johnrjj/simple-token-auth-server"
+    },
+    {
+      "url": "/ActionableAgile/trello-to-analytics"
+    },
+    {
+      "url": "/johnrjj/audio-fingerprint"
+    },
+    {
+      "url": "/johnrjj/simple-reverse-proxy"
+    }
+  ],
+  "worksfor": "@UltimateSoftware",
+  "location": "Florida",
+  "fullname": "John Johnson",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1103963?v=3&s=460",
+  "contribs": 633,
+  "orgs": []
+}

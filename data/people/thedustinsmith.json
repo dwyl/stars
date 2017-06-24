@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/thedustinsmith",
+  "img": "https://avatars2.githubusercontent.com/u/1330308?v=3&s=460",
+  "uid": 1330308,
+  "repos": 32,
+  "stars": 44,
+  "followers": 24,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/thedustinsmith/Html5-Photobooth"
+    },
+    {
+      "url": "/thedustinsmith/nodezaic"
+    },
+    {
+      "url": "/thedustinsmith/Pretty-Diff"
+    },
+    {
+      "url": "/thedustinsmith/ParticleGenerator"
+    },
+    {
+      "url": "/thedustinsmith/metalsmith-test"
+    },
+    {
+      "url": "/thedustinsmith/spectrum"
+    }
+  ],
+  "worksfor": "Foliotek",
+  "location": "Columbia, MO",
+  "fullname": "Dustin Smith",
+  "website": "http://thedustinsmith.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1330308?v=3&s=460",
+  "contribs": 868,
+  "orgs": [
+    {
+      "Foliotek": "https://avatars2.githubusercontent.com/u/1324857?v=3&s=70"
+    }
+  ]
+}

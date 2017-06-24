@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/fdisotto",
+  "img": "https://avatars1.githubusercontent.com/u/3002528?v=3&s=460",
+  "uid": 3002528,
+  "repos": 21,
+  "stars": 691,
+  "followers": 33,
+  "following": 65,
+  "pinned": [
+    {
+      "url": "/fdisotto/SlimBlog"
+    },
+    {
+      "url": "/fdisotto/cac-api"
+    },
+    {
+      "url": "/fdisotto/partita-iva"
+    },
+    {
+      "url": "/fdisotto/slim-activerecord"
+    },
+    {
+      "url": "/fdisotto/4chan-dl"
+    },
+    {
+      "url": "/fdisotto/Project-Euler-Crystal-Lang"
+    }
+  ],
+  "worksfor": "IGV s.r.l.",
+  "location": "Lazio, Italy",
+  "fullname": "Fabio Di Sotto",
+  "website": "http://fdisotto.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/3002528?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

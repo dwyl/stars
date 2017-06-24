@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/dennisreimann",
+  "img": "https://avatars0.githubusercontent.com/u/886?v=3&s=460",
+  "uid": 886,
+  "repos": 61,
+  "stars": 1200,
+  "followers": 457,
+  "following": 77,
+  "pinned": [
+    {
+      "url": "/dennisreimann/ioctocat"
+    },
+    {
+      "url": "/dennisreimann/uiengine"
+    },
+    {
+      "url": "/dennisreimann/uiengine-theme-default"
+    },
+    {
+      "url": "/dennisreimann/gulp-mvb"
+    },
+    {
+      "url": "/dennisreimann/website"
+    },
+    {
+      "url": "/dennisreimann/gatling"
+    }
+  ],
+  "worksfor": "Software Manufacturer",
+  "location": "Bremen, Germany",
+  "fullname": "Dennis Reimann",
+  "website": "https://dennisreimann.de",
+  "avatar": "https://avatars0.githubusercontent.com/u/886?v=3&s=460",
+  "contribs": 756,
+  "orgs": [
+    {
+      "openid": "https://avatars0.githubusercontent.com/u/71971?v=3&s=70"
+    },
+    {
+      "thechangelog": "https://avatars3.githubusercontent.com/u/161466?v=3&s=70"
+    },
+    {
+      "appfertigung": "https://avatars0.githubusercontent.com/u/603127?v=3&s=70"
+    },
+    {
+      "iOctocat": "https://avatars1.githubusercontent.com/u/835214?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

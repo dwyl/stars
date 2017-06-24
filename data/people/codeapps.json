@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/codeapps",
+  "img": "https://avatars0.githubusercontent.com/u/9279255?v=3&s=460",
+  "uid": 9279255,
+  "repos": 13,
+  "stars": 1700,
+  "followers": 64,
+  "following": 384,
+  "pinned": [
+    {
+      "url": "/codeapps/CS50"
+    },
+    {
+      "url": "/codeapps/HackerRank"
+    },
+    {
+      "url": "/codeapps/RhinoSchool"
+    },
+    {
+      "url": "/codeapps/NodeSchool"
+    },
+    {
+      "url": "/codeapps/Pythonista"
+    },
+    {
+      "url": "/codeapps/Inventario"
+    }
+  ],
+  "worksfor": "CODEAPPS",
+  "location": "Colombia",
+  "fullname": "XYZ",
+  "website": "https://codeapps.co",
+  "avatar": "https://avatars0.githubusercontent.com/u/9279255?v=3&s=460",
+  "contribs": 455,
+  "orgs": []
+}

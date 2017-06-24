@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/Mitica",
+  "img": "https://avatars0.githubusercontent.com/u/1456557?v=3&s=460",
+  "uid": 1456557,
+  "repos": 41,
+  "stars": 491,
+  "followers": 6,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/Mitica/html-explorer"
+    },
+    {
+      "url": "/Mitica/quote-parser-js"
+    },
+    {
+      "url": "/Mitica/ascrape-js"
+    },
+    {
+      "url": "/Mitica/urlset"
+    },
+    {
+      "url": "/Mitica/public-holidays-js"
+    },
+    {
+      "url": "/Mitica/atonic"
+    }
+  ],
+  "worksfor": "",
+  "location": "Chisinau",
+  "fullname": "Dumitru Cantea",
+  "website": "http://www.ournet.ro",
+  "avatar": "https://avatars0.githubusercontent.com/u/1456557?v=3&s=460",
+  "contribs": 897,
+  "orgs": [
+    {
+      "Ournet": "https://avatars1.githubusercontent.com/u/1784640?v=3&s=70"
+    },
+    {
+      "entipic": "https://avatars1.githubusercontent.com/u/12980240?v=3&s=70"
+    },
+    {
+      "entitizer": "https://avatars1.githubusercontent.com/u/14301622?v=3&s=70"
+    }
+  ]
+}

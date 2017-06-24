@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/karlas",
+  "img": "https://avatars2.githubusercontent.com/u/1649940?v=3&s=460",
+  "uid": 1649940,
+  "repos": 15,
+  "stars": 111,
+  "followers": 6,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/karlas/uz-airlines"
+    },
+    {
+      "url": "/karlas/free-programming-books"
+    },
+    {
+      "url": "/karlas/d3-jasmine-test"
+    },
+    {
+      "url": "/karlas/karlas.github.io"
+    },
+    {
+      "url": "/karlas/webpack-tests"
+    },
+    {
+      "url": "/karlas/uz-taller-webpack"
+    }
+  ],
+  "worksfor": "",
+  "location": "Barcelona, Spain",
+  "fullname": "Carles",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1649940?v=3&s=460",
+  "contribs": 13,
+  "orgs": []
+}

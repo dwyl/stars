@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/SuperHaker",
+  "img": "https://avatars2.githubusercontent.com/u/16765805?v=3&s=460",
+  "uid": 16765805,
+  "repos": 21,
+  "stars": 56,
+  "followers": 12,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/SuperHaker/Say-Hi"
+    },
+    {
+      "url": "/SuperHaker/Fictionary"
+    },
+    {
+      "url": "/SuperHaker/Attendo"
+    },
+    {
+      "url": "/SuperHaker/SuperHaker.github.io"
+    },
+    {
+      "url": "/SuperHaker/AUCExample"
+    },
+    {
+      "url": "/SuperHaker/CHExample"
+    }
+  ],
+  "worksfor": "",
+  "location": "New Delhi",
+  "fullname": "Amrit Singh",
+  "website": "http://singhamrit.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/16765805?v=3&s=460",
+  "contribs": 234,
+  "orgs": [
+    {
+      "duckduckgo": "https://avatars1.githubusercontent.com/u/342708?v=3&s=70"
+    },
+    {
+      "fossasia": "https://avatars1.githubusercontent.com/u/6295529?v=3&s=70"
+    },
+    {
+      "EpicGames": "https://avatars2.githubusercontent.com/u/6615685?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

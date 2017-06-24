@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/muraliv",
+  "img": "https://avatars2.githubusercontent.com/u/641673?v=3&s=460",
+  "uid": 641673,
+  "repos": 10,
+  "stars": 335,
+  "followers": 8,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/muraliv/mySite"
+    },
+    {
+      "url": "/muraliv/first_app"
+    },
+    {
+      "url": "/muraliv/demo_app"
+    },
+    {
+      "url": "/muraliv/number_cruncher"
+    },
+    {
+      "url": "/muraliv/Sinatra-TwitAuth"
+    },
+    {
+      "url": "/muraliv/Ticketee"
+    }
+  ],
+  "worksfor": "",
+  "location": "San Francisco, CA",
+  "fullname": "Murali Veeraiyan",
+  "website": "http://www.twitter.com/v_murali",
+  "avatar": "https://avatars2.githubusercontent.com/u/641673?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

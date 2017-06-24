@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/ihororlovskyi",
+  "img": "https://avatars1.githubusercontent.com/u/7969737?v=3&s=460",
+  "uid": 7969737,
+  "repos": 33,
+  "stars": 589,
+  "followers": 28,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/coriolan-ui/coriolan-ui.github.io"
+    },
+    {
+      "url": "/sentimony/sentimony-jekyll"
+    },
+    {
+      "url": "/sentimony/sentimony-nuxt"
+    },
+    {
+      "url": "/rooooster/nebo"
+    },
+    {
+      "url": "/gatsbyjs/gatsby"
+    },
+    {
+      "url": "/alxshelepenok/gatsby-starter-lumen"
+    }
+  ],
+  "worksfor": "Lucky Labs",
+  "location": "Kyiv, Ukraine",
+  "fullname": "Ihor Orlovskyi",
+  "website": "https://ihororlovskyi.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/7969737?v=3&s=460",
+  "contribs": 1262,
+  "orgs": [
+    {
+      "sentimony": "https://avatars0.githubusercontent.com/u/12779415?v=3&s=70"
+    },
+    {
+      "rooooster": "https://avatars1.githubusercontent.com/u/13560637?v=3&s=70"
+    },
+    {
+      "coriolan-ui": "https://avatars2.githubusercontent.com/u/16325057?v=3&s=70"
+    }
+  ]
+}

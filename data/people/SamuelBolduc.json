@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/SamuelBolduc",
+  "img": "https://avatars2.githubusercontent.com/u/4836669?v=3&s=460",
+  "uid": 4836669,
+  "repos": 24,
+  "stars": 7,
+  "followers": 3,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/SamuelBolduc/log4js-wrapper"
+    },
+    {
+      "url": "/SamuelBolduc/angular-bootstrap-chosen"
+    },
+    {
+      "url": "/SamuelBolduc/Leaflet.markercluster"
+    },
+    {
+      "url": "/SamuelBolduc/bower-chosen"
+    },
+    {
+      "url": "/SamuelBolduc/docs"
+    },
+    {
+      "url": "/SamuelBolduc/meteor-up"
+    }
+  ],
+  "worksfor": "",
+  "location": "Quebec, Canada",
+  "fullname": "Samuel Bolduc",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/4836669?v=3&s=460",
+  "contribs": 2228,
+  "orgs": [
+    {
+      "tylio": "https://avatars1.githubusercontent.com/u/12775653?v=3&s=70"
+    }
+  ]
+}

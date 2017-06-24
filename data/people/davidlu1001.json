@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/davidlu1001",
+  "img": "https://avatars2.githubusercontent.com/u/1622825?v=3&s=460",
+  "uid": 1622825,
+  "repos": 34,
+  "stars": 1400,
+  "followers": 13,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/davidlu1001/docker-rabbitmq-cluster-ha"
+    },
+    {
+      "url": "/davidlu1001/cloudera_bootcamp"
+    },
+    {
+      "url": "/davidlu1001/ruby_demo"
+    },
+    {
+      "url": "/davidlu1001/davidlu1001.github.com"
+    },
+    {
+      "url": "/davidlu1001/k-vim"
+    },
+    {
+      "url": "/davidlu1001/docker-alpine"
+    }
+  ],
+  "worksfor": "Qrious(Spark Ventures), Tencent Inc.",
+  "location": "Auckland, New Zealand (Shenzhen, China)",
+  "fullname": "David Lu",
+  "website": "http://davidlu1001.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/1622825?v=3&s=460",
+  "contribs": 110,
+  "orgs": []
+}

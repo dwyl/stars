@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/markheath",
+  "img": "https://avatars2.githubusercontent.com/u/147668?v=3&s=460",
+  "uid": 147668,
+  "repos": 26,
+  "stars": 307,
+  "followers": 60,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/markheath/azure-functions-links"
+    },
+    {
+      "url": "/markheath/typescript-tetris"
+    },
+    {
+      "url": "/markheath/advent-of-code-2016"
+    },
+    {
+      "url": "/markheath/func-todo-backend"
+    },
+    {
+      "url": "/markheath/pretzel"
+    },
+    {
+      "url": "/markheath/DownmarkerWPF"
+    }
+  ],
+  "worksfor": "www.nice.com",
+  "location": "Southampton, UK",
+  "fullname": "Mark Heath",
+  "website": "http://markheath.net",
+  "avatar": "https://avatars2.githubusercontent.com/u/147668?v=3&s=460",
+  "contribs": 236,
+  "orgs": []
+}

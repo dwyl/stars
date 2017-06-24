@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/mlequain",
+  "img": "https://avatars3.githubusercontent.com/u/4205711?v=3&s=460",
+  "uid": 4205711,
+  "repos": 3,
+  "stars": 12,
+  "followers": 3,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/mlequain/riot-api-client"
+    },
+    {
+      "url": "/mlequain/matchmaking"
+    },
+    {
+      "url": "/mlequain/mongodb-core"
+    }
+  ],
+  "worksfor": "Adotmob",
+  "location": "France",
+  "fullname": "Maxime Lequain",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/4205711?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

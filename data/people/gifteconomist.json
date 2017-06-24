@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/gifteconomist",
+  "img": "https://avatars1.githubusercontent.com/u/13240942?v=3&s=460",
+  "uid": 13240942,
+  "repos": 12,
+  "stars": 49,
+  "followers": 5,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/gifteconomist/color-adjust"
+    },
+    {
+      "url": "/gifteconomist/webpack-boilerplate"
+    },
+    {
+      "url": "/gifteconomist/routine"
+    },
+    {
+      "url": "/gifteconomist/gulp-boilerplate"
+    },
+    {
+      "url": "/gifteconomist/meme-inversion"
+    },
+    {
+      "url": "/gifteconomist/column-grid"
+    }
+  ],
+  "worksfor": "",
+  "location": "NYC",
+  "fullname": "Grace Poetzinger",
+  "website": "http://codepen.io/gifteconomist/",
+  "avatar": "https://avatars1.githubusercontent.com/u/13240942?v=3&s=460",
+  "contribs": 169,
+  "orgs": []
+}

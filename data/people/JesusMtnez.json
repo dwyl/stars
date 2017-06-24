@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/JesusMtnez",
+  "img": "https://avatars1.githubusercontent.com/u/8639179?v=3&s=460",
+  "uid": 8639179,
+  "repos": 10,
+  "stars": 542,
+  "followers": 20,
+  "following": 12,
+  "pinned": [
+    {
+      "url": "/JesusMtnez/dotfiles"
+    },
+    {
+      "url": "/JesusMtnez/emacs.d"
+    },
+    {
+      "url": "/JesusMtnez/jesusmtnez.gitlab.io"
+    }
+  ],
+  "worksfor": "@Stratio",
+  "location": "Madrid",
+  "fullname": "Jesús Martínez",
+  "website": "https://jesusmtnez.gitlab.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/8639179?v=3&s=460",
+  "contribs": 539,
+  "orgs": [
+    {
+      "Stratio": "https://avatars3.githubusercontent.com/u/5228027?v=3&s=70"
+    },
+    {
+      "EmacsMadrid": "https://avatars0.githubusercontent.com/u/5529203?v=3&s=70"
+    },
+    {
+      "Tankathon": "https://avatars0.githubusercontent.com/u/11816705?v=3&s=70"
+    },
+    {
+      "scala-for-the-people": "https://avatars0.githubusercontent.com/u/22770660?v=3&s=70"
+    }
+  ]
+}

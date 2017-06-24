@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/gokusenz",
+  "img": "https://avatars2.githubusercontent.com/u/3950611?v=3&s=460",
+  "uid": 3950611,
+  "repos": 83,
+  "stars": 57,
+  "followers": 1,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/gokusenz/docker-robotframework"
+    },
+    {
+      "url": "/gokusenz/golang-example"
+    },
+    {
+      "url": "/gokusenz/nodejs-express-starter"
+    },
+    {
+      "url": "/gokusenz/react-js-starter-with-jest"
+    },
+    {
+      "url": "/gokusenz/react-native-use-expo"
+    },
+    {
+      "url": "/gokusenz/LINE"
+    }
+  ],
+  "worksfor": "LeafBox",
+  "location": "Thailand",
+  "fullname": "Nattawut Ruangvivattanaroj",
+  "website": "http://igokuz.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/3950611?v=3&s=460",
+  "contribs": 482,
+  "orgs": []
+}

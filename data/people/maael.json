@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/maael",
+  "img": "https://avatars1.githubusercontent.com/u/5610674?v=3&s=460",
+  "uid": 5610674,
+  "repos": 56,
+  "stars": 715,
+  "followers": 22,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/maael/html-chain"
+    },
+    {
+      "url": "/maael/node-ann"
+    },
+    {
+      "url": "/maael/stock-market-prediction"
+    },
+    {
+      "url": "/maael/node-data-preprocessing"
+    },
+    {
+      "url": "/maael/node-genetic-algorithm"
+    }
+  ],
+  "worksfor": "",
+  "location": "Loughborough",
+  "fullname": "Matthew Elphick",
+  "website": "http://maael.github.io/",
+  "avatar": "https://avatars1.githubusercontent.com/u/5610674?v=3&s=460",
+  "contribs": 1093,
+  "orgs": [
+    {
+      "clocklimited": "https://avatars0.githubusercontent.com/u/1073732?v=3&s=70"
+    },
+    {
+      "Team04-": "https://avatars0.githubusercontent.com/u/6831158?v=3&s=70"
+    },
+    {
+      "CreativeSynergeticSolutions": "https://avatars2.githubusercontent.com/u/9196894?v=3&s=70"
+    },
+    {
+      "CompSciLabs": "https://avatars2.githubusercontent.com/u/13107050?v=3&s=70"
+    },
+    {
+      "aardvarks": "https://avatars3.githubusercontent.com/u/18484598?v=3&s=70"
+    },
+    {
+      "evoto-tech": "https://avatars0.githubusercontent.com/u/22915797?v=3&s=70"
+    },
+    {
+      "drinkingvideogames": "https://avatars3.githubusercontent.com/u/23156016?v=3&s=70"
+    }
+  ]
+}

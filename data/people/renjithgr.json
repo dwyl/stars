@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/renjithgr",
+  "img": "https://avatars2.githubusercontent.com/u/2574164?v=3&s=460",
+  "uid": 2574164,
+  "repos": 65,
+  "stars": 661,
+  "followers": 30,
+  "following": 110,
+  "pinned": [
+    {
+      "url": "/getgauge-contrib/gauge-js"
+    },
+    {
+      "url": "/jaketrent/html-webpack-template"
+    },
+    {
+      "url": "/egovernments/egov-services"
+    },
+    {
+      "url": "/kdn251/interviews"
+    },
+    {
+      "url": "/renjithgr/fluentSQL"
+    },
+    {
+      "url": "/buttercup/buttercup"
+    }
+  ],
+  "worksfor": "@thoughtworks",
+  "location": "Bengaluru, India",
+  "fullname": "Renjith G R",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2574164?v=3&s=460",
+  "contribs": 437,
+  "orgs": [
+    {
+      "thoughtworks": "https://avatars3.githubusercontent.com/u/18878?v=3&s=70"
+    },
+    {
+      "tw-blr-iot-ants": "https://avatars3.githubusercontent.com/u/15434941?v=3&s=70"
+    },
+    {
+      "docker-locker": "https://avatars2.githubusercontent.com/u/15941324?v=3&s=70"
+    },
+    {
+      "getgauge-contrib": "https://avatars0.githubusercontent.com/u/16697930?v=3&s=70"
+    },
+    {
+      "RuleEngineers": "https://avatars1.githubusercontent.com/u/16772377?v=3&s=70"
+    }
+  ]
+}

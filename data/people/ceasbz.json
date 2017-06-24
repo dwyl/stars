@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/ceasbz",
+  "img": "https://avatars2.githubusercontent.com/u/7065285?v=3&s=460",
+  "uid": 7065285,
+  "repos": 61,
+  "stars": 577,
+  "followers": 50,
+  "following": 127,
+  "pinned": [
+    {
+      "url": "/ceasbz/pagespeed-score-cli"
+    },
+    {
+      "url": "/Personare/react-storybook-decorator-github-corner"
+    },
+    {
+      "url": "/Personare/react-component-generator"
+    },
+    {
+      "url": "/ceasbz/mzsi"
+    },
+    {
+      "url": "/ceasbz/resume"
+    },
+    {
+      "url": "/ceasbz/mockirer"
+    }
+  ],
+  "worksfor": "@Personare",
+  "location": "Rio de Janeiro - Brazil",
+  "fullname": "Cauê Alves",
+  "website": "https://ceasbz.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/7065285?v=3&s=460",
+  "contribs": 1893,
+  "orgs": [
+    {
+      "Personare": "https://avatars3.githubusercontent.com/u/4820934?v=3&s=70"
+    },
+    {
+      "PersonareLabs": "https://avatars0.githubusercontent.com/u/21270246?v=3&s=70"
+    },
+    {
+      "36Five": "https://avatars2.githubusercontent.com/u/22901701?v=3&s=70"
+    }
+  ]
+}

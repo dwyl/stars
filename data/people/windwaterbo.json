@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/windwaterbo",
+  "img": "https://avatars1.githubusercontent.com/u/5296461?v=3&s=460",
+  "uid": 5296461,
+  "repos": 41,
+  "stars": 126,
+  "followers": 10,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/windwaterbo/nestedjson2csv"
+    },
+    {
+      "url": "/windwaterbo/structuring-models-with-sequelizejs"
+    },
+    {
+      "url": "/windwaterbo/OpenAuthInNodejs"
+    },
+    {
+      "url": "/windwaterbo/express3-mongodb-bootstrap-demo"
+    },
+    {
+      "url": "/windwaterbo/AngularJS-Learning"
+    },
+    {
+      "url": "/windwaterbo/angular-app"
+    }
+  ],
+  "worksfor": "CHOCOLABS",
+  "location": "Taipei , Taiwan",
+  "fullname": "Macy Kung",
+  "website": "https://www.linkedin.com/pub/macy-kung/95/37/938",
+  "avatar": "https://avatars1.githubusercontent.com/u/5296461?v=3&s=460",
+  "contribs": 20,
+  "orgs": []
+}

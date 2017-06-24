@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/cf-ssharma",
+  "img": "https://avatars1.githubusercontent.com/u/3997116?v=3&s=460",
+  "uid": 3997116,
+  "repos": 81,
+  "stars": 448,
+  "followers": 49,
+  "following": 56,
+  "pinned": [
+    {
+      "url": "/callemall/material-ui"
+    },
+    {
+      "url": "/cf-ssharma/awesome-courses"
+    },
+    {
+      "url": "/cf-ssharma/computer-science-in-javascript"
+    },
+    {
+      "url": "/cf-ssharma/extract-text-webpack-plugin"
+    },
+    {
+      "url": "/cf-ssharma/algorithms.js"
+    },
+    {
+      "url": "/cf-ssharma/Design-Patterns-in-Javascript"
+    }
+  ],
+  "worksfor": "@ContentFleet, @ONZU",
+  "location": "Hamburg, Germany",
+  "fullname": "Shobhit Sharma",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/3997116?v=3&s=460",
+  "contribs": 54,
+  "orgs": [
+    {
+      "ContentFleet": "https://avatars3.githubusercontent.com/u/3920149?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

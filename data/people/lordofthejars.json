@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/lordofthejars",
+  "img": "https://avatars0.githubusercontent.com/u/1517153?v=3&s=460",
+  "uid": 1517153,
+  "repos": 150,
+  "stars": 47,
+  "followers": 114,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/lordofthejars/nosql-unit"
+    },
+    {
+      "url": "/lordofthejars/starwars"
+    },
+    {
+      "url": "/lordofthejars/bool"
+    },
+    {
+      "url": "/lordofthejars/asciidoctor-markitup"
+    },
+    {
+      "url": "/lordofthejars/asciidoctorj-extensions"
+    },
+    {
+      "url": "/lordofthejars/continuous-documentation"
+    }
+  ],
+  "worksfor": "Red Hat, Inc.",
+  "location": "Barcelona",
+  "fullname": "Alex Soto",
+  "website": "http://www.lordofthejars.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1517153?v=3&s=460",
+  "contribs": 1124,
+  "orgs": [
+    {
+      "arquillian": "https://avatars3.githubusercontent.com/u/330981?v=3&s=70"
+    },
+    {
+      "asciidoctor": "https://avatars2.githubusercontent.com/u/3137042?v=3&s=70"
+    }
+  ]
+}

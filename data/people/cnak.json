@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/cnak",
+  "img": "https://avatars0.githubusercontent.com/u/218601?v=3&s=460",
+  "uid": 218601,
+  "repos": 23,
+  "stars": 359,
+  "followers": 43,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/cnak/ttt_rack"
+    },
+    {
+      "url": "/cnak/path_to_mastery"
+    },
+    {
+      "url": "/cnak/sakura-japanese-kanji"
+    },
+    {
+      "url": "/cnak/ttt_clojure"
+    },
+    {
+      "url": "/DashboardHub/Jin-Api"
+    },
+    {
+      "url": "/cnak/ruby_boilerplate"
+    }
+  ],
+  "worksfor": "",
+  "location": "London, United Kingdom",
+  "fullname": "Cedric Kisema",
+  "website": "http://cnak.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/218601?v=3&s=460",
+  "contribs": 593,
+  "orgs": [
+    {
+      "TransformCore": "https://avatars1.githubusercontent.com/u/3064052?v=3&s=70"
+    },
+    {
+      "learn-co-students": "https://avatars1.githubusercontent.com/u/8825476?v=3&s=70"
+    },
+    {
+      "DashboardHub": "https://avatars2.githubusercontent.com/u/11183711?v=3&s=70"
+    },
+    {
+      "CodeFirstGirls": "https://avatars2.githubusercontent.com/u/13980817?v=3&s=70"
+    },
+    {
+      "WeRockTech": "https://avatars3.githubusercontent.com/u/18064402?v=3&s=70"
+    },
+    {
+      "HackBrexit": "https://avatars0.githubusercontent.com/u/20437526?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/bcooke",
+  "img": "https://avatars3.githubusercontent.com/u/2591979?v=3&s=460",
+  "uid": 2591979,
+  "repos": 4,
+  "stars": 221,
+  "followers": 15,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/bcooke/bones"
+    },
+    {
+      "url": "/bcooke/js-clu-demo"
+    },
+    {
+      "url": "/bcooke/mock-sports-server"
+    },
+    {
+      "url": "/bcooke/django-redux-starter-kit"
+    }
+  ],
+  "worksfor": "Chalk Brackets",
+  "location": "Boston, MA",
+  "fullname": "Brett Cooke",
+  "website": "http://www.chalkbrackets.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/2591979?v=3&s=460",
+  "contribs": 346,
+  "orgs": []
+}

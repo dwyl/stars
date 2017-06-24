@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/ivanderbu2",
+  "img": "https://avatars0.githubusercontent.com/u/2388543?v=3&s=460",
+  "uid": 2388543,
+  "repos": 27,
+  "stars": 387,
+  "followers": 29,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/codingo-me/laravel-social-email-authentication"
+    },
+    {
+      "url": "/codingo-me/dropzone-laravel-image-upload"
+    },
+    {
+      "url": "/codingo-me/dropzoner"
+    },
+    {
+      "url": "/codingo-me/laravel-redis-cache"
+    },
+    {
+      "url": "/codingo-me/telegram-laravel"
+    },
+    {
+      "url": "/ivanderbu2/angular-redux"
+    }
+  ],
+  "worksfor": "Codingo LTD",
+  "location": "Montenegro",
+  "fullname": "Ivan Radunovic",
+  "website": "https://codingo.me",
+  "avatar": "https://avatars0.githubusercontent.com/u/2388543?v=3&s=460",
+  "contribs": 912,
+  "orgs": [
+    {
+      "KodirajMe": "https://avatars0.githubusercontent.com/u/18119378?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

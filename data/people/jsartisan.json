@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jsartisan",
+  "img": "https://avatars0.githubusercontent.com/u/6636360?v=3&s=460",
+  "uid": 6636360,
+  "repos": 9,
+  "stars": 55,
+  "followers": 6,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/jsartisan/shopkart-laravel"
+    },
+    {
+      "url": "/jsartisan/rotrJS"
+    },
+    {
+      "url": "/jsartisan/jsartisan-minimalistic-ui"
+    },
+    {
+      "url": "/jsartisan/Patterns"
+    },
+    {
+      "url": "/jsartisan/react-reusable-components"
+    },
+    {
+      "url": "/jsartisan/Canvas-Geometry"
+    }
+  ],
+  "worksfor": "JSArtisan",
+  "location": "India",
+  "fullname": "Pawan Kumar",
+  "website": "http://jsartisan.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/6636360?v=3&s=460",
+  "contribs": 9,
+  "orgs": []
+}

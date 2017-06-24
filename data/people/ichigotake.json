@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/ichigotake",
+  "img": "https://avatars2.githubusercontent.com/u/381483?v=3&s=460",
+  "uid": 381483,
+  "repos": 83,
+  "stars": 1300,
+  "followers": 82,
+  "following": 190,
+  "pinned": [
+    {
+      "url": "/ichigotake/Android-Yancha"
+    },
+    {
+      "url": "/ichigotake/Android-KnowHow"
+    },
+    {
+      "url": "/ichigotake/colorpicker"
+    },
+    {
+      "url": "/ichigotake/Mikuregator"
+    },
+    {
+      "url": "/ichigotake/gradle-maven-local-deployer"
+    },
+    {
+      "url": "/ichigotake/docker-mecab-psgi"
+    }
+  ],
+  "worksfor": "",
+  "location": "Tokyo",
+  "fullname": "ichigotake",
+  "website": "http://twitter.com/ichigotake",
+  "avatar": "https://avatars2.githubusercontent.com/u/381483?v=3&s=460",
+  "contribs": 2738,
+  "orgs": [
+    {
+      "nephia": "https://avatars1.githubusercontent.com/u/4746402?v=3&s=70"
+    },
+    {
+      "hachiojipm": "https://avatars2.githubusercontent.com/u/5406832?v=3&s=70"
+    }
+  ]
+}

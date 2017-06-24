@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/samkelleher",
+  "img": "https://avatars0.githubusercontent.com/u/277884?v=3&s=460",
+  "uid": 277884,
+  "repos": 9,
+  "stars": 449,
+  "followers": 12,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/samkelleher/cordova-plugin-applepay"
+    },
+    {
+      "url": "/samkelleher/P3ColorSpaceExperiments"
+    },
+    {
+      "url": "/samkelleher/toastr"
+    },
+    {
+      "url": "/samkelleher/BackboneGithubSampleApplication"
+    },
+    {
+      "url": "/samkelleher/localForage"
+    },
+    {
+      "url": "/samkelleher/AzureStorageAccountDownload"
+    }
+  ],
+  "worksfor": "",
+  "location": "London, United Kingdom",
+  "fullname": "Sam Kelleher",
+  "website": "https://samkelleher.com/",
+  "avatar": "https://avatars0.githubusercontent.com/u/277884?v=3&s=460",
+  "contribs": 5286,
+  "orgs": [],
+  "developerprogram": true
+}

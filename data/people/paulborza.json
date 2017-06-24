@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/paulborza",
+  "img": "https://avatars3.githubusercontent.com/u/282081?v=3&s=460",
+  "uid": 282081,
+  "repos": 4,
+  "stars": 96,
+  "followers": 4,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/paulborza/node-load-balancers"
+    },
+    {
+      "url": "/paulborza/phantomjs"
+    },
+    {
+      "url": "/paulborza/docker-ansible-role"
+    },
+    {
+      "url": "/paulborza/cyberpower-ansible-role"
+    }
+  ],
+  "worksfor": "",
+  "location": "Seattle",
+  "fullname": "Paul Borza",
+  "website": "https://borza.ro/",
+  "avatar": "https://avatars3.githubusercontent.com/u/282081?v=3&s=460",
+  "contribs": 181,
+  "orgs": []
+}

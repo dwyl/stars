@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/8enmann",
+  "img": "https://avatars2.githubusercontent.com/u/1021104?v=3&s=460",
+  "uid": 1021104,
+  "repos": 21,
+  "stars": 37,
+  "followers": 6,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/8enmann/webtendo"
+    },
+    {
+      "url": "/8enmann/midilc"
+    },
+    {
+      "url": "/8enmann/simple-scraper"
+    },
+    {
+      "url": "/8enmann/WebtendoClient"
+    }
+  ],
+  "worksfor": "@openai",
+  "location": "San Francisco",
+  "fullname": "Ben Mann",
+  "website": "https://8enmann.github.io/",
+  "avatar": "https://avatars2.githubusercontent.com/u/1021104?v=3&s=460",
+  "contribs": 613,
+  "orgs": []
+}

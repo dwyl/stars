@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/benmgreene",
+  "img": "https://avatars3.githubusercontent.com/u/96708?v=3&s=460",
+  "uid": 96708,
+  "repos": 34,
+  "stars": 264,
+  "followers": 5,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/benmgreene/meteor-jquery-sparklines"
+    },
+    {
+      "url": "/benmgreene/feedzirra"
+    },
+    {
+      "url": "/benmgreene/Guiders-JS"
+    },
+    {
+      "url": "/benmgreene/heroku-buildpack-meteorite"
+    },
+    {
+      "url": "/benmgreene/chosen-package"
+    },
+    {
+      "url": "/benmgreene/meteor-bootboxjs"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Ben M Greene",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/96708?v=3&s=460",
+  "contribs": 7,
+  "orgs": []
+}

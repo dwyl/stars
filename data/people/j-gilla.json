@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/j-gilla",
+  "img": "https://avatars1.githubusercontent.com/u/7110028?v=3&s=460",
+  "uid": 7110028,
+  "repos": 30,
+  "stars": 35,
+  "followers": 6,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/j-gilla/Mondrian-css"
+    },
+    {
+      "url": "/j-gilla/react-tutorial"
+    },
+    {
+      "url": "/j-gilla/react-randomquote"
+    },
+    {
+      "url": "/j-gilla/studiogibbles.github.io"
+    },
+    {
+      "url": "/j-gilla/katas-with-TDD"
+    },
+    {
+      "url": "/j-gilla/p5talk"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Jack Gilbert",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/7110028?v=3&s=460",
+  "contribs": 217,
+  "orgs": [
+    {
+      "northcoders": "https://avatars3.githubusercontent.com/u/16081355?v=3&s=70"
+    }
+  ]
+}

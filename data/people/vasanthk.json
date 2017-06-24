@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/vasanthk",
+  "img": "https://avatars3.githubusercontent.com/u/3537278?v=3&s=460",
+  "uid": 3537278,
+  "repos": 104,
+  "stars": 714,
+  "followers": 355,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/vasanthk/react-bits"
+    },
+    {
+      "url": "/vasanthk/js-bits"
+    },
+    {
+      "url": "/vasanthk/css-refresher-notes"
+    },
+    {
+      "url": "/vasanthk/async-javascript"
+    },
+    {
+      "url": "/vasanthk/react-es6-webpack-boilerplate"
+    },
+    {
+      "url": "/vasanthk/browser-rendering-optimization"
+    }
+  ],
+  "worksfor": "@walmartlabs",
+  "location": "San Francisco",
+  "fullname": "Vasa",
+  "website": "https://twitter.com/vasanth_k",
+  "avatar": "https://avatars3.githubusercontent.com/u/3537278?v=3&s=460",
+  "contribs": 676,
+  "orgs": [
+    {
+      "citrix-web": "https://avatars3.githubusercontent.com/u/11563110?v=3&s=70"
+    },
+    {
+      "javascript-patterns": "https://avatars2.githubusercontent.com/u/17950914?v=3&s=70"
+    }
+  ]
+}

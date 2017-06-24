@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/7rulnik",
+  "img": "https://avatars3.githubusercontent.com/u/5969049?v=3&s=460",
+  "uid": 5969049,
+  "repos": 31,
+  "stars": 1700,
+  "followers": 55,
+  "following": 140,
+  "pinned": [
+    {
+      "url": "/7rulnik/postcss-flexibility"
+    },
+    {
+      "url": "/react-boilerplate/react-boilerplate"
+    },
+    {
+      "url": "/7rulnik/7rulnik.github.io"
+    },
+    {
+      "url": "/ilyabirman/Likely"
+    }
+  ],
+  "worksfor": "@kupibilet-frontend",
+  "location": "St. Petersburg, Russia",
+  "fullname": "Valentin Semirulnik",
+  "website": "https://7rulnik.me/",
+  "avatar": "https://avatars3.githubusercontent.com/u/5969049?v=3&s=460",
+  "contribs": 262,
+  "orgs": [
+    {
+      "kupibilet": "https://avatars2.githubusercontent.com/u/2317702?v=3&s=70"
+    },
+    {
+      "kupibilet-frontend": "https://avatars2.githubusercontent.com/u/18614085?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

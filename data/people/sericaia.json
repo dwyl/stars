@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/sericaia",
+  "img": "https://avatars2.githubusercontent.com/u/1150553?v=3&s=460",
+  "uid": 1150553,
+  "repos": 61,
+  "stars": 218,
+  "followers": 88,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/sericaia/nes-chat"
+    },
+    {
+      "url": "/sericaia/redux-lunchtime"
+    },
+    {
+      "url": "/sericaia/react-msf-demos"
+    },
+    {
+      "url": "/sericaia/react-html-video"
+    },
+    {
+      "url": "/sericaia/require-lx-follower"
+    },
+    {
+      "url": "/sericaia/AVT---project"
+    }
+  ],
+  "worksfor": "YLD!",
+  "location": "Lisbon, Portugal",
+  "fullname": "Daniela Borges Matos de Carvalho",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1150553?v=3&s=460",
+  "contribs": 392,
+  "orgs": [
+    {
+      "hapijs": "https://avatars0.githubusercontent.com/u/3774533?v=3&s=70"
+    },
+    {
+      "require-lx": "https://avatars1.githubusercontent.com/u/4672751?v=3&s=70"
+    },
+    {
+      "gdglisbon": "https://avatars0.githubusercontent.com/u/6364937?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/tonydaly",
+  "img": "https://avatars3.githubusercontent.com/u/68354?v=3&s=460",
+  "uid": 68354,
+  "repos": 39,
+  "stars": 224,
+  "followers": 24,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/tonydaly/presentation-getting-things-done"
+    },
+    {
+      "url": "/tonydaly/state_machine-mongoid"
+    },
+    {
+      "url": "/tonydaly/appvertise"
+    },
+    {
+      "url": "/tonydaly/dotfiles"
+    },
+    {
+      "url": "/tonydaly/rspec-rails"
+    },
+    {
+      "url": "/tonydaly/Twilio-QnA"
+    }
+  ],
+  "worksfor": "Lostmy.name",
+  "location": "London",
+  "fullname": "Tony Daly",
+  "website": "http://mootpointer.co/",
+  "avatar": "https://avatars3.githubusercontent.com/u/68354?v=3&s=460",
+  "contribs": 1066,
+  "orgs": []
+}

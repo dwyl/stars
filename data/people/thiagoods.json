@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/thiagoods",
+  "img": "https://avatars2.githubusercontent.com/u/7052836?v=3&s=460",
+  "uid": 7052836,
+  "repos": 8,
+  "stars": 177,
+  "followers": 13,
+  "following": 48,
+  "pinned": [
+    {
+      "url": "/thiagoods/static-jade-boilerplate"
+    },
+    {
+      "url": "/thiagoods/atom-config"
+    },
+    {
+      "url": "/thiagoods/subl-config"
+    },
+    {
+      "url": "/thiagoods/react-github-battle"
+    },
+    {
+      "url": "/thiagoods/vscode-config"
+    },
+    {
+      "url": "/thiagoods/socket.io-benchmark"
+    }
+  ],
+  "worksfor": "Gazeus Games",
+  "location": "",
+  "fullname": "Thiago Oliveira",
+  "website": "http://thiagoods.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/7052836?v=3&s=460",
+  "contribs": 29,
+  "orgs": []
+}

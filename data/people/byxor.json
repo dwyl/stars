@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/byxor",
+  "img": "https://avatars3.githubusercontent.com/u/14977217?v=3&s=460",
+  "uid": 14977217,
+  "repos": 26,
+  "stars": 100,
+  "followers": 16,
+  "following": 25,
+  "pinned": [
+    {
+      "url": "/byxor/passflip"
+    },
+    {
+      "url": "/byxor/crem"
+    },
+    {
+      "url": "/byxor/pocketmock"
+    },
+    {
+      "url": "/byxor/tic-tac-tdd"
+    },
+    {
+      "url": "/byxor/rayblast-engine"
+    },
+    {
+      "url": "/byxor/VisualQuicksort"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Brandon Ibbotson",
+  "website": "http://www.showdesk.top",
+  "avatar": "https://avatars3.githubusercontent.com/u/14977217?v=3&s=460",
+  "contribs": 796,
+  "orgs": [
+    {
+      "CPSSD": "https://avatars1.githubusercontent.com/u/9842447?v=3&s=70"
+    }
+  ]
+}

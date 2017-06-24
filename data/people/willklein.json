@@ -1,0 +1,56 @@
+{
+  "url": "https://github.com/willklein",
+  "img": "https://avatars0.githubusercontent.com/u/1075861?v=3&s=460",
+  "uid": 1075861,
+  "repos": 56,
+  "stars": 744,
+  "followers": 103,
+  "following": 76,
+  "pinned": [
+    {
+      "url": "/willklein/dryer"
+    },
+    {
+      "url": "/willklein/github-markdown-menu"
+    },
+    {
+      "url": "/willklein/conferences"
+    },
+    {
+      "url": "/willklein/scaling-best-practices"
+    },
+    {
+      "url": "/willklein/eslint-plugin-boilerplate"
+    },
+    {
+      "url": "/willklein/how-to-react"
+    }
+  ],
+  "worksfor": "@Crownpeak",
+  "location": "Denver, CO",
+  "fullname": "Will Klein",
+  "website": "http://willkle.in",
+  "avatar": "https://avatars0.githubusercontent.com/u/1075861?v=3&s=460",
+  "contribs": 214,
+  "orgs": [
+    {
+      "facebook": "https://avatars0.githubusercontent.com/u/69631?v=3&s=70"
+    },
+    {
+      "nko3": "https://avatars0.githubusercontent.com/u/1879198?v=3&s=70"
+    },
+    {
+      "HartfordJS": "https://avatars2.githubusercontent.com/u/2308726?v=3&s=70"
+    },
+    {
+      "nko4": "https://avatars1.githubusercontent.com/u/3877928?v=3&s=70"
+    },
+    {
+      "Crownpeak": "https://avatars3.githubusercontent.com/u/9472007?v=3&s=70"
+    },
+    {
+      "Denver-Devs": "https://avatars0.githubusercontent.com/u/11462380?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

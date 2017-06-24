@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/nishtacular",
+  "img": "https://avatars3.githubusercontent.com/u/1744396?v=3&s=460",
+  "uid": 1744396,
+  "repos": 7,
+  "stars": 231,
+  "followers": 1,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/nishtacular/heroku-buildpack-nodejs-grunt"
+    },
+    {
+      "url": "/nishtacular/materializecss-test"
+    },
+    {
+      "url": "/nishtacular/lumx-test"
+    },
+    {
+      "url": "/nishtacular/material"
+    },
+    {
+      "url": "/nishtacular/createsend-node"
+    },
+    {
+      "url": "/nishtacular/hapi-level-sample"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Nishant Menon",
+  "website": "http://nishtacular.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1744396?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/taoeffect",
+  "img": "https://avatars1.githubusercontent.com/u/138706?v=3&s=460",
+  "uid": 138706,
+  "repos": 47,
+  "stars": 1200,
+  "followers": 176,
+  "following": 184,
+  "pinned": [
+    {
+      "url": "/okTurtles/dnschain"
+    },
+    {
+      "url": "/okTurtles/group-income-simple"
+    },
+    {
+      "url": "/taoeffect/TESetupAssistant"
+    },
+    {
+      "url": "/taoeffect/empress"
+    },
+    {
+      "url": "/taoeffect/dragonfly-newlisp"
+    },
+    {
+      "url": "/taoeffect/DelayedLauncher"
+    }
+  ],
+  "worksfor": "Tao Effect, okTurtles",
+  "location": "Bay Area",
+  "fullname": "Greg Slepak",
+  "website": "https://fixingtao.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/138706?v=3&s=460",
+  "contribs": 394,
+  "orgs": [
+    {
+      "numenta": "https://avatars2.githubusercontent.com/u/1039191?v=3&s=70"
+    },
+    {
+      "okTurtles": "https://avatars0.githubusercontent.com/u/6006150?v=3&s=70"
+    }
+  ]
+}

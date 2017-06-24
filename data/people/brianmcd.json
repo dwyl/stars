@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/brianmcd",
+  "img": "https://avatars3.githubusercontent.com/u/691451?v=3&s=460",
+  "uid": 691451,
+  "repos": 21,
+  "stars": 61,
+  "followers": 48,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/brianmcd/contextify"
+    },
+    {
+      "url": "/brianmcd/cloudbrowser"
+    },
+    {
+      "url": "/brianmcd/angular-test-helpers"
+    },
+    {
+      "url": "/brianmcd/cloudbrowser-html5"
+    },
+    {
+      "url": "/brianmcd/cloudbrowser-jsdom"
+    },
+    {
+      "url": "/brianmcd/contextify-benchmarks"
+    }
+  ],
+  "worksfor": "",
+  "location": "Richmond, VA",
+  "fullname": "Brian McDaniel",
+  "website": "http://brianmcd.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/691451?v=3&s=460",
+  "contribs": 1730,
+  "orgs": []
+}

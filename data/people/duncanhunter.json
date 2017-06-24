@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/duncanhunter",
+  "img": "https://avatars0.githubusercontent.com/u/2058227?v=3&s=460",
+  "uid": 2058227,
+  "repos": 27,
+  "stars": 108,
+  "followers": 42,
+  "following": 25,
+  "pinned": [
+    {
+      "url": "/duncanhunter/AngularJS-TypeScript-DevSuperPowers"
+    },
+    {
+      "url": "/duncanhunter/WebAPI2-Onion-Architecture-SSW-Style-with-DI-and-UOW"
+    },
+    {
+      "url": "/duncanhunter/Testing-Angular-2-Presentation-at-Angular-Hack-Day-Brisbane-2016"
+    },
+    {
+      "url": "/duncanhunter/PigOfTheMonth"
+    },
+    {
+      "url": "/duncanhunter/AngularJS-TypeScript-Demo-ng-sydney"
+    },
+    {
+      "url": "/duncanhunter/SSW-Simple-Starter-Angular2"
+    }
+  ],
+  "worksfor": "SSW",
+  "location": "Sydney",
+  "fullname": "Duncan Hunter",
+  "website": "http://duncanhunter.com.au",
+  "avatar": "https://avatars0.githubusercontent.com/u/2058227?v=3&s=460",
+  "contribs": 185,
+  "orgs": []
+}

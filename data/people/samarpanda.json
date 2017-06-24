@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/samarpanda",
+  "img": "https://avatars2.githubusercontent.com/u/802163?v=3&s=460",
+  "uid": 802163,
+  "repos": 104,
+  "stars": 850,
+  "followers": 46,
+  "following": 100,
+  "pinned": [
+    {
+      "url": "/samarpanda/google-search-trends"
+    },
+    {
+      "url": "/samarpanda/firstdjangoapp"
+    },
+    {
+      "url": "/samarpanda/functional-programming"
+    },
+    {
+      "url": "/samarpanda/quick-dashboard"
+    },
+    {
+      "url": "/samarpanda/falcor-express-demo"
+    },
+    {
+      "url": "/samarpanda/ul-test"
+    }
+  ],
+  "worksfor": "Quikr",
+  "location": "Bangalore",
+  "fullname": "Samar Panda",
+  "website": "http://samarpanda.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/802163?v=3&s=460",
+  "contribs": 52,
+  "orgs": []
+}

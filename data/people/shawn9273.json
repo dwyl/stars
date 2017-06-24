@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/shawn9273",
+  "img": "https://avatars3.githubusercontent.com/u/3931362?v=3&s=460",
+  "uid": 3931362,
+  "repos": 9,
+  "stars": 82,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/shawn9273/angular-pouchdb-example"
+    },
+    {
+      "url": "/shawn9273/nodejs-angular-testing"
+    },
+    {
+      "url": "/shawn9273/docker-seyren"
+    },
+    {
+      "url": "/shawn9273/seyren"
+    },
+    {
+      "url": "/shawn9273/mongoose-test"
+    },
+    {
+      "url": "/shawn9273/gocd-docker"
+    }
+  ],
+  "worksfor": "@opentable",
+  "location": "San Francisco, CA",
+  "fullname": "Shawn Ward",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3931362?v=3&s=460",
+  "contribs": 27,
+  "orgs": []
+}

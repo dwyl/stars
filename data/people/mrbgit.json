@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mrbgit",
+  "img": "https://avatars2.githubusercontent.com/u/10384982?v=3&s=460",
+  "uid": 10384982,
+  "repos": 50,
+  "stars": 86,
+  "followers": 5,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/mrbgit/event-site"
+    },
+    {
+      "url": "/clcuevas/pocket_outreach_backend"
+    },
+    {
+      "url": "/mrbgit/look-busy"
+    },
+    {
+      "url": "/mrbgit/turtle"
+    },
+    {
+      "url": "/OfficeDev/Interop-REST-Mail-Contacts-Calendar-Sample"
+    },
+    {
+      "url": "/mrbgit/image-search-widget"
+    }
+  ],
+  "worksfor": "iSoftStone",
+  "location": "Seattle, WA",
+  "fullname": "Mike Bowen",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/10384982?v=3&s=460",
+  "contribs": 1445,
+  "orgs": []
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/igormalyk",
+  "img": "https://avatars1.githubusercontent.com/u/1778636?v=3&s=460",
+  "uid": 1778636,
+  "repos": 3,
+  "stars": 67,
+  "followers": 9,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/igormalyk/dotfiles"
+    },
+    {
+      "url": "/igormalyk/ng-grid"
+    },
+    {
+      "url": "/igormalyk/docker-dev-env"
+    }
+  ],
+  "worksfor": "AdStream",
+  "location": "London",
+  "fullname": "Igor Malyk",
+  "website": "http://igormalyk.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1778636?v=3&s=460",
+  "contribs": 10,
+  "orgs": []
+}

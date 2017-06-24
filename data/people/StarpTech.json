@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/StarpTech",
+  "img": "https://avatars1.githubusercontent.com/u/1764424?v=3&s=460",
+  "uid": 1764424,
+  "repos": 46,
+  "stars": 1200,
+  "followers": 29,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/hemerajs/hemera"
+    },
+    {
+      "url": "/StarpTech/golang-examples"
+    },
+    {
+      "url": "/StarpTech/GraphQL"
+    },
+    {
+      "url": "/StarpTech/c-functions-oop"
+    },
+    {
+      "url": "/StarpTech/Go-Type-System"
+    },
+    {
+      "url": "/StarpTech/chazy"
+    }
+  ],
+  "worksfor": "@netzkern",
+  "location": "germany",
+  "fullname": "Dustin Deus",
+  "website": "http://starptech.de/",
+  "avatar": "https://avatars1.githubusercontent.com/u/1764424?v=3&s=460",
+  "contribs": 1862,
+  "orgs": [
+    {
+      "hemerajs": "https://avatars3.githubusercontent.com/u/24270715?v=3&s=70"
+    }
+  ]
+}

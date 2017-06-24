@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/abiru",
+  "img": "https://avatars2.githubusercontent.com/u/60828?v=3&s=460",
+  "uid": 60828,
+  "repos": 14,
+  "stars": 80,
+  "followers": 2,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/abiru/tutorial"
+    },
+    {
+      "url": "/abiru/rendr"
+    },
+    {
+      "url": "/abiru/isomorphic-flux-boilerplate"
+    },
+    {
+      "url": "/abiru/node-express-mongoose"
+    },
+    {
+      "url": "/abiru/react-redux-universal-hot-example"
+    },
+    {
+      "url": "/abiru/universal-react"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "https://www.im-in.it",
+  "avatar": "https://avatars2.githubusercontent.com/u/60828?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/matbrady",
+  "img": "https://avatars1.githubusercontent.com/u/1770862?v=3&s=460",
+  "uid": 1770862,
+  "repos": 25,
+  "stars": 138,
+  "followers": 8,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/matbrady/img-placeholder-src"
+    },
+    {
+      "url": "/Threespot/frontline-sass"
+    },
+    {
+      "url": "/matbrady/matbrady.github.io"
+    },
+    {
+      "url": "/matbrady/TSM-alfred-vm-checkout"
+    },
+    {
+      "url": "/matbrady/environment"
+    }
+  ],
+  "worksfor": "Threespot",
+  "location": "Washington, DC",
+  "fullname": "Mat Brady",
+  "website": "http://matbrady.github.io/",
+  "avatar": "https://avatars1.githubusercontent.com/u/1770862?v=3&s=460",
+  "contribs": 1366,
+  "orgs": [
+    {
+      "Threespot": "https://avatars0.githubusercontent.com/u/370822?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/sedenardi",
+  "img": "https://avatars3.githubusercontent.com/u/4225973?v=3&s=460",
+  "uid": 4225973,
+  "repos": 45,
+  "stars": 230,
+  "followers": 19,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/sedenardi/node-streams"
+    },
+    {
+      "url": "/sedenardi/lambda-session-auth"
+    },
+    {
+      "url": "/sedenardi/node-nyc-bytes"
+    },
+    {
+      "url": "/sedenardi/festival-guide"
+    },
+    {
+      "url": "/sedenardi/node-stream-concat"
+    },
+    {
+      "url": "/sedenardi/vibevault"
+    }
+  ],
+  "worksfor": "",
+  "location": "New York City",
+  "fullname": "Sanders DeNardi",
+  "website": "http://www.sandersdenardi.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/4225973?v=3&s=460",
+  "contribs": 214,
+  "orgs": []
+}

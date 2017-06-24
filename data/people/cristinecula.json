@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/cristinecula",
+  "img": "https://avatars2.githubusercontent.com/u/710155?v=3&s=460",
+  "uid": 710155,
+  "repos": 36,
+  "stars": 131,
+  "followers": 6,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/cristinecula/Simple-RESS"
+    },
+    {
+      "url": "/cristinecula/jPlayer-shoutcast-test"
+    },
+    {
+      "url": "/cristinecula/migrations"
+    },
+    {
+      "url": "/cristinecula/idiomatic.js"
+    },
+    {
+      "url": "/cristinecula/wysihtml5"
+    },
+    {
+      "url": "/cristinecula/oauth-consumer"
+    }
+  ],
+  "worksfor": "@widgetic",
+  "location": "Iasi, Romania",
+  "fullname": "Cristian Necula",
+  "website": "https://twitter.com/cristinecula",
+  "avatar": "https://avatars2.githubusercontent.com/u/710155?v=3&s=460",
+  "contribs": 18,
+  "orgs": [
+    {
+      "vuzum": "https://avatars2.githubusercontent.com/u/296472?v=3&s=70"
+    }
+  ]
+}

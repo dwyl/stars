@@ -1,0 +1,82 @@
+{
+  "url": "https://github.com/bast",
+  "img": "https://avatars2.githubusercontent.com/u/5120679?v=3&s=460",
+  "uid": 5120679,
+  "repos": 95,
+  "stars": 193,
+  "followers": 51,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/coderefinery/autocmake"
+    },
+    {
+      "url": "/bast/cmake-example"
+    },
+    {
+      "url": "/bast/cicero"
+    },
+    {
+      "url": "/bast/runtest"
+    },
+    {
+      "url": "/dftlibs/numgrid"
+    },
+    {
+      "url": "/bast/pfunit-demo"
+    }
+  ],
+  "worksfor": "@uit-no @neicnordic",
+  "location": "Tromsø, Norway",
+  "fullname": "Radovan Bast",
+  "website": "http://bast.fr",
+  "avatar": "https://avatars2.githubusercontent.com/u/5120679?v=3&s=460",
+  "contribs": 4952,
+  "orgs": [
+    {
+      "swcarpentry": "https://avatars2.githubusercontent.com/u/2238358?v=3&s=70"
+    },
+    {
+      "pythonkurs": "https://avatars0.githubusercontent.com/u/3285228?v=3&s=70"
+    },
+    {
+      "biogeochemistry": "https://avatars3.githubusercontent.com/u/5542130?v=3&s=70"
+    },
+    {
+      "PCMSolver": "https://avatars3.githubusercontent.com/u/8494579?v=3&s=70"
+    },
+    {
+      "uit-no": "https://avatars3.githubusercontent.com/u/9962660?v=3&s=70"
+    },
+    {
+      "scisoft": "https://avatars1.githubusercontent.com/u/10146638?v=3&s=70"
+    },
+    {
+      "neicnordic": "https://avatars2.githubusercontent.com/u/12766841?v=3&s=70"
+    },
+    {
+      "Fortran-FOSS-Programmers": "https://avatars2.githubusercontent.com/u/12896661?v=3&s=70"
+    },
+    {
+      "thug": "https://avatars0.githubusercontent.com/u/14241841?v=3&s=70"
+    },
+    {
+      "dftlibs": "https://avatars1.githubusercontent.com/u/15213995?v=3&s=70"
+    },
+    {
+      "MRChemSoft": "https://avatars3.githubusercontent.com/u/16899707?v=3&s=70"
+    },
+    {
+      "coderefinery": "https://avatars1.githubusercontent.com/u/17353206?v=3&s=70"
+    },
+    {
+      "tromsofp": "https://avatars2.githubusercontent.com/u/19973853?v=3&s=70"
+    },
+    {
+      "qmcurrents": "https://avatars2.githubusercontent.com/u/24696654?v=3&s=70"
+    },
+    {
+      "dev-cafe": "https://avatars1.githubusercontent.com/u/26623609?v=3&s=70"
+    }
+  ]
+}

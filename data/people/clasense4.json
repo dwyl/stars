@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/clasense4",
+  "img": "https://avatars2.githubusercontent.com/u/1615045?v=3&s=460",
+  "uid": 1615045,
+  "repos": 23,
+  "stars": 355,
+  "followers": 18,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/clasense4/scrapy-bhinneka-crawler"
+    },
+    {
+      "url": "/clasense4/scrapy-blog-crawler"
+    },
+    {
+      "url": "/clasense4/scrapy-kaskus-crawler"
+    },
+    {
+      "url": "/clasense4/scrapy-rakitan"
+    },
+    {
+      "url": "/clasense4/scrapy-dragonball"
+    },
+    {
+      "url": "/clasense4/propel_project_generator"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bandung Indonesia",
+  "fullname": "Fajri Abdillah",
+  "website": "https://fajri.my.id",
+  "avatar": "https://avatars2.githubusercontent.com/u/1615045?v=3&s=460",
+  "contribs": 79,
+  "orgs": []
+}

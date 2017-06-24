@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/codelero",
+  "img": "https://avatars2.githubusercontent.com/u/6253999?v=3&s=460",
+  "uid": 6253999,
+  "repos": 7,
+  "stars": 13,
+  "followers": 4,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/codelero/demo_app"
+    },
+    {
+      "url": "/codelero/donation-app"
+    },
+    {
+      "url": "/codelero/business-app"
+    },
+    {
+      "url": "/codelero/heroku-buildpack-nodejs-gulp"
+    },
+    {
+      "url": "/codelero/angular-grid-item-position"
+    },
+    {
+      "url": "/codelero/ionic-audio"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "David Caballero",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/6253999?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

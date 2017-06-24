@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/RootMale",
+  "img": "https://avatars2.githubusercontent.com/u/1263239?v=3&s=460",
+  "uid": 1263239,
+  "repos": 6,
+  "stars": 2400,
+  "followers": 25,
+  "following": 45,
+  "pinned": [
+    {
+      "url": "/RootMale/StatusBarPlugin"
+    },
+    {
+      "url": "/RootMale/Emma"
+    },
+    {
+      "url": "/RootMale/cordova-cli"
+    },
+    {
+      "url": "/RootMale/cordova-android"
+    },
+    {
+      "url": "/RootMale/cordova-app-hello-world"
+    },
+    {
+      "url": "/RootMale/backstack"
+    }
+  ],
+  "worksfor": "X1",
+  "location": "Харьков",
+  "fullname": "Вячеслав Шабельник",
+  "website": "http://it-dots.blogspot.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1263239?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

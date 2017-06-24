@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/b-rays",
+  "img": "https://avatars1.githubusercontent.com/u/6308027?v=3&s=460",
+  "uid": 6308027,
+  "repos": 4,
+  "stars": 37,
+  "followers": 9,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/b-rays/aurelia-openID"
+    },
+    {
+      "url": "/b-rays/web-scraper"
+    },
+    {
+      "url": "/b-rays/aws-lambda-express"
+    },
+    {
+      "url": "/murtyjones/kiwi_compute"
+    },
+    {
+      "url": "/nomad-javascript/google-maps-kml"
+    }
+  ],
+  "worksfor": "NomadJS",
+  "location": "Austin, TX, USA",
+  "fullname": "stevieg",
+  "website": "http://www.nomadjs.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/6308027?v=3&s=460",
+  "contribs": 272,
+  "orgs": []
+}

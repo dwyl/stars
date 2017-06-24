@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/textarcana",
+  "img": "https://avatars3.githubusercontent.com/u/29738?v=3&s=460",
+  "uid": 29738,
+  "repos": 81,
+  "stars": 346,
+  "followers": 62,
+  "following": 43,
+  "pinned": [
+    {
+      "url": "/textarcana/sparkler"
+    },
+    {
+      "url": "/textarcana/snippets"
+    },
+    {
+      "url": "/textarcana/jq-cookbook"
+    },
+    {
+      "url": "/textarcana/scrapers"
+    },
+    {
+      "url": "/textarcana/dot-gitconfig"
+    },
+    {
+      "url": "/textarcana/jenkins-wall"
+    }
+  ],
+  "worksfor": "Noah Sussman New Media, LLC",
+  "location": "New York, NY",
+  "fullname": "Noah Sussman",
+  "website": "http://falsehoodsabouttime.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/29738?v=3&s=460",
+  "contribs": 698,
+  "orgs": []
+}

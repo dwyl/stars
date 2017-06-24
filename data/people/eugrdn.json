@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/eugrdn",
+  "img": "https://avatars2.githubusercontent.com/u/16277984?v=3&s=460",
+  "uid": 16277984,
+  "repos": 17,
+  "stars": 7,
+  "followers": 5,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/eugrdn/web-purple"
+    },
+    {
+      "url": "/eugrdn/drag-and-drop-json-tree"
+    },
+    {
+      "url": "/eugrdn/react-redux-todolist-app"
+    },
+    {
+      "url": "/eugrdn/payment-form-app"
+    }
+  ],
+  "worksfor": "EPAM Systems",
+  "location": "Russia",
+  "fullname": "Eugene Rodin",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/16277984?v=3&s=460",
+  "contribs": 290,
+  "orgs": []
+}

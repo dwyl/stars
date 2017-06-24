@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/mmwtsn",
+  "img": "https://avatars2.githubusercontent.com/u/1479130?v=3&s=460",
+  "uid": 1479130,
+  "repos": 55,
+  "stars": 163,
+  "followers": 15,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/mmwtsn/dot-rc"
+    },
+    {
+      "url": "/mmwtsn/hipchat-emotodex"
+    },
+    {
+      "url": "/mmwtsn/mmwtsn"
+    },
+    {
+      "url": "/mmwtsn/static-boilerplate"
+    },
+    {
+      "url": "/mmwtsn/standups-cli"
+    },
+    {
+      "url": "/mmwtsn/cmote"
+    }
+  ],
+  "worksfor": "ATTN:",
+  "location": "New York City",
+  "fullname": "M. Maxwell Watson",
+  "website": "https://mmwtsn.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/1479130?v=3&s=460",
+  "contribs": 1462,
+  "orgs": [
+    {
+      "attn": "https://avatars3.githubusercontent.com/u/7901489?v=3&s=70"
+    },
+    {
+      "morgantown": "https://avatars1.githubusercontent.com/u/9031553?v=3&s=70"
+    }
+  ]
+}

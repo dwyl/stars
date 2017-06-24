@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/brydavis",
+  "img": "https://avatars3.githubusercontent.com/u/11343762?v=3&s=460",
+  "uid": 11343762,
+  "repos": 59,
+  "stars": 492,
+  "followers": 31,
+  "following": 178,
+  "pinned": [
+    {
+      "url": "/brydavis/dates"
+    },
+    {
+      "url": "/brydavis/analytics_for_wonks"
+    },
+    {
+      "url": "/brydavis/names"
+    },
+    {
+      "url": "/brydavis/botus"
+    },
+    {
+      "url": "/brydavis/yafin"
+    },
+    {
+      "url": "/brydavis/playground"
+    }
+  ],
+  "worksfor": "",
+  "location": "Seattle, WA",
+  "fullname": "Bryan Davis",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/11343762?v=3&s=460",
+  "contribs": 73,
+  "orgs": [
+    {
+      "openwonk": "https://avatars1.githubusercontent.com/u/7064682?v=3&s=70"
+    }
+  ]
+}

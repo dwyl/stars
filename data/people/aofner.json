@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/aofner",
+  "img": "https://avatars2.githubusercontent.com/u/98946?v=3&s=460",
+  "uid": 98946,
+  "repos": 21,
+  "stars": 1100,
+  "followers": 9,
+  "following": 52,
+  "pinned": [
+    {
+      "url": "/aofner/gwt-site"
+    },
+    {
+      "url": "/aofner/errai.github.com"
+    },
+    {
+      "url": "/aofner/errai-ui-demo-minimal"
+    },
+    {
+      "url": "/aofner/pocs"
+    },
+    {
+      "url": "/aofner/gwt-polymer-todo-list"
+    },
+    {
+      "url": "/aofner/AngularGwtExample"
+    }
+  ],
+  "worksfor": "",
+  "location": "Linz, Austria",
+  "fullname": "Andreas Ofner",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/98946?v=3&s=460",
+  "contribs": 276,
+  "orgs": [
+    {
+      "quasipartikel": "https://avatars3.githubusercontent.com/u/336853?v=3&s=70"
+    }
+  ]
+}

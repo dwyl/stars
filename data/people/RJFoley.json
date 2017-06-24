@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/RJFoley",
+  "img": "https://avatars2.githubusercontent.com/u/3512824?v=3&s=460",
+  "uid": 3512824,
+  "repos": 3,
+  "stars": 36,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/RJFoley/cisco-juniper-mass-config-push"
+    },
+    {
+      "url": "/RJFoley/cisco-to-juniper-interface-parsing"
+    },
+    {
+      "url": "/RJFoley/cloudflare_dns_update"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Ryan Foley",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/3512824?v=3&s=460",
+  "contribs": 8,
+  "orgs": []
+}

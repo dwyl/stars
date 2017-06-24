@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/taichi",
+  "img": "https://avatars2.githubusercontent.com/u/66100?v=3&s=460",
+  "uid": 66100,
+  "repos": 91,
+  "stars": 4900,
+  "followers": 172,
+  "following": 168,
+  "pinned": [
+    {
+      "url": "/taichi/grunt-istanbul"
+    },
+    {
+      "url": "/taichi/siden"
+    },
+    {
+      "url": "/taichi/ci-yarn-upgrade"
+    },
+    {
+      "url": "/taichi/js-boilerplate"
+    },
+    {
+      "url": "/taichi/umlbot"
+    },
+    {
+      "url": "/taichi/koshinuke"
+    }
+  ],
+  "worksfor": "",
+  "location": "Tokyo/Japan",
+  "fullname": "SATO taichi",
+  "website": "http://twitter.com/ryushi",
+  "avatar": "https://avatars2.githubusercontent.com/u/66100?v=3&s=460",
+  "contribs": 424,
+  "orgs": [
+    {
+      "koshinuke": "https://avatars1.githubusercontent.com/u/1152536?v=3&s=70"
+    },
+    {
+      "java-ja": "https://avatars2.githubusercontent.com/u/1578740?v=3&s=70"
+    },
+    {
+      "karma-runner": "https://avatars1.githubusercontent.com/u/3284117?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

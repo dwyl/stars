@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/thomasdegry",
+  "img": "https://avatars2.githubusercontent.com/u/2844217?v=3&s=460",
+  "uid": 2844217,
+  "repos": 31,
+  "stars": 438,
+  "followers": 19,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/thomasdegry/maiv-site"
+    },
+    {
+      "url": "/thomasdegry/Facebook-Pop-Introduction"
+    },
+    {
+      "url": "/thomasdegry/downloadify"
+    },
+    {
+      "url": "/thomasdegry/devine-bootstrap"
+    },
+    {
+      "url": "/thomasdegry/maiv-app"
+    },
+    {
+      "url": "/thomasdegry/maiv-api"
+    }
+  ],
+  "worksfor": "@istrategylabs",
+  "location": "Washington DC",
+  "fullname": "Thomas Degry",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2844217?v=3&s=460",
+  "contribs": 1601,
+  "orgs": [
+    {
+      "istrategylabs": "https://avatars3.githubusercontent.com/u/607333?v=3&s=70"
+    },
+    {
+      "ga-students": "https://avatars2.githubusercontent.com/u/5048067?v=3&s=70"
+    }
+  ]
+}

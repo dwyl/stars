@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mtakac",
+  "img": "https://avatars2.githubusercontent.com/u/13066543?v=3&s=460",
+  "uid": 13066543,
+  "repos": 9,
+  "stars": 17,
+  "followers": 1,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/mtakac/rails-react-redux-webpack-starter"
+    },
+    {
+      "url": "/mtakac/courses"
+    },
+    {
+      "url": "/mtakac/samples"
+    },
+    {
+      "url": "/mtakac/axios"
+    },
+    {
+      "url": "/mtakac/datasciencecoursera"
+    },
+    {
+      "url": "/mtakac/datasharing"
+    }
+  ],
+  "worksfor": "Learn2Code",
+  "location": "Bratislava",
+  "fullname": "Marek Takac",
+  "website": "http://www.learn2code.sk",
+  "avatar": "https://avatars2.githubusercontent.com/u/13066543?v=3&s=460",
+  "contribs": 24,
+  "orgs": []
+}

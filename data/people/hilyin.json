@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/hilyin",
+  "img": "https://avatars1.githubusercontent.com/u/6288867?v=3&s=460",
+  "uid": 6288867,
+  "repos": 7,
+  "stars": 58,
+  "followers": 9,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/hilyin/check-url-list"
+    },
+    {
+      "url": "/hilyin/imgur-album-downloader"
+    },
+    {
+      "url": "/hilyin/css-compressor"
+    },
+    {
+      "url": "/hilyin/smf-ip-logger"
+    },
+    {
+      "url": "/hilyin/multi-select-to-input-w-suggestion"
+    },
+    {
+      "url": "/hilyin/group-code-review"
+    }
+  ],
+  "worksfor": "Midigator",
+  "location": "San Diego, California",
+  "fullname": "Graham Mickle",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/6288867?v=3&s=460",
+  "contribs": 677,
+  "orgs": []
+}

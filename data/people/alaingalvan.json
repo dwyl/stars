@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/alaingalvan",
+  "img": "https://avatars3.githubusercontent.com/u/2251123?v=3&s=460",
+  "uid": 2251123,
+  "repos": 26,
+  "stars": 902,
+  "followers": 54,
+  "following": 271,
+  "pinned": [
+    {
+      "url": "/hyperfuse/react-anime"
+    },
+    {
+      "url": "/OpenHID/code-vr"
+    },
+    {
+      "url": "/hyperfuse/coronal"
+    },
+    {
+      "url": "/alaingalvan/raw-vulkan"
+    },
+    {
+      "url": "/hyperfuse/pxdot"
+    },
+    {
+      "url": "/OpenHID/realtime-celestial-rendering"
+    }
+  ],
+  "worksfor": "@hyperfuse & @OpenHID",
+  "location": "Miami, United States",
+  "fullname": "Alain Galvan",
+  "website": "https://alain.xyz",
+  "avatar": "https://avatars3.githubusercontent.com/u/2251123?v=3&s=460",
+  "contribs": 1145,
+  "orgs": [
+    {
+      "OpenHID": "https://avatars3.githubusercontent.com/u/13066431?v=3&s=70"
+    },
+    {
+      "hyperfuse": "https://avatars1.githubusercontent.com/u/22921410?v=3&s=70"
+    }
+  ]
+}

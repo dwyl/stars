@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/chentsulin",
+  "img": "https://avatars0.githubusercontent.com/u/3382565?v=3&s=460",
+  "uid": 3382565,
+  "repos": 249,
+  "stars": 4000,
+  "followers": 586,
+  "following": 383,
+  "pinned": [
+    {
+      "url": "/chentsulin/electron-react-boilerplate"
+    },
+    {
+      "url": "/chentsulin/awesome-graphql"
+    },
+    {
+      "url": "/chentsulin/koa-graphql"
+    },
+    {
+      "url": "/reactjs/redux"
+    },
+    {
+      "url": "/graphql/express-graphql"
+    },
+    {
+      "url": "/chentsulin/react-native-counter-ios-android"
+    }
+  ],
+  "worksfor": "Yoctol Info",
+  "location": "Taipei, Taiwan",
+  "fullname": "C. T. Lin",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/3382565?v=3&s=460",
+  "contribs": 6602,
+  "orgs": [
+    {
+      "rubytaiwan": "https://avatars2.githubusercontent.com/u/584859?v=3&s=70"
+    },
+    {
+      "laravel-taiwan": "https://avatars1.githubusercontent.com/u/6195619?v=3&s=70"
+    },
+    {
+      "mo-group": "https://avatars1.githubusercontent.com/u/8422933?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "Yoctol": "https://avatars0.githubusercontent.com/u/10671553?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

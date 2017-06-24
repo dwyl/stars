@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/eljefedelrodeodeljefe",
+  "img": "https://avatars0.githubusercontent.com/u/3899684?v=3&s=460",
+  "uid": 3899684,
+  "repos": 110,
+  "stars": 333,
+  "followers": 35,
+  "following": 71,
+  "pinned": [
+    {
+      "url": "/nodejs/node"
+    },
+    {
+      "url": "/eljefedelrodeodeljefe/platform-tools"
+    },
+    {
+      "url": "/eljefedelrodeodeljefe/node-cpython"
+    },
+    {
+      "url": "/nodejs/nan"
+    },
+    {
+      "url": "/libuv/libuv"
+    },
+    {
+      "url": "/eljefedelrodeodeljefe/json-chop"
+    }
+  ],
+  "worksfor": "",
+  "location": "Berlin",
+  "fullname": "Robert Jefe Lindstädt",
+  "website": "http://jefe.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/3899684?v=3&s=460",
+  "contribs": 5157,
+  "orgs": [],
+  "developerprogram": true
+}

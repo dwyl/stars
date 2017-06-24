@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/xasos",
+  "img": "https://avatars3.githubusercontent.com/u/6235280?v=3&s=460",
+  "uid": 6235280,
+  "repos": 78,
+  "stars": 1000,
+  "followers": 126,
+  "following": 61,
+  "pinned": [
+    {
+      "url": "/xasos/Hackathon-Resources"
+    },
+    {
+      "url": "/xasos/twitch-plays-tinder"
+    },
+    {
+      "url": "/xasos/overcast-desktop"
+    },
+    {
+      "url": "/xasos/awesome-decentralized-papers"
+    },
+    {
+      "url": "/xasos/MeerkatAPI"
+    },
+    {
+      "url": "/xasos/ScandIn-Glass"
+    }
+  ],
+  "worksfor": "@ripple",
+  "location": "San Francisco, CA",
+  "fullname": "Niraj Pant",
+  "website": "http://niraj.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/6235280?v=3&s=460",
+  "contribs": 330,
+  "orgs": [
+    {
+      "ripple": "https://avatars1.githubusercontent.com/u/3165523?v=3&s=70"
+    },
+    {
+      "HackChi": "https://avatars1.githubusercontent.com/u/7748382?v=3&s=70"
+    },
+    {
+      "ShipBob": "https://avatars1.githubusercontent.com/u/10523807?v=3&s=70"
+    },
+    {
+      "crowdresearch": "https://avatars1.githubusercontent.com/u/11791223?v=3&s=70"
+    },
+    {
+      "The-Intern-Project": "https://avatars1.githubusercontent.com/u/18688245?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

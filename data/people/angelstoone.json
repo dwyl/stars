@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/angelstoone",
+  "img": "https://avatars2.githubusercontent.com/u/1269826?v=3&s=460",
+  "uid": 1269826,
+  "repos": 9,
+  "stars": 157,
+  "followers": 5,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/angelstoone/hapi-time"
+    },
+    {
+      "url": "/angelstoone/agenda"
+    },
+    {
+      "url": "/angelstoone/hapijs.com"
+    },
+    {
+      "url": "/angelstoone/moviedb"
+    },
+    {
+      "url": "/angelstoone/sequelize"
+    },
+    {
+      "url": "/angelstoone/redux"
+    }
+  ],
+  "worksfor": "",
+  "location": "Rome",
+  "fullname": "angelstoone",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1269826?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

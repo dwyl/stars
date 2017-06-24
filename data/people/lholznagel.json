@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/lholznagel",
+  "img": "https://avatars3.githubusercontent.com/u/4436411?v=3&s=460",
+  "uid": 4436411,
+  "repos": 10,
+  "stars": 217,
+  "followers": 8,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/lholznagel/fluid-validation"
+    },
+    {
+      "url": "/lholznagel/typescript-plugin-system-example"
+    },
+    {
+      "url": "/lholznagel/gacrux-lib-restify"
+    },
+    {
+      "url": "/lholznagel/gacrux-lib-healthcheck"
+    },
+    {
+      "url": "/lholznagel/gacrux-service-core"
+    },
+    {
+      "url": "/lholznagel/gacrux"
+    }
+  ],
+  "worksfor": "Bilfinger GreyLogix GmbH",
+  "location": "Flensburg, Germany",
+  "fullname": "Lars Holznagel",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/4436411?v=3&s=460",
+  "contribs": 1063,
+  "orgs": [
+    {
+      "inversify": "https://avatars3.githubusercontent.com/u/11887183?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/simonlindsay",
+  "img": "https://avatars2.githubusercontent.com/u/717655?v=3&s=460",
+  "uid": 717655,
+  "repos": 16,
+  "stars": 176,
+  "followers": 31,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/simonlindsay/grunt-localtunnel"
+    },
+    {
+      "url": "/simonlindsay/grunt-compass"
+    },
+    {
+      "url": "/simonlindsay/basis.css"
+    },
+    {
+      "url": "/simonlindsay/ui-router"
+    },
+    {
+      "url": "/simonlindsay/simonlindsay.github.io"
+    },
+    {
+      "url": "/simonlindsay/closeheat-demo"
+    }
+  ],
+  "worksfor": "ustwo",
+  "location": "New York, NY",
+  "fullname": "Simon Lindsay",
+  "website": "http://www.simonlindsay.co.nz",
+  "avatar": "https://avatars2.githubusercontent.com/u/717655?v=3&s=460",
+  "contribs": 49,
+  "orgs": [
+    {
+      "ustwo": "https://avatars0.githubusercontent.com/u/625384?v=3&s=70"
+    }
+  ]
+}

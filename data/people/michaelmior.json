@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/michaelmior",
+  "img": "https://avatars2.githubusercontent.com/u/82501?v=3&s=460",
+  "uid": 82501,
+  "repos": 125,
+  "stars": 4900,
+  "followers": 46,
+  "following": 56,
+  "pinned": [
+    {
+      "url": "/michaelmior/NoSE"
+    },
+    {
+      "url": "/michaelmior/dotfiles"
+    },
+    {
+      "url": "/michaelmior/mipper"
+    },
+    {
+      "url": "/michaelmior/pylinks"
+    },
+    {
+      "url": "/michaelmior/sfsql-proxy"
+    }
+  ],
+  "worksfor": "University of Waterloo",
+  "location": "Waterloo, Ontario, Canada",
+  "fullname": "Michael Mior",
+  "website": "https://michael.mior.ca",
+  "avatar": "https://avatars2.githubusercontent.com/u/82501?v=3&s=460",
+  "contribs": 1656,
+  "orgs": [
+    {
+      "apache": "https://avatars2.githubusercontent.com/u/47359?v=3&s=70"
+    },
+    {
+      "Strider-CD": "https://avatars0.githubusercontent.com/u/2199591?v=3&s=70"
+    },
+    {
+      "dsg-uwaterloo": "https://avatars3.githubusercontent.com/u/27695267?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

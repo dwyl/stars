@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/sebastianvera",
+  "img": "https://avatars0.githubusercontent.com/u/1817522?v=3&s=460",
+  "uid": 1817522,
+  "repos": 36,
+  "stars": 937,
+  "followers": 16,
+  "following": 53,
+  "pinned": [
+    {
+      "url": "/wisegrowth/wisebot-operator"
+    },
+    {
+      "url": "/wisegrowth/wisebot-core"
+    },
+    {
+      "url": "/sebastianvera/dotfiles"
+    },
+    {
+      "url": "/sebastianvera/web"
+    },
+    {
+      "url": "/wisegrowth/go-wisebot"
+    },
+    {
+      "url": "/wisegrowth/wg-logger"
+    }
+  ],
+  "worksfor": "@globant",
+  "location": "Santiago, Chile",
+  "fullname": "Sebastián Vera",
+  "website": "https://sebastianvera.github.io/web/",
+  "avatar": "https://avatars0.githubusercontent.com/u/1817522?v=3&s=460",
+  "contribs": 2096,
+  "orgs": [],
+  "developerprogram": true
+}

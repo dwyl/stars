@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/linslin",
+  "img": "https://avatars3.githubusercontent.com/u/6159031?v=3&s=460",
+  "uid": 6159031,
+  "repos": 21,
+  "stars": 183,
+  "followers": 40,
+  "following": 51,
+  "pinned": [
+    {
+      "url": "/linslin/Yii2-Curl"
+    },
+    {
+      "url": "/linslin/pagingSlider"
+    },
+    {
+      "url": "/linslin/angular-odm"
+    },
+    {
+      "url": "/linslin/grunt-jscpd-reporter"
+    },
+    {
+      "url": "/linslin/phploc-xmlToHtmlReport"
+    },
+    {
+      "url": "/linslin/hjs"
+    }
+  ],
+  "worksfor": "linslin.org UG | Codes and freedom",
+  "location": "Germany",
+  "fullname": "Nils Gajsek",
+  "website": "http://www.linslin.org",
+  "avatar": "https://avatars3.githubusercontent.com/u/6159031?v=3&s=460",
+  "contribs": 86,
+  "orgs": [
+    {
+      "SITEWINDER-Concepts": "https://avatars3.githubusercontent.com/u/10496306?v=3&s=70"
+    },
+    {
+      "linslinDOTorg": "https://avatars0.githubusercontent.com/u/15340207?v=3&s=70"
+    }
+  ]
+}

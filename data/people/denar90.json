@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/denar90",
+  "img": "https://avatars2.githubusercontent.com/u/6231516?v=3&s=460",
+  "uid": 6231516,
+  "repos": 64,
+  "stars": 466,
+  "followers": 21,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/denar90/brunch-with-marionettejs"
+    },
+    {
+      "url": "/paulirish/pwmetrics"
+    },
+    {
+      "url": "/ChromeDevTools/timeline-viewer"
+    },
+    {
+      "url": "/brunch/brunch"
+    },
+    {
+      "url": "/marionettejs/marionette-integrations"
+    },
+    {
+      "url": "/marionettejs/backbone.marionette"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ukraine",
+  "fullname": "Artem Denysov",
+  "website": "https://twitter.com/denar90_",
+  "avatar": "https://avatars2.githubusercontent.com/u/6231516?v=3&s=460",
+  "contribs": 857,
+  "orgs": [
+    {
+      "marionettejs": "https://avatars2.githubusercontent.com/u/2273169?v=3&s=70"
+    },
+    {
+      "maintainers": "https://avatars1.githubusercontent.com/u/25333538?v=3&s=70"
+    }
+  ]
+}

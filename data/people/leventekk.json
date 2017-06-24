@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/leventekk",
+  "img": "https://avatars1.githubusercontent.com/u/492152?v=3&s=460",
+  "uid": 492152,
+  "repos": 22,
+  "stars": 293,
+  "followers": 12,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/leventekk/normalize.sass"
+    },
+    {
+      "url": "/leventekk/routie"
+    },
+    {
+      "url": "/leventekk/perezify"
+    },
+    {
+      "url": "/leventekk/styleselect"
+    },
+    {
+      "url": "/leventekk/edm-guideline"
+    },
+    {
+      "url": "/leventekk/frontend-guideline"
+    }
+  ],
+  "worksfor": "@hellowearemito",
+  "location": "Budapest",
+  "fullname": "levente kiraly",
+  "website": "http://lkk.systems",
+  "avatar": "https://avatars1.githubusercontent.com/u/492152?v=3&s=460",
+  "contribs": 87,
+  "orgs": [
+    {
+      "hellowearemito": "https://avatars0.githubusercontent.com/u/5654149?v=3&s=70"
+    },
+    {
+      "momecode": "https://avatars2.githubusercontent.com/u/10980865?v=3&s=70"
+    },
+    {
+      "cssconfbp": "https://avatars2.githubusercontent.com/u/14869558?v=3&s=70"
+    }
+  ]
+}

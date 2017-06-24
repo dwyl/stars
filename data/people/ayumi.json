@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/ayumi",
+  "img": "https://avatars0.githubusercontent.com/u/521861?v=3&s=460",
+  "uid": 521861,
+  "repos": 35,
+  "stars": 243,
+  "followers": 62,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/brave/browser-laptop"
+    },
+    {
+      "url": "/brave/sync"
+    },
+    {
+      "url": "/elastic/elasticsearch"
+    },
+    {
+      "url": "/premailer/premailer"
+    }
+  ],
+  "worksfor": "@brave",
+  "location": "San Francisco",
+  "fullname": "ａｙｕｍｉ  ｙｕ",
+  "website": "https://www.ayumiyu.com/",
+  "avatar": "https://avatars0.githubusercontent.com/u/521861?v=3&s=460",
+  "contribs": 742,
+  "orgs": [
+    {
+      "brave": "https://avatars3.githubusercontent.com/u/12301619?v=3&s=70"
+    },
+    {
+      "AnomiNet": "https://avatars2.githubusercontent.com/u/13180382?v=3&s=70"
+    }
+  ]
+}

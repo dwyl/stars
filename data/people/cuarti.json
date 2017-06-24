@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/cuarti",
+  "img": "https://avatars2.githubusercontent.com/u/4343023?v=3&s=460",
+  "uid": 4343023,
+  "repos": 15,
+  "stars": 32,
+  "followers": 6,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/cuarti/agama"
+    },
+    {
+      "url": "/cuarti/boilerplate-typescript-react"
+    },
+    {
+      "url": "/cuarti/wide"
+    },
+    {
+      "url": "/cuarti/grunt-requirejs-injector"
+    },
+    {
+      "url": "/cuarti/badb"
+    },
+    {
+      "url": "/cuarti/badb_simple_example"
+    }
+  ],
+  "worksfor": "Travisy",
+  "location": "Barcelona, Spain",
+  "fullname": "Albert Cuartiella",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/4343023?v=3&s=460",
+  "contribs": 105,
+  "orgs": []
+}

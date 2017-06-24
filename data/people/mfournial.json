@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/mfournial",
+  "img": "https://avatars0.githubusercontent.com/u/23700334?v=3&s=460",
+  "uid": 23700334,
+  "repos": 10,
+  "stars": 7,
+  "followers": 6,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/mfournial/SpellChecker"
+    },
+    {
+      "url": "/ic-projects/wether"
+    },
+    {
+      "url": "/ic-projects/emojifier"
+    },
+    {
+      "url": "/QComputing/topic_public"
+    },
+    {
+      "url": "/mfournial/vimMac"
+    },
+    {
+      "url": "/mfournial/vimLinux"
+    }
+  ],
+  "worksfor": "",
+  "location": "London | United Kingdom",
+  "fullname": "Mike Fournial",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/23700334?v=3&s=460",
+  "contribs": 232,
+  "orgs": [
+    {
+      "ic-projects": "https://avatars2.githubusercontent.com/u/25403297?v=3&s=70"
+    }
+  ]
+}

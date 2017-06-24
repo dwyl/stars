@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/chrisbuttery",
+  "img": "https://avatars2.githubusercontent.com/u/121675?v=3&s=460",
+  "uid": 121675,
+  "repos": 148,
+  "stars": 1100,
+  "followers": 48,
+  "following": 169,
+  "pinned": [
+    {
+      "url": "/chrisbuttery/elm-github-user-repos"
+    },
+    {
+      "url": "/chrisbuttery/elm-scroll-progress"
+    },
+    {
+      "url": "/chrisbuttery/elm-subscriptions"
+    },
+    {
+      "url": "/chrisbuttery/slackm8"
+    },
+    {
+      "url": "/chrisbuttery/elm-simple-json-decoding"
+    },
+    {
+      "url": "/chrisbuttery/elm-convert-case"
+    }
+  ],
+  "worksfor": "@segmentio",
+  "location": "Newcastle, Australia",
+  "fullname": "Chris Buttery",
+  "website": "http://chrisbuttery.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/121675?v=3&s=460",
+  "contribs": 906,
+  "orgs": [],
+  "developerprogram": true
+}

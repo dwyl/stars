@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/sloansparger",
+  "img": "https://avatars1.githubusercontent.com/u/7104357?v=3&s=460",
+  "uid": 7104357,
+  "repos": 10,
+  "stars": 78,
+  "followers": 6,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/sloansparger/webpack-wordpress"
+    },
+    {
+      "url": "/sloansparger/react-workshop"
+    },
+    {
+      "url": "/sloansparger/laurenphotography"
+    },
+    {
+      "url": "/sloansparger/Todone-App"
+    },
+    {
+      "url": "/sloansparger/axios"
+    },
+    {
+      "url": "/sloansparger/knex-bookshelf-test"
+    }
+  ],
+  "worksfor": "Touch Titans",
+  "location": "Denton, Texas",
+  "fullname": "Sloan Sparger",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/7104357?v=3&s=460",
+  "contribs": 958,
+  "orgs": []
+}

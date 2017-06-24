@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/ivanbanov",
+  "img": "https://avatars2.githubusercontent.com/u/2953018?v=3&s=460",
+  "uid": 2953018,
+  "repos": 24,
+  "stars": 267,
+  "followers": 44,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/ivanbanov/PolygonJS"
+    },
+    {
+      "url": "/ivanbanov/pager"
+    },
+    {
+      "url": "/ivanbanov/customCheck"
+    },
+    {
+      "url": "/ivanbanov/jqueryPluginBoilerplate"
+    },
+    {
+      "url": "/ivanbanov/prefixLess"
+    },
+    {
+      "url": "/ivanbanov/js-the-right-way"
+    }
+  ],
+  "worksfor": "@loggi",
+  "location": "São Paulo",
+  "fullname": "Ivan Banov",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2953018?v=3&s=460",
+  "contribs": 2009,
+  "orgs": [
+    {
+      "nofreakz": "https://avatars1.githubusercontent.com/u/4554093?v=3&s=70"
+    }
+  ]
+}

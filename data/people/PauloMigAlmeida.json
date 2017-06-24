@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/PauloMigAlmeida",
+  "img": "https://avatars0.githubusercontent.com/u/1011868?v=3&s=460",
+  "uid": 1011868,
+  "repos": 43,
+  "stars": 104,
+  "followers": 31,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/PauloMigAlmeida/identicon"
+    },
+    {
+      "url": "/PauloMigAlmeida/cordova-plugin-tesseract-camera"
+    },
+    {
+      "url": "/PauloMigAlmeida/cuneiform"
+    },
+    {
+      "url": "/PauloMigAlmeida/Signals"
+    },
+    {
+      "url": "/PauloMigAlmeida/aws_lambda_cognito_apigateway_lecture"
+    },
+    {
+      "url": "/PauloMigAlmeida/sample-exponential-backoff"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Paulo Miguel Almeida",
+  "website": "http://blog.solutionsarchitect.guru",
+  "avatar": "https://avatars0.githubusercontent.com/u/1011868?v=3&s=460",
+  "contribs": 36,
+  "orgs": [
+    {
+      "nfscan": "https://avatars0.githubusercontent.com/u/11985638?v=3&s=70"
+    }
+  ]
+}

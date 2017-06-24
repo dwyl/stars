@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/petehouston",
+  "img": "https://avatars1.githubusercontent.com/u/9006720?v=3&s=460",
+  "uid": 9006720,
+  "repos": 230,
+  "stars": 5400,
+  "followers": 133,
+  "following": 69,
+  "pinned": [
+    {
+      "url": "/petehouston/laravel-deploy-on-shared-hosting"
+    },
+    {
+      "url": "/petehouston/laravel-docs-vn"
+    },
+    {
+      "url": "/petehouston/react-ui-framework"
+    },
+    {
+      "url": "/petehouston/vue-ui-framework"
+    },
+    {
+      "url": "/petehouston/auth-laravel-angular-jwt-satellizer"
+    },
+    {
+      "url": "/petehouston/laravel-tinymce-simple-imageupload"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Pete Houston",
+  "website": "http://petehouston.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/9006720?v=3&s=460",
+  "contribs": 330,
+  "orgs": [
+    {
+      "kodemate": "https://avatars1.githubusercontent.com/u/20220919?v=3&s=70"
+    }
+  ]
+}

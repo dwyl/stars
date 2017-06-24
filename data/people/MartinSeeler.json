@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/MartinSeeler",
+  "img": "https://avatars2.githubusercontent.com/u/1043838?v=3&s=460",
+  "uid": 1043838,
+  "repos": 56,
+  "stars": 2100,
+  "followers": 50,
+  "following": 57,
+  "pinned": [
+    {
+      "url": "/akka/akka"
+    },
+    {
+      "url": "/MartinSeeler/iterm2-material-design"
+    },
+    {
+      "url": "/knutwalker/typed-actors"
+    },
+    {
+      "url": "/MartinSeeler/auto-changelog-hook"
+    },
+    {
+      "url": "/MartinSeeler/dense-tick-file-format"
+    },
+    {
+      "url": "/Homebrew/legacy-homebrew"
+    }
+  ],
+  "worksfor": "Avantgarde Labs GmbH",
+  "location": "Dresden, Germany",
+  "fullname": "Martin Seeler",
+  "website": "http://www.martinseeler.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1043838?v=3&s=460",
+  "contribs": 220,
+  "orgs": [
+    {
+      "avantgarde-labs": "https://avatars3.githubusercontent.com/u/2162012?v=3&s=70"
+    },
+    {
+      "wdcmdresden": "https://avatars1.githubusercontent.com/u/2558740?v=3&s=70"
+    },
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    }
+  ]
+}

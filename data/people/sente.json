@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/sente",
+  "img": "https://avatars3.githubusercontent.com/u/96457?v=3&s=460",
+  "uid": 96457,
+  "repos": 70,
+  "stars": 608,
+  "followers": 129,
+  "following": 128,
+  "pinned": [
+    {
+      "url": "/open-learning-exchange/BeLL-Apps"
+    },
+    {
+      "url": "/sente/dotfiles"
+    },
+    {
+      "url": "/sente/references"
+    },
+    {
+      "url": "/sente/BeLL-Apps-runner"
+    },
+    {
+      "url": "/sente/websec-resources"
+    }
+  ],
+  "worksfor": "http://stuartpowers.com",
+  "location": "Cambridge, MA",
+  "fullname": "Stuart Powers",
+  "website": "https://github.com/sente",
+  "avatar": "https://avatars3.githubusercontent.com/u/96457?v=3&s=460",
+  "contribs": 318,
+  "orgs": [
+    {
+      "cartwheelweb": "https://avatars1.githubusercontent.com/u/619640?v=3&s=70"
+    },
+    {
+      "pythonclt": "https://avatars1.githubusercontent.com/u/714018?v=3&s=70"
+    },
+    {
+      "Tawlk": "https://avatars1.githubusercontent.com/u/901840?v=3&s=70"
+    },
+    {
+      "sente-org": "https://avatars0.githubusercontent.com/u/2457204?v=3&s=70"
+    },
+    {
+      "open-learning-exchange": "https://avatars3.githubusercontent.com/u/2736354?v=3&s=70"
+    },
+    {
+      "implode": "https://avatars3.githubusercontent.com/u/3527624?v=3&s=70"
+    },
+    {
+      "hashbang": "https://avatars2.githubusercontent.com/u/8587289?v=3&s=70"
+    }
+  ]
+}

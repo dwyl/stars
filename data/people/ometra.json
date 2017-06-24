@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ometra",
+  "img": "https://avatars2.githubusercontent.com/u/684450?v=3&s=460",
+  "uid": 684450,
+  "repos": 8,
+  "stars": 123,
+  "followers": 1,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/ometra/sh"
+    },
+    {
+      "url": "/ometra/obr-test-maps"
+    },
+    {
+      "url": "/ometra/jig-plugins"
+    },
+    {
+      "url": "/ometra/lxc"
+    },
+    {
+      "url": "/ometra/ansible-modules-core"
+    },
+    {
+      "url": "/ometra/go-sensu-client"
+    }
+  ],
+  "worksfor": "mc-media.com",
+  "location": "Poligny, France",
+  "fullname": "Olivier Metra",
+  "website": "http://www.mc-media.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/684450?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

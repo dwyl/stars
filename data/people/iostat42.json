@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/iostat42",
+  "img": "https://avatars3.githubusercontent.com/u/3670159?v=3&s=460",
+  "uid": 3670159,
+  "repos": 26,
+  "stars": 580,
+  "followers": 4,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/iostat42/hapi-radius"
+    },
+    {
+      "url": "/iostat42/mock-radius"
+    },
+    {
+      "url": "/iostat42/storey"
+    },
+    {
+      "url": "/iostat42/calibrate"
+    },
+    {
+      "url": "/iostat42/hapi-knex"
+    },
+    {
+      "url": "/iostat42/mail-api"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3670159?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

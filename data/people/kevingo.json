@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kevingo",
+  "img": "https://avatars2.githubusercontent.com/u/1113954?v=3&s=460",
+  "uid": 1113954,
+  "repos": 88,
+  "stars": 839,
+  "followers": 21,
+  "following": 112,
+  "pinned": [
+    {
+      "url": "/kevingo/the-little-go-book"
+    },
+    {
+      "url": "/kevingo/Go-Small-Docker-Image"
+    },
+    {
+      "url": "/kevingo/GoTestExample"
+    },
+    {
+      "url": "/kevingo/go-ptt"
+    },
+    {
+      "url": "/kevingo/blog"
+    },
+    {
+      "url": "/kevingo/bookmarks"
+    }
+  ],
+  "worksfor": "",
+  "location": "Taiwan",
+  "fullname": "kevingo",
+  "website": "https://twitter.com/kevingo",
+  "avatar": "https://avatars2.githubusercontent.com/u/1113954?v=3&s=460",
+  "contribs": 819,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/msumner91",
+  "img": "https://avatars2.githubusercontent.com/u/9221949?v=3&s=460",
+  "uid": 9221949,
+  "repos": 7,
+  "stars": 74,
+  "followers": 3,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/msumner91/FlinkCEP"
+    },
+    {
+      "url": "/msumner91/oryx"
+    },
+    {
+      "url": "/msumner91/akka-patterns"
+    },
+    {
+      "url": "/msumner91/drools"
+    },
+    {
+      "url": "/msumner91/scalacheck"
+    },
+    {
+      "url": "/msumner91/awesome-scala"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "Mark Sumner",
+  "website": "http://off-heap.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/9221949?v=3&s=460",
+  "contribs": 66,
+  "orgs": []
+}

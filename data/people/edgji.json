@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/edgji",
+  "img": "https://avatars2.githubusercontent.com/u/577351?v=3&s=460",
+  "uid": 577351,
+  "repos": 46,
+  "stars": 120,
+  "followers": 2,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/edgji/lumengular"
+    },
+    {
+      "url": "/edgji/cognito-firebase-utils"
+    },
+    {
+      "url": "/edgji/cloudkey-php"
+    },
+    {
+      "url": "/edgji/laravel-import-engine"
+    },
+    {
+      "url": "/edgji/loopback-passport-satellizer"
+    },
+    {
+      "url": "/edgji/rc-upload-s3"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/577351?v=3&s=460",
+  "contribs": 36,
+  "orgs": []
+}

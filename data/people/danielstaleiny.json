@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/danielstaleiny",
+  "img": "https://avatars3.githubusercontent.com/u/12045962?v=3&s=460",
+  "uid": 12045962,
+  "repos": 10,
+  "stars": 49,
+  "followers": 1,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/danielstaleiny/loopback-openshift-example"
+    },
+    {
+      "url": "/danielstaleiny/koa2-boilerplate"
+    },
+    {
+      "url": "/danielstaleiny/mongoosastic"
+    },
+    {
+      "url": "/danielstaleiny/cronjob"
+    },
+    {
+      "url": "/danielstaleiny/facebook-messenger"
+    },
+    {
+      "url": "/danielstaleiny/me"
+    }
+  ],
+  "worksfor": "",
+  "location": "Copenhagen, Denmark",
+  "fullname": "Daniel Rafaj",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/12045962?v=3&s=460",
+  "contribs": 650,
+  "orgs": []
+}

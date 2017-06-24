@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/nateGeorge",
+  "img": "https://avatars3.githubusercontent.com/u/10804060?v=3&s=460",
+  "uid": 10804060,
+  "repos": 170,
+  "stars": 425,
+  "followers": 15,
+  "following": 38,
+  "pinned": [
+    {
+      "url": "/pandas-dev/pandas"
+    },
+    {
+      "url": "/nateGeorge/esp8266-send-thingspeak"
+    },
+    {
+      "url": "/nateGeorge/ESP-8266-particle-sensor"
+    },
+    {
+      "url": "/nateGeorge/ESP-8266_network-connect"
+    },
+    {
+      "url": "/nateGeorge/ocean-optics-OES"
+    },
+    {
+      "url": "/nateGeorge/IDmyDog"
+    }
+  ],
+  "worksfor": "Galvanize",
+  "location": "Denver, CO",
+  "fullname": "Nate George",
+  "website": "http://linkedin.com/in/nateG-ai",
+  "avatar": "https://avatars3.githubusercontent.com/u/10804060?v=3&s=460",
+  "contribs": 1278,
+  "orgs": [],
+  "developerprogram": true
+}

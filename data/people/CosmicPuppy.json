@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/CosmicPuppy",
+  "img": "https://avatars3.githubusercontent.com/u/421622?v=3&s=460",
+  "uid": 421622,
+  "repos": 11,
+  "stars": 125,
+  "followers": 16,
+  "following": 90,
+  "pinned": [
+    {
+      "url": "/CosmicPuppy/SmartThings-ButtonsAsPIN"
+    },
+    {
+      "url": "/CosmicPuppy/SmartThings-ButtonControllerWithDim"
+    },
+    {
+      "url": "/CosmicPuppy/SmartThingsPublic"
+    },
+    {
+      "url": "/CosmicPuppy/astrid"
+    },
+    {
+      "url": "/CosmicPuppy/i2cdevlib"
+    },
+    {
+      "url": "/CosmicPuppy/test"
+    }
+  ],
+  "worksfor": "CosmicPuppy Enterprises",
+  "location": "",
+  "fullname": "Terry Gauchat",
+  "website": "http://www.CosmicPuppy.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/421622?v=3&s=460",
+  "contribs": 22,
+  "orgs": []
+}

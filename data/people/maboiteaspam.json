@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/maboiteaspam",
+  "img": "https://avatars2.githubusercontent.com/u/530732?v=3&s=460",
+  "uid": 530732,
+  "repos": 239,
+  "stars": 1800,
+  "followers": 21,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/maboiteaspam/ssh2-utils"
+    },
+    {
+      "url": "/maboiteaspam/node-editor"
+    },
+    {
+      "url": "/maboiteaspam/node-vagrant-bin"
+    },
+    {
+      "url": "/maboiteaspam/screenshot-stream-selected"
+    },
+    {
+      "url": "/maboiteaspam/console.md"
+    },
+    {
+      "url": "/maboiteaspam/stream-to-redis"
+    }
+  ],
+  "worksfor": "",
+  "location": "Polluted planet.",
+  "fullname": "maboiteaspam",
+  "website": "http://maboiteaspam.github.io/d3-cloud/#maboiteaspam",
+  "avatar": "https://avatars2.githubusercontent.com/u/530732?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

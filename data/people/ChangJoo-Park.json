@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/ChangJoo-Park",
+  "img": "https://avatars0.githubusercontent.com/u/1451365?v=3&s=460",
+  "uid": 1451365,
+  "repos": 134,
+  "stars": 464,
+  "followers": 54,
+  "following": 134,
+  "pinned": [
+    {
+      "url": "/vuejs-kr/kr.vuejs.org"
+    },
+    {
+      "url": "/ChangJoo-Park/SAM.js-korean"
+    },
+    {
+      "url": "/ChangJoo-Park/gitrelease-app"
+    },
+    {
+      "url": "/ChangJoo-Park/webpack"
+    },
+    {
+      "url": "/ChangJoo-Park/vue-component-generator"
+    },
+    {
+      "url": "/ChangJoo-Park/middleman-4-blog-sample"
+    }
+  ],
+  "worksfor": ":)",
+  "location": "Seoul, Korea",
+  "fullname": "ChangJoo Park(박창주)",
+  "website": "http://kr.vuejs.org",
+  "avatar": "https://avatars0.githubusercontent.com/u/1451365?v=3&s=460",
+  "contribs": 895,
+  "orgs": [
+    {
+      "partnerlabs": "https://avatars2.githubusercontent.com/u/8043349?v=3&s=70"
+    },
+    {
+      "vuejs-kr": "https://avatars2.githubusercontent.com/u/24577703?v=3&s=70"
+    }
+  ]
+}

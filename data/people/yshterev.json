@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/yshterev",
+  "img": "https://avatars2.githubusercontent.com/u/6039417?v=3&s=460",
+  "uid": 6039417,
+  "repos": 9,
+  "stars": 67,
+  "followers": 2,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/yshterev/mjml-inject"
+    },
+    {
+      "url": "/yshterev/html-minifier"
+    },
+    {
+      "url": "/yshterev/perfect-scrollbar"
+    },
+    {
+      "url": "/yshterev/hls.js"
+    },
+    {
+      "url": "/yshterev/videojs-settings-menu"
+    },
+    {
+      "url": "/yshterev/angularclass-google-keep"
+    }
+  ],
+  "worksfor": "StreamingVideoProvider",
+  "location": "Plovdiv, Bulgaria",
+  "fullname": "Yanko Shterev",
+  "website": "http://www.streamingvideoprovider.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/6039417?v=3&s=460",
+  "contribs": 106,
+  "orgs": []
+}

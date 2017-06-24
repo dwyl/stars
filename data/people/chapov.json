@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/chapov",
+  "img": "https://avatars0.githubusercontent.com/u/1484580?v=3&s=460",
+  "uid": 1484580,
+  "repos": 5,
+  "stars": 5,
+  "followers": 3,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/chapov/Mojolicious"
+    },
+    {
+      "url": "/chapov/mojolicious-plugin-consolelogger"
+    },
+    {
+      "url": "/chapov/Mojoforum"
+    },
+    {
+      "url": "/chapov/WWW-Crawler-Mojo"
+    },
+    {
+      "url": "/chapov/hits"
+    }
+  ],
+  "worksfor": "Reg.ru",
+  "location": "Samara",
+  "fullname": "Denis",
+  "website": "http://www.reg.ru",
+  "avatar": "https://avatars0.githubusercontent.com/u/1484580?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

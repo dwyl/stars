@@ -1,0 +1,88 @@
+{
+  "url": "https://github.com/haskellcamargo",
+  "img": "https://avatars3.githubusercontent.com/u/7553006?v=3&s=460",
+  "uid": 7553006,
+  "repos": 83,
+  "stars": 1500,
+  "followers": 393,
+  "following": 96,
+  "pinned": [
+    {
+      "url": "/quack/quack"
+    },
+    {
+      "url": "/haskellcamargo/skype-unofficial-client"
+    },
+    {
+      "url": "/haskellcamargo/php7-pipeline-operator-proposal"
+    },
+    {
+      "url": "/haskellcamargo/because-we-can"
+    },
+    {
+      "url": "/haskellcamargo/php-partial-function-application"
+    },
+    {
+      "url": "/brain-labs/brain"
+    }
+  ],
+  "worksfor": "Rung (@rung-tools)",
+  "location": "Joinville / SC - Brazil",
+  "fullname": "Marcelo Camargo",
+  "website": "https://haskellcamargo.github.io/",
+  "avatar": "https://avatars3.githubusercontent.com/u/7553006?v=3&s=460",
+  "contribs": 1318,
+  "orgs": [
+    {
+      "APDA-HQ": "https://avatars3.githubusercontent.com/u/10172220?v=3&s=70"
+    },
+    {
+      "purr-platform": "https://avatars3.githubusercontent.com/u/12146015?v=3&s=70"
+    },
+    {
+      "capybara-language": "https://avatars3.githubusercontent.com/u/13613628?v=3&s=70"
+    },
+    {
+      "AdvPL": "https://avatars1.githubusercontent.com/u/14002449?v=3&s=70"
+    },
+    {
+      "lambda-io": "https://avatars0.githubusercontent.com/u/14017911?v=3&s=70"
+    },
+    {
+      "iguana-foundation": "https://avatars0.githubusercontent.com/u/14227656?v=3&s=70"
+    },
+    {
+      "Codeego": "https://avatars2.githubusercontent.com/u/14316679?v=3&s=70"
+    },
+    {
+      "rawr-php": "https://avatars0.githubusercontent.com/u/15118454?v=3&s=70"
+    },
+    {
+      "phing-brasil": "https://avatars3.githubusercontent.com/u/15642111?v=3&s=70"
+    },
+    {
+      "haskellbr": "https://avatars3.githubusercontent.com/u/15907221?v=3&s=70"
+    },
+    {
+      "smalltalk-brazil": "https://avatars3.githubusercontent.com/u/16190891?v=3&s=70"
+    },
+    {
+      "lambda-io-joinville": "https://avatars2.githubusercontent.com/u/17115257?v=3&s=70"
+    },
+    {
+      "jmonad": "https://avatars0.githubusercontent.com/u/17316104?v=3&s=70"
+    },
+    {
+      "quack": "https://avatars0.githubusercontent.com/u/17405751?v=3&s=70"
+    },
+    {
+      "TADS-UDESC": "https://avatars1.githubusercontent.com/u/17661263?v=3&s=70"
+    },
+    {
+      "nginformatica": "https://avatars2.githubusercontent.com/u/21263692?v=3&s=70"
+    },
+    {
+      "rung-tools": "https://avatars2.githubusercontent.com/u/25955118?v=3&s=70"
+    }
+  ]
+}

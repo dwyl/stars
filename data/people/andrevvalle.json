@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/andrevvalle",
+  "img": "https://avatars2.githubusercontent.com/u/7549986?v=3&s=460",
+  "uid": 7549986,
+  "repos": 118,
+  "stars": 449,
+  "followers": 43,
+  "following": 145,
+  "pinned": [
+    {
+      "url": "/andrevvalle/react-mask"
+    },
+    {
+      "url": "/andrevvalle/react"
+    },
+    {
+      "url": "/andrevvalle/andrevvalle.github.io"
+    },
+    {
+      "url": "/andrevvalle/artigos"
+    },
+    {
+      "url": "/andrevvalle/kasper"
+    },
+    {
+      "url": "/andrevvalle/github-cheat-sheet"
+    }
+  ],
+  "worksfor": "#!/bin/bash",
+  "location": "Rio de Janeiro - Brasil",
+  "fullname": "André Vitor Valle",
+  "website": "http://andrevvalle.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/7549986?v=3&s=460",
+  "contribs": 262,
+  "orgs": [
+    {
+      "front-end-carioca": "https://avatars1.githubusercontent.com/u/7574982?v=3&s=70"
+    },
+    {
+      "riojs-org": "https://avatars1.githubusercontent.com/u/13138869?v=3&s=70"
+    },
+    {
+      "OiSA": "https://avatars2.githubusercontent.com/u/13874292?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

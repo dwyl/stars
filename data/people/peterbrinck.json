@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/peterbrinck",
+  "img": "https://avatars1.githubusercontent.com/u/6154068?v=3&s=460",
+  "uid": 6154068,
+  "repos": 12,
+  "stars": 9000,
+  "followers": 74,
+  "following": 104,
+  "pinned": [
+    {
+      "url": "/peterbrinck/pb-react-scripts"
+    },
+    {
+      "url": "/peterbrinck/docs"
+    },
+    {
+      "url": "/peterbrinck/gh-status-cli"
+    }
+  ],
+  "worksfor": "Roboto",
+  "location": "Denmark",
+  "fullname": "Peter Brinck",
+  "website": "http://peterbrinck.dk/",
+  "avatar": "https://avatars1.githubusercontent.com/u/6154068?v=3&s=460",
+  "contribs": 300,
+  "orgs": [
+    {
+      "CodingPirates": "https://avatars2.githubusercontent.com/u/7957671?v=3&s=70"
+    },
+    {
+      "robotoweb": "https://avatars0.githubusercontent.com/u/13395372?v=3&s=70"
+    },
+    {
+      "rolfsunivers": "https://avatars2.githubusercontent.com/u/13939913?v=3&s=70"
+    },
+    {
+      "iCrawlerRPG": "https://avatars1.githubusercontent.com/u/18644880?v=3&s=70"
+    },
+    {
+      "coworkingplus": "https://avatars2.githubusercontent.com/u/19913556?v=3&s=70"
+    },
+    {
+      "RenRemoulade": "https://avatars0.githubusercontent.com/u/23168584?v=3&s=70"
+    },
+    {
+      "specialistuddannelse": "https://avatars0.githubusercontent.com/u/25148198?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

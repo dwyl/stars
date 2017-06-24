@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/amariani",
+  "img": "https://avatars2.githubusercontent.com/u/5265623?v=3&s=460",
+  "uid": 5265623,
+  "repos": 5,
+  "stars": 9,
+  "followers": 4,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/amariani/UI-Starter-Kit"
+    },
+    {
+      "url": "/amariani/vagrant-para-laravel"
+    },
+    {
+      "url": "/amariani/parking"
+    },
+    {
+      "url": "/amariani/angular-gulp-browserify-starter"
+    },
+    {
+      "url": "/amariani/test-front-end-ml"
+    }
+  ],
+  "worksfor": "Mercado Libre",
+  "location": "Argentina",
+  "fullname": "Ariel Mariani",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/5265623?v=3&s=460",
+  "contribs": 884,
+  "orgs": []
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/welll",
+  "img": "https://avatars0.githubusercontent.com/u/1483436?v=3&s=460",
+  "uid": 1483436,
+  "repos": 123,
+  "stars": 943,
+  "followers": 28,
+  "following": 219,
+  "pinned": [
+    {
+      "url": "/welll/record-encode-audio-from-browser"
+    },
+    {
+      "url": "/welll/match3"
+    },
+    {
+      "url": "/welll/Update-Installer"
+    },
+    {
+      "url": "/welll/qhttpserver"
+    },
+    {
+      "url": "/welll/keyval.js"
+    },
+    {
+      "url": "/welll/Spoon-Knife"
+    }
+  ],
+  "worksfor": "@Mobiliza",
+  "location": "San Francisco, CA, USA",
+  "fullname": "Wellington Soares",
+  "website": "http://welll.uk",
+  "avatar": "https://avatars0.githubusercontent.com/u/1483436?v=3&s=460",
+  "contribs": 188,
+  "orgs": [],
+  "developerprogram": true
+}

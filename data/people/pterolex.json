@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/pterolex",
+  "img": "https://avatars3.githubusercontent.com/u/1312079?v=3&s=460",
+  "uid": 1312079,
+  "repos": 16,
+  "stars": 494,
+  "followers": 16,
+  "following": 28,
+  "pinned": [
+    {
+      "url": "/pterolex/ignite-knowledge-sharing"
+    },
+    {
+      "url": "/pterolex/LIVR"
+    },
+    {
+      "url": "/pterolex/react-redux-isomorphic-workshop"
+    },
+    {
+      "url": "/pterolex/livr-playground"
+    },
+    {
+      "url": "/pterolex/MandelbrotConsole"
+    }
+  ],
+  "worksfor": "@WebbyLab",
+  "location": "Kiev",
+  "fullname": "Alexey Zaslavsky",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1312079?v=3&s=460",
+  "contribs": 74,
+  "orgs": [
+    {
+      "WebbyLab": "https://avatars3.githubusercontent.com/u/1665458?v=3&s=70"
+    },
+    {
+      "IgniteUkraine": "https://avatars2.githubusercontent.com/u/6782959?v=3&s=70"
+    },
+    {
+      "frontend-science": "https://avatars3.githubusercontent.com/u/16628901?v=3&s=70"
+    }
+  ]
+}

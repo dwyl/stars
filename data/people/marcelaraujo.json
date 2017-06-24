@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/marcelaraujo",
+  "img": "https://avatars3.githubusercontent.com/u/421794?v=3&s=460",
+  "uid": 421794,
+  "repos": 215,
+  "stars": 1100,
+  "followers": 49,
+  "following": 108,
+  "pinned": [
+    {
+      "url": "/marcelaraujo/php-skeleton-extension"
+    },
+    {
+      "url": "/marcelaraujo/pyodconverter"
+    },
+    {
+      "url": "/marcelaraujo/lada-cache"
+    },
+    {
+      "url": "/marcelaraujo/PDF-Rotate"
+    },
+    {
+      "url": "/marcelaraujo/splclassloader"
+    },
+    {
+      "url": "/marcelaraujo/bootstrap"
+    }
+  ],
+  "worksfor": "InPhonex LLC",
+  "location": "Florianópolis/Santa Catarina",
+  "fullname": "Marcel Araujo",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/421794?v=3&s=460",
+  "contribs": 51,
+  "orgs": [
+    {
+      "InPhonex": "https://avatars1.githubusercontent.com/u/2639983?v=3&s=70"
+    }
+  ]
+}

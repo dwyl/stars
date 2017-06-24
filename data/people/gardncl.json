@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/gardncl",
+  "img": "https://avatars2.githubusercontent.com/u/5640221?v=3&s=460",
+  "uid": 5640221,
+  "repos": 11,
+  "stars": 20,
+  "followers": 18,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/gardncl/elements-of-programming-interviews"
+    },
+    {
+      "url": "/gardncl/whobrokeitlast"
+    },
+    {
+      "url": "/gardncl/elements-of-programming-interviews-solutions"
+    },
+    {
+      "url": "/gardncl/gradle-spring-web-jpa"
+    },
+    {
+      "url": "/sladesisco/sharerrand-backend"
+    }
+  ],
+  "worksfor": "@sparcedge",
+  "location": "Charleston, SC",
+  "fullname": "Clay Gardner",
+  "website": "http://claygardner.io/",
+  "avatar": "https://avatars2.githubusercontent.com/u/5640221?v=3&s=460",
+  "contribs": 596,
+  "orgs": []
+}

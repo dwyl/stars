@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/masonicGIT",
+  "img": "https://avatars0.githubusercontent.com/u/7960935?v=3&s=460",
+  "uid": 7960935,
+  "repos": 22,
+  "stars": 23,
+  "followers": 28,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/masonicGIT/21-Flask-Boilerplate"
+    },
+    {
+      "url": "/masonicGIT/pacman"
+    },
+    {
+      "url": "/masonicGIT/ethereum-api"
+    },
+    {
+      "url": "/masonicGIT/21co-tunes"
+    },
+    {
+      "url": "/masonicGIT/ethereum-multisig"
+    },
+    {
+      "url": "/masonicGIT/mongoose-blockchain"
+    }
+  ],
+  "worksfor": "@GenLife",
+  "location": "Palo Alto",
+  "fullname": "Mason Borda",
+  "website": "https://www.masonborda.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/7960935?v=3&s=460",
+  "contribs": 389,
+  "orgs": [],
+  "developerprogram": true
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/luiscape",
+  "img": "https://avatars1.githubusercontent.com/u/953118?v=3&s=460",
+  "uid": 953118,
+  "repos": 234,
+  "stars": 1500,
+  "followers": 96,
+  "following": 565,
+  "pinned": [
+    {
+      "url": "/luiscape/hdx-monitor-server"
+    },
+    {
+      "url": "/luiscape/andaime"
+    },
+    {
+      "url": "/luiscape/cstore_fdw"
+    },
+    {
+      "url": "/luiscape/hdx-monitor-scheduler"
+    },
+    {
+      "url": "/luiscape/hdxviz-nepal-earthquake-risk-index"
+    },
+    {
+      "url": "/luiscape/hdxscraper-violation-documentation-center-syria"
+    }
+  ],
+  "worksfor": "Flowminder Foundation",
+  "location": "New York, NY",
+  "fullname": "Luis Capelo",
+  "website": "http://luiscapelo.info",
+  "avatar": "https://avatars1.githubusercontent.com/u/953118?v=3&s=460",
+  "contribs": 2770,
+  "orgs": [
+    {
+      "rolltime": "https://avatars1.githubusercontent.com/u/12992431?v=3&s=70"
+    },
+    {
+      "Flowminder": "https://avatars0.githubusercontent.com/u/14016903?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

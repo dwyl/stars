@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/lennardtastic",
+  "img": "https://avatars3.githubusercontent.com/u/20702811?v=3&s=460",
+  "uid": 20702811,
+  "repos": 4,
+  "stars": 56,
+  "followers": 1,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/lennardtastic/usbl-recap"
+    },
+    {
+      "url": "/lennardtastic/Usbl-Front-Plugin"
+    },
+    {
+      "url": "/lennardtastic/u4w-js-playground"
+    },
+    {
+      "url": "/lennardtastic/sniptastic"
+    }
+  ],
+  "worksfor": "@usabilla",
+  "location": "Amsterdam",
+  "fullname": "Lennard",
+  "website": "http://www.usabilla.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/20702811?v=3&s=460",
+  "contribs": 47,
+  "orgs": []
+}

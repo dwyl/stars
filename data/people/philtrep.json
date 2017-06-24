@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/philtrep",
+  "img": "https://avatars1.githubusercontent.com/u/4154188?v=3&s=460",
+  "uid": 4154188,
+  "repos": 10,
+  "stars": 64,
+  "followers": 11,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/laradock/laradock"
+    },
+    {
+      "url": "/Osedea/nodock"
+    },
+    {
+      "url": "/Osedea/osedea_fuckaround_wellness-challenge-bot"
+    },
+    {
+      "url": "/philtrep/EnviroJs"
+    },
+    {
+      "url": "/philtrep/Flask-Skeleton"
+    },
+    {
+      "url": "/philtrep/JARL"
+    }
+  ],
+  "worksfor": "@Osedea",
+  "location": "Canada",
+  "fullname": "Philippe Trépanier",
+  "website": "https://philtrep.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/4154188?v=3&s=460",
+  "contribs": 3024,
+  "orgs": [
+    {
+      "Osedea": "https://avatars3.githubusercontent.com/u/9864586?v=3&s=70"
+    },
+    {
+      "laradock": "https://avatars3.githubusercontent.com/u/13902473?v=3&s=70"
+    }
+  ]
+}

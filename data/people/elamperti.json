@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/elamperti",
+  "img": "https://avatars1.githubusercontent.com/u/910672?v=3&s=460",
+  "uid": 910672,
+  "repos": 38,
+  "stars": 616,
+  "followers": 21,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/elamperti/OpenWebScrobbler"
+    },
+    {
+      "url": "/elamperti/dotfiles"
+    },
+    {
+      "url": "/elamperti/shlack"
+    },
+    {
+      "url": "/elamperti/laserdriver"
+    },
+    {
+      "url": "/elamperti/docker-minecraft-server"
+    },
+    {
+      "url": "/elamperti/lib-powermate"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bariloche, Argentina",
+  "fullname": "Enrico Lamperti",
+  "website": "http://elamperti.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/910672?v=3&s=460",
+  "contribs": 676,
+  "orgs": [
+    {
+      "wazzabi": "https://avatars1.githubusercontent.com/u/9387946?v=3&s=70"
+    },
+    {
+      "lagoondev": "https://avatars3.githubusercontent.com/u/10195854?v=3&s=70"
+    }
+  ]
+}

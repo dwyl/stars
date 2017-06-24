@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/okize",
+  "img": "https://avatars2.githubusercontent.com/u/1392589?v=3&s=460",
+  "uid": 1392589,
+  "repos": 86,
+  "stars": 131,
+  "followers": 15,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/okize/iconr"
+    },
+    {
+      "url": "/okize/trendie"
+    },
+    {
+      "url": "/okize/selector-detector"
+    },
+    {
+      "url": "/hubot-scripts/hubot-business-cat"
+    },
+    {
+      "url": "/okize/dotfiles"
+    },
+    {
+      "url": "/okize/sortr"
+    }
+  ],
+  "worksfor": "",
+  "location": "Cambridge, MA",
+  "fullname": "Morgan Wigmanich",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1392589?v=3&s=460",
+  "contribs": 4584,
+  "orgs": [
+    {
+      "patientslikeme": "https://avatars0.githubusercontent.com/u/23326?v=3&s=70"
+    },
+    {
+      "TechTarget": "https://avatars0.githubusercontent.com/u/3965666?v=3&s=70"
+    },
+    {
+      "hubot-scripts": "https://avatars2.githubusercontent.com/u/5367660?v=3&s=70"
+    }
+  ]
+}

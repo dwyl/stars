@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/queckezz",
+  "img": "https://avatars0.githubusercontent.com/u/2580598?v=3&s=460",
+  "uid": 2580598,
+  "repos": 107,
+  "stars": 1000,
+  "followers": 54,
+  "following": 222,
+  "pinned": [
+    {
+      "url": "/queckezz/fmt-obj"
+    },
+    {
+      "url": "/queckezz/koa-views"
+    },
+    {
+      "url": "/queckezz/elementx"
+    },
+    {
+      "url": "/queckezz/inspect-json"
+    },
+    {
+      "url": "/queckezz/json-tokenize"
+    },
+    {
+      "url": "/queckezz/untar-memory"
+    }
+  ],
+  "worksfor": "",
+  "location": "Aarau, Switzerland",
+  "fullname": "Fabian Eichenberger",
+  "website": "https://feichenberger.ch",
+  "avatar": "https://avatars0.githubusercontent.com/u/2580598?v=3&s=460",
+  "contribs": 975,
+  "orgs": [
+    {
+      "micro-js": "https://avatars0.githubusercontent.com/u/15795772?v=3&s=70"
+    },
+    {
+      "vdux": "https://avatars1.githubusercontent.com/u/15797869?v=3&s=70"
+    },
+    {
+      "vdux-components": "https://avatars0.githubusercontent.com/u/17184843?v=3&s=70"
+    },
+    {
+      "kanton-aargau": "https://avatars1.githubusercontent.com/u/18281818?v=3&s=70"
+    }
+  ]
+}

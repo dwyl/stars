@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/hugoabonizio",
+  "img": "https://avatars2.githubusercontent.com/u/1206395?v=3&s=460",
+  "uid": 1206395,
+  "repos": 96,
+  "stars": 1000,
+  "followers": 19,
+  "following": 25,
+  "pinned": [
+    {
+      "url": "/hugoabonizio/remoto"
+    },
+    {
+      "url": "/hugoabonizio/evented"
+    },
+    {
+      "url": "/crystal-lang/crystal"
+    },
+    {
+      "url": "/Automattic/mongoose"
+    },
+    {
+      "url": "/sdogruyol/crystal_for_rubyists"
+    },
+    {
+      "url": "/marceloboeira/bojack"
+    }
+  ],
+  "worksfor": "",
+  "location": "Londrina, Brazil",
+  "fullname": "Hugo Abonizio",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1206395?v=3&s=460",
+  "contribs": 205,
+  "orgs": [
+    {
+      "github-beta": "https://avatars3.githubusercontent.com/u/7704921?v=3&s=70"
+    },
+    {
+      "AcroEngenharia": "https://avatars0.githubusercontent.com/u/16618776?v=3&s=70"
+    },
+    {
+      "CrystalBR": "https://avatars3.githubusercontent.com/u/22325364?v=3&s=70"
+    },
+    {
+      "feedcast": "https://avatars0.githubusercontent.com/u/24849839?v=3&s=70"
+    }
+  ]
+}

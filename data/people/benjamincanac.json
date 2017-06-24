@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/benjamincanac",
+  "img": "https://avatars0.githubusercontent.com/u/739984?v=3&s=460",
+  "uid": 739984,
+  "repos": 23,
+  "stars": 277,
+  "followers": 28,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/benjamincanac/bootstrap-multiselect-rails"
+    },
+    {
+      "url": "/benjamincanac/bootstrap3-rails"
+    },
+    {
+      "url": "/benjamincanac/prettyTree"
+    },
+    {
+      "url": "/benjamincanac/pickadate-rails"
+    },
+    {
+      "url": "/benjamincanac/redactor-rails"
+    },
+    {
+      "url": "/benjamincanac/bootstrap-modal-rails"
+    }
+  ],
+  "worksfor": "Neo9",
+  "location": "Paris",
+  "fullname": "Benjamin Canac",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/739984?v=3&s=460",
+  "contribs": 22,
+  "orgs": [
+    {
+      "neo9": "https://avatars3.githubusercontent.com/u/4973982?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/enricobacis",
+  "img": "https://avatars2.githubusercontent.com/u/1180682?v=3&s=460",
+  "uid": 1180682,
+  "repos": 86,
+  "stars": 604,
+  "followers": 41,
+  "following": 56,
+  "pinned": [
+    {
+      "url": "/enricobacis/wos"
+    },
+    {
+      "url": "/enricobacis/vim-airline-clock"
+    },
+    {
+      "url": "/unibg-seclab/sesqlite"
+    },
+    {
+      "url": "/unibg-seclab/aesmix"
+    },
+    {
+      "url": "/enricobacis/sfw"
+    },
+    {
+      "url": "/enricobacis/awesome-python-decorators"
+    }
+  ],
+  "worksfor": "@unibg-seclab",
+  "location": "Bergamo, Italy",
+  "fullname": "Enrico Bacis",
+  "website": "http://enricobacis.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1180682?v=3&s=460",
+  "contribs": 1211,
+  "orgs": [
+    {
+      "freesmee": "https://avatars1.githubusercontent.com/u/2955381?v=3&s=70"
+    },
+    {
+      "Aula13": "https://avatars1.githubusercontent.com/u/12143635?v=3&s=70"
+    },
+    {
+      "unibg-seclab": "https://avatars1.githubusercontent.com/u/12623214?v=3&s=70"
+    },
+    {
+      "bglug-it": "https://avatars1.githubusercontent.com/u/12886037?v=3&s=70"
+    },
+    {
+      "vimvaders": "https://avatars0.githubusercontent.com/u/13381609?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

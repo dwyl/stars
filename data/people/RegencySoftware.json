@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/RegencySoftware",
+  "img": "https://avatars0.githubusercontent.com/u/10734497?v=3&s=460",
+  "uid": 10734497,
+  "repos": 5,
+  "stars": 51,
+  "followers": 1,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/RegencySoftware/SQLite-NHibernate-CSharp-Demo"
+    },
+    {
+      "url": "/RegencySoftware/in-app-billing-android"
+    },
+    {
+      "url": "/RegencySoftware/dynamic-user-control"
+    },
+    {
+      "url": "/RegencySoftware/ace"
+    },
+    {
+      "url": "/RegencySoftware/email-composer"
+    }
+  ],
+  "worksfor": "Regency Software",
+  "location": "",
+  "fullname": "",
+  "website": "http://www.regencysoftware.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/10734497?v=3&s=460",
+  "contribs": 14,
+  "orgs": []
+}

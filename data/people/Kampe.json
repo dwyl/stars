@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/Kampe",
+  "img": "https://avatars3.githubusercontent.com/u/624150?v=3&s=460",
+  "uid": 624150,
+  "repos": 7,
+  "stars": 885,
+  "followers": 39,
+  "following": 159,
+  "pinned": [
+    {
+      "url": "/Kampe/node-ffprobe"
+    },
+    {
+      "url": "/Kampe/nvm"
+    },
+    {
+      "url": "/Kampe/RealTimeLogs"
+    },
+    {
+      "url": "/Kampe/sass.js"
+    },
+    {
+      "url": "/Kampe/SmartThingsPublic"
+    },
+    {
+      "url": "/Kampe/vagrant-php7"
+    }
+  ],
+  "worksfor": "@emersonsoftware @ListenerApproved",
+  "location": "St. Louis, Missouri",
+  "fullname": "Nick Kampe",
+  "website": "http://NickKampe.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/624150?v=3&s=460",
+  "contribs": 300,
+  "orgs": [
+    {
+      "ListenerApproved": "https://avatars1.githubusercontent.com/u/492717?v=3&s=70"
+    },
+    {
+      "emersonsoftware": "https://avatars3.githubusercontent.com/u/19309523?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

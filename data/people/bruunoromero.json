@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bruunoromero",
+  "img": "https://avatars2.githubusercontent.com/u/15288983?v=3&s=460",
+  "uid": 15288983,
+  "repos": 13,
+  "stars": 51,
+  "followers": 2,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/bruunoromero/router"
+    },
+    {
+      "url": "/bruunoromero/interpreter"
+    },
+    {
+      "url": "/bruunoromero/jade-like-compiler"
+    },
+    {
+      "url": "/bruunoromero/vue-material"
+    },
+    {
+      "url": "/bruunoromero/clean-code-javascript"
+    },
+    {
+      "url": "/bruunoromero/stylus"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Bruno Romero",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/15288983?v=3&s=460",
+  "contribs": 81,
+  "orgs": []
+}

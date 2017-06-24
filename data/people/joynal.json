@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/joynal",
+  "img": "https://avatars2.githubusercontent.com/u/6458212?v=3&s=460",
+  "uid": 6458212,
+  "repos": 56,
+  "stars": 277,
+  "followers": 14,
+  "following": 120,
+  "pinned": [
+    {
+      "url": "/joynal/dms"
+    },
+    {
+      "url": "/joynal/react-mobx-boilerplate"
+    },
+    {
+      "url": "/joynal/todoApp"
+    },
+    {
+      "url": "/joynal/react-webpack-kickstart"
+    },
+    {
+      "url": "/joynal/rosariosis"
+    },
+    {
+      "url": "/joynal/Brightness"
+    }
+  ],
+  "worksfor": "Sphinx Corporation",
+  "location": "Dhaka, Bangladesh",
+  "fullname": "Joynal Abedin",
+  "website": "https://joynal.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/6458212?v=3&s=460",
+  "contribs": 31,
+  "orgs": [
+    {
+      "Kryptonitesoft": "https://avatars3.githubusercontent.com/u/16381441?v=3&s=70"
+    },
+    {
+      "UUCSE": "https://avatars2.githubusercontent.com/u/24549843?v=3&s=70"
+    }
+  ]
+}

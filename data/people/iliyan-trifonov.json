@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/iliyan-trifonov",
+  "img": "https://avatars0.githubusercontent.com/u/2099265?v=3&s=460",
+  "uid": 2099265,
+  "repos": 23,
+  "stars": 598,
+  "followers": 12,
+  "following": 27,
+  "pinned": [
+    {
+      "url": "/iliyan-trifonov/jenkins-ci-php"
+    },
+    {
+      "url": "/iliyan-trifonov/wordpress-lemp"
+    },
+    {
+      "url": "/iliyan-trifonov/node-nvm"
+    },
+    {
+      "url": "/iliyan-trifonov/lemp-1st"
+    },
+    {
+      "url": "/iliyan-trifonov/mvc-behat-phpunit"
+    },
+    {
+      "url": "/iliyan-trifonov/chat-nodejs-angularjs-socketio"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Iliyan Trifonov",
+  "website": "http://www.iliyan-trifonov.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/2099265?v=3&s=460",
+  "contribs": 37,
+  "orgs": []
+}

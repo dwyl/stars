@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/alexleventer",
+  "img": "https://avatars3.githubusercontent.com/u/3254549?v=3&s=460",
+  "uid": 3254549,
+  "repos": 4,
+  "stars": 192,
+  "followers": 12,
+  "following": 12,
+  "pinned": [
+    {
+      "url": "/alexleventer/distelli-slash"
+    },
+    {
+      "url": "/alexleventer/node-postmates"
+    },
+    {
+      "url": "/alexleventer/facebook-js-ads-sdk"
+    },
+    {
+      "url": "/alexleventer/Alexa-Word-of-the-Day"
+    }
+  ],
+  "worksfor": "",
+  "location": "Seattle",
+  "fullname": "Alex Leventer",
+  "website": "http://www.alexleventer.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/3254549?v=3&s=460",
+  "contribs": 3301,
+  "orgs": [],
+  "developerprogram": true
+}

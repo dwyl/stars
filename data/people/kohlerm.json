@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kohlerm",
+  "img": "https://avatars1.githubusercontent.com/u/381780?v=3&s=460",
+  "uid": 381780,
+  "repos": 36,
+  "stars": 4300,
+  "followers": 27,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/kohlerm/docker-pidgin"
+    },
+    {
+      "url": "/kohlerm/nproxy"
+    },
+    {
+      "url": "/kohlerm/kohlerm.github.io"
+    },
+    {
+      "url": "/kohlerm/dotcloud-nodejs-hello-world"
+    },
+    {
+      "url": "/kohlerm/test-node"
+    },
+    {
+      "url": "/kohlerm/node-js-sample"
+    }
+  ],
+  "worksfor": "",
+  "location": "Germany",
+  "fullname": "Markus Kohler",
+  "website": "http://kohlerm.blogspot.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/381780?v=3&s=460",
+  "contribs": 41,
+  "orgs": []
+}

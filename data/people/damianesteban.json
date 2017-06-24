@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/damianesteban",
+  "img": "https://avatars2.githubusercontent.com/u/4554498?v=3&s=460",
+  "uid": 4554498,
+  "repos": 69,
+  "stars": 1900,
+  "followers": 31,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/damianesteban/AutoLayoutExperiments"
+    },
+    {
+      "url": "/damianesteban/vagrant-box-digital-ocean-PuPHPet"
+    },
+    {
+      "url": "/damianesteban/Reactive-Giphy"
+    },
+    {
+      "url": "/damianesteban/discover-meteor-js-primer"
+    },
+    {
+      "url": "/damianesteban/example-sentiment"
+    },
+    {
+      "url": "/damianesteban/codeacademy-javascript"
+    }
+  ],
+  "worksfor": "Bracket Factory",
+  "location": "New York, NY U.S.A.",
+  "fullname": "Damian Esteban",
+  "website": "http://damianesteban.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/4554498?v=3&s=460",
+  "contribs": 2783,
+  "orgs": [
+    {
+      "betterPT": "https://avatars3.githubusercontent.com/u/11652946?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

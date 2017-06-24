@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/zixia",
+  "img": "https://avatars0.githubusercontent.com/u/1361891?v=3&s=460",
+  "uid": 1361891,
+  "repos": 67,
+  "stars": 199,
+  "followers": 105,
+  "following": 49,
+  "pinned": [
+    {
+      "url": "/Chatie/wechaty"
+    },
+    {
+      "url": "/zixia/docker-simple-mail-forwarder"
+    },
+    {
+      "url": "/zixia/gast"
+    },
+    {
+      "url": "/zixia/brolog"
+    },
+    {
+      "url": "/zixia/gas-gmail-channel"
+    },
+    {
+      "url": "/zixia/gas-freshdesk"
+    }
+  ],
+  "worksfor": "@Chatie @AKAMobi",
+  "location": "Beijing",
+  "fullname": "Huan LI",
+  "website": "https://www.zixia.net",
+  "avatar": "https://avatars0.githubusercontent.com/u/1361891?v=3&s=460",
+  "contribs": 3723,
+  "orgs": [
+    {
+      "BUPT": "https://avatars0.githubusercontent.com/u/1410015?v=3&s=70"
+    },
+    {
+      "AKAMobi": "https://avatars2.githubusercontent.com/u/14962255?v=3&s=70"
+    },
+    {
+      "Chatie": "https://avatars2.githubusercontent.com/u/25162437?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/pollardld",
+  "img": "https://avatars1.githubusercontent.com/u/2632164?v=3&s=460",
+  "uid": 2632164,
+  "repos": 36,
+  "stars": 369,
+  "followers": 6,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/pollardld/gopher-tortoise"
+    },
+    {
+      "url": "/pollardld/mangroves"
+    },
+    {
+      "url": "/Ecotrust/theredd"
+    },
+    {
+      "url": "/pollardld/pollardld.com"
+    },
+    {
+      "url": "/pollardld/WalkBikeNC"
+    },
+    {
+      "url": "/pollardld/ACSchoolMapper"
+    }
+  ],
+  "worksfor": "@Ecotrust",
+  "location": "San Francisco",
+  "fullname": "pollardld",
+  "website": "http://pollardld.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/2632164?v=3&s=460",
+  "contribs": 273,
+  "orgs": [
+    {
+      "Ecotrust": "https://avatars1.githubusercontent.com/u/1215872?v=3&s=70"
+    }
+  ]
+}

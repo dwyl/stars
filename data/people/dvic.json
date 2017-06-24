@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/dvic",
+  "img": "https://avatars3.githubusercontent.com/u/1214337?v=3&s=460",
+  "uid": 1214337,
+  "repos": 59,
+  "stars": 125,
+  "followers": 6,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/elastic/logstash"
+    },
+    {
+      "url": "/sbt/sbt-native-packager"
+    },
+    {
+      "url": "/sequenceiq/docker-spark"
+    },
+    {
+      "url": "/tminglei/slick-pg"
+    },
+    {
+      "url": "/paulbutcher/ScalaMock"
+    },
+    {
+      "url": "/circe/circe"
+    }
+  ],
+  "worksfor": "Qdentity",
+  "location": "Netherlands",
+  "fullname": "Damir Vandic",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1214337?v=3&s=460",
+  "contribs": 82,
+  "orgs": []
+}

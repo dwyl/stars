@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/kieranoreilly",
+  "img": "https://avatars3.githubusercontent.com/u/5115606?v=3&s=460",
+  "uid": 5115606,
+  "repos": 3,
+  "stars": 168,
+  "followers": 9,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/kieranoreilly/api"
+    },
+    {
+      "url": "/kieranoreilly/unirest-php"
+    },
+    {
+      "url": "/kieranoreilly/elasticsearch-dump"
+    }
+  ],
+  "worksfor": "gifs.com",
+  "location": "San Francisco",
+  "fullname": "Kieran O'Reilly",
+  "website": "https://gifs.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/5115606?v=3&s=460",
+  "contribs": 1613,
+  "orgs": [
+    {
+      "gifs": "https://avatars3.githubusercontent.com/u/16198848?v=3&s=70"
+    }
+  ]
+}

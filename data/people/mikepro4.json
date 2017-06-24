@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mikepro4",
+  "img": "https://avatars1.githubusercontent.com/u/2286987?v=3&s=460",
+  "uid": 2286987,
+  "repos": 15,
+  "stars": 216,
+  "followers": 23,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/mikepro4/react-signup-form"
+    },
+    {
+      "url": "/mikepro4/file-uploader"
+    },
+    {
+      "url": "/mikepro4/wysihtml5"
+    },
+    {
+      "url": "/mikepro4/terrain-generator"
+    },
+    {
+      "url": "/mikepro4/dcdnt"
+    },
+    {
+      "url": "/mikepro4/glitch-canvas"
+    }
+  ],
+  "worksfor": "Palantir Technologies",
+  "location": "New York / Palo Alto",
+  "fullname": "Mikhail Proniushkin",
+  "website": "http://mikhail.co/",
+  "avatar": "https://avatars1.githubusercontent.com/u/2286987?v=3&s=460",
+  "contribs": 6,
+  "orgs": []
+}

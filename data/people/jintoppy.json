@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jintoppy",
+  "img": "https://avatars1.githubusercontent.com/u/3390198?v=3&s=460",
+  "uid": 3390198,
+  "repos": 75,
+  "stars": 280,
+  "followers": 33,
+  "following": 46,
+  "pinned": [
+    {
+      "url": "/jintoppy/protractor-html-screenshot-reporter"
+    },
+    {
+      "url": "/jintoppy/virtual-classroom"
+    },
+    {
+      "url": "/jintoppy/protractor-e2e-bootstrap"
+    },
+    {
+      "url": "/jintoppy/webrtc-backbone"
+    },
+    {
+      "url": "/jintoppy/jschannel-e2e-workshop-complete"
+    },
+    {
+      "url": "/jintoppy/react-training"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bangalore",
+  "fullname": "Jinto Jose",
+  "website": "http://programmerbuddy.blogspot.in/",
+  "avatar": "https://avatars1.githubusercontent.com/u/3390198?v=3&s=460",
+  "contribs": 83,
+  "orgs": [
+    {
+      "Node-FaceRecog": "https://avatars2.githubusercontent.com/u/5916956?v=3&s=70"
+    }
+  ]
+}

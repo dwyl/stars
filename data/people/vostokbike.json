@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/vostokbike",
+  "img": "https://avatars1.githubusercontent.com/u/25774890?v=3&s=460",
+  "uid": 25774890,
+  "repos": 7,
+  "stars": 2,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/vostokbike/tachyons-webpack"
+    },
+    {
+      "url": "/vostokbike/snipcart-theme"
+    },
+    {
+      "url": "/vostokbike/snipcart-localization"
+    },
+    {
+      "url": "/vostokbike/vostok.bike"
+    },
+    {
+      "url": "/vostokbike/html-form-send-email-via-google-script-without-server"
+    },
+    {
+      "url": "/vostokbike/vostokstatic"
+    }
+  ],
+  "worksfor": "Vostok Titanium Components",
+  "location": "Moscow",
+  "fullname": "",
+  "website": "https://vosotok.bike",
+  "avatar": "https://avatars1.githubusercontent.com/u/25774890?v=3&s=460",
+  "contribs": 11,
+  "orgs": []
+}

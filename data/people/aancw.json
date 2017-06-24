@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/aancw",
+  "img": "https://avatars3.githubusercontent.com/u/6284204?v=3&s=460",
+  "uid": 6284204,
+  "repos": 137,
+  "stars": 647,
+  "followers": 53,
+  "following": 95,
+  "pinned": [
+    {
+      "url": "/aancw/Belati"
+    },
+    {
+      "url": "/aancw/panduan-memulai-belajar-django"
+    },
+    {
+      "url": "/SinauDev/SinauDev.github.io"
+    },
+    {
+      "url": "/aancw/docker-101-id"
+    },
+    {
+      "url": "/aancw/MobileApp-Pentest-Cheatsheet"
+    },
+    {
+      "url": "/aancw/Android-Security-Reference"
+    }
+  ],
+  "worksfor": "@SinauDev",
+  "location": "Indonesia",
+  "fullname": "Aan",
+  "website": "https://petruknisme.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/6284204?v=3&s=460",
+  "contribs": 436,
+  "orgs": [
+    {
+      "pegelinux": "https://avatars2.githubusercontent.com/u/13637754?v=3&s=70"
+    },
+    {
+      "rumahvoip": "https://avatars1.githubusercontent.com/u/14969908?v=3&s=70"
+    },
+    {
+      "SinauDev": "https://avatars0.githubusercontent.com/u/19606993?v=3&s=70"
+    }
+  ]
+}

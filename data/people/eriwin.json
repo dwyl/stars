@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/eriwin",
+  "img": "https://avatars0.githubusercontent.com/u/3142606?v=3&s=460",
+  "uid": 3142606,
+  "repos": 30,
+  "stars": 180,
+  "followers": 12,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/eriwin/awesome-webdev-books"
+    },
+    {
+      "url": "/symfony/symfony"
+    },
+    {
+      "url": "/php-fig/fig-standards"
+    },
+    {
+      "url": "/symfony/symfony-docs"
+    },
+    {
+      "url": "/broadway/broadway"
+    },
+    {
+      "url": "/doctrine/DoctrineCacheBundle"
+    }
+  ],
+  "worksfor": "",
+  "location": "Breda, The Netherlands",
+  "fullname": "Erik van Wingerden",
+  "website": "https://www.eriwin.nl",
+  "avatar": "https://avatars0.githubusercontent.com/u/3142606?v=3&s=460",
+  "contribs": 15,
+  "orgs": [
+    {
+      "waarneembemiddeling": "https://avatars0.githubusercontent.com/u/5556250?v=3&s=70"
+    }
+  ]
+}

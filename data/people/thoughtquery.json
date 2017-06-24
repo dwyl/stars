@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/thoughtquery",
+  "img": "https://avatars3.githubusercontent.com/u/6610400?v=3&s=460",
+  "uid": 6610400,
+  "repos": 32,
+  "stars": 98,
+  "followers": 39,
+  "following": 93,
+  "pinned": [
+    {
+      "url": "/thoughtquery/triangleTracker"
+    },
+    {
+      "url": "/thoughtquery/expenseTracker"
+    },
+    {
+      "url": "/thoughtquery/fizzbuzz_ruby"
+    },
+    {
+      "url": "/thoughtquery/title_case_ruby"
+    },
+    {
+      "url": "/thoughtquery/alergies"
+    },
+    {
+      "url": "/thoughtquery/convert_legacy"
+    }
+  ],
+  "worksfor": "",
+  "location": "Portland Oregon",
+  "fullname": "Andrew Benavides",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/6610400?v=3&s=460",
+  "contribs": 16,
+  "orgs": []
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/kciter",
+  "img": "https://avatars1.githubusercontent.com/u/3623695?v=3&s=460",
+  "uid": 3623695,
+  "repos": 37,
+  "stars": 182,
+  "followers": 162,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/kciter/qart.js"
+    },
+    {
+      "url": "/kciter/awesome-style-guide"
+    },
+    {
+      "url": "/kciter/GlitchLabel"
+    },
+    {
+      "url": "/kciter/Floaty"
+    },
+    {
+      "url": "/kciter/simple-slack-bot"
+    },
+    {
+      "url": "/kciter/HorizontalDial"
+    }
+  ],
+  "worksfor": "Trust Us Co., Ltd.",
+  "location": "Seoul, Korea",
+  "fullname": "Lee Sun-Hyoup",
+  "website": "http://medium.com/@kciter",
+  "avatar": "https://avatars1.githubusercontent.com/u/3623695?v=3&s=460",
+  "contribs": 557,
+  "orgs": [
+    {
+      "vuejs-kr": "https://avatars2.githubusercontent.com/u/24577703?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ChopperLee2011",
+  "img": "https://avatars3.githubusercontent.com/u/2529259?v=3&s=460",
+  "uid": 2529259,
+  "repos": 44,
+  "stars": 223,
+  "followers": 13,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/ChopperLee2011/flux-github"
+    },
+    {
+      "url": "/ChopperLee2011/grpc-examples"
+    },
+    {
+      "url": "/ChopperLee2011/query_file_demo"
+    },
+    {
+      "url": "/ChopperLee2011/kue-jm"
+    },
+    {
+      "url": "/ChopperLee2011/taskManager"
+    },
+    {
+      "url": "/ChopperLee2011/csvUploader"
+    }
+  ],
+  "worksfor": "Wiredcraft",
+  "location": "Shanghai",
+  "fullname": "Chopper Lee",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/2529259?v=3&s=460",
+  "contribs": 867,
+  "orgs": []
+}

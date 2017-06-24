@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/georgelima",
+  "img": "https://avatars2.githubusercontent.com/u/16995184?v=3&s=460",
+  "uid": 16995184,
+  "repos": 15,
+  "stars": 126,
+  "followers": 7,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/georgelima/DeliveryApp"
+    },
+    {
+      "url": "/georgelima/Conway-s-Game-of-Life"
+    },
+    {
+      "url": "/georgelima/React-Twit"
+    },
+    {
+      "url": "/georgelima/MegaMean"
+    },
+    {
+      "url": "/georgelima/G3InfoSys"
+    },
+    {
+      "url": "/georgelima/react-redux-todo"
+    }
+  ],
+  "worksfor": "@Astrocoders",
+  "location": "Parnaíba - PI, BR",
+  "fullname": "George Lima",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/16995184?v=3&s=460",
+  "contribs": 151,
+  "orgs": [
+    {
+      "Astrocoders": "https://avatars2.githubusercontent.com/u/14410490?v=3&s=70"
+    }
+  ]
+}

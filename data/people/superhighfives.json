@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/superhighfives",
+  "img": "https://avatars2.githubusercontent.com/u/449385?v=3&s=460",
+  "uid": 449385,
+  "repos": 68,
+  "stars": 58,
+  "followers": 80,
+  "following": 29,
+  "pinned": [
+    {
+      "url": "/superhighfives/an-almost-static-stack"
+    },
+    {
+      "url": "/superhighfives/harp-gulp-browsersync-boilerplate"
+    },
+    {
+      "url": "/superhighfives/iwnlyg"
+    },
+    {
+      "url": "/superhighfives/react-three-playground"
+    },
+    {
+      "url": "/superhighfives/list-of-ingredients"
+    },
+    {
+      "url": "/superhighfives/charliegleason.com"
+    }
+  ],
+  "worksfor": "@heroku",
+  "location": "London, England",
+  "fullname": "Charlie Gleason",
+  "website": "http://charliegleason.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/449385?v=3&s=460",
+  "contribs": 1650,
+  "orgs": [
+    {
+      "goodfilms": "https://avatars1.githubusercontent.com/u/1501798?v=3&s=70"
+    }
+  ]
+}

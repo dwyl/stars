@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/cstcyr",
+  "img": "https://avatars1.githubusercontent.com/u/57205?v=3&s=460",
+  "uid": 57205,
+  "repos": 5,
+  "stars": 144,
+  "followers": 2,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/cstcyr/webpytest"
+    },
+    {
+      "url": "/cstcyr/libopencm3-nucleo-f303re"
+    },
+    {
+      "url": "/cstcyr/echobot"
+    },
+    {
+      "url": "/cstcyr/python-websockets-example"
+    },
+    {
+      "url": "/cstcyr/SmartThingsPublic"
+    }
+  ],
+  "worksfor": "",
+  "location": "Waltham, MA",
+  "fullname": "Christian St. Cyr",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/57205?v=3&s=460",
+  "contribs": 10,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jamesmorgan",
+  "img": "https://avatars1.githubusercontent.com/u/110869?v=3&s=460",
+  "uid": 110869,
+  "repos": 56,
+  "stars": 783,
+  "followers": 26,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/jamesmorgan/ReloadablePropertiesAnnotation"
+    },
+    {
+      "url": "/jamesmorgan/AndroidWeatherSlider"
+    },
+    {
+      "url": "/jamesmorgan/github-explorer"
+    },
+    {
+      "url": "/jamesmorgan/devicecast"
+    },
+    {
+      "url": "/jamesmorgan/ethertel"
+    },
+    {
+      "url": "/akka/reactive-kafka"
+    }
+  ],
+  "worksfor": "JEMorgan Solutions Ltd",
+  "location": "UK - Manchester",
+  "fullname": "James Morgan",
+  "website": "http://jem-solutions.ltd",
+  "avatar": "https://avatars1.githubusercontent.com/u/110869?v=3&s=460",
+  "contribs": 2007,
+  "orgs": []
+}

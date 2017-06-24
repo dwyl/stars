@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Jerry-Lau",
+  "img": "https://avatars1.githubusercontent.com/u/6822007?v=3&s=460",
+  "uid": 6822007,
+  "repos": 29,
+  "stars": 253,
+  "followers": 10,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/Jerry-Lau/the-way-to-programmer"
+    },
+    {
+      "url": "/Jerry-Lau/jerry-lau.github.io"
+    },
+    {
+      "url": "/Jerry-Lau/webpack-async-loading-demo"
+    },
+    {
+      "url": "/Jerry-Lau/balloon.css"
+    },
+    {
+      "url": "/Jerry-Lau/react-router-tutorial"
+    },
+    {
+      "url": "/Jerry-Lau/react-hot-loader-with-webpack2"
+    }
+  ],
+  "worksfor": "",
+  "location": "Shanghai, China",
+  "fullname": "jerry lau",
+  "website": "http://github.com/jerrylau",
+  "avatar": "https://avatars1.githubusercontent.com/u/6822007?v=3&s=460",
+  "contribs": 12,
+  "orgs": []
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/felipexw",
+  "img": "https://avatars2.githubusercontent.com/u/4708822?v=3&s=460",
+  "uid": 4708822,
+  "repos": 30,
+  "stars": 427,
+  "followers": 67,
+  "following": 240,
+  "pinned": [
+    {
+      "url": "/tastejs/todomvc"
+    },
+    {
+      "url": "/Webschool-io/workshop-js-funcional-free"
+    },
+    {
+      "url": "/alexice/template-scala-parallel-svd-item-similarity"
+    },
+    {
+      "url": "/apache/incubator-predictionio-template-java-ecom-recommender"
+    },
+    {
+      "url": "/kashban/ionRangeSlider-Angular-Directive"
+    },
+    {
+      "url": "/koala-games/naturally"
+    }
+  ],
+  "worksfor": "@SeniorSA @koala-games",
+  "location": "Blumenau, Santa Catarina - Brasil",
+  "fullname": "Felipe Appio",
+  "website": "http://felipexw.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/4708822?v=3&s=460",
+  "contribs": 420,
+  "orgs": [
+    {
+      "SeniorSA": "https://avatars2.githubusercontent.com/u/15125392?v=3&s=70"
+    },
+    {
+      "koala-games": "https://avatars3.githubusercontent.com/u/21336560?v=3&s=70"
+    }
+  ]
+}

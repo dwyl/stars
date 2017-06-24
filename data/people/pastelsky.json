@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/pastelsky",
+  "img": "https://avatars0.githubusercontent.com/u/8946207?v=3&s=460",
+  "uid": 8946207,
+  "repos": 42,
+  "stars": 169,
+  "followers": 14,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/pastelsky/webpack.js.org"
+    },
+    {
+      "url": "/pastelsky/react-devtools"
+    },
+    {
+      "url": "/pastelsky/npm-cost"
+    },
+    {
+      "url": "/pastelsky/sort-class-members-codemod"
+    },
+    {
+      "url": "/pastelsky/mobx-promise"
+    },
+    {
+      "url": "/pastelsky/dust-loader-complete"
+    }
+  ],
+  "worksfor": "",
+  "location": "Bangalore",
+  "fullname": "Shubham Kanodia",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/8946207?v=3&s=460",
+  "contribs": 208,
+  "orgs": []
+}

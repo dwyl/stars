@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/45kb",
+  "img": "https://avatars2.githubusercontent.com/u/7761650?v=3&s=460",
+  "uid": 7761650,
+  "repos": 0,
+  "stars": 749,
+  "followers": 56,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/720kb/ndm"
+    },
+    {
+      "url": "/720kb/yogurl"
+    },
+    {
+      "url": "/720kb/highlighter.js"
+    },
+    {
+      "url": "/720kb/radiobox.css"
+    },
+    {
+      "url": "/720kb/butler"
+    },
+    {
+      "url": "/720kb/checkbox.css"
+    }
+  ],
+  "worksfor": "720kb",
+  "location": "motherboard",
+  "fullname": "Filippo",
+  "website": "http://720kb.net",
+  "avatar": "https://avatars2.githubusercontent.com/u/7761650?v=3&s=460",
+  "contribs": 2410,
+  "orgs": [
+    {
+      "720kb": "https://avatars0.githubusercontent.com/u/7762645?v=3&s=70"
+    },
+    {
+      "maintainers": "https://avatars1.githubusercontent.com/u/25333538?v=3&s=70"
+    }
+  ]
+}

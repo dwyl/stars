@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/kkemple",
+  "img": "https://avatars1.githubusercontent.com/u/3629876?v=3&s=460",
+  "uid": 3629876,
+  "repos": 78,
+  "stars": 437,
+  "followers": 61,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/paypal/glamorous"
+    },
+    {
+      "url": "/behave-ui/behave-ui-hotkeys"
+    },
+    {
+      "url": "/mac-/hapi-statsd"
+    },
+    {
+      "url": "/kkemple/awesome-enterprise-web-service"
+    },
+    {
+      "url": "/kkemple/hyperterm-duotone-darksea"
+    },
+    {
+      "url": "/kkemple/greenkeeper-keeper"
+    }
+  ],
+  "worksfor": "@majorleaguesoccer",
+  "location": "New Windsor, NY",
+  "fullname": "Kurtis Kemple",
+  "website": "https://twitter.com/kurtiskemple",
+  "avatar": "https://avatars1.githubusercontent.com/u/3629876?v=3&s=460",
+  "contribs": 1555,
+  "orgs": [
+    {
+      "majorleaguesoccer": "https://avatars3.githubusercontent.com/u/386658?v=3&s=70"
+    },
+    {
+      "marionettejs": "https://avatars2.githubusercontent.com/u/2273169?v=3&s=70"
+    },
+    {
+      "MarionetteLabs": "https://avatars3.githubusercontent.com/u/9302187?v=3&s=70"
+    },
+    {
+      "githubpartners": "https://avatars0.githubusercontent.com/u/9439117?v=3&s=70"
+    },
+    {
+      "releasable": "https://avatars1.githubusercontent.com/u/12375533?v=3&s=70"
+    }
+  ]
+}

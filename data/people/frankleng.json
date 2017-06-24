@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/frankleng",
+  "img": "https://avatars1.githubusercontent.com/u/6145910?v=3&s=460",
+  "uid": 6145910,
+  "repos": 23,
+  "stars": 363,
+  "followers": 8,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/frankleng/titanium-mobile-alasset-module"
+    },
+    {
+      "url": "/frankleng/underscore.string"
+    },
+    {
+      "url": "/frankleng/blog-articles"
+    },
+    {
+      "url": "/frankleng/dashboards"
+    },
+    {
+      "url": "/frankleng/react-starter-kit"
+    },
+    {
+      "url": "/frankleng/bootstrap-vertical-tabs"
+    }
+  ],
+  "worksfor": "Realstax",
+  "location": "Redwood City, CA",
+  "fullname": "Frank Leng",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/6145910?v=3&s=460",
+  "contribs": 2964,
+  "orgs": [
+    {
+      "Realstax": "https://avatars3.githubusercontent.com/u/16187034?v=3&s=70"
+    }
+  ]
+}

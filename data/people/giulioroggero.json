@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/giulioroggero",
+  "img": "https://avatars2.githubusercontent.com/u/642404?v=3&s=460",
+  "uid": 642404,
+  "repos": 8,
+  "stars": 267,
+  "followers": 7,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/giulioroggero/socialtest"
+    },
+    {
+      "url": "/giulioroggero/nodejsconf2012"
+    },
+    {
+      "url": "/giulioroggero/examples"
+    },
+    {
+      "url": "/giulioroggero/android-http-examples"
+    },
+    {
+      "url": "/giulioroggero/angular.js"
+    },
+    {
+      "url": "/giulioroggero/microservice_node_demo"
+    }
+  ],
+  "worksfor": "Intre Srl",
+  "location": "Milan",
+  "fullname": "Giulio Roggero",
+  "website": "http://www.intre.it",
+  "avatar": "https://avatars2.githubusercontent.com/u/642404?v=3&s=460",
+  "contribs": 2,
+  "orgs": [
+    {
+      "MakeItApp": "https://avatars0.githubusercontent.com/u/10514842?v=3&s=70"
+    },
+    {
+      "intresrl": "https://avatars1.githubusercontent.com/u/17220135?v=3&s=70"
+    }
+  ]
+}

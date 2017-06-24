@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/alexey-fut",
+  "img": "https://avatars3.githubusercontent.com/u/1798975?v=3&s=460",
+  "uid": 1798975,
+  "repos": 5,
+  "stars": 256,
+  "followers": 5,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/alexey-fut/FuturumAutoTest"
+    },
+    {
+      "url": "/alexey-fut/FS-QA"
+    },
+    {
+      "url": "/alexey-fut/omnipay-ideal"
+    },
+    {
+      "url": "/alexey-fut/docker-compose-ubuntu-apache-php"
+    },
+    {
+      "url": "/alexey-fut/docker-ubuntu-apache-php"
+    }
+  ],
+  "worksfor": "bInTime",
+  "location": "",
+  "fullname": "Alexey Trishin",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1798975?v=3&s=460",
+  "contribs": 9,
+  "orgs": []
+}

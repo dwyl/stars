@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mattiasewers",
+  "img": "https://avatars1.githubusercontent.com/u/4136218?v=3&s=460",
+  "uid": 4136218,
+  "repos": 14,
+  "stars": 134,
+  "followers": 1,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/mattiasewers/react-redux-universal-hot-example"
+    },
+    {
+      "url": "/mattiasewers/express-blog"
+    },
+    {
+      "url": "/mattiasewers/portfolio"
+    },
+    {
+      "url": "/mattiasewers/material-todo"
+    },
+    {
+      "url": "/mattiasewers/express-graphql"
+    },
+    {
+      "url": "/mattiasewers/meteor-todos-react-native-2"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Mattias Ewers",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/4136218?v=3&s=460",
+  "contribs": 67,
+  "orgs": []
+}

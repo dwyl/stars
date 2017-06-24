@@ -1,0 +1,35 @@
+{
+  "url": "https://github.com/d33d33",
+  "img": "https://avatars3.githubusercontent.com/u/6107881?v=3&s=460",
+  "uid": 6107881,
+  "repos": 42,
+  "stars": 67,
+  "followers": 22,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/runabove/metronome"
+    },
+    {
+      "url": "/d33d33/warp10-tour"
+    },
+    {
+      "url": "/StevenLeRoux/GoSlash"
+    },
+    {
+      "url": "/runabove/beamium"
+    }
+  ],
+  "worksfor": "@ovh",
+  "location": "France",
+  "fullname": "Kevin GEORGES",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/6107881?v=3&s=460",
+  "contribs": 856,
+  "orgs": [
+    {
+      "NInfolab": "https://avatars1.githubusercontent.com/u/10270712?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

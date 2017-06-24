@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/sce",
+  "img": "https://avatars1.githubusercontent.com/u/151892?v=3&s=460",
+  "uid": 151892,
+  "repos": 22,
+  "stars": 1000,
+  "followers": 15,
+  "following": 25,
+  "pinned": [
+    {
+      "url": "/sce/dotfiles"
+    },
+    {
+      "url": "/sce/veewee"
+    },
+    {
+      "url": "/sce/passenger-janitor"
+    },
+    {
+      "url": "/sce/exception_notification"
+    },
+    {
+      "url": "/sce/thor"
+    },
+    {
+      "url": "/sce/cap_gun"
+    }
+  ],
+  "worksfor": "",
+  "location": "Norway",
+  "fullname": "S. Christoffer Eliesen",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/151892?v=3&s=460",
+  "contribs": 75,
+  "orgs": []
+}

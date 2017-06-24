@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/mgocobachi",
+  "img": "https://avatars2.githubusercontent.com/u/585392?v=3&s=460",
+  "uid": 585392,
+  "repos": 9,
+  "stars": 118,
+  "followers": 3,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/mgocobachi/collection"
+    },
+    {
+      "url": "/mgocobachi/domaintools"
+    },
+    {
+      "url": "/mgocobachi/symfony-command-chaining"
+    },
+    {
+      "url": "/mgocobachi/valyria-rest"
+    },
+    {
+      "url": "/mgocobachi/urlgetty"
+    }
+  ],
+  "worksfor": "@ispottv",
+  "location": "Seattle, WA",
+  "fullname": "Miguel Gocobachi",
+  "website": "http://www.gocobachi.mx",
+  "avatar": "https://avatars2.githubusercontent.com/u/585392?v=3&s=460",
+  "contribs": 32,
+  "orgs": []
+}

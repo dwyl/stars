@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/mfpiccolo",
+  "img": "https://avatars1.githubusercontent.com/u/3249825?v=3&s=460",
+  "uid": 3249825,
+  "repos": 69,
+  "stars": 291,
+  "followers": 48,
+  "following": 51,
+  "pinned": [
+    {
+      "url": "/mfpiccolo/kindred"
+    },
+    {
+      "url": "/mfpiccolo/minitest-vcr"
+    },
+    {
+      "url": "/mfpiccolo/ember-cli-poll"
+    },
+    {
+      "url": "/mfpiccolo/pliable"
+    },
+    {
+      "url": "/mfpiccolo/self_systeem"
+    },
+    {
+      "url": "/mfpiccolo/t_bang"
+    }
+  ],
+  "worksfor": "FullStack Labs",
+  "location": "Sacramento",
+  "fullname": "Mike Piccolo",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/3249825?v=3&s=460",
+  "contribs": 1770,
+  "orgs": [
+    {
+      "fullstacklabs": "https://avatars0.githubusercontent.com/u/7991100?v=3&s=70"
+    }
+  ]
+}

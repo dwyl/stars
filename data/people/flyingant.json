@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/flyingant",
+  "img": "https://avatars0.githubusercontent.com/u/1773209?v=3&s=460",
+  "uid": 1773209,
+  "repos": 50,
+  "stars": 68,
+  "followers": 9,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/flyingant/react-scroll-to-component"
+    },
+    {
+      "url": "/flyingant/react-tiny-audio-player"
+    },
+    {
+      "url": "/flyingant/react-number-count-down"
+    },
+    {
+      "url": "/flyingant/SlotMachine"
+    },
+    {
+      "url": "/flyingant/react-storybook-boilerplate"
+    },
+    {
+      "url": "/flyingant/WII"
+    }
+  ],
+  "worksfor": "@Wiredcraft",
+  "location": "Wuhan, Shanghai",
+  "fullname": "Liu Cheng a.k.a MaYi",
+  "website": "http://www.flyingant.me/",
+  "avatar": "https://avatars0.githubusercontent.com/u/1773209?v=3&s=460",
+  "contribs": 1286,
+  "orgs": []
+}

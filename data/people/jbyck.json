@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jbyck",
+  "img": "https://avatars2.githubusercontent.com/u/82805?v=3&s=460",
+  "uid": 82805,
+  "repos": 115,
+  "stars": 418,
+  "followers": 13,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/jbyck/rack-attack-rate-limit"
+    },
+    {
+      "url": "/jbyck/fb_graph"
+    },
+    {
+      "url": "/jbyck/jekyll"
+    },
+    {
+      "url": "/jbyck/three20"
+    },
+    {
+      "url": "/jbyck/backup"
+    },
+    {
+      "url": "/jbyck/backbone"
+    }
+  ],
+  "worksfor": "@Updater",
+  "location": "New York, NY",
+  "fullname": "Jason Byck",
+  "website": "http://jasonbyck.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/82805?v=3&s=460",
+  "contribs": 12,
+  "orgs": [
+    {
+      "Updater": "https://avatars0.githubusercontent.com/u/7205807?v=3&s=70"
+    }
+  ]
+}

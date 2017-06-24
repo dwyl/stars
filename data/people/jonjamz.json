@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/jonjamz",
+  "img": "https://avatars1.githubusercontent.com/u/1040413?v=3&s=460",
+  "uid": 1040413,
+  "repos": 48,
+  "stars": 245,
+  "followers": 30,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/jonjamz/forms"
+    },
+    {
+      "url": "/jonjamz/reactive-object"
+    },
+    {
+      "url": "/jonjamz/amethyst"
+    },
+    {
+      "url": "/jonjamz/css3-gedit"
+    },
+    {
+      "url": "/jonjamz/meteor-vimeo"
+    },
+    {
+      "url": "/jonjamz/meteor-jquery-color-animation"
+    }
+  ],
+  "worksfor": "",
+  "location": "New York, NY",
+  "fullname": "Jonathan James",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1040413?v=3&s=460",
+  "contribs": 868,
+  "orgs": [
+    {
+      "writebot": "https://avatars0.githubusercontent.com/u/6093550?v=3&s=70"
+    },
+    {
+      "usetransfer": "https://avatars3.githubusercontent.com/u/7007725?v=3&s=70"
+    },
+    {
+      "meteortemplates": "https://avatars0.githubusercontent.com/u/10274126?v=3&s=70"
+    },
+    {
+      "buildhybrid": "https://avatars3.githubusercontent.com/u/10775032?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

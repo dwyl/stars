@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/kcparashar",
+  "img": "https://avatars2.githubusercontent.com/u/2582833?v=3&s=460",
+  "uid": 2582833,
+  "repos": 22,
+  "stars": 429,
+  "followers": 33,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/kcparashar/field-guides"
+    },
+    {
+      "url": "/kcparashar/amadeus"
+    },
+    {
+      "url": "/kcparashar/daguerre"
+    },
+    {
+      "url": "/field-guides/algorithms"
+    },
+    {
+      "url": "/field-guides/data-structures"
+    },
+    {
+      "url": "/kcparashar/bessie"
+    }
+  ],
+  "worksfor": "Atrus (@OCM), ACE (@ace-lab)",
+  "location": "Berkeley",
+  "fullname": "Krishna Parashar",
+  "website": "http://krishna.im",
+  "avatar": "https://avatars2.githubusercontent.com/u/2582833?v=3&s=460",
+  "contribs": 288,
+  "orgs": [
+    {
+      "HackBerkeley": "https://avatars1.githubusercontent.com/u/1137473?v=3&s=70"
+    },
+    {
+      "OCM": "https://avatars1.githubusercontent.com/u/6076491?v=3&s=70"
+    },
+    {
+      "field-guides": "https://avatars3.githubusercontent.com/u/17955543?v=3&s=70"
+    },
+    {
+      "ace-lab": "https://avatars1.githubusercontent.com/u/19541142?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

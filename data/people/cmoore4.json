@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/cmoore4",
+  "img": "https://avatars1.githubusercontent.com/u/311193?v=3&s=460",
+  "uid": 311193,
+  "repos": 23,
+  "stars": 71,
+  "followers": 11,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/cmoore4/phalcon-rest"
+    },
+    {
+      "url": "/cmoore4/Event"
+    },
+    {
+      "url": "/cmoore4/sqlparser"
+    },
+    {
+      "url": "/cmoore4/Facebook-Integration"
+    },
+    {
+      "url": "/cmoore4/Node_Personal"
+    },
+    {
+      "url": "/cmoore4/node-db-oracle"
+    }
+  ],
+  "worksfor": "LookFar",
+  "location": "New Orleans, LA",
+  "fullname": "Sean Moore",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/311193?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

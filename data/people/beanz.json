@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/beanz",
+  "img": "https://avatars0.githubusercontent.com/u/79058?v=3&s=460",
+  "uid": 79058,
+  "repos": 50,
+  "stars": 548,
+  "followers": 24,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/beanz/xpl-perl"
+    },
+    {
+      "url": "/beanz/celtic-knot-scad"
+    },
+    {
+      "url": "/beanz/anyevent-mqtt-perl"
+    },
+    {
+      "url": "/beanz/net-pachube-perl"
+    },
+    {
+      "url": "/beanz/net-mqtt-perl"
+    },
+    {
+      "url": "/beanz/device-rfxcom-perl"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Mark Hindess",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/79058?v=3&s=460",
+  "contribs": 12,
+  "orgs": []
+}

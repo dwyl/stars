@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/vdt",
+  "img": "https://avatars2.githubusercontent.com/u/1792491?v=3&s=460",
+  "uid": 1792491,
+  "repos": 838,
+  "stars": 1500,
+  "followers": 99,
+  "following": 2000,
+  "pinned": [
+    {
+      "url": "/vdt/deepdrive"
+    },
+    {
+      "url": "/vdt/Deep-Learning-Experiments"
+    },
+    {
+      "url": "/vdt/Deep-Learning-Papers-Reading-Roadmap"
+    },
+    {
+      "url": "/vdt/self-driving-car-sim"
+    },
+    {
+      "url": "/vdt/LaneLines-P1"
+    },
+    {
+      "url": "/vdt/Traffic-Signs-Classifier"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Vikram Dutt",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1792491?v=3&s=460",
+  "contribs": 111,
+  "orgs": []
+}

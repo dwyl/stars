@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/cristianp6",
+  "img": "https://avatars3.githubusercontent.com/u/233734?v=3&s=460",
+  "uid": 233734,
+  "repos": 10,
+  "stars": 937,
+  "followers": 8,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/cristianp6/slim-json-api-helper"
+    },
+    {
+      "url": "/cristianp6/WordPressFrameWork"
+    },
+    {
+      "url": "/cristianp6/PdoServiceProvider"
+    },
+    {
+      "url": "/cristianp6/TuxLiteHHVM"
+    },
+    {
+      "url": "/cristianp6/unirest-php"
+    },
+    {
+      "url": "/cristianp6/cookie-notice"
+    }
+  ],
+  "worksfor": "@quokky",
+  "location": "Udine, Italy ~ Montréal, Canada",
+  "fullname": "Cristian Pascottini",
+  "website": "http://cristian.pascottini.net",
+  "avatar": "https://avatars3.githubusercontent.com/u/233734?v=3&s=460",
+  "contribs": 135,
+  "orgs": [
+    {
+      "RuneAudio": "https://avatars0.githubusercontent.com/u/5805461?v=3&s=70"
+    },
+    {
+      "quokky": "https://avatars0.githubusercontent.com/u/14095509?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/michalkowol",
+  "img": "https://avatars0.githubusercontent.com/u/789841?v=3&s=460",
+  "uid": 789841,
+  "repos": 31,
+  "stars": 411,
+  "followers": 6,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/michalkowol/kotlin-spring-boot-template"
+    },
+    {
+      "url": "/michalkowol/sbt-template"
+    },
+    {
+      "url": "/michalkowol/spring-boot-template"
+    },
+    {
+      "url": "/michalkowol/kotlin-template"
+    },
+    {
+      "url": "/michalkowol/scaldi-learning"
+    },
+    {
+      "url": "/michalkowol/spray-angular-learning"
+    }
+  ],
+  "worksfor": "",
+  "location": "Warsaw, Poland",
+  "fullname": "Michał Kowol",
+  "website": "http://michalkowol.github.io/",
+  "avatar": "https://avatars0.githubusercontent.com/u/789841?v=3&s=460",
+  "contribs": 14,
+  "orgs": []
+}

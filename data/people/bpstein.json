@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bpstein",
+  "img": "https://avatars2.githubusercontent.com/u/6635967?v=3&s=460",
+  "uid": 6635967,
+  "repos": 99,
+  "stars": 13,
+  "followers": 12,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/bpstein/pg-platform"
+    },
+    {
+      "url": "/bpstein/stock-tracker"
+    },
+    {
+      "url": "/bpstein/html-waxtracks"
+    },
+    {
+      "url": "/bpstein/html-resume"
+    },
+    {
+      "url": "/bpstein/jQuery-hello-world"
+    },
+    {
+      "url": "/bpstein/html-google-clone"
+    }
+  ],
+  "worksfor": "",
+  "location": "Brisbane, Australia | London, UK",
+  "fullname": "Ben Stein",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/6635967?v=3&s=460",
+  "contribs": 247,
+  "orgs": []
+}

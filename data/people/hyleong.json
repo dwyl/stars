@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/hyleong",
+  "img": "https://avatars0.githubusercontent.com/u/1732966?v=3&s=460",
+  "uid": 1732966,
+  "repos": 30,
+  "stars": 913,
+  "followers": 7,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/hyleong/first_app"
+    },
+    {
+      "url": "/hyleong/MyfirstPrj"
+    },
+    {
+      "url": "/hyleong/angular-express-seed"
+    },
+    {
+      "url": "/hyleong/activity-lifecycle-demo"
+    },
+    {
+      "url": "/hyleong/NeteaseCloudMusic"
+    },
+    {
+      "url": "/hyleong/QiniuFile"
+    }
+  ],
+  "worksfor": "",
+  "location": "Shenzhen, China",
+  "fullname": "Vincent Liang",
+  "website": "http://www.hyleong.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1732966?v=3&s=460",
+  "contribs": 6,
+  "orgs": [
+    {
+      "typecho-fans": "https://avatars3.githubusercontent.com/u/5848121?v=3&s=70"
+    }
+  ]
+}

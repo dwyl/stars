@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/LukePammant",
+  "img": "https://avatars0.githubusercontent.com/u/3195300?v=3&s=460",
+  "uid": 3195300,
+  "repos": 7,
+  "stars": 30,
+  "followers": 1,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/LukePammant/pretty-logger"
+    },
+    {
+      "url": "/LukePammant/STDCheckerFree"
+    },
+    {
+      "url": "/LukePammant/NServiceBus"
+    },
+    {
+      "url": "/LukePammant/socket.io-java-client"
+    },
+    {
+      "url": "/LukePammant/node-basic-logger"
+    },
+    {
+      "url": "/LukePammant/tictactoe"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/3195300?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

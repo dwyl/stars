@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/g33kidd",
+  "img": "https://avatars1.githubusercontent.com/u/1161326?v=3&s=460",
+  "uid": 1161326,
+  "repos": 79,
+  "stars": 1200,
+  "followers": 40,
+  "following": 118,
+  "pinned": [
+    {
+      "url": "/g33kidd/resume"
+    },
+    {
+      "url": "/g33kidd/node-dropbox"
+    },
+    {
+      "url": "/g33kidd/crygame"
+    },
+    {
+      "url": "/g33kidd/fast-toot"
+    },
+    {
+      "url": "/g33kidd/Hut"
+    },
+    {
+      "url": "/g33kidd/phoenix-ember-blog"
+    }
+  ],
+  "worksfor": "@AlluringLabs",
+  "location": "Garden City, KS",
+  "fullname": "Joshua Kidd",
+  "website": "http://g33kidd.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1161326?v=3&s=460",
+  "contribs": 468,
+  "orgs": [
+    {
+      "AlluringLabs": "https://avatars0.githubusercontent.com/u/17056787?v=3&s=70"
+    }
+  ]
+}

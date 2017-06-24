@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/JoshMock",
+  "img": "https://avatars2.githubusercontent.com/u/160161?v=3&s=460",
+  "uid": 160161,
+  "repos": 29,
+  "stars": 311,
+  "followers": 36,
+  "following": 49,
+  "pinned": [
+    {
+      "url": "/JoshMock/Tumblr-Dashboard-RSS"
+    },
+    {
+      "url": "/JoshMock/backbone-socketio"
+    },
+    {
+      "url": "/JoshMock/dotfiles"
+    },
+    {
+      "url": "/JoshMock/hubot-lunchplans"
+    },
+    {
+      "url": "/JoshMock/react-experiment-boilerplate"
+    },
+    {
+      "url": "/JoshMock/turntable-fm-suggestions"
+    }
+  ],
+  "worksfor": "",
+  "location": "Nashville, Tennessee",
+  "fullname": "Josh Mock",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/160161?v=3&s=460",
+  "contribs": 53,
+  "orgs": [
+    {
+      "emmadev": "https://avatars0.githubusercontent.com/u/1168340?v=3&s=70"
+    },
+    {
+      "nashjs": "https://avatars3.githubusercontent.com/u/3789538?v=3&s=70"
+    }
+  ]
+}

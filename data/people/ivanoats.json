@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/ivanoats",
+  "img": "https://avatars1.githubusercontent.com/u/4672?v=3&s=460",
+  "uid": 4672,
+  "repos": 304,
+  "stars": 1900,
+  "followers": 245,
+  "following": 281,
+  "pinned": [
+    {
+      "url": "/ivanoats/jstools"
+    },
+    {
+      "url": "/ivanoats/secretkey"
+    },
+    {
+      "url": "/ivanoats/Full-Stack-JavaScript-Engineering"
+    },
+    {
+      "url": "/ivanoats/elm-brunch-starter"
+    },
+    {
+      "url": "/ivanoats/dsaJS"
+    },
+    {
+      "url": "/ivanoats/react-starter"
+    }
+  ],
+  "worksfor": "@aerobatic",
+  "location": "Seattle, Washington, USA",
+  "fullname": "Ivan Storck",
+  "website": "http://ivanstorck.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/4672?v=3&s=460",
+  "contribs": 267,
+  "orgs": [
+    {
+      "SustainableWebsites": "https://avatars3.githubusercontent.com/u/452080?v=3&s=70"
+    },
+    {
+      "UWE-Ruby": "https://avatars2.githubusercontent.com/u/1058639?v=3&s=70"
+    },
+    {
+      "codefellows": "https://avatars0.githubusercontent.com/u/3904529?v=3&s=70"
+    },
+    {
+      "UW-Advanced-Rails-2014": "https://avatars1.githubusercontent.com/u/7121289?v=3&s=70"
+    }
+  ]
+}

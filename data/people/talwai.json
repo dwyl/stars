@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/talwai",
+  "img": "https://avatars2.githubusercontent.com/u/3237580?v=3&s=460",
+  "uid": 3237580,
+  "repos": 35,
+  "stars": 132,
+  "followers": 15,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/talwai/py-enigma"
+    },
+    {
+      "url": "/talwai/docker-etcd-discovery"
+    },
+    {
+      "url": "/talwai/pycon-tracing-workshop"
+    },
+    {
+      "url": "/talwai/rapcountr"
+    },
+    {
+      "url": "/talwai/jygsaw"
+    },
+    {
+      "url": "/talwai/codeeval_solutions"
+    }
+  ],
+  "worksfor": "",
+  "location": "New York, NY",
+  "fullname": "Aaditya Talwai",
+  "website": "https://talwai.github.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/3237580?v=3&s=460",
+  "contribs": 588,
+  "orgs": []
+}

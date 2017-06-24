@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/matthewcopeland",
+  "img": "https://avatars2.githubusercontent.com/u/680626?v=3&s=460",
+  "uid": 680626,
+  "repos": 27,
+  "stars": 118,
+  "followers": 33,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/matthewcopeland/sassy-seeds"
+    },
+    {
+      "url": "/matthewcopeland/orbits"
+    },
+    {
+      "url": "/matthewcopeland/awayday"
+    },
+    {
+      "url": "/matthewcopeland/haml-server-site-template"
+    },
+    {
+      "url": "/matthewcopeland/symbiote"
+    },
+    {
+      "url": "/matthewcopeland/meyer-reset-plus"
+    }
+  ],
+  "worksfor": "FlightCar",
+  "location": "San Francisco",
+  "fullname": "matt copeland",
+  "website": "http://matthewcopeland.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/680626?v=3&s=460",
+  "contribs": 0,
+  "orgs": [
+    {
+      "thoughtworks": "https://avatars3.githubusercontent.com/u/18878?v=3&s=70"
+    },
+    {
+      "ThoughtWorksInc": "https://avatars0.githubusercontent.com/u/168376?v=3&s=70"
+    },
+    {
+      "SassySeeds": "https://avatars0.githubusercontent.com/u/2679436?v=3&s=70"
+    }
+  ]
+}

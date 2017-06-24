@@ -1,0 +1,62 @@
+{
+  "url": "https://github.com/gaboesquivel",
+  "img": "https://avatars3.githubusercontent.com/u/391270?v=3&s=460",
+  "uid": 391270,
+  "repos": 98,
+  "stars": 1400,
+  "followers": 99,
+  "following": 60,
+  "pinned": [
+    {
+      "url": "/gaboesquivel/atom-standardjs-snippets"
+    },
+    {
+      "url": "/versutus/the-awesome"
+    },
+    {
+      "url": "/yeoman/yo"
+    },
+    {
+      "url": "/gaboesquivel/jscodequality"
+    },
+    {
+      "url": "/mattdesl/module-best-practices"
+    },
+    {
+      "url": "/gaboesquivel/the-art-of-command-line"
+    }
+  ],
+  "worksfor": ";)",
+  "location": "Planet Earth",
+  "fullname": "Gabo Esquivel",
+  "website": "http://gaboesquivel.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/391270?v=3&s=460",
+  "contribs": 1034,
+  "orgs": [
+    {
+      "CostaRicaJS": "https://avatars3.githubusercontent.com/u/1588348?v=3&s=70"
+    },
+    {
+      "corticaltouch": "https://avatars0.githubusercontent.com/u/5045169?v=3&s=70"
+    },
+    {
+      "nodeschool": "https://avatars2.githubusercontent.com/u/5437587?v=3&s=70"
+    },
+    {
+      "latamjs": "https://avatars1.githubusercontent.com/u/12118182?v=3&s=70"
+    },
+    {
+      "devOpsCR": "https://avatars1.githubusercontent.com/u/13635689?v=3&s=70"
+    },
+    {
+      "versutus": "https://avatars1.githubusercontent.com/u/14093558?v=3&s=70"
+    },
+    {
+      "fullstackcr": "https://avatars3.githubusercontent.com/u/21266026?v=3&s=70"
+    },
+    {
+      "golangcr": "https://avatars3.githubusercontent.com/u/23666822?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

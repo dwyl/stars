@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/david-cahill",
+  "img": "https://avatars3.githubusercontent.com/u/8089200?v=3&s=460",
+  "uid": 8089200,
+  "repos": 34,
+  "stars": 70,
+  "followers": 9,
+  "following": 11,
+  "pinned": [
+    {
+      "url": "/david-cahill/react-authorization-example"
+    },
+    {
+      "url": "/david-cahill/ReactGallery"
+    },
+    {
+      "url": "/david-cahill/Microservices-with-React-Hapi-Seneca"
+    },
+    {
+      "url": "/david-cahill/React-MobX-RethinkDB-boilerplate"
+    },
+    {
+      "url": "/david-cahill/GoLang-vs-Node-benchmark"
+    },
+    {
+      "url": "/ag-digital/Vinder"
+    }
+  ],
+  "worksfor": "Copper Coast Technologies Ltd",
+  "location": "Waterford, Ireland",
+  "fullname": "David Cahill",
+  "website": "http://coppercoasttechnologies.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/8089200?v=3&s=460",
+  "contribs": 281,
+  "orgs": [
+    {
+      "CoderDojo": "https://avatars0.githubusercontent.com/u/1159537?v=3&s=70"
+    },
+    {
+      "nearform": "https://avatars3.githubusercontent.com/u/1544687?v=3&s=70"
+    }
+  ]
+}

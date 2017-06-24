@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/gcapnias",
+  "img": "https://avatars1.githubusercontent.com/u/101587?v=3&s=460",
+  "uid": 101587,
+  "repos": 9,
+  "stars": 204,
+  "followers": 6,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/gcapnias/SubSonic-3.0"
+    },
+    {
+      "url": "/gcapnias/SubSonic-3.0-Templates"
+    },
+    {
+      "url": "/gcapnias/Umbraco-GoogleMap-Editor"
+    },
+    {
+      "url": "/gcapnias/wwwroot"
+    },
+    {
+      "url": "/gcapnias/GooglemapMvc"
+    },
+    {
+      "url": "/gcapnias/Umbraco-NodeRestrict"
+    }
+  ],
+  "worksfor": "DotSee Web Services",
+  "location": "Athens, Greece",
+  "fullname": "George J. Capnias",
+  "website": "http://www.dot-see.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/101587?v=3&s=460",
+  "contribs": 18,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/cicerohen",
+  "img": "https://avatars0.githubusercontent.com/u/819041?v=3&s=460",
+  "uid": 819041,
+  "repos": 10,
+  "stars": 393,
+  "followers": 56,
+  "following": 43,
+  "pinned": [
+    {
+      "url": "/cicerohen/min-vue-setup"
+    },
+    {
+      "url": "/cicerohen/sensualizator"
+    },
+    {
+      "url": "/cicerohen/js-stack-from-scratch"
+    },
+    {
+      "url": "/cicerohen/keystonejs-theme-milligram"
+    },
+    {
+      "url": "/cicerohen/millihexo"
+    },
+    {
+      "url": "/cicerohen/webrtc-experiments"
+    }
+  ],
+  "worksfor": "NodeJS User Group Ceará",
+  "location": "Fortaleza, CE, Brazil",
+  "fullname": "Cícero Viana",
+  "website": "https://about.me/cicerohenrique",
+  "avatar": "https://avatars0.githubusercontent.com/u/819041?v=3&s=460",
+  "contribs": 68,
+  "orgs": []
+}

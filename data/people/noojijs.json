@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/noojijs",
+  "img": "https://avatars1.githubusercontent.com/u/16505146?v=3&s=460",
+  "uid": 16505146,
+  "repos": 7,
+  "stars": 3,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/noojijs/redux"
+    },
+    {
+      "url": "/noojijs/victory"
+    },
+    {
+      "url": "/noojijs/Rocket.Chat"
+    },
+    {
+      "url": "/noojijs/loopback-example-angular"
+    },
+    {
+      "url": "/noojijs/gh-emoji"
+    },
+    {
+      "url": "/noojijs/docker-s3fs"
+    }
+  ],
+  "worksfor": "noojimedia",
+  "location": "San Francisco, California",
+  "fullname": "David Waterson",
+  "website": "http://noojimedia.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/16505146?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

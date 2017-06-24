@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/johnnyzheng99",
+  "img": "https://avatars1.githubusercontent.com/u/1889386?v=3&s=460",
+  "uid": 1889386,
+  "repos": 27,
+  "stars": 394,
+  "followers": 3,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/johnnyzheng99/docker-nginx-php-prestashop"
+    },
+    {
+      "url": "/johnnyzheng99/docker-centos-nginx-php"
+    },
+    {
+      "url": "/johnnyzheng99/MagicalRecord"
+    },
+    {
+      "url": "/johnnyzheng99/JsonToDictionary"
+    },
+    {
+      "url": "/johnnyzheng99/protocolblocks"
+    },
+    {
+      "url": "/johnnyzheng99/CocoaPods-Specs"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "johnnyzheng",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1889386?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

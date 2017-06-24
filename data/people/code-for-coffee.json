@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/code-for-coffee",
+  "img": "https://avatars2.githubusercontent.com/u/1757078?v=3&s=460",
+  "uid": 1757078,
+  "repos": 213,
+  "stars": 180,
+  "followers": 150,
+  "following": 190,
+  "pinned": [
+    {
+      "url": "/code-for-coffee/junior-developer-interview-prep"
+    },
+    {
+      "url": "/code-for-coffee/IntroductionToHandlebars"
+    },
+    {
+      "url": "/GA-WDI/fundamentals"
+    },
+    {
+      "url": "/ga-chicago/digital-ocean-droplet-provisioning"
+    },
+    {
+      "url": "/code-for-coffee/gulp_workflows"
+    },
+    {
+      "url": "/code-for-coffee/webpack2-boilerplate"
+    }
+  ],
+  "worksfor": "Gogo, SME for General Assembly",
+  "location": "Chicago, IL",
+  "fullname": "James",
+  "website": "http://codeforcoffee.org",
+  "avatar": "https://avatars2.githubusercontent.com/u/1757078?v=3&s=460",
+  "contribs": 959,
+  "orgs": [
+    {
+      "ga-students": "https://avatars2.githubusercontent.com/u/5048067?v=3&s=70"
+    },
+    {
+      "pie-coding": "https://avatars1.githubusercontent.com/u/10918898?v=3&s=70"
+    },
+    {
+      "hyperpolyglot-ruby-js": "https://avatars0.githubusercontent.com/u/11873672?v=3&s=70"
+    },
+    {
+      "ga-chicago": "https://avatars2.githubusercontent.com/u/12513784?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

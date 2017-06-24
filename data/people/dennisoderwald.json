@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/dennisoderwald",
+  "img": "https://avatars3.githubusercontent.com/u/1653185?v=3&s=460",
+  "uid": 1653185,
+  "repos": 27,
+  "stars": 775,
+  "followers": 22,
+  "following": 34,
+  "pinned": [
+    {
+      "url": "/dennisoderwald/twitter-bootstrap-helper"
+    },
+    {
+      "url": "/dennisoderwald/Downloadify"
+    },
+    {
+      "url": "/dennisoderwald/SkyPlayer.bundle"
+    },
+    {
+      "url": "/dennisoderwald/PlexConnect"
+    },
+    {
+      "url": "/dennisoderwald/scubaclick-meta"
+    },
+    {
+      "url": "/dennisoderwald/Expedia-PHP-API"
+    }
+  ],
+  "worksfor": "comyo.media",
+  "location": "Hannover, Germany",
+  "fullname": "Dennis Oderwald",
+  "website": "http://comyo.media",
+  "avatar": "https://avatars3.githubusercontent.com/u/1653185?v=3&s=460",
+  "contribs": 20,
+  "orgs": [
+    {
+      "comyo-media": "https://avatars0.githubusercontent.com/u/1809614?v=3&s=70"
+    }
+  ]
+}

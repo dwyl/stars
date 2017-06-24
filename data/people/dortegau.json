@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/dortegau",
+  "img": "https://avatars0.githubusercontent.com/u/1285260?v=3&s=460",
+  "uid": 1285260,
+  "repos": 5,
+  "stars": 18,
+  "followers": 3,
+  "following": 5,
+  "pinned": [
+    {
+      "url": "/dortegau/jsonrpc4j"
+    },
+    {
+      "url": "/dortegau/prometheus_workshop"
+    },
+    {
+      "url": "/dortegau/HOCON"
+    },
+    {
+      "url": "/dortegau/TLSH"
+    },
+    {
+      "url": "/dortegau/image-match"
+    }
+  ],
+  "worksfor": "@idealista",
+  "location": "Madrid, Spain",
+  "fullname": "Daniel Ortega",
+  "website": "https://twitter.com/dortegau",
+  "avatar": "https://avatars0.githubusercontent.com/u/1285260?v=3&s=460",
+  "contribs": 129,
+  "orgs": []
+}

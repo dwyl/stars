@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Playermet",
+  "img": "https://avatars3.githubusercontent.com/u/5161474?v=3&s=460",
+  "uid": 5161474,
+  "repos": 38,
+  "stars": 2300,
+  "followers": 22,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/Playermet/luajit-tcc"
+    },
+    {
+      "url": "/Playermet/luajit-glfw"
+    },
+    {
+      "url": "/Playermet/luajit-iup"
+    },
+    {
+      "url": "/Playermet/luajit-gmp"
+    },
+    {
+      "url": "/Playermet/luajit-sqlite"
+    },
+    {
+      "url": "/Playermet/luajit-curl"
+    }
+  ],
+  "worksfor": "",
+  "location": "Makeevka",
+  "fullname": "Playermet",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/5161474?v=3&s=460",
+  "contribs": 27,
+  "orgs": []
+}

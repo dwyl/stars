@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mikestaub",
+  "img": "https://avatars3.githubusercontent.com/u/1254558?v=3&s=460",
+  "uid": 1254558,
+  "repos": 49,
+  "stars": 2000,
+  "followers": 71,
+  "following": 160,
+  "pinned": [
+    {
+      "url": "/mikestaub/vrdaisywheel"
+    },
+    {
+      "url": "/mikestaub/serverless-express"
+    },
+    {
+      "url": "/mikestaub/Ray-Tracer"
+    },
+    {
+      "url": "/mikestaub/Pascal-Compiler"
+    },
+    {
+      "url": "/mikestaub/interactiveKnightsTour"
+    },
+    {
+      "url": "/mikestaub/Evil-Snakes"
+    }
+  ],
+  "worksfor": "Autodesk",
+  "location": "San Francisco, CA",
+  "fullname": "Michael Staub",
+  "website": "http://www.michaelstaub.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1254558?v=3&s=460",
+  "contribs": 39,
+  "orgs": []
+}

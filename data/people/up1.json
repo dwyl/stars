@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/up1",
+  "img": "https://avatars0.githubusercontent.com/u/25113?v=3&s=460",
+  "uid": 25113,
+  "repos": 943,
+  "stars": 1500,
+  "followers": 226,
+  "following": 41,
+  "pinned": [
+    {
+      "url": "/up1/course_microservice_kmitl"
+    },
+    {
+      "url": "/up1/course-robotframework"
+    },
+    {
+      "url": "/up1/docker_101"
+    },
+    {
+      "url": "/up1/demo-service"
+    },
+    {
+      "url": "/up1/react-howto"
+    },
+    {
+      "url": "/up1/android-unittest"
+    }
+  ],
+  "worksfor": "SiamChumnankit",
+  "location": "Bangkok, Thailand",
+  "fullname": "Somkiat Puisungnoen",
+  "website": "http://www.somkiat.cc",
+  "avatar": "https://avatars0.githubusercontent.com/u/25113?v=3&s=460",
+  "contribs": 782,
+  "orgs": []
+}

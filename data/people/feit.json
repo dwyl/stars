@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/feit",
+  "img": "https://avatars3.githubusercontent.com/u/4183342?v=3&s=460",
+  "uid": 4183342,
+  "repos": 52,
+  "stars": 686,
+  "followers": 73,
+  "following": 59,
+  "pinned": [
+    {
+      "url": "/feit/WeixinBot"
+    },
+    {
+      "url": "/feit/wechat-server"
+    },
+    {
+      "url": "/feit/wechat-token"
+    },
+    {
+      "url": "/feit/youzan"
+    },
+    {
+      "url": "/feit/neau-login-helper"
+    },
+    {
+      "url": "/feit/dnhand"
+    }
+  ],
+  "worksfor": "Jser",
+  "location": "",
+  "fullname": "Teng Fei",
+  "website": "http://feit.me",
+  "avatar": "https://avatars3.githubusercontent.com/u/4183342?v=3&s=460",
+  "contribs": 58,
+  "orgs": [
+    {
+      "node-webot": "https://avatars1.githubusercontent.com/u/4167113?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

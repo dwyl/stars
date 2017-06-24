@@ -1,0 +1,34 @@
+{
+  "url": "https://github.com/cyrilschumacher",
+  "img": "https://avatars0.githubusercontent.com/u/4550089?v=3&s=460",
+  "uid": 4550089,
+  "repos": 28,
+  "stars": 459,
+  "followers": 8,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/cyrilschumacher/json-property-filter"
+    },
+    {
+      "url": "/cyrilschumacher/wrap-up"
+    },
+    {
+      "url": "/cyrilschumacher/prometheus-node-usage"
+    },
+    {
+      "url": "/arhs/spring-cache-mongodb"
+    }
+  ],
+  "worksfor": "",
+  "location": "France",
+  "fullname": "Cyril Schumacher",
+  "website": "http://www.cyrilschumacher.fr/",
+  "avatar": "https://avatars0.githubusercontent.com/u/4550089?v=3&s=460",
+  "contribs": 112,
+  "orgs": [
+    {
+      "arhs": "https://avatars2.githubusercontent.com/u/6001914?v=3&s=70"
+    }
+  ]
+}

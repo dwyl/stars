@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/iimos",
+  "img": "https://avatars3.githubusercontent.com/u/192335?v=3&s=460",
+  "uid": 192335,
+  "repos": 9,
+  "stars": 79,
+  "followers": 2,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/iimos/jquery"
+    },
+    {
+      "url": "/iimos/CodeIgniter-Dropbox-API-Library"
+    },
+    {
+      "url": "/iimos/nodejs-proxy"
+    },
+    {
+      "url": "/iimos/php-src"
+    },
+    {
+      "url": "/iimos/list.js"
+    },
+    {
+      "url": "/iimos/theme-apex"
+    }
+  ],
+  "worksfor": "",
+  "location": "Russia, Vladivostok",
+  "fullname": "Ilya Moskalev",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/192335?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

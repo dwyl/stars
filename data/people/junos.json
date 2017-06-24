@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/junos",
+  "img": "https://avatars1.githubusercontent.com/u/495098?v=3&s=460",
+  "uid": 495098,
+  "repos": 27,
+  "stars": 1200,
+  "followers": 7,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/quandl/quandl-python"
+    },
+    {
+      "url": "/openresty/lua-resty-limit-traffic"
+    },
+    {
+      "url": "/quandl/quandl-r"
+    },
+    {
+      "url": "/jbyck/rack-attack-rate-limit"
+    },
+    {
+      "url": "/quandl/qops"
+    },
+    {
+      "url": "/quandl/quandl-excel-windows"
+    }
+  ],
+  "worksfor": "",
+  "location": "Tortonto",
+  "fullname": "Jun Li",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/495098?v=3&s=460",
+  "contribs": 167,
+  "orgs": []
+}

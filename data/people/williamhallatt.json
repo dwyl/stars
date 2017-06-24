@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/williamhallatt",
+  "img": "https://avatars1.githubusercontent.com/u/2462770?v=3&s=460",
+  "uid": 2462770,
+  "repos": 23,
+  "stars": 50,
+  "followers": 12,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/williamhallatt/aspnet-core-webapi-jwt-auth-example"
+    },
+    {
+      "url": "/williamhallatt/qtscripts"
+    },
+    {
+      "url": "/williamhallatt/aspnet-core-webapi-policy-auth-example"
+    },
+    {
+      "url": "/williamhallatt/qtsettings"
+    },
+    {
+      "url": "/williamhallatt/SOLID"
+    },
+    {
+      "url": "/williamhallatt/antsim"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "William Hallatt",
+  "website": "http://goblincoding.com/about",
+  "avatar": "https://avatars1.githubusercontent.com/u/2462770?v=3&s=460",
+  "contribs": 39,
+  "orgs": []
+}

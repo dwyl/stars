@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/derfel",
+  "img": "https://avatars2.githubusercontent.com/u/350284?v=3&s=460",
+  "uid": 350284,
+  "repos": 8,
+  "stars": 286,
+  "followers": 2,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/derfel/netlink-notify"
+    },
+    {
+      "url": "/derfel/jsonrpc-serializer"
+    },
+    {
+      "url": "/derfel/node-netfilter"
+    },
+    {
+      "url": "/derfel/txjason"
+    },
+    {
+      "url": "/derfel/node-getopt-long"
+    },
+    {
+      "url": "/derfel/samplicator"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/350284?v=3&s=460",
+  "contribs": 403,
+  "orgs": []
+}

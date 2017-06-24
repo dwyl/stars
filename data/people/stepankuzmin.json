@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/stepankuzmin",
+  "img": "https://avatars1.githubusercontent.com/u/533564?v=3&s=460",
+  "uid": 533564,
+  "repos": 71,
+  "stars": 417,
+  "followers": 45,
+  "following": 92,
+  "pinned": [
+    {
+      "url": "/mapbox/mapbox-gl-js"
+    },
+    {
+      "url": "/urbica/galton"
+    },
+    {
+      "url": "/stepankuzmin/tilelive-postgis"
+    },
+    {
+      "url": "/urbica/gis-notebook"
+    },
+    {
+      "url": "/urbica/tessella"
+    },
+    {
+      "url": "/urbica/components"
+    }
+  ],
+  "worksfor": "Urbica Design",
+  "location": "Moscow",
+  "fullname": "Stepan Kuzmin",
+  "website": "http://stepankuzmin.ru",
+  "avatar": "https://avatars1.githubusercontent.com/u/533564?v=3&s=460",
+  "contribs": 871,
+  "orgs": [
+    {
+      "mystand": "https://avatars0.githubusercontent.com/u/2664240?v=3&s=70"
+    }
+  ]
+}

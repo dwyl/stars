@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jackhutu",
+  "img": "https://avatars3.githubusercontent.com/u/5661195?v=3&s=460",
+  "uid": 5661195,
+  "repos": 47,
+  "stars": 648,
+  "followers": 423,
+  "following": 87,
+  "pinned": [
+    {
+      "url": "/jackhutu/jackblog-vue"
+    },
+    {
+      "url": "/jackhutu/jackblog-api-express"
+    },
+    {
+      "url": "/jackhutu/jackblog-react"
+    },
+    {
+      "url": "/jackhutu/jackblog-api-koa"
+    },
+    {
+      "url": "/jackhutu/jackblog-angular2"
+    },
+    {
+      "url": "/jackhutu/jackblog-ionic2"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Jack Hu",
+  "website": "https://jackhu.top",
+  "avatar": "https://avatars3.githubusercontent.com/u/5661195?v=3&s=460",
+  "contribs": 299,
+  "orgs": []
+}

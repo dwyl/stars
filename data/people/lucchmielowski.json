@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/lucchmielowski",
+  "img": "https://avatars2.githubusercontent.com/u/7817585?v=3&s=460",
+  "uid": 7817585,
+  "repos": 7,
+  "stars": 72,
+  "followers": 10,
+  "following": 13,
+  "pinned": [
+    {
+      "url": "/lucchmielowski/NorrisBot"
+    },
+    {
+      "url": "/lucchmielowski/oh-my-zsh"
+    },
+    {
+      "url": "/lucchmielowski/go-chat-appengine"
+    },
+    {
+      "url": "/lucchmielowski/aws-mandelbrot"
+    },
+    {
+      "url": "/lucchmielowski/mandelbot"
+    },
+    {
+      "url": "/lucchmielowski/lshw-xml-saver"
+    }
+  ],
+  "worksfor": "Doctype",
+  "location": "Saint Michel Sur Orge, 91240 France",
+  "fullname": "Luc Chmielowski",
+  "website": "http:/luski.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/7817585?v=3&s=460",
+  "contribs": 574,
+  "orgs": []
+}

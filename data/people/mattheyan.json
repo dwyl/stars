@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/mattheyan",
+  "img": "https://avatars0.githubusercontent.com/u/300377?v=3&s=460",
+  "uid": 300377,
+  "repos": 15,
+  "stars": 25,
+  "followers": 12,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/mattheyan/jquery-cascading"
+    },
+    {
+      "url": "/mattheyan/jasmine"
+    },
+    {
+      "url": "/mattheyan/dotfiles"
+    },
+    {
+      "url": "/mattheyan/syntastic"
+    },
+    {
+      "url": "/mattheyan/todotxt.net"
+    },
+    {
+      "url": "/mattheyan/TodoApp"
+    }
+  ],
+  "worksfor": "VC3, Inc.",
+  "location": "Lexington, SC",
+  "fullname": "Bryan Matthews",
+  "website": "http://endlessobsession.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/300377?v=3&s=460",
+  "contribs": 259,
+  "orgs": [
+    {
+      "colacodedojo": "https://avatars1.githubusercontent.com/u/357345?v=3&s=70"
+    },
+    {
+      "vc3": "https://avatars2.githubusercontent.com/u/597443?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/acidsound",
+  "img": "https://avatars0.githubusercontent.com/u/623157?v=3&s=460",
+  "uid": 623157,
+  "repos": 123,
+  "stars": 293,
+  "followers": 42,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/acidsound/transplus"
+    },
+    {
+      "url": "/acidsound/goxcors"
+    },
+    {
+      "url": "/acidsound/meteor-material-design-lite"
+    },
+    {
+      "url": "/acidsound/korean_wordlist"
+    },
+    {
+      "url": "/acidsound/bootstrap-datepicker"
+    },
+    {
+      "url": "/acidsound/meteor-kakao"
+    }
+  ],
+  "worksfor": "Appsoulute",
+  "location": "seoul, korea",
+  "fullname": "LEE JAE HO",
+  "website": "http://spectrumdig.blogspot.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/623157?v=3&s=460",
+  "contribs": 492,
+  "orgs": [
+    {
+      "meteorkorea2015hackathon": "https://avatars1.githubusercontent.com/u/14288488?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/fsenart",
+  "img": "https://avatars2.githubusercontent.com/u/515714?v=3&s=460",
+  "uid": 515714,
+  "repos": 3,
+  "stars": 1700,
+  "followers": 37,
+  "following": 73,
+  "pinned": [
+    {
+      "url": "/eawsy/aws-lambda-go-shim"
+    },
+    {
+      "url": "/eawsy/aws-lambda-go"
+    },
+    {
+      "url": "/eawsy/aws-lambda-go-net"
+    }
+  ],
+  "worksfor": "",
+  "location": "$GOPATH",
+  "fullname": "Farzad Senart",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/515714?v=3&s=460",
+  "contribs": 674,
+  "orgs": [
+    {
+      "eawsy": "https://avatars1.githubusercontent.com/u/22616046?v=3&s=70"
+    }
+  ]
+}

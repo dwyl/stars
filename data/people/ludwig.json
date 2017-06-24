@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/ludwig",
+  "img": "https://avatars0.githubusercontent.com/u/1056?v=3&s=460",
+  "uid": 1056,
+  "repos": 21,
+  "stars": 3000,
+  "followers": 43,
+  "following": 75,
+  "pinned": [
+    {
+      "url": "/ludwig/dotfiles"
+    },
+    {
+      "url": "/ludwig/examples"
+    },
+    {
+      "url": "/ludwig/split-manpage.vim"
+    },
+    {
+      "url": "/ludwig/dotfiles.basic"
+    },
+    {
+      "url": "/ludwig/homebrew-misc"
+    },
+    {
+      "url": "/ludwig/OpenGL-101"
+    }
+  ],
+  "worksfor": "",
+  "location": "Pasadena, CA",
+  "fullname": "Luis Armendariz",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1056?v=3&s=460",
+  "contribs": 34,
+  "orgs": [
+    {
+      "nsplab": "https://avatars3.githubusercontent.com/u/1908789?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/drinkbird",
+  "img": "https://avatars3.githubusercontent.com/u/1180736?v=3&s=460",
+  "uid": 1180736,
+  "repos": 5,
+  "stars": 172,
+  "followers": 29,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/drinkbird/DrinkBird.Tools.AzureStorage"
+    },
+    {
+      "url": "/drinkbird/psake-experiments"
+    },
+    {
+      "url": "/drinkbird/AspnetMvcAngular"
+    },
+    {
+      "url": "/drinkbird/material2"
+    },
+    {
+      "url": "/drinkbird/Foq"
+    }
+  ],
+  "worksfor": "Software Engineer (M.Sc.), Full Stack Software Developer at Oneview Healthcare",
+  "location": "Dublin, Ireland",
+  "fullname": "Anastasios Piotopoulos",
+  "website": "http://drinkbird.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1180736?v=3&s=460",
+  "contribs": 9,
+  "orgs": []
+}

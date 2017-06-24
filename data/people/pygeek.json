@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/pygeek",
+  "img": "https://avatars0.githubusercontent.com/u/253664?v=3&s=460",
+  "uid": 253664,
+  "repos": 42,
+  "stars": 417,
+  "followers": 13,
+  "following": 12,
+  "pinned": [
+    {
+      "url": "/pygeek/PyInterstate"
+    },
+    {
+      "url": "/pygeek/django-thumbnail"
+    },
+    {
+      "url": "/pygeek/Rumpetroll"
+    },
+    {
+      "url": "/pygeek/servee"
+    },
+    {
+      "url": "/pygeek/mailsnake"
+    },
+    {
+      "url": "/pygeek/django"
+    }
+  ],
+  "worksfor": "",
+  "location": "Boston, MA",
+  "fullname": "Clinton Christian",
+  "website": "http://pygeek.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/253664?v=3&s=460",
+  "contribs": 291,
+  "orgs": [
+    {
+      "sessionm": "https://avatars0.githubusercontent.com/u/947482?v=3&s=70"
+    },
+    {
+      "cinch-inc": "https://avatars3.githubusercontent.com/u/9926117?v=3&s=70"
+    }
+  ]
+}

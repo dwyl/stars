@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/kodekracker",
+  "img": "https://avatars2.githubusercontent.com/u/1386835?v=3&s=460",
+  "uid": 1386835,
+  "repos": 23,
+  "stars": 874,
+  "followers": 46,
+  "following": 43,
+  "pinned": [
+    {
+      "url": "/kodekracker/Rotto-Links-Scraper"
+    },
+    {
+      "url": "/kodekracker/Image-Merging-API"
+    },
+    {
+      "url": "/kodekracker/Titiksha-website"
+    },
+    {
+      "url": "/kodekracker/Git-a-rec"
+    },
+    {
+      "url": "/kodekracker/sfd-smvdu"
+    },
+    {
+      "url": "/sindresorhus/semver-truncate"
+    }
+  ],
+  "worksfor": "91springboard",
+  "location": "New Delhi",
+  "fullname": "Akshay Pratap Singh",
+  "website": "http://www.akshayon.net",
+  "avatar": "https://avatars2.githubusercontent.com/u/1386835?v=3&s=460",
+  "contribs": 1356,
+  "orgs": [
+    {
+      "smvdu": "https://avatars1.githubusercontent.com/u/1404496?v=3&s=70"
+    }
+  ]
+}

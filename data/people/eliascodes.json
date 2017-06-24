@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/eliascodes",
+  "img": "https://avatars3.githubusercontent.com/u/12719553?v=3&s=460",
+  "uid": 12719553,
+  "repos": 10,
+  "stars": 40,
+  "followers": 22,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/dwyl/goodparts"
+    },
+    {
+      "url": "/foundersandcoders/how-am-I-doing"
+    },
+    {
+      "url": "/eliascodes/modload"
+    },
+    {
+      "url": "/foundersandcoders/workshop-client-side-design"
+    },
+    {
+      "url": "/eliascodes/learn-sicp"
+    },
+    {
+      "url": "/eliascodes/d3-demo-globe"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "Elias",
+  "website": "http://elias.codes",
+  "avatar": "https://avatars3.githubusercontent.com/u/12719553?v=3&s=460",
+  "contribs": 2765,
+  "orgs": [
+    {
+      "foundersandcoders": "https://avatars1.githubusercontent.com/u/9970257?v=3&s=70"
+    },
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ]
+}

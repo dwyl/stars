@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/mnquintana",
+  "img": "https://avatars3.githubusercontent.com/u/823545?v=3&s=460",
+  "uid": 823545,
+  "repos": 69,
+  "stars": 426,
+  "followers": 134,
+  "following": 77,
+  "pinned": [
+    {
+      "url": "/atom/atom"
+    },
+    {
+      "url": "/atom/about"
+    },
+    {
+      "url": "/electron/electron"
+    },
+    {
+      "url": "/electron/electron-compile"
+    },
+    {
+      "url": "/mnquintana/awesome-whiteboardless-interviews"
+    },
+    {
+      "url": "/atom/toggle-quotes"
+    }
+  ],
+  "worksfor": "Slack",
+  "location": "San Francisco, CA",
+  "fullname": "Machisté N. Quintana",
+  "website": "http://mnquintana.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/823545?v=3&s=460",
+  "contribs": 721,
+  "orgs": [
+    {
+      "atom": "https://avatars1.githubusercontent.com/u/1089146?v=3&s=70"
+    },
+    {
+      "Semantic-Org": "https://avatars0.githubusercontent.com/u/5796209?v=3&s=70"
+    },
+    {
+      "atom-community": "https://avatars2.githubusercontent.com/u/9948688?v=3&s=70"
+    },
+    {
+      "electron": "https://avatars0.githubusercontent.com/u/13409222?v=3&s=70"
+    }
+  ]
+}

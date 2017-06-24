@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/paulmcarrier",
+  "img": "https://avatars3.githubusercontent.com/u/6701068?v=3&s=460",
+  "uid": 6701068,
+  "repos": 6,
+  "stars": 23,
+  "followers": 3,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/paulmcarrier/OpsPlayground"
+    },
+    {
+      "url": "/paulmcarrier/OSXMgmtScripts"
+    },
+    {
+      "url": "/paulmcarrier/awsCookbook"
+    },
+    {
+      "url": "/paulmcarrier/dockerfiles"
+    },
+    {
+      "url": "/paulmcarrier/Scripts"
+    },
+    {
+      "url": "/paulmcarrier/dotfiles"
+    }
+  ],
+  "worksfor": "",
+  "location": "MA",
+  "fullname": "Paul Carrier",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/6701068?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

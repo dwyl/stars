@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Didericis",
+  "img": "https://avatars1.githubusercontent.com/u/6478250?v=3&s=460",
+  "uid": 6478250,
+  "repos": 31,
+  "stars": 89,
+  "followers": 14,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/Didericis/callpromise-mixin"
+    },
+    {
+      "url": "/Didericis/permissions-mixin"
+    },
+    {
+      "url": "/Didericis/nacho-mode"
+    },
+    {
+      "url": "/Didericis/png-lua"
+    },
+    {
+      "url": "/Didericis/png-view-oc"
+    },
+    {
+      "url": "/Didericis/mongo-backup-manager"
+    }
+  ],
+  "worksfor": "PatientWisdom",
+  "location": "New Haven, CT",
+  "fullname": "Eric Bauerfeld",
+  "website": "https://twitter.com/didericis",
+  "avatar": "https://avatars1.githubusercontent.com/u/6478250?v=3&s=460",
+  "contribs": 2354,
+  "orgs": []
+}

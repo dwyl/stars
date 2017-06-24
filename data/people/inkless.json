@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/inkless",
+  "img": "https://avatars1.githubusercontent.com/u/2149223?v=3&s=460",
+  "uid": 2149223,
+  "repos": 59,
+  "stars": 641,
+  "followers": 25,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/inkless/lebab-sublime"
+    },
+    {
+      "url": "/inkless/only-loader"
+    },
+    {
+      "url": "/inkless/html5-intro"
+    },
+    {
+      "url": "/inkless/mobile-boilerplate"
+    },
+    {
+      "url": "/inkless/node-db-migrator"
+    },
+    {
+      "url": "/inkless/speedtest"
+    }
+  ],
+  "worksfor": "ProsperWorks",
+  "location": "San Francisco",
+  "fullname": "Guangda Zhang",
+  "website": "https://www.zhangguangda.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/2149223?v=3&s=460",
+  "contribs": 310,
+  "orgs": [
+    {
+      "webenergy": "https://avatars1.githubusercontent.com/u/3224638?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://github.com/rderoldan1",
+  "img": "https://avatars0.githubusercontent.com/u/968973?v=3&s=460",
+  "uid": 968973,
+  "repos": 70,
+  "stars": 1300,
+  "followers": 85,
+  "following": 132,
+  "pinned": [
+    {
+      "url": "/rderoldan1/md_simple_editor"
+    },
+    {
+      "url": "/rderoldan1/usagewatch_ext"
+    },
+    {
+      "url": "/rderoldan1/learn-ruby"
+    },
+    {
+      "url": "/rderoldan1/financial_maths"
+    },
+    {
+      "url": "/rderoldan1/ruby_chat"
+    },
+    {
+      "url": "/rderoldan1/updater"
+    }
+  ],
+  "worksfor": "GAP",
+  "location": "Medellin, Colombia",
+  "fullname": "Ruben Espinosa",
+  "website": "http://hackhands.com/rderoldan1",
+  "avatar": "https://avatars0.githubusercontent.com/u/968973?v=3&s=460",
+  "contribs": 27,
+  "orgs": [
+    {
+      "Apolo-EAFIT": "https://avatars0.githubusercontent.com/u/697272?v=3&s=70"
+    },
+    {
+      "Thoughtwright-LLC": "https://avatars2.githubusercontent.com/u/865065?v=3&s=70"
+    },
+    {
+      "SpsLtda": "https://avatars3.githubusercontent.com/u/4078338?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

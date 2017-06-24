@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/manoelt",
+  "img": "https://avatars3.githubusercontent.com/u/731467?v=3&s=460",
+  "uid": 731467,
+  "repos": 10,
+  "stars": 148,
+  "followers": 5,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/manoelt/roadsec-web-1"
+    },
+    {
+      "url": "/manoelt/yii2-oauth2-server"
+    },
+    {
+      "url": "/manoelt/yii2-widget-cropbox"
+    },
+    {
+      "url": "/manoelt/desec"
+    },
+    {
+      "url": "/manoelt/yii2-noty"
+    },
+    {
+      "url": "/manoelt/ctf"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Manoel Abreu",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/731467?v=3&s=460",
+  "contribs": 31,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/zencephalon",
+  "img": "https://avatars1.githubusercontent.com/u/1297679?v=3&s=460",
+  "uid": 1297679,
+  "repos": 114,
+  "stars": 127,
+  "followers": 172,
+  "following": 110,
+  "pinned": [
+    {
+      "url": "/zencephalon/Tactful_Tokenizer"
+    },
+    {
+      "url": "/zencephalon/sinatra-mvc-skeleton"
+    },
+    {
+      "url": "/zencephalon/zencephalon-mt"
+    },
+    {
+      "url": "/zencephalon/zen-journal-mt"
+    },
+    {
+      "url": "/zencephalon/redux-rest-reducer"
+    },
+    {
+      "url": "/zencephalon/zwiki-client-react"
+    }
+  ],
+  "worksfor": "",
+  "location": "New York, NY",
+  "fullname": "Matthew Bunday",
+  "website": "http://zencephalon.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/1297679?v=3&s=460",
+  "contribs": 3056,
+  "orgs": [
+    {
+      "alumNY": "https://avatars3.githubusercontent.com/u/3222311?v=3&s=70"
+    }
+  ]
+}

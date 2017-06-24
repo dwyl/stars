@@ -1,0 +1,58 @@
+{
+  "url": "https://github.com/zambon",
+  "img": "https://avatars3.githubusercontent.com/u/110728?v=3&s=460",
+  "uid": 110728,
+  "repos": 45,
+  "stars": 517,
+  "followers": 22,
+  "following": 19,
+  "pinned": [
+    {
+      "url": "/zambon/gitignore"
+    },
+    {
+      "url": "/zambon/RedmineTimesheet"
+    },
+    {
+      "url": "/zambon/twitter.srch-old"
+    },
+    {
+      "url": "/zambon/vcard"
+    },
+    {
+      "url": "/zambon/testing-git"
+    },
+    {
+      "url": "/zambon/twitter.srch"
+    }
+  ],
+  "worksfor": "IBM",
+  "location": "Toronto, ON, Canada",
+  "fullname": "Henrique Zambon",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/110728?v=3&s=460",
+  "contribs": 64,
+  "orgs": [
+    {
+      "IMC3ofC": "https://avatars2.githubusercontent.com/u/4943503?v=3&s=70"
+    },
+    {
+      "hackspark": "https://avatars0.githubusercontent.com/u/12615558?v=3&s=70"
+    },
+    {
+      "sportshack": "https://avatars3.githubusercontent.com/u/13243249?v=3&s=70"
+    },
+    {
+      "the-samoyeds": "https://avatars3.githubusercontent.com/u/15071301?v=3&s=70"
+    },
+    {
+      "dswb": "https://avatars1.githubusercontent.com/u/15233733?v=3&s=70"
+    },
+    {
+      "datapalooza": "https://avatars3.githubusercontent.com/u/15635772?v=3&s=70"
+    },
+    {
+      "cognitiveclass": "https://avatars1.githubusercontent.com/u/15719167?v=3&s=70"
+    }
+  ]
+}

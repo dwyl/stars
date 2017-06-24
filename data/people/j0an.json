@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/j0an",
+  "img": "https://avatars1.githubusercontent.com/u/658334?v=3&s=460",
+  "uid": 658334,
+  "repos": 6,
+  "stars": 365,
+  "followers": 28,
+  "following": 56,
+  "pinned": [
+    {
+      "url": "/j0an/reciclario-api"
+    },
+    {
+      "url": "/j0an/setup"
+    },
+    {
+      "url": "/j0an/frontend-perf"
+    },
+    {
+      "url": "/j0an/mac-setup"
+    },
+    {
+      "url": "/j0an/urlify"
+    },
+    {
+      "url": "/j0an/en-pija"
+    }
+  ],
+  "worksfor": "Pixel2HTML",
+  "location": "Buenos Aires, Argentina",
+  "fullname": "Juan Manuel Garcia Olivares",
+  "website": "http://garciaolivares.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/658334?v=3&s=460",
+  "contribs": 194,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jameslk",
+  "img": "https://avatars1.githubusercontent.com/u/774411?v=3&s=460",
+  "uid": 774411,
+  "repos": 22,
+  "stars": 249,
+  "followers": 16,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/jameslk/awesome-falsehoods"
+    },
+    {
+      "url": "/jameslk/relatedjs"
+    },
+    {
+      "url": "/jameslk/eversync"
+    },
+    {
+      "url": "/jameslk/angular-validation-tools"
+    },
+    {
+      "url": "/jameslk/db_structure_ext"
+    },
+    {
+      "url": "/jameslk/intervalr"
+    }
+  ],
+  "worksfor": "",
+  "location": "Boulder, Colorado",
+  "fullname": "James Koshigoe",
+  "website": "http://jameskoshigoe.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/774411?v=3&s=460",
+  "contribs": 9,
+  "orgs": [
+    {
+      "SolidResolve": "https://avatars2.githubusercontent.com/u/6415979?v=3&s=70"
+    }
+  ]
+}

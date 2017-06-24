@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/markhu",
+  "img": "https://avatars2.githubusercontent.com/u/239803?v=3&s=460",
+  "uid": 239803,
+  "repos": 36,
+  "stars": 156,
+  "followers": 2,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/markhu/aCloudGuru-examples"
+    },
+    {
+      "url": "/markhu/groovyFizzBuzz"
+    },
+    {
+      "url": "/markhu/jenkins-scripts"
+    },
+    {
+      "url": "/markhu/sandbox"
+    },
+    {
+      "url": "/markhu/khttp"
+    },
+    {
+      "url": "/markhu/vertx-examples"
+    }
+  ],
+  "worksfor": "",
+  "location": "Los Angeles",
+  "fullname": "Mark",
+  "website": "http://markhu.github.io/",
+  "avatar": "https://avatars2.githubusercontent.com/u/239803?v=3&s=460",
+  "contribs": 90,
+  "orgs": [
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    }
+  ]
+}

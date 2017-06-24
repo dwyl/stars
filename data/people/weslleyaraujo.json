@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/weslleyaraujo",
+  "img": "https://avatars2.githubusercontent.com/u/2286385?v=3&s=460",
+  "uid": 2286385,
+  "repos": 59,
+  "stars": 753,
+  "followers": 151,
+  "following": 95,
+  "pinned": [
+    {
+      "url": "/zeit/hyper"
+    },
+    {
+      "url": "/gaearon/redux-thunk"
+    },
+    {
+      "url": "/weslleyaraujo/react-simon-says"
+    },
+    {
+      "url": "/weslleyaraujo/react-flux-puzzle"
+    },
+    {
+      "url": "/omnidan/redux-undo"
+    },
+    {
+      "url": "/weslleyaraujo/pokedux"
+    }
+  ],
+  "worksfor": "Booking.com",
+  "location": "Amsterdam",
+  "fullname": "Weslley Araujo",
+  "website": "http://weslleyaraujo.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/2286385?v=3&s=460",
+  "contribs": 142,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/codemarq",
+  "img": "https://avatars1.githubusercontent.com/u/13278647?v=3&s=460",
+  "uid": 13278647,
+  "repos": 48,
+  "stars": 3,
+  "followers": 3,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/codemarq/burgerFight"
+    },
+    {
+      "url": "/codemarq/briefOpinions"
+    },
+    {
+      "url": "/mr-attack/ExcelsiorProject"
+    },
+    {
+      "url": "/codemarq/friendFinder"
+    },
+    {
+      "url": "/codemarq/giphyAPI"
+    },
+    {
+      "url": "/codemarq/PythonAsteroids"
+    }
+  ],
+  "worksfor": "PerkinElmer, Inc",
+  "location": "Durham, NC USA",
+  "fullname": "John-Mike Marquardt",
+  "website": "http://www.jmmarquardt.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/13278647?v=3&s=460",
+  "contribs": 845,
+  "orgs": []
+}

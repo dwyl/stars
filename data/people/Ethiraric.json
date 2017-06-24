@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Ethiraric",
+  "img": "https://avatars3.githubusercontent.com/u/3604786?v=3&s=460",
+  "uid": 3604786,
+  "repos": 8,
+  "stars": 261,
+  "followers": 15,
+  "following": 35,
+  "pinned": [
+    {
+      "url": "/Ethiraric/ircbot"
+    },
+    {
+      "url": "/Ethiraric/moulinette-server"
+    },
+    {
+      "url": "/Ethiraric/Neutrinos"
+    },
+    {
+      "url": "/Ethiraric/libIRC"
+    },
+    {
+      "url": "/Ethiraric/libTrie"
+    },
+    {
+      "url": "/Ethiraric/raytracer"
+    }
+  ],
+  "worksfor": "",
+  "location": "France",
+  "fullname": "Florian SABOURIN",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3604786?v=3&s=460",
+  "contribs": 10,
+  "orgs": []
+}

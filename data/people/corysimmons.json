@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/corysimmons",
+  "img": "https://avatars3.githubusercontent.com/u/224636?v=3&s=460",
+  "uid": 224636,
+  "repos": 78,
+  "stars": 1400,
+  "followers": 415,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/corysimmons/postcss-ant"
+    },
+    {
+      "url": "/peterramsing/lost"
+    },
+    {
+      "url": "/mojotech/jeet"
+    },
+    {
+      "url": "/corysimmons/typographic"
+    },
+    {
+      "url": "/corysimmons/boy"
+    },
+    {
+      "url": "/corysimmons/picky.json"
+    }
+  ],
+  "worksfor": "",
+  "location": "Ashland, KY",
+  "fullname": "Cory Simmons",
+  "website": "https://corysimmons.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/224636?v=3&s=460",
+  "contribs": 535,
+  "orgs": [
+    {
+      "stylus": "https://avatars1.githubusercontent.com/u/10009463?v=3&s=70"
+    }
+  ]
+}

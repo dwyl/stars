@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/zachmanpro",
+  "img": "https://avatars3.githubusercontent.com/u/1438924?v=3&s=460",
+  "uid": 1438924,
+  "repos": 16,
+  "stars": 22,
+  "followers": 8,
+  "following": 12,
+  "pinned": [
+    {
+      "url": "/zachmanpro/Codeigniter-Clickatell-library"
+    },
+    {
+      "url": "/zachmanpro/CodeIgniter-Match"
+    },
+    {
+      "url": "/zachmanpro/phpCodeWeaver"
+    },
+    {
+      "url": "/zachmanpro/Smarty"
+    },
+    {
+      "url": "/zachmanpro/Behat"
+    },
+    {
+      "url": "/zachmanpro/vagrant"
+    }
+  ],
+  "worksfor": "Clickatell",
+  "location": "Cape Town",
+  "fullname": "Zachie du Bruyn",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1438924?v=3&s=460",
+  "contribs": 5,
+  "orgs": []
+}

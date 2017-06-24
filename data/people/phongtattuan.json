@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/phongtattuan",
+  "img": "https://avatars0.githubusercontent.com/u/6622800?v=3&s=460",
+  "uid": 6622800,
+  "repos": 32,
+  "stars": 978,
+  "followers": 21,
+  "following": 37,
+  "pinned": [
+    {
+      "url": "/phongtattuan/pouchdb-todos"
+    },
+    {
+      "url": "/phongtattuan/socket.io"
+    },
+    {
+      "url": "/phongtattuan/sails"
+    },
+    {
+      "url": "/phongtattuan/cocos2d-js"
+    },
+    {
+      "url": "/phongtattuan/ngbook"
+    },
+    {
+      "url": "/phongtattuan/sailsjs-angularjs"
+    }
+  ],
+  "worksfor": "",
+  "location": "HCM, Viet Nam",
+  "fullname": "Phong Tat",
+  "website": "https://twitter.com/phongtattuan",
+  "avatar": "https://avatars0.githubusercontent.com/u/6622800?v=3&s=460",
+  "contribs": 578,
+  "orgs": []
+}

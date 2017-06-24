@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/DannyFeliz",
+  "img": "https://avatars0.githubusercontent.com/u/5460365?v=3&s=460",
+  "uid": 5460365,
+  "repos": 68,
+  "stars": 147,
+  "followers": 27,
+  "following": 46,
+  "pinned": [
+    {
+      "url": "/DannyFeliz/dotfiles"
+    },
+    {
+      "url": "/DannyFeliz/laravel-find-js-localizations"
+    },
+    {
+      "url": "/DannyFeliz/Laravel5-PaypalIPN"
+    },
+    {
+      "url": "/DannyFeliz/Microscope"
+    },
+    {
+      "url": "/DannyFeliz/Vue-forum"
+    },
+    {
+      "url": "/DannyFeliz/Datos-Rep-Dom"
+    }
+  ],
+  "worksfor": "@mctekk",
+  "location": "Domincan Republic, Santo Domingo",
+  "fullname": "Danny Feliz",
+  "website": "http://dannyfeliz.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/5460365?v=3&s=460",
+  "contribs": 1331,
+  "orgs": [
+    {
+      "developersdo": "https://avatars3.githubusercontent.com/u/3752839?v=3&s=70"
+    },
+    {
+      "JavascriptDominicana": "https://avatars2.githubusercontent.com/u/6279506?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

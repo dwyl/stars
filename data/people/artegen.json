@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/artegen",
+  "img": "https://avatars2.githubusercontent.com/u/15657568?v=3&s=460",
+  "uid": 15657568,
+  "repos": 4,
+  "stars": 347,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/artegen/dotfiles"
+    },
+    {
+      "url": "/artegen/angular"
+    },
+    {
+      "url": "/artegen/react-apps"
+    },
+    {
+      "url": "/artegen/create-react-app"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/15657568?v=3&s=460",
+  "contribs": 32,
+  "orgs": []
+}

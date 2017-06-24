@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/simplyspoke",
+  "img": "https://avatars1.githubusercontent.com/u/6109101?v=3&s=460",
+  "uid": 6109101,
+  "repos": 16,
+  "stars": 107,
+  "followers": 4,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/AgeWell/agewell-core"
+    },
+    {
+      "url": "/simplyspoke/archiproject"
+    },
+    {
+      "url": "/log0ymxm/node-harvest"
+    },
+    {
+      "url": "/simplyspoke/spellbook"
+    },
+    {
+      "url": "/simplyspoke/twitch-stream"
+    },
+    {
+      "url": "/simplyspoke/website"
+    }
+  ],
+  "worksfor": "Simply Spoke",
+  "location": "Madison,WI",
+  "fullname": "Tristan Fitzgerald",
+  "website": "https://www.simplyspoke.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/6109101?v=3&s=460",
+  "contribs": 671,
+  "orgs": [
+    {
+      "AgeWell": "https://avatars2.githubusercontent.com/u/25827886?v=3&s=70"
+    }
+  ]
+}

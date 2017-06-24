@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/suissa",
+  "img": "https://avatars2.githubusercontent.com/u/75607?v=3&s=460",
+  "uid": 75607,
+  "repos": 526,
+  "stars": 1200,
+  "followers": 2300,
+  "following": 152,
+  "pinned": [
+    {
+      "url": "/Webschool-io/be-mean"
+    },
+    {
+      "url": "/Webschool-io/workshop-js-funcional-free"
+    },
+    {
+      "url": "/Webschool-io/matematica-para-programadores"
+    },
+    {
+      "url": "/suissa/Curso-refatoracao-para-js-funcional"
+    }
+  ],
+  "worksfor": "Webschool",
+  "location": "Curitiba - PR",
+  "fullname": "Jean Carlo Nascimento",
+  "website": "http://nomadev.com.br",
+  "avatar": "https://avatars2.githubusercontent.com/u/75607?v=3&s=460",
+  "contribs": 2781,
+  "orgs": [
+    {
+      "SampaJS": "https://avatars0.githubusercontent.com/u/2379161?v=3&s=70"
+    },
+    {
+      "wpbrasil": "https://avatars1.githubusercontent.com/u/3344909?v=3&s=70"
+    },
+    {
+      "Webschool-io": "https://avatars3.githubusercontent.com/u/7069979?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

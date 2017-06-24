@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/yuryb",
+  "img": "https://avatars3.githubusercontent.com/u/244289?v=3&s=460",
+  "uid": 244289,
+  "repos": 8,
+  "stars": 1200,
+  "followers": 14,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/yuryb/drex"
+    },
+    {
+      "url": "/yuryb/three.js"
+    },
+    {
+      "url": "/yuryb/mobidesk"
+    },
+    {
+      "url": "/yuryb/abstract-http-request"
+    },
+    {
+      "url": "/yuryb/pubnub-api"
+    },
+    {
+      "url": "/yuryb/sockjs-node"
+    }
+  ],
+  "worksfor": "infinery, Inc.",
+  "location": "San Diego, CA",
+  "fullname": "yury",
+  "website": "http://www.infinery.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/244289?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

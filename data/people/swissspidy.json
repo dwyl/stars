@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/swissspidy",
+  "img": "https://avatars1.githubusercontent.com/u/841956?v=3&s=460",
+  "uid": 841956,
+  "repos": 62,
+  "stars": 641,
+  "followers": 100,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/swissspidy/oEmbed-API"
+    },
+    {
+      "url": "/swissspidy/wptalents"
+    },
+    {
+      "url": "/swissspidy/disable-embeds"
+    },
+    {
+      "url": "/swissspidy/voice-search"
+    },
+    {
+      "url": "/swissspidy/keep-my-theme"
+    },
+    {
+      "url": "/swissspidy/inline-notes"
+    }
+  ],
+  "worksfor": "@wearerequired",
+  "location": "Zurich, Switzerland",
+  "fullname": "Pascal Birchler",
+  "website": "https://pascalbirchler.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/841956?v=3&s=460",
+  "contribs": 2998,
+  "orgs": [
+    {
+      "WordPress": "https://avatars0.githubusercontent.com/u/276006?v=3&s=70"
+    },
+    {
+      "wearerequired": "https://avatars3.githubusercontent.com/u/1446895?v=3&s=70"
+    }
+  ]
+}

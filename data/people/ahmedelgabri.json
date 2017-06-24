@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/ahmedelgabri",
+  "img": "https://avatars3.githubusercontent.com/u/63876?v=3&s=460",
+  "uid": 63876,
+  "repos": 107,
+  "stars": 1200,
+  "followers": 76,
+  "following": 152,
+  "pinned": [
+    {
+      "url": "/ahmedelgabri/dotfiles"
+    },
+    {
+      "url": "/ahmedelgabri/talks"
+    },
+    {
+      "url": "/webpack/webpack"
+    },
+    {
+      "url": "/kentcdodds/rtl-css-js"
+    },
+    {
+      "url": "/ahmedelgabri/knowledge"
+    },
+    {
+      "url": "/cssstats/core"
+    }
+  ],
+  "worksfor": "Lightspeed",
+  "location": "Amsterdam, Netherlands",
+  "fullname": "Ahmed El Gabri",
+  "website": "https://gabri.me",
+  "avatar": "https://avatars3.githubusercontent.com/u/63876?v=3&s=460",
+  "contribs": 2803,
+  "orgs": [
+    {
+      "merchantos": "https://avatars0.githubusercontent.com/u/530958?v=3&s=70"
+    },
+    {
+      "lightspeedretail": "https://avatars3.githubusercontent.com/u/737404?v=3&s=70"
+    },
+    {
+      "SEOshop": "https://avatars2.githubusercontent.com/u/5312265?v=3&s=70"
+    }
+  ]
+}

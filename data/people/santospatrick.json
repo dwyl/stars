@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/santospatrick",
+  "img": "https://avatars1.githubusercontent.com/u/13510169?v=3&s=460",
+  "uid": 13510169,
+  "repos": 10,
+  "stars": 45,
+  "followers": 5,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/santospatrick/santospatrick.github.io"
+    },
+    {
+      "url": "/santospatrick/boilerplate-npm"
+    },
+    {
+      "url": "/santospatrick/react-umd-boilerplate"
+    },
+    {
+      "url": "/santospatrick/mongo-restify-api"
+    },
+    {
+      "url": "/santospatrick/cli-minirpg"
+    },
+    {
+      "url": "/santospatrick/latlng-to-dms"
+    }
+  ],
+  "worksfor": "Agrotis Agroinformática",
+  "location": "Curitiba - PR",
+  "fullname": "Patrick Santos",
+  "website": "http://santospatrick.github.io/",
+  "avatar": "https://avatars1.githubusercontent.com/u/13510169?v=3&s=460",
+  "contribs": 161,
+  "orgs": [
+    {
+      "polvo-labs": "https://avatars1.githubusercontent.com/u/17828150?v=3&s=70"
+    },
+    {
+      "styleguide-plus": "https://avatars1.githubusercontent.com/u/22753628?v=3&s=70"
+    }
+  ]
+}

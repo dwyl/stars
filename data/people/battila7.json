@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/battila7",
+  "img": "https://avatars0.githubusercontent.com/u/11032092?v=3&s=460",
+  "uid": 11032092,
+  "repos": 26,
+  "stars": 532,
+  "followers": 11,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/battila7/cd2t-100"
+    },
+    {
+      "url": "/infectnet/infectnet-server"
+    },
+    {
+      "url": "/infectnet/infectnet-browser-frontend"
+    },
+    {
+      "url": "/battila7/burette"
+    },
+    {
+      "url": "/battila7/jield"
+    },
+    {
+      "url": "/battila7/nim-realworld-example-app"
+    }
+  ],
+  "worksfor": "",
+  "location": "Hungary",
+  "fullname": "Attila Bagossy",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/11032092?v=3&s=460",
+  "contribs": 1360,
+  "orgs": [
+    {
+      "infectnet": "https://avatars2.githubusercontent.com/u/22404572?v=3&s=70"
+    }
+  ]
+}

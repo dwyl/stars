@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/makotot",
+  "img": "https://avatars2.githubusercontent.com/u/1129027?v=3&s=460",
+  "uid": 1129027,
+  "repos": 141,
+  "stars": 2800,
+  "followers": 75,
+  "following": 57,
+  "pinned": [
+    {
+      "url": "/makotot/sidebar"
+    },
+    {
+      "url": "/makotot/react-scrollspy"
+    },
+    {
+      "url": "/makotot/scrollspy"
+    },
+    {
+      "url": "/makotot/eslint-rules-example"
+    },
+    {
+      "url": "/makotot/depen"
+    },
+    {
+      "url": "/makotot/angular-refresher"
+    }
+  ],
+  "worksfor": "",
+  "location": "Japan",
+  "fullname": "Makoto Tateno",
+  "website": "https://github.com/makotot",
+  "avatar": "https://avatars2.githubusercontent.com/u/1129027?v=3&s=460",
+  "contribs": 496,
+  "orgs": [
+    {
+      "assemble": "https://avatars0.githubusercontent.com/u/2645080?v=3&s=70"
+    },
+    {
+      "Semantic-Org": "https://avatars0.githubusercontent.com/u/5796209?v=3&s=70"
+    },
+    {
+      "medley-inc": "https://avatars1.githubusercontent.com/u/10985598?v=3&s=70"
+    },
+    {
+      "Tubehead": "https://avatars3.githubusercontent.com/u/16859218?v=3&s=70"
+    }
+  ]
+}

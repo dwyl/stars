@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/yoihito",
+  "img": "https://avatars2.githubusercontent.com/u/1703018?v=3&s=460",
+  "uid": 1703018,
+  "repos": 31,
+  "stars": 427,
+  "followers": 37,
+  "following": 138,
+  "pinned": [
+    {
+      "url": "/yoihito/hot-translate"
+    },
+    {
+      "url": "/yoihito/backpropagination-ocr"
+    },
+    {
+      "url": "/yoihito/multi-select"
+    },
+    {
+      "url": "/yoihito/tracker"
+    },
+    {
+      "url": "/yoihito/tracker-client"
+    },
+    {
+      "url": "/yoihito/maze-gen"
+    }
+  ],
+  "worksfor": "",
+  "location": "Belarus, Minsk",
+  "fullname": "Vadim Gribanov",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1703018?v=3&s=460",
+  "contribs": 880,
+  "orgs": [
+    {
+      "PhysicalGraph": "https://avatars2.githubusercontent.com/u/1829158?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

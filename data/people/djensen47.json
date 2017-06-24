@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/djensen47",
+  "img": "https://avatars0.githubusercontent.com/u/527865?v=3&s=460",
+  "uid": 527865,
+  "repos": 37,
+  "stars": 223,
+  "followers": 9,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/djensen47/AACalc"
+    },
+    {
+      "url": "/djensen47/hb-alpha-blog"
+    },
+    {
+      "url": "/djensen47/twisted-node-starter"
+    },
+    {
+      "url": "/djensen47/hb-alpha"
+    },
+    {
+      "url": "/djensen47/my-morning-coffee"
+    },
+    {
+      "url": "/djensen47/locomotive"
+    }
+  ],
+  "worksfor": "@BrewOpsHQ",
+  "location": "San Francisco, CA",
+  "fullname": "Dave Jensen",
+  "website": "http://twitter.com/djensen47",
+  "avatar": "https://avatars0.githubusercontent.com/u/527865?v=3&s=460",
+  "contribs": 65,
+  "orgs": [
+    {
+      "spokesoftware": "https://avatars2.githubusercontent.com/u/1264274?v=3&s=70"
+    },
+    {
+      "triplea-game": "https://avatars2.githubusercontent.com/u/13318615?v=3&s=70"
+    },
+    {
+      "BrewOpsHQ": "https://avatars2.githubusercontent.com/u/26475382?v=3&s=70"
+    }
+  ]
+}

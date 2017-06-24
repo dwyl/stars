@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/chimit",
+  "img": "https://avatars2.githubusercontent.com/u/839349?v=3&s=460",
+  "uid": 839349,
+  "repos": 12,
+  "stars": 56,
+  "followers": 9,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/chimit/slate"
+    },
+    {
+      "url": "/chimit/vuex"
+    },
+    {
+      "url": "/chimit/vue-router"
+    },
+    {
+      "url": "/chimit/emqttd"
+    },
+    {
+      "url": "/chimit/emq-dashboard"
+    },
+    {
+      "url": "/chimit/awesomo"
+    }
+  ],
+  "worksfor": "@Fusion-Next",
+  "location": "",
+  "fullname": "Chimit",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/839349?v=3&s=460",
+  "contribs": 79,
+  "orgs": []
+}

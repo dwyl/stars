@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/roquie",
+  "img": "https://avatars3.githubusercontent.com/u/3214290?v=3&s=460",
+  "uid": 3214290,
+  "repos": 54,
+  "stars": 676,
+  "followers": 12,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/tmconsulting/uniteller-php-sdk"
+    },
+    {
+      "url": "/tmconsulting/payum-uniteller-gateway"
+    },
+    {
+      "url": "/roquie/source-concater"
+    },
+    {
+      "url": "/roquie/laravel-perpage-resolver"
+    },
+    {
+      "url": "/roquie/laravel-dusk-select2"
+    },
+    {
+      "url": "/roquie/roskomnadzor"
+    }
+  ],
+  "worksfor": "",
+  "location": "Moscow",
+  "fullname": "Max",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3214290?v=3&s=460",
+  "contribs": 153,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ivieira",
+  "img": "https://avatars0.githubusercontent.com/u/1776172?v=3&s=460",
+  "uid": 1776172,
+  "repos": 11,
+  "stars": 40,
+  "followers": 0,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/ivieira/books-api-nodejs"
+    },
+    {
+      "url": "/ivieira/books-api-spring"
+    },
+    {
+      "url": "/ivieira/ntask-api"
+    },
+    {
+      "url": "/ivieira/server-side-development-with-nodejs-coursera"
+    },
+    {
+      "url": "/ivieira/socket.io-chat"
+    },
+    {
+      "url": "/ivieira/functional-programming-principles-in-scala-coursera"
+    }
+  ],
+  "worksfor": "",
+  "location": "Brasília, Brazil",
+  "fullname": "Igor Vieira",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1776172?v=3&s=460",
+  "contribs": 69,
+  "orgs": []
+}

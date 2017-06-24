@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/leemour",
+  "img": "https://avatars3.githubusercontent.com/u/710919?v=3&s=460",
+  "uid": 710919,
+  "repos": 22,
+  "stars": 587,
+  "followers": 23,
+  "following": 64,
+  "pinned": [
+    {
+      "url": "/leemour/underflow"
+    },
+    {
+      "url": "/leemour/medilines"
+    },
+    {
+      "url": "/leemour/codeeval"
+    },
+    {
+      "url": "/leemour/non_ascii"
+    },
+    {
+      "url": "/leemour/lenstroy"
+    },
+    {
+      "url": "/leemour/jet_rails"
+    }
+  ],
+  "worksfor": "Riabit",
+  "location": "St-Petersburg, Russia",
+  "fullname": "Slava Ptsarev",
+  "website": "http://riabit.ru",
+  "avatar": "https://avatars3.githubusercontent.com/u/710919?v=3&s=460",
+  "contribs": 5,
+  "orgs": [
+    {
+      "Riabit": "https://avatars1.githubusercontent.com/u/2469513?v=3&s=70"
+    }
+  ]
+}

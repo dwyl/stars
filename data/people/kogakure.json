@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/kogakure",
+  "img": "https://avatars1.githubusercontent.com/u/5535?v=3&s=460",
+  "uid": 5535,
+  "repos": 18,
+  "stars": 417,
+  "followers": 78,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/kogakure/gitweb-theme"
+    },
+    {
+      "url": "/kogakure/gulp-tutorial"
+    },
+    {
+      "url": "/kogakure/hugo-stefanimhoff.de"
+    },
+    {
+      "url": "/kogakure/jekyll-stefanimhoff.de"
+    },
+    {
+      "url": "/kogakure/jekyll-kogakure.de"
+    },
+    {
+      "url": "/kogakure/dotfiles"
+    }
+  ],
+  "worksfor": "XING",
+  "location": "Hamburg, Germany",
+  "fullname": "Stefan Imhoff",
+  "website": "http://stefanimhoff.de/",
+  "avatar": "https://avatars1.githubusercontent.com/u/5535?v=3&s=460",
+  "contribs": 429,
+  "orgs": [
+    {
+      "xing": "https://avatars3.githubusercontent.com/u/27901?v=3&s=70"
+    }
+  ]
+}

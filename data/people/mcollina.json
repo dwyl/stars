@@ -1,0 +1,55 @@
+{
+  "url": "https://github.com/mcollina",
+  "img": "https://avatars3.githubusercontent.com/u/52195?v=3&s=460",
+  "uid": 52195,
+  "repos": 368,
+  "stars": 4200,
+  "followers": 1400,
+  "following": 308,
+  "pinned": [
+    {
+      "url": "/nodejs/node"
+    },
+    {
+      "url": "/mqttjs/MQTT.js"
+    },
+    {
+      "url": "/mcollina/mosca"
+    },
+    {
+      "url": "/levelgraph/levelgraph"
+    },
+    {
+      "url": "/pinojs/pino"
+    },
+    {
+      "url": "/mcollina/autocannon"
+    }
+  ],
+  "worksfor": "",
+  "location": "In the clouds above Italy",
+  "fullname": "Matteo Collina",
+  "website": "http://matteocollina.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/52195?v=3&s=460",
+  "contribs": 2986,
+  "orgs": [
+    {
+      "nearform": "https://avatars3.githubusercontent.com/u/1544687?v=3&s=70"
+    },
+    {
+      "Level": "https://avatars0.githubusercontent.com/u/4276205?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "mqttjs": "https://avatars1.githubusercontent.com/u/10424911?v=3&s=70"
+    },
+    {
+      "pinojs": "https://avatars3.githubusercontent.com/u/23048140?v=3&s=70"
+    },
+    {
+      "upringjs": "https://avatars1.githubusercontent.com/u/27014358?v=3&s=70"
+    }
+  ]
+}

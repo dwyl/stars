@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/jlouazel",
+  "img": "https://avatars3.githubusercontent.com/u/2803310?v=3&s=460",
+  "uid": 2803310,
+  "repos": 20,
+  "stars": 117,
+  "followers": 23,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/jlouazel/mazejs"
+    },
+    {
+      "url": "/streamroot/videojs-quality-picker"
+    },
+    {
+      "url": "/jlouazel/package-json-webpack-plugin"
+    },
+    {
+      "url": "/streamroot/hlsjs-p2p-wrapper"
+    },
+    {
+      "url": "/jlouazel/euler"
+    },
+    {
+      "url": "/jlouazel/zhappy"
+    }
+  ],
+  "worksfor": "@streamroot",
+  "location": "Paris, France",
+  "fullname": "Jean-Baptiste Louazel",
+  "website": "https://about.me/jlouazel",
+  "avatar": "https://avatars3.githubusercontent.com/u/2803310?v=3&s=460",
+  "contribs": 3154,
+  "orgs": [
+    {
+      "canalplus": "https://avatars1.githubusercontent.com/u/2371279?v=3&s=70"
+    },
+    {
+      "streamroot": "https://avatars0.githubusercontent.com/u/5428240?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

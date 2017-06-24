@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/gellu",
+  "img": "https://avatars3.githubusercontent.com/u/1087156?v=3&s=460",
+  "uid": 1087156,
+  "repos": 9,
+  "stars": 4,
+  "followers": 10,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/gellu/sendy-api"
+    },
+    {
+      "url": "/gellu/godaddy-api-client"
+    },
+    {
+      "url": "/gellu/squash"
+    },
+    {
+      "url": "/gellu/ZL-coding-standard"
+    },
+    {
+      "url": "/gellu/postmark-box-app"
+    },
+    {
+      "url": "/gellu/helpscout-geckoboard"
+    }
+  ],
+  "worksfor": "DocPlanner",
+  "location": "Warsaw, Poland",
+  "fullname": "Grzegorz Krysiak",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1087156?v=3&s=460",
+  "contribs": 23,
+  "orgs": [
+    {
+      "ZnanyLekarz": "https://avatars2.githubusercontent.com/u/2213600?v=3&s=70"
+    }
+  ]
+}

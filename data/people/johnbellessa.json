@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/johnbellessa",
+  "img": "https://avatars2.githubusercontent.com/u/917976?v=3&s=460",
+  "uid": 917976,
+  "repos": 11,
+  "stars": 62,
+  "followers": 7,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/johnbellessa/romannumerals"
+    },
+    {
+      "url": "/johnbellessa/nimbus_metrics"
+    },
+    {
+      "url": "/johnbellessa/protractor"
+    },
+    {
+      "url": "/johnbellessa/SDN-IVN"
+    },
+    {
+      "url": "/johnbellessa/pycsp"
+    },
+    {
+      "url": "/johnbellessa/python-graph"
+    }
+  ],
+  "worksfor": "IBM",
+  "location": "Somerville, MA",
+  "fullname": "John Bellessa",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/917976?v=3&s=460",
+  "contribs": 31,
+  "orgs": []
+}

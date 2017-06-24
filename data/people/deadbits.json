@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/deadbits",
+  "img": "https://avatars3.githubusercontent.com/u/1332757?v=3&s=460",
+  "uid": 1332757,
+  "repos": 87,
+  "stars": 1100,
+  "followers": 142,
+  "following": 178,
+  "pinned": [
+    {
+      "url": "/deadbits/shells"
+    },
+    {
+      "url": "/deadbits/malware-analysis-scripts"
+    },
+    {
+      "url": "/zeroharbor/detux-api"
+    },
+    {
+      "url": "/deadbits/slackbot-framework"
+    },
+    {
+      "url": "/deadbits/ubuntu-bootstrap"
+    },
+    {
+      "url": "/deadbits/ESM_rebuild"
+    }
+  ],
+  "worksfor": "@zeroharbor",
+  "location": "D.C. metro",
+  "fullname": "Adam M. Swanda",
+  "website": "http://www.deadbits.org",
+  "avatar": "https://avatars3.githubusercontent.com/u/1332757?v=3&s=460",
+  "contribs": 221,
+  "orgs": [],
+  "developerprogram": true
+}

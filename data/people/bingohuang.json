@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/bingohuang",
+  "img": "https://avatars0.githubusercontent.com/u/3715340?v=3&s=460",
+  "uid": 3715340,
+  "repos": 37,
+  "stars": 386,
+  "followers": 114,
+  "following": 60,
+  "pinned": [
+    {
+      "url": "/bingohuang/progit2-gitbook"
+    },
+    {
+      "url": "/bingohuang/effective-go-zh-en"
+    },
+    {
+      "url": "/bingohuang/play-docker-images"
+    },
+    {
+      "url": "/bingohuang/spring-boot-docker"
+    },
+    {
+      "url": "/bingohuang/talks"
+    },
+    {
+      "url": "/bingohuang/docker-labs"
+    }
+  ],
+  "worksfor": "@NetEase",
+  "location": "Hangzhou,China",
+  "fullname": "Bingo Huang",
+  "website": "http://bingohuang.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/3715340?v=3&s=460",
+  "contribs": 356,
+  "orgs": [
+    {
+      "NetEase": "https://avatars0.githubusercontent.com/u/1460597?v=3&s=70"
+    },
+    {
+      "Go-zh": "https://avatars1.githubusercontent.com/u/9815987?v=3&s=70"
+    },
+    {
+      "163yun": "https://avatars3.githubusercontent.com/u/21099191?v=3&s=70"
+    },
+    {
+      "gohz": "https://avatars1.githubusercontent.com/u/24364053?v=3&s=70"
+    }
+  ]
+}

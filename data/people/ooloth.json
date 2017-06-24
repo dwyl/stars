@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/ooloth",
+  "img": "https://avatars0.githubusercontent.com/u/625364?v=3&s=460",
+  "uid": 625364,
+  "repos": 4,
+  "stars": 16,
+  "followers": 0,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/ooloth/Spoon-Knife"
+    },
+    {
+      "url": "/ooloth/frontend-nanodegree-resume"
+    },
+    {
+      "url": "/ooloth/compositor-test"
+    },
+    {
+      "url": "/ooloth/data"
+    }
+  ],
+  "worksfor": "",
+  "location": "Toronto, Canada",
+  "fullname": "Michael Uloth",
+  "website": "http://michaeluloth.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/625364?v=3&s=460",
+  "contribs": 10,
+  "orgs": []
+}

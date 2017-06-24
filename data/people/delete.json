@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/delete",
+  "img": "https://avatars3.githubusercontent.com/u/434694?v=3&s=460",
+  "uid": 434694,
+  "repos": 52,
+  "stars": 88,
+  "followers": 21,
+  "following": 26,
+  "pinned": [
+    {
+      "url": "/rfunix/Pompem"
+    },
+    {
+      "url": "/mazulo/django_groups_-_initial_steps"
+    },
+    {
+      "url": "/dunderlabs/pygalume"
+    },
+    {
+      "url": "/delete/estofadora"
+    },
+    {
+      "url": "/delete/django_server_setup"
+    },
+    {
+      "url": "/delete/lab"
+    }
+  ],
+  "worksfor": "Alterdata Software",
+  "location": "Teresópolis",
+  "fullname": "Fellipe Pinheiro",
+  "website": "http://delete.github.io/",
+  "avatar": "https://avatars3.githubusercontent.com/u/434694?v=3&s=460",
+  "contribs": 1522,
+  "orgs": [
+    {
+      "dunderlabs": "https://avatars1.githubusercontent.com/u/9657452?v=3&s=70"
+    },
+    {
+      "Alterdata-AD": "https://avatars2.githubusercontent.com/u/26770876?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bsandusky",
+  "img": "https://avatars1.githubusercontent.com/u/513751?v=3&s=460",
+  "uid": 513751,
+  "repos": 21,
+  "stars": 62,
+  "followers": 2,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/bsandusky/react-recipe-box"
+    },
+    {
+      "url": "/bsandusky/react-boilerplate"
+    },
+    {
+      "url": "/bsandusky/android-brain-trainer"
+    },
+    {
+      "url": "/bsandusky/hello-world-test"
+    },
+    {
+      "url": "/bsandusky/patchwork"
+    },
+    {
+      "url": "/bsandusky/fcc-timestamp-api-project"
+    }
+  ],
+  "worksfor": "",
+  "location": "New York, NY",
+  "fullname": "Brett Sandusky",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/513751?v=3&s=460",
+  "contribs": 177,
+  "orgs": []
+}

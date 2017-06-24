@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/you-think-you-are-special",
+  "img": "https://avatars2.githubusercontent.com/u/2720927?v=3&s=460",
+  "uid": 2720927,
+  "repos": 16,
+  "stars": 415,
+  "followers": 14,
+  "following": 18,
+  "pinned": [
+    {
+      "url": "/you-think-you-are-special/ReliableQueue"
+    },
+    {
+      "url": "/you-think-you-are-special/buckybosun"
+    },
+    {
+      "url": "/you-think-you-are-special/yii-redis-session-manager"
+    },
+    {
+      "url": "/you-think-you-are-special/vagrant"
+    },
+    {
+      "url": "/you-think-you-are-special/cian"
+    },
+    {
+      "url": "/you-think-you-are-special/AssetsRegistry"
+    }
+  ],
+  "worksfor": "OneTwoTrip",
+  "location": "Russia",
+  "fullname": "Litvinov Alexander",
+  "website": "http://codeordie.ru",
+  "avatar": "https://avatars2.githubusercontent.com/u/2720927?v=3&s=460",
+  "contribs": 283,
+  "orgs": []
+}

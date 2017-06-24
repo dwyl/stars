@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/pulkitsinghal",
+  "img": "https://avatars1.githubusercontent.com/u/821963?v=3&s=460",
+  "uid": 821963,
+  "repos": 73,
+  "stars": 145,
+  "followers": 37,
+  "following": 8,
+  "pinned": [
+    {
+      "url": "/strongloop-community/loopback-connector-elastic-search"
+    },
+    {
+      "url": "/ShoppinPal/vend-nodejs-sdk"
+    },
+    {
+      "url": "/ShoppinPal/vend-tools"
+    }
+  ],
+  "worksfor": "ShoppinPal / Fermyon Inc.",
+  "location": "TX, United States",
+  "fullname": "Pulkit Singhal",
+  "website": "http://pulkitsinghal.blogspot.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/821963?v=3&s=460",
+  "contribs": 327,
+  "orgs": []
+}

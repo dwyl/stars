@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/babenzele",
+  "img": "https://avatars1.githubusercontent.com/u/3578574?v=3&s=460",
+  "uid": 3578574,
+  "repos": 16,
+  "stars": 162,
+  "followers": 3,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/GriddleGriddle/Griddle"
+    },
+    {
+      "url": "/kaivi/riek"
+    },
+    {
+      "url": "/kchungradio/schedule-calendar"
+    },
+    {
+      "url": "/kchungradio/newsbody-site"
+    },
+    {
+      "url": "/kchungradio/schedule-api"
+    },
+    {
+      "url": "/kchungradio/newsbody-db-api"
+    }
+  ],
+  "worksfor": "",
+  "location": "Los Angeles, CA",
+  "fullname": "Tim Phillips",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/3578574?v=3&s=460",
+  "contribs": 123,
+  "orgs": [
+    {
+      "kchungradio": "https://avatars2.githubusercontent.com/u/23143642?v=3&s=70"
+    }
+  ]
+}

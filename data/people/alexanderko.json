@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/alexanderko",
+  "img": "https://avatars3.githubusercontent.com/u/192206?v=3&s=460",
+  "uid": 192206,
+  "repos": 13,
+  "stars": 79,
+  "followers": 5,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/alexanderko/httpclient"
+    },
+    {
+      "url": "/alexanderko/Spoon-Knife"
+    },
+    {
+      "url": "/alexanderko/rails-i18n"
+    },
+    {
+      "url": "/alexanderko/bcx-api"
+    },
+    {
+      "url": "/alexanderko/angular-presentation"
+    },
+    {
+      "url": "/alexanderko/table-flex"
+    }
+  ],
+  "worksfor": "InterLink",
+  "location": "Ukraine",
+  "fullname": "Alexander Kotov",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/192206?v=3&s=460",
+  "contribs": 22,
+  "orgs": []
+}

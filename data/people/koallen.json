@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/koallen",
+  "img": "https://avatars1.githubusercontent.com/u/5306869?v=3&s=460",
+  "uid": 5306869,
+  "repos": 53,
+  "stars": 235,
+  "followers": 43,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/koallen/ntu-course-planner-cli"
+    },
+    {
+      "url": "/koallen/leetcode-python"
+    },
+    {
+      "url": "/koallen/ntu-report-latex-template"
+    },
+    {
+      "url": "/koallen/docker-apps"
+    },
+    {
+      "url": "/koallen/sicp"
+    },
+    {
+      "url": "/lushl9301/Auto-Paper-Access"
+    }
+  ],
+  "worksfor": "Nanyang Tech. Univ.",
+  "location": "Singapore",
+  "fullname": "Siyuan Liu",
+  "website": "https://shawnliu.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/5306869?v=3&s=460",
+  "contribs": 1162,
+  "orgs": [
+    {
+      "ntuoss": "https://avatars3.githubusercontent.com/u/2695656?v=3&s=70"
+    },
+    {
+      "SeSaMe-NUS": "https://avatars2.githubusercontent.com/u/7525271?v=3&s=70"
+    },
+    {
+      "ntuhpc": "https://avatars0.githubusercontent.com/u/19302960?v=3&s=70"
+    },
+    {
+      "ISC17-SCC": "https://avatars3.githubusercontent.com/u/28981269?v=3&s=70"
+    }
+  ]
+}

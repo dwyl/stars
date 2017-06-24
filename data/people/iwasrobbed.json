@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/iwasrobbed",
+  "img": "https://avatars0.githubusercontent.com/u/317671?v=3&s=460",
+  "uid": 317671,
+  "repos": 28,
+  "stars": 418,
+  "followers": 148,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/EverestOpenSource/Everest-iOS"
+    },
+    {
+      "url": "/iwasrobbed/Down"
+    },
+    {
+      "url": "/iwasrobbed/LazyObject"
+    },
+    {
+      "url": "/iwasrobbed/RPCircularProgress"
+    },
+    {
+      "url": "/iwasrobbed/Swift-CheatSheet"
+    },
+    {
+      "url": "/iwasrobbed/Brevidy"
+    }
+  ],
+  "worksfor": "@ChefBrain",
+  "location": "San Francisco",
+  "fullname": "rob phillips",
+  "website": "http://chefbrain.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/317671?v=3&s=460",
+  "contribs": 1343,
+  "orgs": [
+    {
+      "six5": "https://avatars3.githubusercontent.com/u/3291338?v=3&s=70"
+    },
+    {
+      "asm-products": "https://avatars0.githubusercontent.com/u/6548361?v=3&s=70"
+    },
+    {
+      "EverestOpenSource": "https://avatars3.githubusercontent.com/u/10129988?v=3&s=70"
+    },
+    {
+      "ChefBrain": "https://avatars3.githubusercontent.com/u/26150747?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/tte",
+  "img": "https://avatars3.githubusercontent.com/u/3415497?v=3&s=460",
+  "uid": 3415497,
+  "repos": 9,
+  "stars": 151,
+  "followers": 2,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/tte/weybridge"
+    },
+    {
+      "url": "/tte/shelton"
+    },
+    {
+      "url": "/tte/qr_chat"
+    },
+    {
+      "url": "/tte/react-redux-starter-kit"
+    },
+    {
+      "url": "/tte/js_of_ocaml-debug-sourcemaps-example"
+    },
+    {
+      "url": "/tte/ocaml-aws-boilerplate"
+    }
+  ],
+  "worksfor": "vice |||",
+  "location": "",
+  "fullname": "Sergei Chudievich",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3415497?v=3&s=460",
+  "contribs": 22,
+  "orgs": []
+}

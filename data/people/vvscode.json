@@ -1,0 +1,56 @@
+{
+  "url": "https://github.com/vvscode",
+  "img": "https://avatars3.githubusercontent.com/u/6904368?v=3&s=460",
+  "uid": 6904368,
+  "repos": 99,
+  "stars": 123,
+  "followers": 98,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/vvscode/js--interview-questions"
+    },
+    {
+      "url": "/vvscode/js--nightwatch-recorder"
+    },
+    {
+      "url": "/vvscode/js--ember-render-helper"
+    },
+    {
+      "url": "/vvscode/js--ember-easy-form"
+    },
+    {
+      "url": "/vvscode/tr--The-Past--Present--and-Future-of-JavaScript"
+    },
+    {
+      "url": "/vvscode/jquery-mockjax"
+    }
+  ],
+  "worksfor": "UpsilonIt",
+  "location": "Minsk, Belarus",
+  "fullname": "Vasiliy Vanchuk",
+  "website": "http://vvscode.by",
+  "avatar": "https://avatars3.githubusercontent.com/u/6904368?v=3&s=460",
+  "contribs": 4607,
+  "orgs": [
+    {
+      "collectrium": "https://avatars2.githubusercontent.com/u/1999087?v=3&s=70"
+    },
+    {
+      "twxkit": "https://avatars0.githubusercontent.com/u/8984742?v=3&s=70"
+    },
+    {
+      "Institut-Ebre": "https://avatars1.githubusercontent.com/u/12150821?v=3&s=70"
+    },
+    {
+      "zhennong": "https://avatars0.githubusercontent.com/u/15605335?v=3&s=70"
+    },
+    {
+      "it-academyby": "https://avatars0.githubusercontent.com/u/17288772?v=3&s=70"
+    },
+    {
+      "upsilon-it": "https://avatars2.githubusercontent.com/u/25382469?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

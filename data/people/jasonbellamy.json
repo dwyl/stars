@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/jasonbellamy",
+  "img": "https://avatars1.githubusercontent.com/u/613807?v=3&s=460",
+  "uid": 613807,
+  "repos": 37,
+  "stars": 386,
+  "followers": 29,
+  "following": 47,
+  "pinned": [
+    {
+      "url": "/jasonbellamy/git-label"
+    },
+    {
+      "url": "/jasonbellamy/git-label-cli"
+    },
+    {
+      "url": "/jasonbellamy/git-label-packages"
+    },
+    {
+      "url": "/jasonbellamy/jscs"
+    },
+    {
+      "url": "/jasonbellamy/restrung-js"
+    },
+    {
+      "url": "/jasonbellamy/restrung-regex"
+    }
+  ],
+  "worksfor": "",
+  "location": "Toronto, Ontario",
+  "fullname": "Jason Bellamy",
+  "website": "http://jasonbellamy.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/613807?v=3&s=460",
+  "contribs": 2040,
+  "orgs": [
+    {
+      "plum-css": "https://avatars1.githubusercontent.com/u/11135438?v=3&s=70"
+    },
+    {
+      "BespokeMetrics": "https://avatars2.githubusercontent.com/u/25014947?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

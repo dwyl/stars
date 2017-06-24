@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/webyneter",
+  "img": "https://avatars3.githubusercontent.com/u/2845133?v=3&s=460",
+  "uid": 2845133,
+  "repos": 6,
+  "stars": 238,
+  "followers": 8,
+  "following": 12,
+  "pinned": [
+    {
+      "url": "/webyneter/docker-aliases"
+    },
+    {
+      "url": "/webyneter/cookiecutter-django"
+    },
+    {
+      "url": "/webyneter/HSE-SNA-MAGoLEGO-2016"
+    },
+    {
+      "url": "/webyneter/Sudoku"
+    },
+    {
+      "url": "/webyneter/Components-Analysis"
+    }
+  ],
+  "worksfor": "",
+  "location": "Moscow, Russia",
+  "fullname": "Shupeyko Nikita",
+  "website": "https://linkedin.com/in/webyneter",
+  "avatar": "https://avatars3.githubusercontent.com/u/2845133?v=3&s=460",
+  "contribs": 166,
+  "orgs": []
+}

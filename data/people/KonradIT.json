@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/KonradIT",
+  "img": "https://avatars0.githubusercontent.com/u/5891284?v=3&s=460",
+  "uid": 5891284,
+  "repos": 153,
+  "stars": 1200,
+  "followers": 248,
+  "following": 120,
+  "pinned": [
+    {
+      "url": "/KonradIT/goprowifihack"
+    },
+    {
+      "url": "/KonradIT/autoexechack"
+    },
+    {
+      "url": "/KonradIT/hero4hack"
+    },
+    {
+      "url": "/KonradIT/HEROPebble"
+    },
+    {
+      "url": "/KonradIT/GoProStream"
+    },
+    {
+      "url": "/KonradIT/gopro-py-api"
+    }
+  ],
+  "worksfor": "",
+  "location": "Madrid | Contact: visit website",
+  "fullname": "Konrad Iturbe",
+  "website": "http://chernowii.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/5891284?v=3&s=460",
+  "contribs": 465,
+  "orgs": [
+    {
+      "lmftfy": "https://avatars3.githubusercontent.com/u/6575741?v=3&s=70"
+    },
+    {
+      "pebble-dev": "https://avatars3.githubusercontent.com/u/23483554?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/nswbmw",
+  "img": "https://avatars0.githubusercontent.com/u/4279697?v=3&s=460",
+  "uid": 4279697,
+  "repos": 112,
+  "stars": 1100,
+  "followers": 2900,
+  "following": 90,
+  "pinned": [
+    {
+      "url": "/nswbmw/N-blog"
+    },
+    {
+      "url": "/mongolass/mongolass"
+    },
+    {
+      "url": "/palomajs/paloma"
+    },
+    {
+      "url": "/everblogjs/everblog"
+    },
+    {
+      "url": "/nswbmw/maitian"
+    },
+    {
+      "url": "/nswbmw/muying"
+    }
+  ],
+  "worksfor": "shimo.im",
+  "location": "Beijing, China",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/4279697?v=3&s=460",
+  "contribs": 323,
+  "orgs": [
+    {
+      "palomajs": "https://avatars2.githubusercontent.com/u/15731989?v=3&s=70"
+    }
+  ]
+}

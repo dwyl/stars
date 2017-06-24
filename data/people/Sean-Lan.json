@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Sean-Lan",
+  "img": "https://avatars3.githubusercontent.com/u/11312747?v=3&s=460",
+  "uid": 11312747,
+  "repos": 35,
+  "stars": 134,
+  "followers": 21,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/Sean-Lan/react-server-demo"
+    },
+    {
+      "url": "/Sean-Lan/PyMOTW"
+    },
+    {
+      "url": "/Sean-Lan/Armory"
+    },
+    {
+      "url": "/ruanyf/jstraining"
+    },
+    {
+      "url": "/Sean-Lan/webpack-demos"
+    },
+    {
+      "url": "/hemanth/functional-programming-jargon"
+    }
+  ],
+  "worksfor": "Tsinghua University",
+  "location": "Beijing",
+  "fullname": "Sean Lan",
+  "website": "http://www.sean-lan.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/11312747?v=3&s=460",
+  "contribs": 613,
+  "orgs": []
+}

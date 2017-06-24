@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/justinmc",
+  "img": "https://avatars3.githubusercontent.com/u/389558?v=3&s=460",
+  "uid": 389558,
+  "repos": 65,
+  "stars": 288,
+  "followers": 29,
+  "following": 23,
+  "pinned": [
+    {
+      "url": "/justinmc/react-audio-player"
+    },
+    {
+      "url": "/justinmc/meteor-backbone-boilerplate"
+    },
+    {
+      "url": "/justinmc/jQuery-Open-Carousel"
+    },
+    {
+      "url": "/justinmc/markdown-html-form"
+    },
+    {
+      "url": "/justinmc/jquery.mobile.fastButtons"
+    },
+    {
+      "url": "/justinmc/meteorplate"
+    }
+  ],
+  "worksfor": "@Autodesk Research, BioNano",
+  "location": "San Francisco, California",
+  "fullname": "Justin McCandless",
+  "website": "http://justinmccandless.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/389558?v=3&s=460",
+  "contribs": 1653,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/rniice",
+  "img": "https://avatars3.githubusercontent.com/u/8400246?v=3&s=460",
+  "uid": 8400246,
+  "repos": 15,
+  "stars": 156,
+  "followers": 8,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/rniice/node-goose"
+    },
+    {
+      "url": "/rniice/twitter-react-d3"
+    },
+    {
+      "url": "/rniice/multithreading-node-java-sort"
+    },
+    {
+      "url": "/rniice/react-threeJS-geometric-math"
+    },
+    {
+      "url": "/rniice/chrome-extension-buzzkill"
+    },
+    {
+      "url": "/rniice/arduino-sensors"
+    }
+  ],
+  "worksfor": "",
+  "location": "Portland, OR",
+  "fullname": "Michael Crockett",
+  "website": "http://michael-crockett.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/8400246?v=3&s=460",
+  "contribs": 191,
+  "orgs": []
+}

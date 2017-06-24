@@ -1,0 +1,50 @@
+{
+  "url": "https://github.com/colinking",
+  "img": "https://avatars0.githubusercontent.com/u/2907397?v=3&s=460",
+  "uid": 2907397,
+  "repos": 43,
+  "stars": 471,
+  "followers": 27,
+  "following": 50,
+  "pinned": [
+    {
+      "url": "/colinking/n1-unsubscribe"
+    },
+    {
+      "url": "/peacecorps/BonVoyage"
+    },
+    {
+      "url": "/colinking/nodeautodeploy"
+    },
+    {
+      "url": "/colinking/emojicode-packages"
+    },
+    {
+      "url": "/colinking/objdump-with-emojicode"
+    },
+    {
+      "url": "/colinking/emojitable"
+    }
+  ],
+  "worksfor": "Nextdoor, KPCB Fellows, ex-Google",
+  "location": "College Park, MD",
+  "fullname": "Colin",
+  "website": "https://colinking.co",
+  "avatar": "https://avatars0.githubusercontent.com/u/2907397?v=3&s=460",
+  "contribs": 582,
+  "orgs": [
+    {
+      "peacecorps": "https://avatars3.githubusercontent.com/u/4389885?v=3&s=70"
+    },
+    {
+      "bitcamp": "https://avatars1.githubusercontent.com/u/6227679?v=3&s=70"
+    },
+    {
+      "projectdeltaio": "https://avatars2.githubusercontent.com/u/11812722?v=3&s=70"
+    },
+    {
+      "BitcampA16Z": "https://avatars2.githubusercontent.com/u/20019033?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

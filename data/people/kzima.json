@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/kzima",
+  "img": "https://avatars3.githubusercontent.com/u/5113125?v=3&s=460",
+  "uid": 5113125,
+  "repos": 56,
+  "stars": 79,
+  "followers": 28,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/kzima/vuestrap-base-components"
+    },
+    {
+      "url": "/kzima/vuestrap"
+    },
+    {
+      "url": "/kzima/vuestrap-styleguide"
+    },
+    {
+      "url": "/kzima/vuestrap-icons"
+    },
+    {
+      "url": "/kzima/vuestrap-starter"
+    },
+    {
+      "url": "/kzima/vuestrap-template-component"
+    }
+  ],
+  "worksfor": "mosquito.ie",
+  "location": "Australia",
+  "fullname": "Kris Zima",
+  "website": "https://twitter.com/kriszima",
+  "avatar": "https://avatars3.githubusercontent.com/u/5113125?v=3&s=460",
+  "contribs": 55,
+  "orgs": [
+    {
+      "Brisbane-React-JS": "https://avatars2.githubusercontent.com/u/25902164?v=3&s=70"
+    }
+  ]
+}

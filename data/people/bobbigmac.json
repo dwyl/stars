@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bobbigmac",
+  "img": "https://avatars2.githubusercontent.com/u/1370761?v=3&s=460",
+  "uid": 1370761,
+  "repos": 36,
+  "stars": 84,
+  "followers": 10,
+  "following": 15,
+  "pinned": [
+    {
+      "url": "/bobbigmac/scrape-parser"
+    },
+    {
+      "url": "/bobbigmac/write-realtime"
+    },
+    {
+      "url": "/bobbigmac/live-slides"
+    },
+    {
+      "url": "/bobbigmac/realtime-fabric"
+    },
+    {
+      "url": "/bobbigmac/APIKit"
+    },
+    {
+      "url": "/bobbigmac/Languagame"
+    }
+  ],
+  "worksfor": "Imba Software Ltd",
+  "location": "Manchester, UK",
+  "fullname": "Bob Davies",
+  "website": "http://bobdavies.co.uk",
+  "avatar": "https://avatars2.githubusercontent.com/u/1370761?v=3&s=460",
+  "contribs": 107,
+  "orgs": []
+}

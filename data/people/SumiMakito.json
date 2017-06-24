@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/SumiMakito",
+  "img": "https://avatars2.githubusercontent.com/u/5277268?v=3&s=460",
+  "uid": 5277268,
+  "repos": 62,
+  "stars": 450,
+  "followers": 110,
+  "following": 35,
+  "pinned": [
+    {
+      "url": "/SumiMakito/AwesomeQRCode"
+    },
+    {
+      "url": "/SumiMakito/AdvancedTextSwitcher"
+    },
+    {
+      "url": "/SumiMakito/QuickKV"
+    },
+    {
+      "url": "/SumiMakito/Awesome-qr.js"
+    },
+    {
+      "url": "/SumiMakito/DroidCurvesView"
+    },
+    {
+      "url": "/SumiMakito/A-star"
+    }
+  ],
+  "worksfor": "Bitcat Interactive Lab.",
+  "location": "",
+  "fullname": "Makito Sumi",
+  "website": "https://www.keep.moe/",
+  "avatar": "https://avatars2.githubusercontent.com/u/5277268?v=3&s=460",
+  "contribs": 1250,
+  "orgs": [
+    {
+      "bitcat-lab": "https://avatars3.githubusercontent.com/u/20775961?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

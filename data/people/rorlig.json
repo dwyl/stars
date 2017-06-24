@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/rorlig",
+  "img": "https://avatars0.githubusercontent.com/u/293995?v=3&s=460",
+  "uid": 293995,
+  "repos": 44,
+  "stars": 787,
+  "followers": 9,
+  "following": 51,
+  "pinned": [
+    {
+      "url": "/rorlig/babylogger"
+    },
+    {
+      "url": "/rorlig/hadoop-pagerank-java"
+    },
+    {
+      "url": "/rorlig/simple-paint-android"
+    },
+    {
+      "url": "/rorlig/Hadoop-PageRank"
+    },
+    {
+      "url": "/rorlig/Naive-KMeans-Hadoop"
+    },
+    {
+      "url": "/rorlig/ruby_first_project"
+    }
+  ],
+  "worksfor": "Rorlig Inc",
+  "location": "Boston, MA",
+  "fullname": "Gaurav Gupta",
+  "website": "http://rorlig.wordpress.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/293995?v=3&s=460",
+  "contribs": 35,
+  "orgs": [
+    {
+      "bostonandroid": "https://avatars2.githubusercontent.com/u/374143?v=3&s=70"
+    }
+  ]
+}

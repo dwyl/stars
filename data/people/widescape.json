@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/widescape",
+  "img": "https://avatars0.githubusercontent.com/u/80869?v=3&s=460",
+  "uid": 80869,
+  "repos": 11,
+  "stars": 417,
+  "followers": 5,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/widescape/widescapeWeatherWidget"
+    },
+    {
+      "url": "/widescape/locomotive_editor_association_patch"
+    },
+    {
+      "url": "/widescape/NaturalLanguageForm"
+    },
+    {
+      "url": "/widescape/AssetCompileTest"
+    },
+    {
+      "url": "/widescape/possessive"
+    },
+    {
+      "url": "/widescape/AppStartMotion"
+    }
+  ],
+  "worksfor": "",
+  "location": "Hamburg",
+  "fullname": "Robert Wünsch",
+  "website": "http://www.widescape.net",
+  "avatar": "https://avatars0.githubusercontent.com/u/80869?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

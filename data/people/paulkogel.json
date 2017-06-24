@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/paulkogel",
+  "img": "https://avatars0.githubusercontent.com/u/513255?v=3&s=460",
+  "uid": 513255,
+  "repos": 128,
+  "stars": 160,
+  "followers": 35,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/paulkogel/redux-offline-docs"
+    },
+    {
+      "url": "/paulkogel/omingard"
+    },
+    {
+      "url": "/paulkogel/irmingard-backbone"
+    },
+    {
+      "url": "/paulkogel/simple-babel-webpack-template"
+    },
+    {
+      "url": "/paulkogel/vimrc-osx"
+    },
+    {
+      "url": "/paulkogel/react-redux-webpack-template"
+    }
+  ],
+  "worksfor": "",
+  "location": "@wakkahari",
+  "fullname": "Paul Kögel",
+  "website": "https://paulkogel.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/513255?v=3&s=460",
+  "contribs": 20,
+  "orgs": [
+    {
+      "railslove": "https://avatars3.githubusercontent.com/u/1067?v=3&s=70"
+    },
+    {
+      "Nerds": "https://avatars1.githubusercontent.com/u/787702?v=3&s=70"
+    }
+  ]
+}

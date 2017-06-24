@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/maxparm",
+  "img": "https://avatars0.githubusercontent.com/u/221412?v=3&s=460",
+  "uid": 221412,
+  "repos": 31,
+  "stars": 275,
+  "followers": 13,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/maxparm/node-underscorify"
+    },
+    {
+      "url": "/maxparm/Frontend-Convention"
+    },
+    {
+      "url": "/maxparm/Project-Monomob"
+    },
+    {
+      "url": "/maxparm/Test-BackboneJS"
+    },
+    {
+      "url": "/maxparm/Project-Backbone-Muscle"
+    },
+    {
+      "url": "/maxparm/7geese-command-line"
+    }
+  ],
+  "worksfor": "7geese",
+  "location": "Vancouver, BC, Canada",
+  "fullname": "Maxime Parmentier",
+  "website": "http://www.maximeparmentier.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/221412?v=3&s=460",
+  "contribs": 3,
+  "orgs": [
+    {
+      "7Geese": "https://avatars3.githubusercontent.com/u/1445628?v=3&s=70"
+    }
+  ]
+}

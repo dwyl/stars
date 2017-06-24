@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jabbalaci",
+  "img": "https://avatars2.githubusercontent.com/u/694081?v=3&s=460",
+  "uid": 694081,
+  "repos": 66,
+  "stars": 612,
+  "followers": 68,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/jabbalaci/Bash-Utils"
+    },
+    {
+      "url": "/jabbalaci/Jabba-Webkit"
+    },
+    {
+      "url": "/jabbalaci/screenshot.py"
+    },
+    {
+      "url": "/jabbalaci/JSON-path"
+    },
+    {
+      "url": "/jabbalaci/graphviz-java-api"
+    },
+    {
+      "url": "/jabbalaci/DigitalOceanFlask"
+    }
+  ],
+  "worksfor": "University of Debrecen",
+  "location": "Debrecen, Hungary",
+  "fullname": "Jabba Laci",
+  "website": "http://pythonadventures.wordpress.com/",
+  "avatar": "https://avatars2.githubusercontent.com/u/694081?v=3&s=460",
+  "contribs": 190,
+  "orgs": []
+}

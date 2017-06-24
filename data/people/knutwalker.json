@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/knutwalker",
+  "img": "https://avatars0.githubusercontent.com/u/633183?v=3&s=460",
+  "uid": 633183,
+  "repos": 82,
+  "stars": 1100,
+  "followers": 37,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/knutwalker/typed-actors"
+    },
+    {
+      "url": "/knutwalker/transducers-scala"
+    },
+    {
+      "url": "/knutwalker/play-bigpipe-with-rxjava-hystrix"
+    },
+    {
+      "url": "/knutwalker/dbpedia-neo4j"
+    },
+    {
+      "url": "/circe/circe"
+    },
+    {
+      "url": "/etorreborre/specs2"
+    }
+  ],
+  "worksfor": "Avantgarde Labs GmbH",
+  "location": "Germany",
+  "fullname": "Paul Horn",
+  "website": "http://knutwalker.de/",
+  "avatar": "https://avatars0.githubusercontent.com/u/633183?v=3&s=460",
+  "contribs": 255,
+  "orgs": [
+    {
+      "avantgarde-labs": "https://avatars3.githubusercontent.com/u/2162012?v=3&s=70"
+    },
+    {
+      "wdcmdresden": "https://avatars1.githubusercontent.com/u/2558740?v=3&s=70"
+    },
+    {
+      "dswarm": "https://avatars2.githubusercontent.com/u/9085679?v=3&s=70"
+    }
+  ]
+}

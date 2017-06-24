@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/brownman",
+  "img": "https://avatars3.githubusercontent.com/u/314539?v=3&s=460",
+  "uid": 314539,
+  "repos": 569,
+  "stars": 2200,
+  "followers": 40,
+  "following": 93,
+  "pinned": [
+    {
+      "url": "/brownman/suntoucher-redmine.heroku"
+    },
+    {
+      "url": "/brownman/chingu"
+    },
+    {
+      "url": "/brownman/haptics-chrome-extension"
+    },
+    {
+      "url": "/brownman/webgl"
+    },
+    {
+      "url": "/brownman/wallflower"
+    },
+    {
+      "url": "/brownman/yUMLmeRails"
+    }
+  ],
+  "worksfor": "self",
+  "location": "israel",
+  "fullname": "brownman",
+  "website": "http://brownman.github.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/314539?v=3&s=460",
+  "contribs": 238,
+  "orgs": [
+    {
+      "linnovate": "https://avatars1.githubusercontent.com/u/307487?v=3&s=70"
+    }
+  ]
+}

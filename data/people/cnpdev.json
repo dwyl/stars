@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/cnpdev",
+  "img": "https://avatars0.githubusercontent.com/u/6332?v=3&s=460",
+  "uid": 6332,
+  "repos": 4,
+  "stars": 443,
+  "followers": 6,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/cnpdev/php-wsdl-creator"
+    },
+    {
+      "url": "/cnpdev/mkstuff"
+    },
+    {
+      "url": "/cnpdev/wsdl-creator"
+    },
+    {
+      "url": "/cnpdev/OSX-KVM"
+    }
+  ],
+  "worksfor": "BIX.BG",
+  "location": "Sofia, Bulgaria",
+  "fullname": "Tsvetelin Petkov",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/6332?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

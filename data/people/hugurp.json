@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/hugurp",
+  "img": "https://avatars3.githubusercontent.com/u/1502484?v=3&s=460",
+  "uid": 1502484,
+  "repos": 14,
+  "stars": 92,
+  "followers": 16,
+  "following": 28,
+  "pinned": [
+    {
+      "url": "/internet4000/radio4000"
+    },
+    {
+      "url": "/internet4000/radio4000-api"
+    },
+    {
+      "url": "/internet4000/radio4000-player-vue"
+    },
+    {
+      "url": "/hugurp/tumblr-boilerplate"
+    }
+  ],
+  "worksfor": "",
+  "location": "Berlin",
+  "fullname": "hugurp",
+  "website": "https://hugovieilledent.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1502484?v=3&s=460",
+  "contribs": 965,
+  "orgs": [
+    {
+      "zepto-lang": "https://avatars3.githubusercontent.com/u/12414857?v=3&s=70"
+    },
+    {
+      "internet4000": "https://avatars1.githubusercontent.com/u/12625478?v=3&s=70"
+    },
+    {
+      "zeps-system": "https://avatars0.githubusercontent.com/u/19667341?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/frabrunelle",
+  "img": "https://avatars0.githubusercontent.com/u/1114844?v=3&s=460",
+  "uid": 1114844,
+  "repos": 12,
+  "stars": 3000,
+  "followers": 107,
+  "following": 587,
+  "pinned": [
+    {
+      "url": "/frabrunelle/frabrunelle.com"
+    },
+    {
+      "url": "/safecrossroads/safecrossroads.net"
+    },
+    {
+      "url": "/safenetwork/safenetwork.org"
+    },
+    {
+      "url": "/safenetwork/apps.safenetwork.org"
+    },
+    {
+      "url": "/safenetwork/api.safedev.org"
+    },
+    {
+      "url": "/safenetwork/tutorials.safedev.org"
+    }
+  ],
+  "worksfor": "",
+  "location": "Montreal",
+  "fullname": "Francis Brunelle",
+  "website": "https://frabrunelle.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/1114844?v=3&s=460",
+  "contribs": 415,
+  "orgs": [
+    {
+      "maidsafe": "https://avatars3.githubusercontent.com/u/536423?v=3&s=70"
+    },
+    {
+      "safenetwork": "https://avatars2.githubusercontent.com/u/9288810?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://github.com/yageek",
+  "img": "https://avatars3.githubusercontent.com/u/170917?v=3&s=460",
+  "uid": 170917,
+  "repos": 94,
+  "stars": 4300,
+  "followers": 54,
+  "following": 175,
+  "pinned": [
+    {
+      "url": "/yageek/Meschach"
+    },
+    {
+      "url": "/yageek/iostrust"
+    },
+    {
+      "url": "/yageek/lambert-java"
+    },
+    {
+      "url": "/yageek/StickyHeader"
+    },
+    {
+      "url": "/yageek/randomColor"
+    },
+    {
+      "url": "/yageek/simcert"
+    }
+  ],
+  "worksfor": "Wax-Interactive",
+  "location": "Lausanne, Switzerland",
+  "fullname": "Yannick Heinrich",
+  "website": "http://blog.yageek.net",
+  "avatar": "https://avatars3.githubusercontent.com/u/170917?v=3&s=460",
+  "contribs": 671,
+  "orgs": [
+    {
+      "gophersch": "https://avatars1.githubusercontent.com/u/11301511?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

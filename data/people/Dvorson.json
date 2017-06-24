@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Dvorson",
+  "img": "https://avatars0.githubusercontent.com/u/3606324?v=3&s=460",
+  "uid": 3606324,
+  "repos": 22,
+  "stars": 2100,
+  "followers": 27,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/Dvorson/ml-workshop"
+    },
+    {
+      "url": "/Dvorson/AF_stepper-Nema17"
+    },
+    {
+      "url": "/Dvorson/JY-MCU-bt_board-1.02"
+    },
+    {
+      "url": "/Dvorson/Prusa3_LC"
+    },
+    {
+      "url": "/Dvorson/demoapp"
+    },
+    {
+      "url": "/Dvorson/dvorson.github.io"
+    }
+  ],
+  "worksfor": "@yandex-money",
+  "location": "Saint-Petersburg, Russia",
+  "fullname": "Anton Dvorson",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/3606324?v=3&s=460",
+  "contribs": 26,
+  "orgs": [
+    {
+      "bem-tools": "https://avatars3.githubusercontent.com/u/19551489?v=3&s=70"
+    }
+  ]
+}

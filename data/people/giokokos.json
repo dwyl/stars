@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/giokokos",
+  "img": "https://avatars1.githubusercontent.com/u/3083746?v=3&s=460",
+  "uid": 3083746,
+  "repos": 6,
+  "stars": 116,
+  "followers": 9,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/giokokos/editor"
+    },
+    {
+      "url": "/giokokos/flask-bower-grunt"
+    },
+    {
+      "url": "/giokokos/invenio"
+    },
+    {
+      "url": "/giokokos/invenio-1"
+    },
+    {
+      "url": "/giokokos/inspire-next"
+    },
+    {
+      "url": "/giokokos/feedback.js"
+    }
+  ],
+  "worksfor": "",
+  "location": "Athens, Greece",
+  "fullname": "Georgios Kokosioulis",
+  "website": "https://gr.linkedin.com/in/giokokos",
+  "avatar": "https://avatars1.githubusercontent.com/u/3083746?v=3&s=460",
+  "contribs": 8,
+  "orgs": [
+    {
+      "inveniosoftware": "https://avatars2.githubusercontent.com/u/1157480?v=3&s=70"
+    },
+    {
+      "ASQ-USI": "https://avatars1.githubusercontent.com/u/3921676?v=3&s=70"
+    }
+  ]
+}

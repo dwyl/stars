@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mitchbox",
+  "img": "https://avatars0.githubusercontent.com/u/872799?v=3&s=460",
+  "uid": 872799,
+  "repos": 21,
+  "stars": 360,
+  "followers": 12,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/mitchbox/generator-react-boilerplate"
+    },
+    {
+      "url": "/mitchbox/py-tableau"
+    },
+    {
+      "url": "/mitchbox/react-seed"
+    },
+    {
+      "url": "/mitchbox/simple-redux-boilerplate"
+    },
+    {
+      "url": "/mitchbox/openwebapps"
+    },
+    {
+      "url": "/mitchbox/tween.js"
+    }
+  ],
+  "worksfor": "",
+  "location": "Taipei, Taiwan",
+  "fullname": "Mitch Chen",
+  "website": "http://mitchbox.wordpress.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/872799?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

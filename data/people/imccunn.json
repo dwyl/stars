@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/imccunn",
+  "img": "https://avatars0.githubusercontent.com/u/4381933?v=3&s=460",
+  "uid": 4381933,
+  "repos": 60,
+  "stars": 343,
+  "followers": 33,
+  "following": 92,
+  "pinned": [
+    {
+      "url": "/ExpediaDotCom/seiso-ui"
+    },
+    {
+      "url": "/ExpediaDotCom/seiso"
+    },
+    {
+      "url": "/imccunn/dotfiles"
+    },
+    {
+      "url": "/imccunn/ianmccunn"
+    },
+    {
+      "url": "/imccunn/node-http-persist"
+    },
+    {
+      "url": "/imccunn/ipn-parser"
+    }
+  ],
+  "worksfor": "@ExpediaDotCom",
+  "location": "Seattle",
+  "fullname": "Ian McCunn",
+  "website": "http://www.ianmccunn.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/4381933?v=3&s=460",
+  "contribs": 325,
+  "orgs": [
+    {
+      "HelpOut-App": "https://avatars3.githubusercontent.com/u/11432375?v=3&s=70"
+    },
+    {
+      "cf-js-game": "https://avatars0.githubusercontent.com/u/11432481?v=3&s=70"
+    },
+    {
+      "grubr": "https://avatars3.githubusercontent.com/u/11949429?v=3&s=70"
+    }
+  ]
+}

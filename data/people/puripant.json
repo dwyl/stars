@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/puripant",
+  "img": "https://avatars2.githubusercontent.com/u/115980?v=3&s=460",
+  "uid": 115980,
+  "repos": 7,
+  "stars": 4,
+  "followers": 4,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/puripant/hashtag_graph"
+    },
+    {
+      "url": "/puripant/moss-viz"
+    },
+    {
+      "url": "/puripant/youpin-bot"
+    },
+    {
+      "url": "/puripant/awesome-json-datasets"
+    },
+    {
+      "url": "/puripant/youpin-web-admin"
+    },
+    {
+      "url": "/puripant/line-chart-as-tabs"
+    }
+  ],
+  "worksfor": "@boonmeelab",
+  "location": "Bangkok",
+  "fullname": "puri",
+  "website": "http://puripant.ruchikachorn.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/115980?v=3&s=460",
+  "contribs": 178,
+  "orgs": []
+}

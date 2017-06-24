@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/fiunchinho",
+  "img": "https://avatars0.githubusercontent.com/u/627038?v=3&s=460",
+  "uid": 627038,
+  "repos": 81,
+  "stars": 592,
+  "followers": 81,
+  "following": 47,
+  "pinned": [
+    {
+      "url": "/fiunchinho/dockerize-me"
+    },
+    {
+      "url": "/fiunchinho/phpunit-randomizer"
+    },
+    {
+      "url": "/fiunchinho/dredd"
+    },
+    {
+      "url": "/wimpy/wimpy.deploy"
+    },
+    {
+      "url": "/fiunchinho/spring-consul-swarm"
+    }
+  ],
+  "worksfor": "",
+  "location": "Barcelona",
+  "fullname": "Jose Armesto",
+  "website": "http://armesto.net",
+  "avatar": "https://avatars0.githubusercontent.com/u/627038?v=3&s=460",
+  "contribs": 671,
+  "orgs": []
+}

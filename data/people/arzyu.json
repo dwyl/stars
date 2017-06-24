@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/arzyu",
+  "img": "https://avatars3.githubusercontent.com/u/1270145?v=3&s=460",
+  "uid": 1270145,
+  "repos": 10,
+  "stars": 915,
+  "followers": 14,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/arzyu/eslint-config-presets"
+    },
+    {
+      "url": "/arzyu/github-tabsize-switch"
+    },
+    {
+      "url": "/arzyu/vim-colors-celadonite"
+    },
+    {
+      "url": "/arzyu/mq-deployer"
+    },
+    {
+      "url": "/arzyu/dotfiles"
+    },
+    {
+      "url": "/arzyu/jekyll-dev"
+    }
+  ],
+  "worksfor": "",
+  "location": "Shanghai, China",
+  "fullname": "Arz Yu",
+  "website": "https://arzx.org",
+  "avatar": "https://avatars3.githubusercontent.com/u/1270145?v=3&s=460",
+  "contribs": 950,
+  "orgs": [
+    {
+      "ShuyunFF2E": "https://avatars3.githubusercontent.com/u/19563300?v=3&s=70"
+    }
+  ]
+}

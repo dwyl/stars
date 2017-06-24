@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/bdavidxyz",
+  "img": "https://avatars3.githubusercontent.com/u/2937888?v=3&s=460",
+  "uid": 2937888,
+  "repos": 86,
+  "stars": 174,
+  "followers": 25,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/bdavidxyz/white-angularjs-app"
+    },
+    {
+      "url": "/bdavidxyz/simplest-startup-starter"
+    },
+    {
+      "url": "/bdavidxyz/impatient-jekyll"
+    },
+    {
+      "url": "/bdavidxyz/yourown-bootstrap4"
+    },
+    {
+      "url": "/bdavidxyz/landing-skeleton"
+    },
+    {
+      "url": "/bdavidxyz/zee"
+    }
+  ],
+  "worksfor": "@sgmap",
+  "location": "",
+  "fullname": "David Boureau",
+  "website": "http://bdavidxyz.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/2937888?v=3&s=460",
+  "contribs": 799,
+  "orgs": [
+    {
+      "sgmap": "https://avatars1.githubusercontent.com/u/7874148?v=3&s=70"
+    }
+  ]
+}

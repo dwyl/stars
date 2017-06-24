@@ -1,0 +1,34 @@
+{
+  "url": "https://github.com/pvalentim",
+  "img": "https://avatars0.githubusercontent.com/u/31481?v=3&s=460",
+  "uid": 31481,
+  "repos": 32,
+  "stars": 565,
+  "followers": 25,
+  "following": 32,
+  "pinned": [
+    {
+      "url": "/pvalentim/browser-size"
+    },
+    {
+      "url": "/pvalentim/react-jade-page-transitions"
+    },
+    {
+      "url": "/pvalentim/dotfiles"
+    },
+    {
+      "url": "/pvalentim/css-whitespace"
+    }
+  ],
+  "worksfor": "@Stinkstudios",
+  "location": "London",
+  "fullname": "Pedro Valentim",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/31481?v=3&s=460",
+  "contribs": 27,
+  "orgs": [
+    {
+      "sourdough-css": "https://avatars0.githubusercontent.com/u/11571512?v=3&s=70"
+    }
+  ]
+}

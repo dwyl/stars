@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/astorfi",
+  "img": "https://avatars1.githubusercontent.com/u/13461059?v=3&s=460",
+  "uid": 13461059,
+  "repos": 35,
+  "stars": 51,
+  "followers": 13,
+  "following": 22,
+  "pinned": [
+    {
+      "url": "/astorfi/QR_Code"
+    },
+    {
+      "url": "/astorfi/Caffe_Deep_Learning"
+    },
+    {
+      "url": "/davidsandberg/facenet"
+    },
+    {
+      "url": "/tensorflow/models"
+    },
+    {
+      "url": "/astorfi/speech_feature_extraction"
+    },
+    {
+      "url": "/astorfi/TensorFlow-World"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Amirsina Torfi",
+  "website": "https://twitter.com/amirsina_torfi",
+  "avatar": "https://avatars1.githubusercontent.com/u/13461059?v=3&s=460",
+  "contribs": 1493,
+  "orgs": [
+    {
+      "Machinelearninguru": "https://avatars1.githubusercontent.com/u/25408914?v=3&s=70"
+    }
+  ]
+}

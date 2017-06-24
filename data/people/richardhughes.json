@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/richardhughes",
+  "img": "https://avatars0.githubusercontent.com/u/4634220?v=3&s=460",
+  "uid": 4634220,
+  "repos": 18,
+  "stars": 117,
+  "followers": 3,
+  "following": 35,
+  "pinned": [
+    {
+      "url": "/richardhughes/openlayers-export-map"
+    },
+    {
+      "url": "/richardhughes/cordova-template"
+    },
+    {
+      "url": "/richardhughes/electron-basic-template"
+    },
+    {
+      "url": "/richardhughes/twitter-bot"
+    },
+    {
+      "url": "/richardhughes/uk-postcode-api"
+    },
+    {
+      "url": "/richardhughes/weather-app"
+    }
+  ],
+  "worksfor": "@SykesCottages",
+  "location": "Liverpool",
+  "fullname": "Richie Hughes",
+  "website": "https://www.richiehughes.co.uk",
+  "avatar": "https://avatars0.githubusercontent.com/u/4634220?v=3&s=460",
+  "contribs": 77,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/azat-io",
+  "img": "https://avatars2.githubusercontent.com/u/5698350?v=3&s=460",
+  "uid": 5698350,
+  "repos": 70,
+  "stars": 140,
+  "followers": 61,
+  "following": 20,
+  "pinned": [
+    {
+      "url": "/azat-io/postcss-instagram"
+    },
+    {
+      "url": "/azat-io/atom-language-postcss"
+    },
+    {
+      "url": "/azat-io/generator-alchemist"
+    },
+    {
+      "url": "/azat-io/disinfector"
+    },
+    {
+      "url": "/azat-io/brexit-js"
+    },
+    {
+      "url": "/azat-io/you-dont-know-js-ru"
+    }
+  ],
+  "worksfor": "",
+  "location": "Russia",
+  "fullname": "Azat S.",
+  "website": "https://twitter.com/azat_io",
+  "avatar": "https://avatars2.githubusercontent.com/u/5698350?v=3&s=460",
+  "contribs": 607,
+  "orgs": [
+    {
+      "yandexdataschool": "https://avatars1.githubusercontent.com/u/13419363?v=3&s=70"
+    }
+  ]
+}

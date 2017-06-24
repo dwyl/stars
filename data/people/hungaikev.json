@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/hungaikev",
+  "img": "https://avatars3.githubusercontent.com/u/1276871?v=3&s=460",
+  "uid": 1276871,
+  "repos": 45,
+  "stars": 940,
+  "followers": 32,
+  "following": 43,
+  "pinned": [
+    {
+      "url": "/hungaikev/quiz"
+    },
+    {
+      "url": "/hungaikev/messenger"
+    },
+    {
+      "url": "/hungaikev/venmic"
+    },
+    {
+      "url": "/hungaikev/bankaccount"
+    },
+    {
+      "url": "/hungaikev/nginx-boilerplate"
+    },
+    {
+      "url": "/hungaikev/vegeta"
+    }
+  ],
+  "worksfor": "Lightbend @typesafehub",
+  "location": "Nairobi",
+  "fullname": "Hungai Amuhinda",
+  "website": "http://hungaikev.in",
+  "avatar": "https://avatars3.githubusercontent.com/u/1276871?v=3&s=460",
+  "contribs": 274,
+  "orgs": [
+    {
+      "djuaji": "https://avatars1.githubusercontent.com/u/11025518?v=3&s=70"
+    }
+  ]
+}

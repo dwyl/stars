@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/remiyu",
+  "img": "https://avatars1.githubusercontent.com/u/4229885?v=3&s=460",
+  "uid": 4229885,
+  "repos": 5,
+  "stars": 50,
+  "followers": 2,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/remiyu/sampleproject"
+    },
+    {
+      "url": "/remiyu/cookiecutter-pypackage-minimal"
+    },
+    {
+      "url": "/remiyu/tag_wrap"
+    },
+    {
+      "url": "/remiyu/tdd-python-examples"
+    },
+    {
+      "url": "/remiyu/vigenere"
+    }
+  ],
+  "worksfor": "",
+  "location": "USA",
+  "fullname": "Joshua Whetton",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/4229885?v=3&s=460",
+  "contribs": 21,
+  "orgs": []
+}

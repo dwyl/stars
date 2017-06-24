@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/hason",
+  "img": "https://avatars3.githubusercontent.com/u/288535?v=3&s=460",
+  "uid": 288535,
+  "repos": 205,
+  "stars": 1900,
+  "followers": 82,
+  "following": 265,
+  "pinned": [
+    {
+      "url": "/hason/Twig"
+    },
+    {
+      "url": "/hason/MtHaml"
+    },
+    {
+      "url": "/hason/monolog"
+    },
+    {
+      "url": "/hason/doctrine2"
+    },
+    {
+      "url": "/hason/DoctrineExtensions"
+    },
+    {
+      "url": "/hason/Mink"
+    }
+  ],
+  "worksfor": "Cognito.cz, Gauss Algorithmic",
+  "location": "Brno, Moravia",
+  "fullname": "Martin Hasoň",
+  "website": "https://www.webuni.cz",
+  "avatar": "https://avatars3.githubusercontent.com/u/288535?v=3&s=460",
+  "contribs": 448,
+  "orgs": [
+    {
+      "webuni": "https://avatars0.githubusercontent.com/u/2052602?v=3&s=70"
+    }
+  ]
+}

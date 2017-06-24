@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/develoser",
+  "img": "https://avatars2.githubusercontent.com/u/3155428?v=3&s=460",
+  "uid": 3155428,
+  "repos": 30,
+  "stars": 143,
+  "followers": 19,
+  "following": 65,
+  "pinned": [
+    {
+      "url": "/develoser/ng-browserify"
+    },
+    {
+      "url": "/develoser/Handlebars-ST2-Precompiler"
+    },
+    {
+      "url": "/develoser/heroku-buildpack-nodejs"
+    },
+    {
+      "url": "/develoser/PhantomXHR"
+    },
+    {
+      "url": "/develoser/requirejs"
+    },
+    {
+      "url": "/develoser/grunt-string-replace"
+    }
+  ],
+  "worksfor": "TrafficScore",
+  "location": "Loreto, Zacatecas, México.",
+  "fullname": "Jorge Luis Rivera Bocanegra",
+  "website": "http://develoser.github.io",
+  "avatar": "https://avatars2.githubusercontent.com/u/3155428?v=3&s=460",
+  "contribs": 15,
+  "orgs": []
+}

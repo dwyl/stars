@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/bourdeau",
+  "img": "https://avatars0.githubusercontent.com/u/1926353?v=3&s=460",
+  "uid": 1926353,
+  "repos": 15,
+  "stars": 22,
+  "followers": 6,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/bourdeau/image-worker"
+    },
+    {
+      "url": "/bourdeau/confluent-systemd"
+    },
+    {
+      "url": "/bourdeau/jdhm-api"
+    },
+    {
+      "url": "/bourdeau/jdhm-bo"
+    },
+    {
+      "url": "/bourdeau/handevaluator-bundle"
+    },
+    {
+      "url": "/bourdeau/api-client"
+    }
+  ],
+  "worksfor": "Squarebreak",
+  "location": "Paris",
+  "fullname": "Pierre-Henri Bourdeau",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1926353?v=3&s=460",
+  "contribs": 3777,
+  "orgs": []
+}

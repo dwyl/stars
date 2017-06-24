@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/cuongcua90",
+  "img": "https://avatars0.githubusercontent.com/u/2161794?v=3&s=460",
+  "uid": 2161794,
+  "repos": 37,
+  "stars": 401,
+  "followers": 13,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/cuongcua90/hapi-mongoose-example"
+    },
+    {
+      "url": "/cuongcua90/youtube-playlist"
+    },
+    {
+      "url": "/cuongcua90/magictube"
+    },
+    {
+      "url": "/cuongcua90/youtube-react-reflux"
+    },
+    {
+      "url": "/cuongcua90/cheer-math"
+    },
+    {
+      "url": "/cuongcua90/cuongcua90.github.com"
+    }
+  ],
+  "worksfor": "Pio Lab",
+  "location": "Ha Noi Viet Nam",
+  "fullname": "Nguyen Huu Cuong",
+  "website": "http://piolab.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/2161794?v=3&s=460",
+  "contribs": 9,
+  "orgs": [
+    {
+      "piolab": "https://avatars2.githubusercontent.com/u/7201820?v=3&s=70"
+    }
+  ]
+}

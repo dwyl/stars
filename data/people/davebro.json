@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/davebro",
+  "img": "https://avatars3.githubusercontent.com/u/3409406?v=3&s=460",
+  "uid": 3409406,
+  "repos": 5,
+  "stars": 15,
+  "followers": 3,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/davebro/monotouch-samples"
+    },
+    {
+      "url": "/davebro/xamarin-autoscrolling"
+    },
+    {
+      "url": "/davebro/mobile-samples"
+    },
+    {
+      "url": "/davebro/learn-redux"
+    },
+    {
+      "url": "/davebro/davidjacob"
+    }
+  ],
+  "worksfor": "AMR",
+  "location": "Modesto, Ca",
+  "fullname": "David Broers",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3409406?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

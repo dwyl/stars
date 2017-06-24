@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/MeirionHughes",
+  "img": "https://avatars1.githubusercontent.com/u/3584509?v=3&s=460",
+  "uid": 3584509,
+  "repos": 25,
+  "stars": 149,
+  "followers": 16,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/MeirionHughes/aurelia-template-lint"
+    },
+    {
+      "url": "/aurelia/pal-nodejs"
+    },
+    {
+      "url": "/MeirionHughes/aurelia-resize"
+    },
+    {
+      "url": "/MeirionHughes/aurelia-cli-electron-app"
+    },
+    {
+      "url": "/MeirionHughes/rowan"
+    },
+    {
+      "url": "/MeirionHughes/viae"
+    }
+  ],
+  "worksfor": "Robertson Geologging Ltd",
+  "location": "Wales",
+  "fullname": "Meirion Hughes",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/3584509?v=3&s=460",
+  "contribs": 1285,
+  "orgs": [
+    {
+      "aurelia": "https://avatars3.githubusercontent.com/u/9808864?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/lightxu",
+  "img": "https://avatars3.githubusercontent.com/u/1535333?v=3&s=460",
+  "uid": 1535333,
+  "repos": 16,
+  "stars": 37,
+  "followers": 40,
+  "following": 39,
+  "pinned": [
+    {
+      "url": "/lightxu/fetch_flight_data"
+    },
+    {
+      "url": "/lightxu/chosen"
+    },
+    {
+      "url": "/lightxu/cc98_api_doc"
+    },
+    {
+      "url": "/lightxu/foundation-datepicker"
+    },
+    {
+      "url": "/lightxu/Install-OpenCV"
+    },
+    {
+      "url": "/lightxu/EBDH"
+    }
+  ],
+  "worksfor": "Carnegie Mellon University",
+  "location": "Mountain View",
+  "fullname": "Shicheng Xu",
+  "website": "http://lightxu.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/1535333?v=3&s=460",
+  "contribs": 518,
+  "orgs": []
+}

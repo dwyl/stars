@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/prodicus",
+  "img": "https://avatars0.githubusercontent.com/u/4672518?v=3&s=460",
+  "uid": 4672518,
+  "repos": 78,
+  "stars": 476,
+  "followers": 174,
+  "following": 115,
+  "pinned": [
+    {
+      "url": "/prodicus/vocabulary"
+    },
+    {
+      "url": "/prodicus/spaceShooter"
+    },
+    {
+      "url": "/prodicus/tnote"
+    },
+    {
+      "url": "/prodicus/xkcd-dl"
+    },
+    {
+      "url": "/prodicus/spammy"
+    },
+    {
+      "url": "/prodicus/plino"
+    }
+  ],
+  "worksfor": "@cisco",
+  "location": "Bangalore, India",
+  "fullname": "Tasdik Rahman",
+  "website": "http://tasdikrahman.me/",
+  "avatar": "https://avatars0.githubusercontent.com/u/4672518?v=3&s=460",
+  "contribs": 552,
+  "orgs": [
+    {
+      "wingify": "https://avatars0.githubusercontent.com/u/762041?v=3&s=70"
+    },
+    {
+      "coala": "https://avatars0.githubusercontent.com/u/10620750?v=3&s=70"
+    },
+    {
+      "SRMSE-V1": "https://avatars3.githubusercontent.com/u/14260343?v=3&s=70"
+    },
+    {
+      "SRMSE": "https://avatars2.githubusercontent.com/u/15242208?v=3&s=70"
+    },
+    {
+      "foodoh": "https://avatars2.githubusercontent.com/u/16964575?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

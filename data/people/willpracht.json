@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/willpracht",
+  "img": "https://avatars3.githubusercontent.com/u/652925?v=3&s=460",
+  "uid": 652925,
+  "repos": 36,
+  "stars": 561,
+  "followers": 26,
+  "following": 46,
+  "pinned": [
+    {
+      "url": "/willpracht/willpracht.github.io"
+    },
+    {
+      "url": "/willpracht/grunt-dox"
+    },
+    {
+      "url": "/willpracht/bootstrap"
+    },
+    {
+      "url": "/willpracht/nvd3"
+    },
+    {
+      "url": "/willpracht/lunchadores"
+    },
+    {
+      "url": "/willpracht/bootstrap-datetimepicker"
+    }
+  ],
+  "worksfor": "@firemondev",
+  "location": "Kansas City, MO",
+  "fullname": "Will Pracht",
+  "website": "http://www.willpracht.net",
+  "avatar": "https://avatars3.githubusercontent.com/u/652925?v=3&s=460",
+  "contribs": 57,
+  "orgs": []
+}

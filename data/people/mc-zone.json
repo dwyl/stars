@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/mc-zone",
+  "img": "https://avatars1.githubusercontent.com/u/4403937?v=3&s=460",
+  "uid": 4403937,
+  "repos": 31,
+  "stars": 458,
+  "followers": 50,
+  "following": 82,
+  "pinned": [
+    {
+      "url": "/webpack/webpack"
+    },
+    {
+      "url": "/webpack-china/webpack.js.org"
+    },
+    {
+      "url": "/mc-zone/IDValidator"
+    },
+    {
+      "url": "/mc-zone/webpack2-polyfill-plugin"
+    },
+    {
+      "url": "/mc-zone/react-event-emitter-mixin"
+    },
+    {
+      "url": "/mc-zone/Zepto.pageSlider"
+    }
+  ],
+  "worksfor": "tencent",
+  "location": "Shenzhen. China",
+  "fullname": "Ma Cheng",
+  "website": "http://mc-zone.me",
+  "avatar": "https://avatars1.githubusercontent.com/u/4403937?v=3&s=460",
+  "contribs": 93,
+  "orgs": []
+}

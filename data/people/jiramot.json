@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/jiramot",
+  "img": "https://avatars1.githubusercontent.com/u/307154?v=3&s=460",
+  "uid": 307154,
+  "repos": 64,
+  "stars": 358,
+  "followers": 12,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/jiramot/fungjai-infrastructure"
+    },
+    {
+      "url": "/jiramot/foursquare-android-sdk"
+    },
+    {
+      "url": "/jiramot/percona-data-recovery-tool-for-innodb"
+    },
+    {
+      "url": "/jiramot/workstation"
+    },
+    {
+      "url": "/jiramot/jenkins"
+    },
+    {
+      "url": "/jiramot/geoserver"
+    }
+  ],
+  "worksfor": "Fungjai Co., Ltd",
+  "location": "Thailand",
+  "fullname": "Watchanon Numnam",
+  "website": "http://www.iampae.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/307154?v=3&s=460",
+  "contribs": 315,
+  "orgs": []
+}

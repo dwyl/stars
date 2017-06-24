@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/gregschoen",
+  "img": "https://avatars0.githubusercontent.com/u/303969?v=3&s=460",
+  "uid": 303969,
+  "repos": 7,
+  "stars": 176,
+  "followers": 16,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/gregschoen/awesome-git-config"
+    },
+    {
+      "url": "/gregschoen/dropboxoauth"
+    },
+    {
+      "url": "/gregschoen/pretty-console-for-php"
+    },
+    {
+      "url": "/gregschoen/Awesome-Password"
+    },
+    {
+      "url": "/gregschoen/bootstrap"
+    },
+    {
+      "url": "/gregschoen/sublimetext-syslog"
+    }
+  ],
+  "worksfor": "",
+  "location": "Green Bay, WI",
+  "fullname": "Greg Schoen",
+  "website": "https://www.gregschoen.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/303969?v=3&s=460",
+  "contribs": 3,
+  "orgs": []
+}

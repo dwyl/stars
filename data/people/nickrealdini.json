@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/nickrealdini",
+  "img": "https://avatars2.githubusercontent.com/u/2674045?v=3&s=460",
+  "uid": 2674045,
+  "repos": 9,
+  "stars": 45,
+  "followers": 9,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/nickrealdini/forceutf8"
+    },
+    {
+      "url": "/nickrealdini/vim-snippets"
+    },
+    {
+      "url": "/nickrealdini/vimfiles"
+    },
+    {
+      "url": "/nickrealdini/.dotfiles"
+    },
+    {
+      "url": "/nickrealdini/symblog"
+    },
+    {
+      "url": "/nickrealdini/.vim"
+    }
+  ],
+  "worksfor": "",
+  "location": "London",
+  "fullname": "Nick Realdini",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2674045?v=3&s=460",
+  "contribs": 1,
+  "orgs": []
+}

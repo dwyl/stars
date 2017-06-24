@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/fdvj",
+  "img": "https://avatars2.githubusercontent.com/u/2347974?v=3&s=460",
+  "uid": 2347974,
+  "repos": 8,
+  "stars": 22,
+  "followers": 15,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/fdvj/wolfpack"
+    },
+    {
+      "url": "/fdvj/sails-testing-demo"
+    },
+    {
+      "url": "/fdvj/utils-strings"
+    },
+    {
+      "url": "/fdvj/skipper"
+    },
+    {
+      "url": "/fdvj/lunch-polls"
+    },
+    {
+      "url": "/fdvj/docker-cheat-sheet"
+    }
+  ],
+  "worksfor": "Admios",
+  "location": "Panama",
+  "fullname": "Fernando De Vega",
+  "website": "https://fernandodevega.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/2347974?v=3&s=460",
+  "contribs": 2345,
+  "orgs": []
+}

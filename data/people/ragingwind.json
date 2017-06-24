@@ -1,0 +1,59 @@
+{
+  "url": "https://github.com/ragingwind",
+  "img": "https://avatars2.githubusercontent.com/u/124117?v=3&s=460",
+  "uid": 124117,
+  "repos": 245,
+  "stars": 2100,
+  "followers": 294,
+  "following": 57,
+  "pinned": [
+    {
+      "url": "/electron/electron"
+    },
+    {
+      "url": "/Polymer/polymer"
+    },
+    {
+      "url": "/sindresorhus/awesome-electron"
+    },
+    {
+      "url": "/GoogleChrome/lighthouse"
+    },
+    {
+      "url": "/yeoman/generator-chrome-extension"
+    },
+    {
+      "url": "/ragingwind/devdogs"
+    }
+  ],
+  "worksfor": "Able to be hire",
+  "location": "Australia, City(TBA)",
+  "fullname": "Jimmy Moon",
+  "website": "http://ragingwind.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/124117?v=3&s=460",
+  "contribs": 1445,
+  "orgs": [
+    {
+      "yeoman": "https://avatars2.githubusercontent.com/u/1714870?v=3&s=70"
+    },
+    {
+      "moonandyou": "https://avatars2.githubusercontent.com/u/3433999?v=3&s=70"
+    },
+    {
+      "electron-kr": "https://avatars0.githubusercontent.com/u/12471384?v=3&s=70"
+    },
+    {
+      "react-photonkit": "https://avatars2.githubusercontent.com/u/15132822?v=3&s=70"
+    },
+    {
+      "yeobara": "https://avatars2.githubusercontent.com/u/15644834?v=3&s=70"
+    },
+    {
+      "codebusking": "https://avatars3.githubusercontent.com/u/23427133?v=3&s=70"
+    },
+    {
+      "react-xxx": "https://avatars3.githubusercontent.com/u/28282220?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

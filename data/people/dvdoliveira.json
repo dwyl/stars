@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/dvdoliveira",
+  "img": "https://avatars0.githubusercontent.com/u/4515279?v=3&s=460",
+  "uid": 4515279,
+  "repos": 13,
+  "stars": 531,
+  "followers": 23,
+  "following": 59,
+  "pinned": [
+    {
+      "url": "/dvdoliveira/DevClout"
+    },
+    {
+      "url": "/dvdoliveira/rate_my_landlord"
+    },
+    {
+      "url": "/dvdoliveira/dotfiles"
+    },
+    {
+      "url": "/dvdoliveira/homebrew-cask"
+    },
+    {
+      "url": "/dvdoliveira/symfony-todomvc"
+    }
+  ],
+  "worksfor": "@mogofinancial @Logycbr",
+  "location": "Burnaby - BC",
+  "fullname": "Deivide Oliveira",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/4515279?v=3&s=460",
+  "contribs": 1000,
+  "orgs": [
+    {
+      "lighthouse-labs": "https://avatars0.githubusercontent.com/u/5753105?v=3&s=70"
+    },
+    {
+      "mogofinancial": "https://avatars2.githubusercontent.com/u/6992882?v=3&s=70"
+    },
+    {
+      "Logycbr": "https://avatars2.githubusercontent.com/u/18007292?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

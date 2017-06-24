@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/dliv",
+  "img": "https://avatars3.githubusercontent.com/u/390905?v=3&s=460",
+  "uid": 390905,
+  "repos": 8,
+  "stars": 536,
+  "followers": 8,
+  "following": 12,
+  "pinned": [
+    {
+      "url": "/ReactiveX/rxjs"
+    },
+    {
+      "url": "/reactjs/redux"
+    },
+    {
+      "url": "/kentcdodds/react-detector"
+    },
+    {
+      "url": "/Qix-/color"
+    },
+    {
+      "url": "/dliv/minject"
+    },
+    {
+      "url": "/dliv/typed-topics"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "David Livingston",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/390905?v=3&s=460",
+  "contribs": 1193,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/KarelWintersky",
+  "img": "https://avatars2.githubusercontent.com/u/2164874?v=3&s=460",
+  "uid": 2164874,
+  "repos": 41,
+  "stars": 237,
+  "followers": 7,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/KarelWintersky/kwEdit"
+    },
+    {
+      "url": "/KarelWintersky/kwLeafletMaps"
+    },
+    {
+      "url": "/KarelWintersky/whsigtracker"
+    },
+    {
+      "url": "/KarelWintersky/LIBDb"
+    },
+    {
+      "url": "/KarelWintersky/StewardDB"
+    },
+    {
+      "url": "/KarelWintersky/kwRPG-NPCGen"
+    }
+  ],
+  "worksfor": "",
+  "location": "St.Peterburg",
+  "fullname": "Karel Wintersky",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2164874?v=3&s=460",
+  "contribs": 104,
+  "orgs": [
+    {
+      "PHPAuth": "https://avatars3.githubusercontent.com/u/6495869?v=3&s=70"
+    }
+  ]
+}

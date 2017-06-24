@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/jaicab",
+  "img": "https://avatars2.githubusercontent.com/u/1174434?v=3&s=460",
+  "uid": 1174434,
+  "repos": 24,
+  "stars": 173,
+  "followers": 60,
+  "following": 42,
+  "pinned": [
+    {
+      "url": "/jaicab/localFont"
+    },
+    {
+      "url": "/jaicab/progressiveenhancement"
+    },
+    {
+      "url": "/jaicab/sass-vary"
+    },
+    {
+      "url": "/jaicab/Paraxify.js"
+    },
+    {
+      "url": "/jaicab/sass-ext"
+    }
+  ],
+  "worksfor": "@moteef",
+  "location": "London",
+  "fullname": "Jaime Caballero",
+  "website": "https://jaicab.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1174434?v=3&s=460",
+  "contribs": 172,
+  "orgs": [
+    {
+      "basecreative": "https://avatars2.githubusercontent.com/u/10028147?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

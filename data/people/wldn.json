@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/wldn",
+  "img": "https://avatars3.githubusercontent.com/u/7030099?v=3&s=460",
+  "uid": 7030099,
+  "repos": 37,
+  "stars": 25,
+  "followers": 7,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/wldn/thement"
+    },
+    {
+      "url": "/wldn/e-vote"
+    },
+    {
+      "url": "/wldn/Nginx-Vhost-CRUD-Operation"
+    },
+    {
+      "url": "/wldn/goLearning"
+    },
+    {
+      "url": "/wldn/hero-angularjs"
+    },
+    {
+      "url": "/wldn/bahasa"
+    }
+  ],
+  "worksfor": "@amateur-radio-club",
+  "location": "Bandung, Indonesia",
+  "fullname": "Wildan S. Nahar",
+  "website": "http://wildan.us",
+  "avatar": "https://avatars3.githubusercontent.com/u/7030099?v=3&s=460",
+  "contribs": 987,
+  "orgs": [],
+  "developerprogram": true
+}

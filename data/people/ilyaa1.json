@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/ilyaa1",
+  "img": "https://avatars1.githubusercontent.com/u/427576?v=3&s=460",
+  "uid": 427576,
+  "repos": 5,
+  "stars": 603,
+  "followers": 3,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/ilyaa1/react-redux-universal-hot-example"
+    },
+    {
+      "url": "/ilyaa1/react-babel-webpack-boilerplate"
+    },
+    {
+      "url": "/ilyaa1/relay-notes"
+    },
+    {
+      "url": "/ilyaa1/game-of-life-poc"
+    },
+    {
+      "url": "/ilyaa1/java-tcp-fizz-buzz"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Ilya Ayzenshtok",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/427576?v=3&s=460",
+  "contribs": 5,
+  "orgs": []
+}

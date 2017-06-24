@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/maff",
+  "img": "https://avatars1.githubusercontent.com/u/27403?v=3&s=460",
+  "uid": 27403,
+  "repos": 57,
+  "stars": 88,
+  "followers": 20,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/pimcore/pimcore"
+    },
+    {
+      "url": "/maff/excel-links"
+    },
+    {
+      "url": "/maff/lvmsnapshot"
+    },
+    {
+      "url": "/maff/wp-autothumb"
+    },
+    {
+      "url": "/maff/wp-datearchives"
+    },
+    {
+      "url": "/maff/wp-nextgen-gallery-sidebar-widget"
+    }
+  ],
+  "worksfor": "pimcore GmbH / elements.at New Media Solutions",
+  "location": "Salzburg, Austria",
+  "fullname": "Mathias Geat",
+  "website": "http://ailoo.net",
+  "avatar": "https://avatars1.githubusercontent.com/u/27403?v=3&s=460",
+  "contribs": 1140,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/roccomuso",
+  "img": "https://avatars2.githubusercontent.com/u/6730217?v=3&s=460",
+  "uid": 6730217,
+  "repos": 62,
+  "stars": 1800,
+  "followers": 46,
+  "following": 68,
+  "pinned": [
+    {
+      "url": "/roccomuso/iot-433mhz"
+    },
+    {
+      "url": "/roccomuso/kickthemout"
+    },
+    {
+      "url": "/roccomuso/node-webhooks"
+    },
+    {
+      "url": "/roccomuso/node-aplay"
+    },
+    {
+      "url": "/roccomuso/netcat"
+    },
+    {
+      "url": "/roccomuso/transfer-sh"
+    }
+  ],
+  "worksfor": "@cloudplugs",
+  "location": "Rome",
+  "fullname": "Rocco Musolino",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/6730217?v=3&s=460",
+  "contribs": 2207,
+  "orgs": [
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    }
+  ]
+}

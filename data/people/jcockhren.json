@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/jcockhren",
+  "img": "https://avatars2.githubusercontent.com/u/316840?v=3&s=460",
+  "uid": 316840,
+  "repos": 55,
+  "stars": 213,
+  "followers": 92,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/rails/rails"
+    },
+    {
+      "url": "/gitlabhq/gitlabhq"
+    },
+    {
+      "url": "/mitchellh/vagrant"
+    },
+    {
+      "url": "/saltstack/salt"
+    },
+    {
+      "url": "/Yelp/elastalert"
+    },
+    {
+      "url": "/jsdelivr/jsdelivr"
+    }
+  ],
+  "worksfor": "Sophicware",
+  "location": "Nashville, TN",
+  "fullname": "Jurnell Cockhren",
+  "website": "http://sophicware.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/316840?v=3&s=460",
+  "contribs": 2878,
+  "orgs": [
+    {
+      "sophicware": "https://avatars0.githubusercontent.com/u/4227389?v=3&s=70"
+    }
+  ]
+}

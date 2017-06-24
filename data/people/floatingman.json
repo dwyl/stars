@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/floatingman",
+  "img": "https://avatars1.githubusercontent.com/u/48339?v=3&s=460",
+  "uid": 48339,
+  "repos": 44,
+  "stars": 280,
+  "followers": 8,
+  "following": 40,
+  "pinned": [
+    {
+      "url": "/floatingman/.emacs.d"
+    },
+    {
+      "url": "/floatingman/vim"
+    },
+    {
+      "url": "/floatingman/life"
+    },
+    {
+      "url": "/floatingman/xmonad"
+    },
+    {
+      "url": "/floatingman/bin"
+    },
+    {
+      "url": "/floatingman/tdddjango"
+    }
+  ],
+  "worksfor": "Daniel Newman Design",
+  "location": "Antioch, TN",
+  "fullname": "Daniel Newman",
+  "website": "https://floatingman.github.io",
+  "avatar": "https://avatars1.githubusercontent.com/u/48339?v=3&s=460",
+  "contribs": 321,
+  "orgs": []
+}

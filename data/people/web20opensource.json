@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/web20opensource",
+  "img": "https://avatars3.githubusercontent.com/u/2625752?v=3&s=460",
+  "uid": 2625752,
+  "repos": 23,
+  "stars": 61,
+  "followers": 15,
+  "following": 17,
+  "pinned": [
+    {
+      "url": "/web20opensource/AndroidNodeWebService"
+    },
+    {
+      "url": "/web20opensource/dockerizing"
+    },
+    {
+      "url": "/web20opensource/nodeJsMySqlWebService"
+    },
+    {
+      "url": "/web20opensource/jqueryFrontend"
+    },
+    {
+      "url": "/web20opensource/stamper"
+    },
+    {
+      "url": "/web20opensource/angularJS_nodeJS_MySQL"
+    }
+  ],
+  "worksfor": "",
+  "location": "Puebla, México",
+  "fullname": "Mario Ruiz",
+  "website": "http://www.linkedin.com/pub/mario-ruiz/6a/b8/338",
+  "avatar": "https://avatars3.githubusercontent.com/u/2625752?v=3&s=460",
+  "contribs": 14,
+  "orgs": []
+}

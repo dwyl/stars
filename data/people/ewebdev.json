@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/ewebdev",
+  "img": "https://avatars2.githubusercontent.com/u/1157734?v=3&s=460",
+  "uid": 1157734,
+  "repos": 28,
+  "stars": 565,
+  "followers": 22,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/ewebdev/backbone.notifier"
+    },
+    {
+      "url": "/ewebdev/WebAppBootloader"
+    },
+    {
+      "url": "/ewebdev/TwitterHistorySearch"
+    },
+    {
+      "url": "/ewebdev/marketo-munchkin-async"
+    },
+    {
+      "url": "/ewebdev/express-angular-bootstrap-seed"
+    },
+    {
+      "url": "/ewebdev/jquery-share"
+    }
+  ],
+  "worksfor": "SimilarTech",
+  "location": "",
+  "fullname": "Eyal Weiss",
+  "website": "http://www.eyalw.co.il",
+  "avatar": "https://avatars2.githubusercontent.com/u/1157734?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

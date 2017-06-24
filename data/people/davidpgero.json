@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/davidpgero",
+  "img": "https://avatars2.githubusercontent.com/u/750998?v=3&s=460",
+  "uid": 750998,
+  "repos": 24,
+  "stars": 366,
+  "followers": 7,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/davidpgero/hungarian-nltk"
+    },
+    {
+      "url": "/davidpgero/rvm_install_script"
+    },
+    {
+      "url": "/davidpgero/JA-elofeldolgozas"
+    },
+    {
+      "url": "/davidpgero/docker-jruby"
+    },
+    {
+      "url": "/davidpgero/farmbot-web-frontend"
+    },
+    {
+      "url": "/davidpgero/pet_builder"
+    }
+  ],
+  "worksfor": "",
+  "location": "Budapest",
+  "fullname": "David Gerő",
+  "website": "http://tezisto.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/750998?v=3&s=460",
+  "contribs": 33,
+  "orgs": []
+}

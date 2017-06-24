@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/olifante",
+  "img": "https://avatars2.githubusercontent.com/u/5111?v=3&s=460",
+  "uid": 5111,
+  "repos": 67,
+  "stars": 1700,
+  "followers": 30,
+  "following": 79,
+  "pinned": [
+    {
+      "url": "/olifante/next-muicss-example"
+    },
+    {
+      "url": "/olifante/next-grommet-example"
+    },
+    {
+      "url": "/olifante/next-rebass-example"
+    },
+    {
+      "url": "/olifante/next-firebase-rest"
+    },
+    {
+      "url": "/olifante/micro-rest"
+    },
+    {
+      "url": "/olifante/gatsby-starter-redi-school"
+    }
+  ],
+  "worksfor": "",
+  "location": "Berlin, Germany",
+  "fullname": "Tiago Castro Henriques",
+  "website": "http://olifante.blogs.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/5111?v=3&s=460",
+  "contribs": 255,
+  "orgs": []
+}

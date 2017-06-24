@@ -1,0 +1,67 @@
+{
+  "url": "https://github.com/geek",
+  "img": "https://avatars0.githubusercontent.com/u/441346?v=3&s=460",
+  "uid": 441346,
+  "repos": 341,
+  "stars": 147,
+  "followers": 274,
+  "following": 28,
+  "pinned": [
+    {
+      "url": "/hapijs/lab"
+    },
+    {
+      "url": "/hapijs/wreck"
+    },
+    {
+      "url": "/hapijs/hapi"
+    },
+    {
+      "url": "/senecajs/seneca"
+    },
+    {
+      "url": "/geek/hapi-example"
+    },
+    {
+      "url": "/geek/OAuth"
+    }
+  ],
+  "worksfor": "Joyent",
+  "location": "Kansas City, MO",
+  "fullname": "Wyatt Preul",
+  "website": "http://jsgeek.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/441346?v=3&s=460",
+  "contribs": 1370,
+  "orgs": [
+    {
+      "joyent": "https://avatars1.githubusercontent.com/u/10161?v=3&s=70"
+    },
+    {
+      "JavaScriptKC": "https://avatars2.githubusercontent.com/u/1385689?v=3&s=70"
+    },
+    {
+      "nodezoo": "https://avatars1.githubusercontent.com/u/2903118?v=3&s=70"
+    },
+    {
+      "hapijs": "https://avatars0.githubusercontent.com/u/3774533?v=3&s=70"
+    },
+    {
+      "nko4": "https://avatars1.githubusercontent.com/u/3877928?v=3&s=70"
+    },
+    {
+      "LXJS": "https://avatars0.githubusercontent.com/u/6461627?v=3&s=70"
+    },
+    {
+      "nodejs": "https://avatars3.githubusercontent.com/u/9950313?v=3&s=70"
+    },
+    {
+      "senecajs": "https://avatars1.githubusercontent.com/u/10085488?v=3&s=70"
+    },
+    {
+      "autopilotpattern": "https://avatars1.githubusercontent.com/u/17654958?v=3&s=70"
+    },
+    {
+      "Concorda": "https://avatars3.githubusercontent.com/u/17698259?v=3&s=70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/some-say",
+  "img": "https://avatars3.githubusercontent.com/u/7961070?v=3&s=460",
+  "uid": 7961070,
+  "repos": 26,
+  "stars": 261,
+  "followers": 5,
+  "following": 42,
+  "pinned": [
+    {
+      "url": "/some-say/mocha-bdd-extend"
+    },
+    {
+      "url": "/some-say/cordova-weinre"
+    },
+    {
+      "url": "/some-say/Formstone"
+    },
+    {
+      "url": "/some-say/respawn"
+    },
+    {
+      "url": "/some-say/waterline-nedb"
+    },
+    {
+      "url": "/some-say/sails-sqlserver"
+    }
+  ],
+  "worksfor": "Some Say",
+  "location": "Poland",
+  "fullname": "Aleksander Szmigiel",
+  "website": "http://some-say.com/",
+  "avatar": "https://avatars3.githubusercontent.com/u/7961070?v=3&s=460",
+  "contribs": 19,
+  "orgs": []
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/thinkingmedia",
+  "img": "https://avatars1.githubusercontent.com/u/551022?v=3&s=460",
+  "uid": 551022,
+  "repos": 52,
+  "stars": 496,
+  "followers": 25,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/thinkingmedia/Prometheus"
+    },
+    {
+      "url": "/thinkingmedia/gems-cli"
+    },
+    {
+      "url": "/thinkingmedia/gems-collections"
+    },
+    {
+      "url": "/thinkingmedia/gems-bayesian"
+    },
+    {
+      "url": "/thinkingmedia/gems-markdown"
+    },
+    {
+      "url": "/thinkingmedia/gems-xss-shield"
+    }
+  ],
+  "worksfor": "ThinkingMedia",
+  "location": "Markham, Ontario",
+  "fullname": "Mathew Foscarini",
+  "website": "https://www.thinkingmedia.ca/",
+  "avatar": "https://avatars1.githubusercontent.com/u/551022?v=3&s=460",
+  "contribs": 383,
+  "orgs": [
+    {
+      "cakephp": "https://avatars2.githubusercontent.com/u/23666?v=3&s=70"
+    }
+  ]
+}

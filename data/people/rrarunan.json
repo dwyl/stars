@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/rrarunan",
+  "img": "https://avatars0.githubusercontent.com/u/201193?v=3&s=460",
+  "uid": 201193,
+  "repos": 39,
+  "stars": 586,
+  "followers": 9,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/rrarunan/dotanode"
+    },
+    {
+      "url": "/rrarunan/punchdialogs"
+    },
+    {
+      "url": "/rrarunan/algo"
+    },
+    {
+      "url": "/rrarunan/d3"
+    },
+    {
+      "url": "/rrarunan/js-yaml"
+    },
+    {
+      "url": "/rrarunan/stream-adventure"
+    }
+  ],
+  "worksfor": "Docker",
+  "location": "San Mateo",
+  "fullname": "Arunan",
+  "website": "http://www.blog.arunanrabindran.com/",
+  "avatar": "https://avatars0.githubusercontent.com/u/201193?v=3&s=460",
+  "contribs": 1311,
+  "orgs": []
+}

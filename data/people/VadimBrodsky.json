@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/VadimBrodsky",
+  "img": "https://avatars0.githubusercontent.com/u/591673?v=3&s=460",
+  "uid": 591673,
+  "repos": 63,
+  "stars": 407,
+  "followers": 10,
+  "following": 10,
+  "pinned": [
+    {
+      "url": "/VadimBrodsky/vadimbrodsky.github.io"
+    },
+    {
+      "url": "/VadimBrodsky/flix"
+    },
+    {
+      "url": "/VadimBrodsky/blackjack-sinatra"
+    },
+    {
+      "url": "/VadimBrodsky/dotfiles"
+    },
+    {
+      "url": "/VadimBrodsky/Front-end-Developer-Interview-Questions"
+    }
+  ],
+  "worksfor": "@Vidyard",
+  "location": "Kitchener-Waterloo",
+  "fullname": "Vadim Brodsky",
+  "website": "http://www.vadimbrodsky.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/591673?v=3&s=460",
+  "contribs": 474,
+  "orgs": []
+}

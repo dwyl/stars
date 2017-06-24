@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/aetherith",
+  "img": "https://avatars2.githubusercontent.com/u/3330947?v=3&s=460",
+  "uid": 3330947,
+  "repos": 7,
+  "stars": 29,
+  "followers": 1,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/aetherith/dib_build"
+    },
+    {
+      "url": "/aetherith/drupal-testing-jig"
+    },
+    {
+      "url": "/aetherith/groupcurses"
+    },
+    {
+      "url": "/aetherith/neomutt"
+    }
+  ],
+  "worksfor": "",
+  "location": "Arlington, VA",
+  "fullname": "Thomas C. Foulds",
+  "website": "https://thomascfoulds.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/3330947?v=3&s=460",
+  "contribs": 41,
+  "orgs": []
+}

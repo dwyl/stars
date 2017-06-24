@@ -1,0 +1,24 @@
+{
+  "url": "https://github.com/daniel-norman-sociomantic",
+  "img": "https://avatars2.githubusercontent.com/u/2950127?v=3&s=460",
+  "uid": 2950127,
+  "repos": 2,
+  "stars": 67,
+  "followers": 5,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/daniel-norman-sociomantic/backbone.marionette"
+    },
+    {
+      "url": "/daniel-norman-sociomantic/react-router-tutorial"
+    }
+  ],
+  "worksfor": "sociomantic",
+  "location": "Berlin Germany",
+  "fullname": "Daniel Norman",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2950127?v=3&s=460",
+  "contribs": 0,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/michaelpurnell",
+  "img": "https://avatars3.githubusercontent.com/u/5284944?v=3&s=460",
+  "uid": 5284944,
+  "repos": 23,
+  "stars": 146,
+  "followers": 6,
+  "following": 21,
+  "pinned": [
+    {
+      "url": "/michaelpurnell/nexus-parallax"
+    },
+    {
+      "url": "/michaelpurnell/Spoon-Knife"
+    },
+    {
+      "url": "/michaelpurnell/generator-angular"
+    },
+    {
+      "url": "/michaelpurnell/angular.js"
+    },
+    {
+      "url": "/michaelpurnell/keystone"
+    },
+    {
+      "url": "/michaelpurnell/nodetest"
+    }
+  ],
+  "worksfor": "Sievent",
+  "location": "California",
+  "fullname": "Michael",
+  "website": "http://michaelpurnell.com",
+  "avatar": "https://avatars3.githubusercontent.com/u/5284944?v=3&s=460",
+  "contribs": 2,
+  "orgs": []
+}

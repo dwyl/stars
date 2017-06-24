@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/proehlen",
+  "img": "https://avatars0.githubusercontent.com/u/8384068?v=3&s=460",
+  "uid": 8384068,
+  "repos": 15,
+  "stars": 130,
+  "followers": 1,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/codelaor/snapdiff"
+    },
+    {
+      "url": "/propellerlabsio/meteor-ui5"
+    },
+    {
+      "url": "/propellerlabsio/meteor-ui5-mongo"
+    },
+    {
+      "url": "/propellerlabsio/meteor-ui5-website"
+    }
+  ],
+  "worksfor": "@codelaor",
+  "location": "Banteay Meanchey, Cambodia",
+  "fullname": "Peter Roehlen",
+  "website": "http://www.welldirected.org",
+  "avatar": "https://avatars0.githubusercontent.com/u/8384068?v=3&s=460",
+  "contribs": 785,
+  "orgs": []
+}

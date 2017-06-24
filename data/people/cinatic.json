@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/cinatic",
+  "img": "https://avatars1.githubusercontent.com/u/2721787?v=3&s=460",
+  "uid": 2721787,
+  "repos": 8,
+  "stars": 52,
+  "followers": 1,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/cinatic/taskwhisperer"
+    },
+    {
+      "url": "/cinatic/gnome-shell-extension-neingag"
+    },
+    {
+      "url": "/cinatic/garble"
+    },
+    {
+      "url": "/cinatic/validate_email"
+    },
+    {
+      "url": "/cinatic/jquery-multi-autocomplete"
+    },
+    {
+      "url": "/cinatic/Python-DBUtils"
+    }
+  ],
+  "worksfor": "",
+  "location": "Karlsruhe",
+  "fullname": "Florijan Hamzic",
+  "website": "http://infinicode.de",
+  "avatar": "https://avatars1.githubusercontent.com/u/2721787?v=3&s=460",
+  "contribs": 21,
+  "orgs": []
+}

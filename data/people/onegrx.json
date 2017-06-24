@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/onegrx",
+  "img": "https://avatars2.githubusercontent.com/u/5223749?v=3&s=460",
+  "uid": 5223749,
+  "repos": 24,
+  "stars": 256,
+  "followers": 33,
+  "following": 209,
+  "pinned": [
+    {
+      "url": "/onegrx/translate-me"
+    },
+    {
+      "url": "/onegrx/battletanks"
+    },
+    {
+      "url": "/onegrx/ejabberd-project"
+    },
+    {
+      "url": "/onegrx/hydroplant"
+    },
+    {
+      "url": "/onegrx/concurrency"
+    },
+    {
+      "url": "/onegrx/db-gen"
+    }
+  ],
+  "worksfor": "AVSystem",
+  "location": "Kraków, Poland",
+  "fullname": "Bartłomiej Szałach",
+  "website": "http://szalach.me",
+  "avatar": "https://avatars2.githubusercontent.com/u/5223749?v=3&s=460",
+  "contribs": 306,
+  "orgs": []
+}

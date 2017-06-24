@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/yanivefraim",
+  "img": "https://avatars3.githubusercontent.com/u/1336186?v=3&s=460",
+  "uid": 1336186,
+  "repos": 145,
+  "stars": 496,
+  "followers": 52,
+  "following": 24,
+  "pinned": [
+    {
+      "url": "/wix/yoshi"
+    },
+    {
+      "url": "/wix/wix-style-react"
+    },
+    {
+      "url": "/reactjs/redux"
+    },
+    {
+      "url": "/yanivefraim/axios"
+    },
+    {
+      "url": "/nodejs/node"
+    },
+    {
+      "url": "/wix/react-universal-seed"
+    }
+  ],
+  "worksfor": "Wix",
+  "location": "Israel",
+  "fullname": "Yaniv Efraim",
+  "website": "http://yanivefraim.github.io",
+  "avatar": "https://avatars3.githubusercontent.com/u/1336186?v=3&s=460",
+  "contribs": 3046,
+  "orgs": [
+    {
+      "wix": "https://avatars0.githubusercontent.com/u/686511?v=3&s=70"
+    },
+    {
+      "angular-ui": "https://avatars3.githubusercontent.com/u/1530011?v=3&s=70"
+    }
+  ]
+}

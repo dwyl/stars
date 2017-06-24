@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/lichangwei",
+  "img": "https://avatars3.githubusercontent.com/u/718802?v=3&s=460",
+  "uid": 718802,
+  "repos": 25,
+  "stars": 1000,
+  "followers": 28,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/lichangwei/blogs"
+    },
+    {
+      "url": "/lichangwei/koa-router-autoload"
+    },
+    {
+      "url": "/lichangwei/react-weui-extend"
+    },
+    {
+      "url": "/lichangwei/tianyan"
+    }
+  ],
+  "worksfor": "",
+  "location": "Suzhou China",
+  "fullname": "李长伟",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/718802?v=3&s=460",
+  "contribs": 11,
+  "orgs": []
+}

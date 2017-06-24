@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/realronchi",
+  "img": "https://avatars2.githubusercontent.com/u/4234986?v=3&s=460",
+  "uid": 4234986,
+  "repos": 187,
+  "stars": 3200,
+  "followers": 81,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/angular/angular.js"
+    },
+    {
+      "url": "/select2/select2"
+    },
+    {
+      "url": "/RafalWilinski/express-status-monitor"
+    },
+    {
+      "url": "/raineroviir/react-redux-socketio-chat"
+    },
+    {
+      "url": "/lbdremy/solr-node-client"
+    },
+    {
+      "url": "/realronchi/Blog"
+    }
+  ],
+  "worksfor": "WEG",
+  "location": "Brasil",
+  "fullname": "Fabricio Ronchi",
+  "website": "http://fabricioronchi.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/4234986?v=3&s=460",
+  "contribs": 176,
+  "orgs": [
+    {
+      "Pragueiro": "https://avatars0.githubusercontent.com/u/17175663?v=3&s=70"
+    },
+    {
+      "weg": "https://avatars3.githubusercontent.com/u/19974156?v=3&s=70"
+    }
+  ]
+}

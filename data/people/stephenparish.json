@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/stephenparish",
+  "img": "https://avatars1.githubusercontent.com/u/840677?v=3&s=460",
+  "uid": 840677,
+  "repos": 32,
+  "stars": 247,
+  "followers": 14,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/stephenparish/Clear-for-Android"
+    },
+    {
+      "url": "/stephenparish/stephenparish.github.com"
+    },
+    {
+      "url": "/stephenparish/box-android-sdk"
+    },
+    {
+      "url": "/stephenparish/WebViewCompat"
+    },
+    {
+      "url": "/stephenparish/android-screenshot-lib"
+    },
+    {
+      "url": "/stephenparish/ActionBarSherlock"
+    }
+  ],
+  "worksfor": "DocuSign, Inc.",
+  "location": "Seattle, WA",
+  "fullname": "Stephen Parish",
+  "website": "http://stephen.parish.co",
+  "avatar": "https://avatars1.githubusercontent.com/u/840677?v=3&s=460",
+  "contribs": 23,
+  "orgs": [
+    {
+      "docusign": "https://avatars2.githubusercontent.com/u/270752?v=3&s=70"
+    },
+    {
+      "DocuSignDev": "https://avatars2.githubusercontent.com/u/2634350?v=3&s=70"
+    }
+  ]
+}

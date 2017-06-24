@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/mathieumg",
+  "img": "https://avatars3.githubusercontent.com/u/1624812?v=3&s=460",
+  "uid": 1624812,
+  "repos": 72,
+  "stars": 7600,
+  "followers": 94,
+  "following": 298,
+  "pinned": [
+    {
+      "url": "/mathieumg/react"
+    },
+    {
+      "url": "/mathieumg/react-bootstrap"
+    },
+    {
+      "url": "/mathieumg/eslint"
+    },
+    {
+      "url": "/mathieumg/thumbd"
+    },
+    {
+      "url": "/mathieumg/tempura"
+    },
+    {
+      "url": "/mathieumg/redis-lua-helper-cli"
+    }
+  ],
+  "worksfor": "@Novivia",
+  "location": "Montréal, Canada",
+  "fullname": "Mathieu M-Gosselin",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/1624812?v=3&s=460",
+  "contribs": 661,
+  "orgs": [
+    {
+      "react-bootstrap": "https://avatars1.githubusercontent.com/u/6853419?v=3&s=70"
+    },
+    {
+      "townsquared": "https://avatars1.githubusercontent.com/u/7076183?v=3&s=70"
+    },
+    {
+      "Novivia": "https://avatars1.githubusercontent.com/u/7785487?v=3&s=70"
+    },
+    {
+      "my-koop": "https://avatars0.githubusercontent.com/u/8674744?v=3&s=70"
+    },
+    {
+      "GroupeGamache": "https://avatars2.githubusercontent.com/u/20030681?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

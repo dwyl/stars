@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/superboonie",
+  "img": "https://avatars1.githubusercontent.com/u/1903657?v=3&s=460",
+  "uid": 1903657,
+  "repos": 286,
+  "stars": 217,
+  "followers": 8,
+  "following": 94,
+  "pinned": [
+    {
+      "url": "/superboonie/try_git"
+    },
+    {
+      "url": "/superboonie/demo_app"
+    },
+    {
+      "url": "/superboonie/Typhoon-example"
+    },
+    {
+      "url": "/superboonie/XcodeEditor"
+    },
+    {
+      "url": "/superboonie/pop"
+    },
+    {
+      "url": "/superboonie/Spika-iOS"
+    }
+  ],
+  "worksfor": "Nanaimo Studio",
+  "location": "New York, NY",
+  "fullname": "Boon",
+  "website": "http://www.nanaimostudio.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/1903657?v=3&s=460",
+  "contribs": 62,
+  "orgs": [
+    {
+      "tappollo": "https://avatars3.githubusercontent.com/u/16236023?v=3&s=70"
+    }
+  ]
+}

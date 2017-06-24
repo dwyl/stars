@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/rohanpai",
+  "img": "https://avatars2.githubusercontent.com/u/2272901?v=3&s=460",
+  "uid": 2272901,
+  "repos": 35,
+  "stars": 131,
+  "followers": 24,
+  "following": 102,
+  "pinned": [
+    {
+      "url": "/rohanpai/Robinhood"
+    },
+    {
+      "url": "/rohanpai/YCHacks"
+    },
+    {
+      "url": "/rohanpai/graphJS"
+    },
+    {
+      "url": "/rohanpai/ImageEncrypt"
+    },
+    {
+      "url": "/rohanpai/DualNBack"
+    },
+    {
+      "url": "/rohanpai/tictactoe"
+    }
+  ],
+  "worksfor": "",
+  "location": "Cupertino, CA",
+  "fullname": "Rohan Pai",
+  "website": "http://rohanpai.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/2272901?v=3&s=460",
+  "contribs": 889,
+  "orgs": [
+    {
+      "hammerlab": "https://avatars1.githubusercontent.com/u/6563873?v=3&s=70"
+    },
+    {
+      "berkeley-cs186": "https://avatars2.githubusercontent.com/u/10535476?v=3&s=70"
+    }
+  ]
+}

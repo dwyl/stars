@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/purplecones",
+  "img": "https://avatars1.githubusercontent.com/u/136654?v=3&s=460",
+  "uid": 136654,
+  "repos": 47,
+  "stars": 333,
+  "followers": 36,
+  "following": 31,
+  "pinned": [
+    {
+      "url": "/jkrup/meteor-now"
+    },
+    {
+      "url": "/purplecones/quickname"
+    },
+    {
+      "url": "/purplecones/log-full"
+    },
+    {
+      "url": "/purplecones/css-grid-playground"
+    },
+    {
+      "url": "/zeit/hyper"
+    },
+    {
+      "url": "/storybooks/storybook"
+    }
+  ],
+  "worksfor": "@capfundr",
+  "location": "New York, NY",
+  "fullname": "Mirza Joldic",
+  "website": "http://www.capfundr.com",
+  "avatar": "https://avatars1.githubusercontent.com/u/136654?v=3&s=460",
+  "contribs": 869,
+  "orgs": [
+    {
+      "ScriptEdcurriculum": "https://avatars3.githubusercontent.com/u/4925390?v=3&s=70"
+    },
+    {
+      "capfundr": "https://avatars3.githubusercontent.com/u/11163116?v=3&s=70"
+    },
+    {
+      "MeteorCampNYC": "https://avatars2.githubusercontent.com/u/17438142?v=3&s=70"
+    }
+  ]
+}

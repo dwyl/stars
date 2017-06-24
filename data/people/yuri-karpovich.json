@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/yuri-karpovich",
+  "img": "https://avatars1.githubusercontent.com/u/7230069?v=3&s=460",
+  "uid": 7230069,
+  "repos": 16,
+  "stars": 127,
+  "followers": 1,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/yuri-karpovich/geminabox"
+    },
+    {
+      "url": "/yuri-karpovich/sftp"
+    },
+    {
+      "url": "/yuri-karpovich/console_runner"
+    },
+    {
+      "url": "/yuri-karpovich/gemtoabox"
+    },
+    {
+      "url": "/yuri-karpovich/gnumeric_docker"
+    },
+    {
+      "url": "/yuri-karpovich/hubot-hipchat"
+    }
+  ],
+  "worksfor": "",
+  "location": "Minsk",
+  "fullname": "Yuri Karpovich",
+  "website": "https://www.linkedin.com/in/yuri-karpovich-09737b27",
+  "avatar": "https://avatars1.githubusercontent.com/u/7230069?v=3&s=460",
+  "contribs": 580,
+  "orgs": []
+}

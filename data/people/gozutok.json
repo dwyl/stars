@@ -1,0 +1,33 @@
+{
+  "url": "https://github.com/gozutok",
+  "img": "https://avatars2.githubusercontent.com/u/748156?v=3&s=460",
+  "uid": 748156,
+  "repos": 5,
+  "stars": 165,
+  "followers": 3,
+  "following": 3,
+  "pinned": [
+    {
+      "url": "/gozutok/docker-universalrecommender"
+    },
+    {
+      "url": "/gozutok/GoogleVisionApiBundle"
+    },
+    {
+      "url": "/gozutok/symfony2-mongodb-oauth"
+    },
+    {
+      "url": "/gozutok/Instagram-PHP-API"
+    },
+    {
+      "url": "/gozutok/docker-predictionio"
+    }
+  ],
+  "worksfor": "",
+  "location": "Istanbul",
+  "fullname": "F. Taha GOZUTOK",
+  "website": "http://taha.tv",
+  "avatar": "https://avatars2.githubusercontent.com/u/748156?v=3&s=460",
+  "contribs": 371,
+  "orgs": []
+}

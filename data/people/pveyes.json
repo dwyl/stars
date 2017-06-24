@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/pveyes",
+  "img": "https://avatars2.githubusercontent.com/u/1614415?v=3&s=460",
+  "uid": 1614415,
+  "repos": 13,
+  "stars": 1100,
+  "followers": 34,
+  "following": 55,
+  "pinned": [
+    {
+      "url": "/pveyes/atom-snazzy-clear-syntax"
+    },
+    {
+      "url": "/traveloka/slack-robot"
+    },
+    {
+      "url": "/pveyes/smartass"
+    },
+    {
+      "url": "/traveloka/react-diode"
+    },
+    {
+      "url": "/traveloka/javascript"
+    },
+    {
+      "url": "/pveyes/asset-graph-webpack-plugin"
+    }
+  ],
+  "worksfor": "@traveloka",
+  "location": "Jakarta, Indonesia",
+  "fullname": "Fatih Kalifa",
+  "website": "https://fatihkalifa.com",
+  "avatar": "https://avatars2.githubusercontent.com/u/1614415?v=3&s=460",
+  "contribs": 190,
+  "orgs": [
+    {
+      "traveloka": "https://avatars3.githubusercontent.com/u/1683964?v=3&s=70"
+    }
+  ]
+}

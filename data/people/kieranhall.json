@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/kieranhall",
+  "img": "https://avatars1.githubusercontent.com/u/1401918?v=3&s=460",
+  "uid": 1401918,
+  "repos": 13,
+  "stars": 176,
+  "followers": 5,
+  "following": 9,
+  "pinned": [
+    {
+      "url": "/kieranhall/bootstrap"
+    },
+    {
+      "url": "/kieranhall/javascriptmvc"
+    },
+    {
+      "url": "/kieranhall/oscommerce2"
+    },
+    {
+      "url": "/kieranhall/ember-bootstrap"
+    },
+    {
+      "url": "/kieranhall/ember.js"
+    },
+    {
+      "url": "/kieranhall/jquery-autobars"
+    }
+  ],
+  "worksfor": "Kieran Hall Consulting",
+  "location": "Amsterdam, The Netherlands",
+  "fullname": "Kieran Hall",
+  "website": "http://kieranhall.co.uk",
+  "avatar": "https://avatars1.githubusercontent.com/u/1401918?v=3&s=460",
+  "contribs": 7,
+  "orgs": []
+}

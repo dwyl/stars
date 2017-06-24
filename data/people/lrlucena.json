@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/lrlucena",
+  "img": "https://avatars3.githubusercontent.com/u/303460?v=3&s=460",
+  "uid": 303460,
+  "repos": 51,
+  "stars": 532,
+  "followers": 47,
+  "following": 44,
+  "pinned": [
+    {
+      "url": "/potigol/Potigol"
+    },
+    {
+      "url": "/potigol/EditorPotigol"
+    },
+    {
+      "url": "/lrlucena/PLP-Scala"
+    },
+    {
+      "url": "/lrlucena/While"
+    },
+    {
+      "url": "/lrlucena/webapp"
+    },
+    {
+      "url": "/lrlucena/whilelang"
+    }
+  ],
+  "worksfor": "IFRN",
+  "location": "Natal, Brazil",
+  "fullname": "Leonardo Lucena",
+  "website": "http://docente.ifrn.edu.br/leonardolucena",
+  "avatar": "https://avatars3.githubusercontent.com/u/303460?v=3&s=460",
+  "contribs": 433,
+  "orgs": [
+    {
+      "potigol": "https://avatars3.githubusercontent.com/u/1438144?v=3&s=70"
+    },
+    {
+      "IFRN": "https://avatars0.githubusercontent.com/u/3842512?v=3&s=70"
+    }
+  ]
+}

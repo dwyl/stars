@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/lstaniszewski",
+  "img": "https://avatars2.githubusercontent.com/u/2866458?v=3&s=460",
+  "uid": 2866458,
+  "repos": 8,
+  "stars": 41,
+  "followers": 2,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/lstaniszewski/elo-rank"
+    },
+    {
+      "url": "/lstaniszewski/python-nvd3"
+    },
+    {
+      "url": "/lstaniszewski/django-bootstrap3"
+    },
+    {
+      "url": "/lstaniszewski/django-mailchimp"
+    },
+    {
+      "url": "/lstaniszewski/slack-poker-bot"
+    },
+    {
+      "url": "/lstaniszewski/angular-django-registration-auth"
+    }
+  ],
+  "worksfor": "STX Next",
+  "location": "Polska",
+  "fullname": "Łukasz Staniszewski",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/2866458?v=3&s=460",
+  "contribs": 727,
+  "orgs": []
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/3tty0n",
+  "img": "https://avatars0.githubusercontent.com/u/8289812?v=3&s=460",
+  "uid": 8289812,
+  "repos": 89,
+  "stars": 302,
+  "followers": 32,
+  "following": 37,
+  "pinned": [
+    {
+      "url": "/3tty0n/elm-online-markdown-editor"
+    },
+    {
+      "url": "/3tty0n/play-json-xml"
+    },
+    {
+      "url": "/3tty0n/sbt-jflex-scala"
+    },
+    {
+      "url": "/3tty0n/bf"
+    },
+    {
+      "url": "/scalaenv/scalaenv"
+    },
+    {
+      "url": "/playframework/playframework"
+    }
+  ],
+  "worksfor": "Tokyo Institute of Technology",
+  "location": "Tokyo, Japan",
+  "fullname": "Yusuke Izawa",
+  "website": "http://micchon.org",
+  "avatar": "https://avatars0.githubusercontent.com/u/8289812?v=3&s=460",
+  "contribs": 2159,
+  "orgs": [
+    {
+      "prg-titech": "https://avatars2.githubusercontent.com/u/20577759?v=3&s=70"
+    },
+    {
+      "scalaenv": "https://avatars0.githubusercontent.com/u/29359289?v=3&s=70"
+    }
+  ],
+  "developerprogram": true
+}

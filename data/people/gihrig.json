@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/gihrig",
+  "img": "https://avatars1.githubusercontent.com/u/1481063?v=3&s=460",
+  "uid": 1481063,
+  "repos": 17,
+  "stars": 365,
+  "followers": 13,
+  "following": 4,
+  "pinned": [
+    {
+      "url": "/gihrig/Demo_Spring_Roo_and_Thymeleaf"
+    },
+    {
+      "url": "/gihrig/foundation"
+    },
+    {
+      "url": "/gihrig/Prospettiva-Theme"
+    },
+    {
+      "url": "/gihrig/react-redux-universal-hot-example"
+    },
+    {
+      "url": "/gihrig/nestedSortable"
+    },
+    {
+      "url": "/gihrig/spa"
+    }
+  ],
+  "worksfor": "",
+  "location": "Burbank, CA",
+  "fullname": "Glen Ihrig",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/1481063?v=3&s=460",
+  "contribs": 268,
+  "orgs": [
+    {
+      "react-boilerplate": "https://avatars1.githubusercontent.com/u/25323389?v=3&s=70"
+    }
+  ]
+}

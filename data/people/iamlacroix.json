@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/iamlacroix",
+  "img": "https://avatars3.githubusercontent.com/u/84348?v=3&s=460",
+  "uid": 84348,
+  "repos": 43,
+  "stars": 1300,
+  "followers": 14,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/iamlacroix/dotfiles-trunkclub"
+    },
+    {
+      "url": "/lacroixdesign/node-bourbon"
+    },
+    {
+      "url": "/lacroixdesign/node-neat"
+    },
+    {
+      "url": "/lacroixdesign/lacroixdesign.net"
+    }
+  ],
+  "worksfor": "Trunk Club",
+  "location": "Chicago",
+  "fullname": "Michael LaCroix",
+  "website": "http://www.lacroixdesign.net",
+  "avatar": "https://avatars3.githubusercontent.com/u/84348?v=3&s=460",
+  "contribs": 594,
+  "orgs": [
+    {
+      "trunkclub": "https://avatars0.githubusercontent.com/u/391276?v=3&s=70"
+    },
+    {
+      "lacroixdesign": "https://avatars2.githubusercontent.com/u/1766509?v=3&s=70"
+    }
+  ]
+}

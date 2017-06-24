@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/fredstrange",
+  "img": "https://avatars0.githubusercontent.com/u/1023901?v=3&s=460",
+  "uid": 1023901,
+  "repos": 15,
+  "stars": 58,
+  "followers": 1,
+  "following": 2,
+  "pinned": [
+    {
+      "url": "/fredstrange/meteor-sidr"
+    },
+    {
+      "url": "/fredstrange/agilezen"
+    },
+    {
+      "url": "/fredstrange/heroku-buildpack-vertx-jdk7"
+    },
+    {
+      "url": "/fredstrange/jrcalendar"
+    },
+    {
+      "url": "/fredstrange/movie_planner"
+    },
+    {
+      "url": "/fredstrange/meteor-bootstrap-3"
+    }
+  ],
+  "worksfor": "",
+  "location": "Stockholm",
+  "fullname": "",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/1023901?v=3&s=460",
+  "contribs": 5,
+  "orgs": []
+}

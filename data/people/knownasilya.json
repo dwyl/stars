@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/knownasilya",
+  "img": "https://avatars1.githubusercontent.com/u/34726?v=3&s=460",
+  "uid": 34726,
+  "repos": 431,
+  "stars": 3400,
+  "followers": 76,
+  "following": 82,
+  "pinned": [
+    {
+      "url": "/Strider-CD/strider"
+    },
+    {
+      "url": "/knownasilya/pagination-pager"
+    },
+    {
+      "url": "/knownasilya/ember-toggle"
+    },
+    {
+      "url": "/knownasilya/hapi-decorators"
+    },
+    {
+      "url": "/knownasilya/eslint-plugin-doc-code-blocks"
+    },
+    {
+      "url": "/knownasilya/google-maps-markup"
+    }
+  ],
+  "worksfor": "@AppGeo",
+  "location": "Traverse City, MI",
+  "fullname": "Ilya Radchenko",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/34726?v=3&s=460",
+  "contribs": 1851,
+  "orgs": [
+    {
+      "AppGeo": "https://avatars1.githubusercontent.com/u/571563?v=3&s=70"
+    },
+    {
+      "Strider-CD": "https://avatars0.githubusercontent.com/u/2199591?v=3&s=70"
+    },
+    {
+      "Burstcreations": "https://avatars1.githubusercontent.com/u/4765140?v=3&s=70"
+    },
+    {
+      "denali-js": "https://avatars0.githubusercontent.com/u/16164185?v=3&s=70"
+    }
+  ]
+}

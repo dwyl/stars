@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/hugocarreira",
+  "img": "https://avatars0.githubusercontent.com/u/5727769?v=3&s=460",
+  "uid": 5727769,
+  "repos": 44,
+  "stars": 744,
+  "followers": 33,
+  "following": 197,
+  "pinned": [
+    {
+      "url": "/hugocarreira/my-blog"
+    },
+    {
+      "url": "/hugocarreira/jekyll-materializecss"
+    },
+    {
+      "url": "/hugocarreira/jekyll-vision-casper-theme"
+    },
+    {
+      "url": "/hugocarreira/linux-installer"
+    },
+    {
+      "url": "/hugocarreira/Odeio-boilerplate"
+    },
+    {
+      "url": "/hugocarreira/music-for-development"
+    }
+  ],
+  "worksfor": "@mundipagg",
+  "location": "Rio de Janeiro",
+  "fullname": "Hugo Carreira",
+  "website": "http://hugocarreira.me",
+  "avatar": "https://avatars0.githubusercontent.com/u/5727769?v=3&s=460",
+  "contribs": 212,
+  "orgs": []
+}

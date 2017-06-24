@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/vinicius0026",
+  "img": "https://avatars3.githubusercontent.com/u/3792147?v=3&s=460",
+  "uid": 3792147,
+  "repos": 31,
+  "stars": 182,
+  "followers": 10,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/vinicius0026/rethinkdb-migrate"
+    },
+    {
+      "url": "/vinicius0026/hapi-rethinkdb-boilerplate"
+    },
+    {
+      "url": "/vinicius0026/vue-admin-boileplate"
+    },
+    {
+      "url": "/vinicius0026/datatables-query"
+    },
+    {
+      "url": "/vinicius0026/abelhas-operarias"
+    },
+    {
+      "url": "/image-size/image-size"
+    }
+  ],
+  "worksfor": "@fiddus",
+  "location": "Florianópolis, SC, Brazil",
+  "fullname": "Vinicius Teixeira",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3792147?v=3&s=460",
+  "contribs": 260,
+  "orgs": [
+    {
+      "fiddus": "https://avatars2.githubusercontent.com/u/8673875?v=3&s=70"
+    }
+  ]
+}

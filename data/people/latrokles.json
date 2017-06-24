@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/latrokles",
+  "img": "https://avatars2.githubusercontent.com/u/35127?v=3&s=460",
+  "uid": 35127,
+  "repos": 26,
+  "stars": 487,
+  "followers": 34,
+  "following": 53,
+  "pinned": [
+    {
+      "url": "/latrokles/ofxSpeech"
+    },
+    {
+      "url": "/latrokles/ImageFun"
+    },
+    {
+      "url": "/latrokles/ratatoskr"
+    },
+    {
+      "url": "/latrokles/hubot-speed-test"
+    },
+    {
+      "url": "/latrokles/nodecam-server"
+    },
+    {
+      "url": "/latrokles/p5js-playground"
+    }
+  ],
+  "worksfor": "",
+  "location": "Seattle",
+  "fullname": "latrokles",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/35127?v=3&s=460",
+  "contribs": 466,
+  "orgs": []
+}

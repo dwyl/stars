@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/timoweiss",
+  "img": "https://avatars3.githubusercontent.com/u/5221667?v=3&s=460",
+  "uid": 5221667,
+  "repos": 62,
+  "stars": 819,
+  "followers": 37,
+  "following": 151,
+  "pinned": [
+    {
+      "url": "/timoweiss/awesome-people-in-js"
+    },
+    {
+      "url": "/timoweiss/senecajs.org"
+    },
+    {
+      "url": "/timoweiss/collector-backend"
+    },
+    {
+      "url": "/timoweiss/instrumentation-client"
+    },
+    {
+      "url": "/locator-kn/cor"
+    },
+    {
+      "url": "/timoweiss/fluxionalname"
+    }
+  ],
+  "worksfor": "",
+  "location": "Cologne, Germany",
+  "fullname": "Timo Weiß",
+  "website": "https://twitter.com/timo_weiss",
+  "avatar": "https://avatars3.githubusercontent.com/u/5221667?v=3&s=460",
+  "contribs": 2381,
+  "orgs": [
+    {
+      "locator-kn": "https://avatars2.githubusercontent.com/u/11994632?v=3&s=70"
+    }
+  ]
+}

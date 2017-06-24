@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/MarkEdmondson1234",
+  "img": "https://avatars3.githubusercontent.com/u/3155884?v=3&s=460",
+  "uid": 3155884,
+  "repos": 137,
+  "stars": 387,
+  "followers": 178,
+  "following": 77,
+  "pinned": [
+    {
+      "url": "/MarkEdmondson1234/googleAuthR"
+    },
+    {
+      "url": "/MarkEdmondson1234/googleAnalyticsR"
+    },
+    {
+      "url": "/MarkEdmondson1234/searchConsoleR"
+    },
+    {
+      "url": "/cloudyr/bigQueryR"
+    },
+    {
+      "url": "/cloudyr/googleCloudStorageR"
+    },
+    {
+      "url": "/cloudyr/googleComputeEngineR"
+    }
+  ],
+  "worksfor": "@iihnordic",
+  "location": "Copenhagen",
+  "fullname": "Mark",
+  "website": "http://code.markedmondson.me/",
+  "avatar": "https://avatars3.githubusercontent.com/u/3155884?v=3&s=460",
+  "contribs": 2208,
+  "orgs": []
+}

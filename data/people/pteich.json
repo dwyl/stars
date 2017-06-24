@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/pteich",
+  "img": "https://avatars1.githubusercontent.com/u/7067763?v=3&s=460",
+  "uid": 7067763,
+  "repos": 28,
+  "stars": 685,
+  "followers": 16,
+  "following": 54,
+  "pinned": [
+    {
+      "url": "/pteich/fofiwano"
+    },
+    {
+      "url": "/pteich/slackstatus"
+    },
+    {
+      "url": "/pteich/docker-consul-template"
+    },
+    {
+      "url": "/pteich/node-icecast-proxy"
+    },
+    {
+      "url": "/pteich/h5web-es6-boilerplate"
+    },
+    {
+      "url": "/pteich/go-timeout-httpclient"
+    }
+  ],
+  "worksfor": "Freelance Developer",
+  "location": "Leipzig, Germany",
+  "fullname": "Peter",
+  "website": "",
+  "avatar": "https://avatars1.githubusercontent.com/u/7067763?v=3&s=460",
+  "contribs": 118,
+  "orgs": [
+    {
+      "streamABC": "https://avatars3.githubusercontent.com/u/29453594?v=3&s=70"
+    }
+  ]
+}

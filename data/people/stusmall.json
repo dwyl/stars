@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/stusmall",
+  "img": "https://avatars2.githubusercontent.com/u/1697444?v=3&s=460",
+  "uid": 1697444,
+  "repos": 23,
+  "stars": 34,
+  "followers": 2,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/stusmall/consul-rust"
+    },
+    {
+      "url": "/stusmall/murmur3"
+    },
+    {
+      "url": "/stusmall/ttl_cache"
+    },
+    {
+      "url": "/stusmall/protobufbodyparser"
+    },
+    {
+      "url": "/stusmall/play-slick"
+    },
+    {
+      "url": "/stusmall/game-of-life"
+    }
+  ],
+  "worksfor": "",
+  "location": "",
+  "fullname": "Stuart Small",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/1697444?v=3&s=460",
+  "contribs": 302,
+  "orgs": []
+}

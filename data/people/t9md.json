@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/t9md",
+  "img": "https://avatars2.githubusercontent.com/u/155205?v=3&s=460",
+  "uid": 155205,
+  "repos": 139,
+  "stars": 851,
+  "followers": 216,
+  "following": 115,
+  "pinned": [
+    {
+      "url": "/t9md/atom-vim-mode-plus"
+    },
+    {
+      "url": "/t9md/atom-narrow"
+    },
+    {
+      "url": "/t9md/vim-choosewin"
+    },
+    {
+      "url": "/t9md/vim-textmanip"
+    },
+    {
+      "url": "/t9md/atom-cursor-history"
+    },
+    {
+      "url": "/t9md/atom-quick-highlight"
+    }
+  ],
+  "worksfor": "",
+  "location": "Japan",
+  "fullname": "t9md",
+  "website": "http://d.hatena.ne.jp/t9md/",
+  "avatar": "https://avatars2.githubusercontent.com/u/155205?v=3&s=460",
+  "contribs": 3853,
+  "orgs": []
+}

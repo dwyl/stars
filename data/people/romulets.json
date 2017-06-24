@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/romulets",
+  "img": "https://avatars0.githubusercontent.com/u/5350001?v=3&s=460",
+  "uid": 5350001,
+  "repos": 15,
+  "stars": 63,
+  "followers": 14,
+  "following": 30,
+  "pinned": [
+    {
+      "url": "/romulets/Polliter"
+    },
+    {
+      "url": "/romulets/JavaSOLID"
+    },
+    {
+      "url": "/romulets/SpringRestExample"
+    },
+    {
+      "url": "/romulets/Wazpital"
+    },
+    {
+      "url": "/romulets/Checkers"
+    },
+    {
+      "url": "/romulets/PCBSimulator"
+    }
+  ],
+  "worksfor": "Siemens",
+  "location": "Curitiba",
+  "fullname": "Rômulo M. de Farias",
+  "website": "https://romulets.github.io",
+  "avatar": "https://avatars0.githubusercontent.com/u/5350001?v=3&s=460",
+  "contribs": 206,
+  "orgs": []
+}

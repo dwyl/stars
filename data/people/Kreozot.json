@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Kreozot",
+  "img": "https://avatars1.githubusercontent.com/u/1423028?v=3&s=460",
+  "uid": 1423028,
+  "repos": 50,
+  "stars": 341,
+  "followers": 9,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/Kreozot/callback-loader"
+    },
+    {
+      "url": "/Kreozot/russian-geo-data"
+    },
+    {
+      "url": "/Kreozot/adentro"
+    },
+    {
+      "url": "/Kreozot/slack-archive"
+    },
+    {
+      "url": "/Kreozot/grunt-command-run"
+    },
+    {
+      "url": "/Kreozot/deep-assign"
+    }
+  ],
+  "worksfor": "",
+  "location": "Russia, Moscow",
+  "fullname": "Sergey Sharov",
+  "website": "http://allthatjs.herokuapp.com/",
+  "avatar": "https://avatars1.githubusercontent.com/u/1423028?v=3&s=460",
+  "contribs": 115,
+  "orgs": []
+}

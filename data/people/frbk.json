@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com/frbk",
+  "img": "https://avatars3.githubusercontent.com/u/3340459?v=3&s=460",
+  "uid": 3340459,
+  "repos": 26,
+  "stars": 430,
+  "followers": 16,
+  "following": 38,
+  "pinned": [
+    {
+      "url": "/automation-wizards/tmj_ruby"
+    },
+    {
+      "url": "/automation-wizards/ferris"
+    },
+    {
+      "url": "/titusfortner/watir_model"
+    },
+    {
+      "url": "/automation-wizards/tmj_formatter"
+    }
+  ],
+  "worksfor": "",
+  "location": "Toronto, ON",
+  "fullname": "Fedor Barannik",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/3340459?v=3&s=460",
+  "contribs": 247,
+  "orgs": [
+    {
+      "dwyl": "https://avatars0.githubusercontent.com/u/11708465?v=3&s=70"
+    },
+    {
+      "automation-wizards": "https://avatars0.githubusercontent.com/u/19539315?v=3&s=70"
+    }
+  ]
+}

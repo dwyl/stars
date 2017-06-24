@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/borestad",
+  "img": "https://avatars2.githubusercontent.com/u/286455?v=3&s=460",
+  "uid": 286455,
+  "repos": 43,
+  "stars": 970,
+  "followers": 22,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/borestad/dotjitsu"
+    },
+    {
+      "url": "/borestad/radiator-js"
+    },
+    {
+      "url": "/borestad/mikro-model"
+    },
+    {
+      "url": "/borestad/boilerplate-framework"
+    },
+    {
+      "url": "/borestad/vue-livescript-loader"
+    },
+    {
+      "url": "/borestad/typescript-boilerplate"
+    }
+  ],
+  "worksfor": "",
+  "location": "Sweden",
+  "fullname": "Johan Borestad",
+  "website": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/286455?v=3&s=460",
+  "contribs": 481,
+  "orgs": []
+}

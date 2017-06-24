@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/krialix",
+  "img": "https://avatars0.githubusercontent.com/u/5319782?v=3&s=460",
+  "uid": 5319782,
+  "repos": 33,
+  "stars": 681,
+  "followers": 32,
+  "following": 68,
+  "pinned": [
+    {
+      "url": "/krialix/Pizza-Delivery-System"
+    },
+    {
+      "url": "/krialix/Backpackers"
+    },
+    {
+      "url": "/YolooApp/Website"
+    },
+    {
+      "url": "/krialix/android_kernel_mako"
+    },
+    {
+      "url": "/krialix/Wress"
+    }
+  ],
+  "worksfor": "@YolooApp",
+  "location": "Izmir, Turkey",
+  "fullname": "Yasin Sinan Kayacan",
+  "website": "http://yolooapp.com",
+  "avatar": "https://avatars0.githubusercontent.com/u/5319782?v=3&s=460",
+  "contribs": 107,
+  "orgs": [
+    {
+      "WressApp": "https://avatars0.githubusercontent.com/u/16863709?v=3&s=70"
+    },
+    {
+      "YolooApp": "https://avatars0.githubusercontent.com/u/19984091?v=3&s=70"
+    }
+  ]
+}

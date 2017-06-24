@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/thalef",
+  "img": "https://avatars2.githubusercontent.com/u/5005657?v=3&s=460",
+  "uid": 5005657,
+  "repos": 15,
+  "stars": 24,
+  "followers": 0,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/thalef/thalef.github.io"
+    },
+    {
+      "url": "/thalef/hapi"
+    },
+    {
+      "url": "/thalef/hapijs.com"
+    },
+    {
+      "url": "/thalef/rethinkdb"
+    },
+    {
+      "url": "/thalef/docs"
+    },
+    {
+      "url": "/thalef/node-login"
+    }
+  ],
+  "worksfor": "www.essencial-ti.com.br",
+  "location": "Brazil",
+  "fullname": "Thiago Carvalho",
+  "website": "http://www.thalef.com.br",
+  "avatar": "https://avatars2.githubusercontent.com/u/5005657?v=3&s=460",
+  "contribs": 26,
+  "orgs": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/matthewglover",
+  "img": "https://avatars3.githubusercontent.com/u/894187?v=3&s=460",
+  "uid": 894187,
+  "repos": 57,
+  "stars": 34,
+  "followers": 23,
+  "following": 6,
+  "pinned": [
+    {
+      "url": "/matthewglover/functionaljs"
+    },
+    {
+      "url": "/matthewglover/react-redux-material-ui"
+    },
+    {
+      "url": "/matthewglover/tape-testing"
+    },
+    {
+      "url": "/matthewglover/hapi-wrapper"
+    },
+    {
+      "url": "/matthewglover/hapi-jwt"
+    },
+    {
+      "url": "/matthewglover/pg-app"
+    }
+  ],
+  "worksfor": "@foundersandcoders",
+  "location": "London",
+  "fullname": "Matthew Glover",
+  "website": "https://matthewglover.github.io/",
+  "avatar": "https://avatars3.githubusercontent.com/u/894187?v=3&s=460",
+  "contribs": 1653,
+  "orgs": []
+}

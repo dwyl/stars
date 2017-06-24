@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/monopollly",
+  "img": "https://avatars3.githubusercontent.com/u/5343537?v=3&s=460",
+  "uid": 5343537,
+  "repos": 8,
+  "stars": 119,
+  "followers": 2,
+  "following": 14,
+  "pinned": [
+    {
+      "url": "/monopollly/tarantool-db-template"
+    },
+    {
+      "url": "/monopollly/geobytes"
+    },
+    {
+      "url": "/monopollly/go-clickhouse"
+    },
+    {
+      "url": "/monopollly/lazyhtml"
+    },
+    {
+      "url": "/monopollly/msgpack"
+    },
+    {
+      "url": "/monopollly/go-libGeoIP"
+    }
+  ],
+  "worksfor": "",
+  "location": "New York, NY",
+  "fullname": "Piu Piu",
+  "website": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/5343537?v=3&s=460",
+  "contribs": 54,
+  "orgs": []
+}

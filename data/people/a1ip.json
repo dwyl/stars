@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/a1ip",
+  "img": "https://avatars1.githubusercontent.com/u/177965?v=3&s=460",
+  "uid": 177965,
+  "repos": 453,
+  "stars": 1700,
+  "followers": 21,
+  "following": 7,
+  "pinned": [
+    {
+      "url": "/a1ip/dotfiles"
+    },
+    {
+      "url": "/a1ip/rigovanov.ru"
+    },
+    {
+      "url": "/a1ip/a1ip.github.io"
+    },
+    {
+      "url": "/a1ip/clangintro"
+    },
+    {
+      "url": "/a1ip/rigovanov-on-sinatra"
+    },
+    {
+      "url": "/a1ip/rigovanov"
+    }
+  ],
+  "worksfor": "Eltrans Ltd.",
+  "location": "Novorossiysk, Russia",
+  "fullname": "Philippe Rigovanov",
+  "website": "http://rigovanov.ru",
+  "avatar": "https://avatars1.githubusercontent.com/u/177965?v=3&s=460",
+  "contribs": 166,
+  "orgs": []
+}

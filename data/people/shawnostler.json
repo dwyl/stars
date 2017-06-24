@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/shawnostler",
+  "img": "https://avatars3.githubusercontent.com/u/58003?v=3&s=460",
+  "uid": 58003,
+  "repos": 9,
+  "stars": 327,
+  "followers": 4,
+  "following": 1,
+  "pinned": [
+    {
+      "url": "/shawnostler/jquery-idletimer"
+    },
+    {
+      "url": "/shawnostler/virgen-acl"
+    },
+    {
+      "url": "/shawnostler/kirstla.com"
+    },
+    {
+      "url": "/shawnostler/InclusiveFramework"
+    },
+    {
+      "url": "/shawnostler/nginx-multiple-hosts"
+    },
+    {
+      "url": "/shawnostler/prom-api"
+    }
+  ],
+  "worksfor": "Inclusive Development Company",
+  "location": "",
+  "fullname": "Shawn Ostler",
+  "website": "http://www.incdev.co",
+  "avatar": "https://avatars3.githubusercontent.com/u/58003?v=3&s=460",
+  "contribs": 4,
+  "orgs": []
+}

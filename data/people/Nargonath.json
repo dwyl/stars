@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/Nargonath",
+  "img": "https://avatars0.githubusercontent.com/u/583657?v=3&s=460",
+  "uid": 583657,
+  "repos": 7,
+  "stars": 39,
+  "followers": 3,
+  "following": 0,
+  "pinned": [
+    {
+      "url": "/Nargonath/node-jscs"
+    },
+    {
+      "url": "/Nargonath/hapijs.com"
+    },
+    {
+      "url": "/Nargonath/docker-reverse-proxy"
+    },
+    {
+      "url": "/Nargonath/angular-counter"
+    },
+    {
+      "url": "/Nargonath/angular-hot-loader"
+    },
+    {
+      "url": "/Nargonath/pub-meeting"
+    }
+  ],
+  "worksfor": "",
+  "location": "Lyon, France",
+  "fullname": "Jonas Pauthier",
+  "website": "",
+  "avatar": "https://avatars0.githubusercontent.com/u/583657?v=3&s=460",
+  "contribs": 157,
+  "orgs": [
+    {
+      "dixeed": "https://avatars3.githubusercontent.com/u/17181227?v=3&s=70"
+    }
+  ]
+}

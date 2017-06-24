@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/itamarhaber",
+  "img": "https://avatars1.githubusercontent.com/u/6059516?v=3&s=460",
+  "uid": 6059516,
+  "repos": 39,
+  "stars": 88,
+  "followers": 35,
+  "following": 16,
+  "pinned": [
+    {
+      "url": "/itamarhaber/redis-lua-scripts"
+    },
+    {
+      "url": "/itamarhaber/redis-rosetta-stone"
+    },
+    {
+      "url": "/itamarhaber/commissar"
+    },
+    {
+      "url": "/itamarhaber/free-for-dev"
+    },
+    {
+      "url": "/itamarhaber/redis-tdigest"
+    },
+    {
+      "url": "/itamarhaber/redis-tsdb"
+    }
+  ],
+  "worksfor": "@RedisLabs",
+  "location": "",
+  "fullname": "Itamar Haber",
+  "website": "https://twitter.com/itamarhaber",
+  "avatar": "https://avatars1.githubusercontent.com/u/6059516?v=3&s=460",
+  "contribs": 410,
+  "orgs": []
+}
