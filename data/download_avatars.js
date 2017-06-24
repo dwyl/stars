@@ -54,34 +54,3 @@ function download (uri, filename, callback){
     request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
   });
 };
-
-// download('https://www.google.com/images/srpr/logo3w.png', 'google.png', function(){
-//   // console.log('done');
-// });
-
-// // get list of people:
-// var people = fs.readFileSync(UNIQUE).toString().split('\n');
-// // console.log(people.length);
-// var obj = {};
-// people.forEach(function (p) {
-//   if(p.length > 0) {
-//     var u = p.split(',')[0];
-//     var profile = read_profile(u);
-//     if (profile && profile.uid) {
-//       obj[u] = profile.uid;
-//     }
-//   }
-// });
-// // console.log(obj, Object.keys(obj).length);
-// fs.writeFileSync(IDS, JSON.stringify(obj, null, 2));
-//
-// function read_profile (u) {
-//   try {
-//     var data = fs.readFileSync(path.resolve(PEOPLE_DIR, u + '.json')).toString();
-//     // console.log(data);
-//     return JSON.parse(data);
-//   } catch (e) {
-//     // console.log(e);
-//     return false;
-//   }
-// }

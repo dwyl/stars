@@ -18,6 +18,8 @@
     "unique": "node data/unique.js",
     "learners": "node data/unique_learners.js",
     "all": "npm run crawl && npm run combine && npm run unique",
+    "people": "node data/people.js",
+    "avatars": "node data/download_avatars.js",
     "seed": "node data/seed.js",
     "coverage": "PORT=8000 istanbul cover ./node_modules/tape/bin/tape ./test/*.test.js  | node_modules/tap-spec/bin/cmd.js",
     "fast": "PORT=8000 tape test/index.js test/**/*.test.js",
