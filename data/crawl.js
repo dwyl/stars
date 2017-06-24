@@ -102,7 +102,6 @@ function save_next_page(url) {
   }
 }
 
-
 function parse_file(filename) {
   var data = fs.readFileSync(filename).toString();
   return data.split('\n').map(function (row) {
@@ -112,7 +111,6 @@ function parse_file(filename) {
     }
   });
 }
-
 
 // write lines to file
 function write_lines(data) {
