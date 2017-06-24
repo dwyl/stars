@@ -5,7 +5,7 @@ var BASE_DIR = path.resolve('./', 'data') + '/';
 var DWYL_DIR = path.resolve(BASE_DIR, 'dwyl')
 var COMBINED = path.resolve(BASE_DIR, 'stargazers.csv');
 var UNIQUE = path.resolve(BASE_DIR, 'unique.csv');
-// fs.unlinkSync(UNIQUE) // delete the previous file before starting
+fs.unlinkSync(UNIQUE) // delete the previous file before starting
 
 fs.readFile(COMBINED, 'utf8', function (err, data) {
   var count = {};
