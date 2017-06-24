@@ -192,16 +192,56 @@ npm install && npm run local
 
 You should see something like this:
 
+![learners-random](https://user-images.githubusercontent.com/194400/27261393-2384514e-543a-11e7-9602-34a20873e26c.png)
 
-## Sorting the Profile Images by Color
+## Want to _Sort_ the Profile Images by Color
 
-
+Sorting the avatars by the color of the avatar requires a little "magic".
+We _first_ need to ***download*** all the profile images
+so that our script can "analyse" them.
 
 ### Step 1: Get Profiles for All People!
 
-### 
+Run this script (_and go for a walk/coffee_):
+```
+npm run people
+```
 
-### Step 3
+> **Note**: this will take about **50 minutes** to run
+because we don't want to "DDOS" GitHub with 6k requests at once
+(_and get our IP address blocked!!_)
+
+
+### Step 2: Download Profile Images
+
+Run this script and go for a quick bathroom break:
+```
+npm run people
+```
+> **Note**: this will take about **20 minutes** to run
+Again because we don't want to ***flood*** GitHub CDN with
+6k requests at once.
+
+### Step 3: Update the `faces.js`
+
+Fine the line that looks like this in `faces.js`:
+```
+// var img_base = '/data/img/';          // get avatar from localhost
+var img_base = 'https://avatars2.githubusercontent.com/u/';
+```
+comment out the github url and _un-comment_ the relative one.
+
+do the same thing again for the lines:
+```
+// var src = img_base + uid + '.jpg';    // get avatar from localhost
+var src = img_base + uid + '?v=3&s=200'; // GET images from GitHub
+```
+
+Now when you run `npm run local`,
+wait 60 seconds for the page to load all the images ...
+then once they are loaded they will be sorted into a rainbow!
+
+![learners-rainbow](https://user-images.githubusercontent.com/194400/27261400-3c47e27c-543a-11e7-8574-2b1cebd4fe10.png)
 
 <!-- ## Deployment
 
