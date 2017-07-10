@@ -87,7 +87,7 @@ https://github.com/feross?tab=stars&q=summer
 ![feross-starred-dwyl-summer](https://cloud.githubusercontent.com/assets/194400/21963386/ab524a90-db31-11e6-81c8-66c4b4b762e4.png)
 
 <!--
-### _So What...?_
+### _So What...?_
 
 We think it would be _interesting_ to _test_ the following ***hypothesis***: <br />
 
@@ -114,7 +114,7 @@ The answer is:
 See "how" section below for _exactly_ how this number is derived.
 
 
-## _How?_
+## _How?_
 
 How would _you_ go about tackling this challenge...?
 
@@ -200,7 +200,7 @@ Sorting the avatars by the color of the avatar requires a little "magic".
 We _first_ need to ***download*** all the profile images
 so that our script can "analyse" them.
 
-### Step 1: Get Profiles for All People!
+### Step 1: Get Profiles for All People!
 
 Run this script (_and go for a walk/coffee_):
 ```
